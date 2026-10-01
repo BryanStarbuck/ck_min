@@ -1,0 +1,56 @@
+id: '2084007515218493721'
+url: 'https://x.com/ChewingTheVoid/status/2084007515218493721'
+author:
+  username: 'ChewingTheVoid'
+  name: 'Chewing The Void'
+  id: '1975703276810080256'
+text: |
+  This clip has NEVER sat right with me.
+
+  Just moments after Charlie Kirk's death, Zee Cohen—the founder of the Unfuck America Tour—accidentally calls into Destiny's livestream.
+
+  The call was never meant to be public!
+
+  "Dude, we're fucked. We are so fucked."
+
+  Seconds later, they move the conversation to Discord and shortly afterward, the Unfuck America Tour website returns a 404/is wiped!
+
+  How is almost nobody talking about this?
+created_at: '2026-08-02T20:04:45.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 29
+  reply_count: 12
+  like_count: 110
+  quote_count: 1
+  bookmark_count: 42
+  impression_count: 8684
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2084007424222978049'
+      duration_ms: 31508
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2084007424222978049/img/wvLGrFEC7ZDgHWNM.jpg'
+      width: 1906
+      height: 1080
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2084007424222978049/vid/avc1/1906x1080/n4k1avRwoKV1DqoD.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images:
+    - type: photo
+      media_key: '3_2084007425271603200'
+      url: 'https://pbs.twimg.com/media/HOvhtjSXIAAPN8t.jpg'
+      width: 1402
+      height: 1122
+investigation: 'charlie_kirk'
+added_date: '2026-08-02'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+ocr_text: |
+  Wayback Machine comparison of unfuckamericatour.com. Left: September 9, 2025 — website loads normally, full homepage content visible, active branding and tour sign-up form, navigation menu and donate/shop links visible ("CHARLIE KIRK & THE FAR RIGHT — We're building a movement of students across America"). Right: September 10, 2025 at 19:55:06 — "404: Not Found. The page you're looking for couldn't be found." Website returns 404 error, no homepage content available, navigation menu and pages inaccessible, site appears to be down or removed. 120 captures spanning 5 Apr 2025 - 25 Mar 2026.
+video_ipfs_cid: 'QmZ6kyMhsLiByR3tfPY3aHMyvUshPgz5fuL3tLEuVvGY26'
+image_ipfs_cid: 'QmSfpqdwxncZ2dYajooGqWjuQtUgkNxaGqA2FGaRJwvWJK'

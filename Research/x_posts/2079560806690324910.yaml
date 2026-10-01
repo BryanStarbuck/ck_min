@@ -1,0 +1,55 @@
+id: '2079560806690324910'
+url: 'https://x.com/ArtifexMemor/status/2079560806690324910'
+author:
+  username: 'ArtifexMemor'
+  name: 'Artifex Memoriarum'
+  id: '1252326476554186752'
+text: |
+  This is what an American patriot looks like
+
+  God bless @joekent16jan19 🇺🇸
+
+  Glad we're fighting the same fight brother 💪 https://t.co/zOl1xTzuPK
+created_at: '2026-07-21T13:35:07.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 19
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 842
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079180634438647808'
+      duration_ms: 164791
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079180634438647808/img/wIOtS8Ll2d9hRlQa.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2079180634438647808/vid/avc1/1920x1080/T_Gkm9B9Xo7qIRhf.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+quoted_tweet:
+  id: '2079257528513499568'
+  author: '@juliandorey'
+  author_name: 'Julian Dorey'
+  created_at: '2026-07-20T17:30:00.000Z'
+  text: |
+    Joe Kent Addresses the Charlie Kirk Assassination STRANGENESS...
+
+    @joekent16jan19
+  public_metrics:
+    retweet_count: 277
+    reply_count: 46
+    like_count: 2054
+    quote_count: 11
+    bookmark_count: 346
+    impression_count: 45748
+investigation: 'charlie_kirk'
+added_date: '2026-07-21'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2079257528513499568'
+  quoted_status_url: 'https://x.com/juliandorey/status/2079257528513499568'
+  quoted_author: '@juliandorey'

@@ -1,0 +1,36 @@
+# Transcription directories
+to_transcribe/*.mp3
+to_transcribe/*.mp4
+to_transcribe/*.wav
+to_transcribe/*.m4a
+to_transcribe/*.ogg
+
+transcribed_out/*.txt
+transcribed_out/*.json
+
+# Keep directories but not their contents
+!to_transcribe/.gitkeep
+!transcribed_out/.gitkeep
+
+# Node modules (if any are added later)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

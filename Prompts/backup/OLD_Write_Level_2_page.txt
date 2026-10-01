@@ -1,0 +1,28 @@
+This will point to a "Level_2" directory.
+The goal is to process THIS_TASK_SPECIFIC_LEVEL_2, the specific "FBI" ( /charlie-kirk/docs/FBI/) Level_2 directory.   THIS_TASK_SPECIFIC_LEVEL_2 = /FBI/.
+
+
+When processing this, process the Level_2 directory which are directories under: /charlie-kirk/docs/.  
+* An example Level_2 directory is the /charlie-kirk/docs/Charlie/ directory.
+* An example Level_2 overview markdown wiki page is the /charlie-kirk/docs/Charlie/overview.md
+
+Level_3 are wiki markdown pages in a Level_2 directory.
+* These are all markdown (wiki files) under a Level_2 directory except for "overview.md"
+
+
+Find this WIKI directory:
+* It probably is in ~/Dropbox/Code/act3/charlie-kirk/docs/
+* It may be in another directory. But the last directory structure should be: /charlie-kirk/docs/
+
+* The top level the main top level wiki page /charlie-kirk/docs/charlie-kirk.md. This includes the links to the LEVEL_2 wiki pages, and some level 3 wiki pages.
+
+The work in this task is to:
+1) Focus on the directory: THIS_TASK_SPECIFIC_LEVEL_2
+2) The overview.md for this LEVEL_2 should have links to least 4 paragraphs or 800 words (at least) that describes this one sub-section of the Charlie Kirk assassination citizen's investigation on the truth.  The writing on this page should cover this subportion. 
+3) It can and should include links to peer LEVEL_2 topics.
+4) Do NOT remove any writing that is already in this page. You can add more, but don't change any wording that already exists.
+5) Include links to level 3 wiki files in this LEVEL_2 directory (that aren't overview.md)
+6) If there are sub-directories under this LEVEL_2 directory, then include a link to each markdown file in those directories. 
+7) When creating a link, you can create appropate link text, the link, in the normal markdown way. It is often in numbered lists on the page, where one item in the numbered list includes a link to the target destination. There can be words before and after the link if that gives context. But there doesn't have to be words before and or after it.  Make it match how wikipedia writes articles.
+8) All information @FULL_WRITE_UP.md (~/Dropbox/Code/act3/charlie-kirk/Research/FULL_WRITE_UP.md) has information. Use that information. Write information in the wiki markdown page for Level 2 that is logically and factually compatible with the information in FULL_WRITE_UP.md.
+

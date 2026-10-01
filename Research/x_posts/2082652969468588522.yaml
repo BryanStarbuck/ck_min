@@ -1,0 +1,44 @@
+id: '2082652969468588522'
+url: 'https://x.com/CharlotteLee_88/status/2082652969468588522'
+author:
+  username: 'CharlotteLee_88'
+  name: 'Charliesangels47'
+  id: '2006195421312401409'
+text: |
+  🚨🚨 New video clip found on Instagram from Sierra Henderson.   See what you can make out! 🚨🚨
+
+  Taken 11:24 a.m. Sept 10. Posted September 11th, had very few views. https://t.co/ihC34mqgpX
+created_at: '2026-07-30T02:22:16.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 64
+  reply_count: 36
+  like_count: 551
+  quote_count: 3
+  bookmark_count: 369
+  impression_count: 89604
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2082652933141753856'
+      duration_ms: 36591
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2082652933141753856/img/mXDp1FAno7GwqQv1.jpg'
+      width: 882
+      height: 566
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2082652933141753856/vid/avc1/882x566/f5JyZ5oOKlHn-cYV.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+local_video: '~/BGit/Bryan_git/charlie-kirk/videos/2082652969468588522.mp4'
+ipfs_cid: 'Qmb7vHkne9g3JycNF6Tu1FU3STuAdXfjSw3LSR459qkGUh'
+sha256: '2f37eda8957a8c21886896cb43d582ac9dcc737333e8c30d17515f4894a3e70e'
+transcription_file: '~/BGit/Bryan_git/charlie-kirk/videos_transcription/2082652969468588522.md'
+site_page: 'site/docs/Videos/Vid_UVU_Venue/Vid_Raw_Angle_Variants/Vid_Elevated_View_Uvu_Plaza_3LSR459.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

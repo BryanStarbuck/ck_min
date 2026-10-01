@@ -1,0 +1,13 @@
+{
+  "_generated_by": "tools/sync_right_bar.py — do not hand-edit; edit right_bar.txt and re-run",
+  "lead": "The goal here is for you, as assistant investigator, to review what other assistant investigators have worked to find.",
+  "body": [
+    "The government is blocking all requests for information, even when FOIA requests and GRAMA requests (Utah's equivalent) say the information should be returned. Including from non-law enforcement places like UVU University and basic information.",
+    "In the face of the government hiding information needed to investigate. Citizen investigators are doing the best they can to investigate.",
+    "The goal is you can see their work.",
+    "They may not be perfect at times. The goal is for you to be able to review it and see if you can make any improvements or additional breakthroughs, or if you find anything that they're doing that's incorrect, you can have an outlet to communicate that."
+  ],
+  "action": "We work to keep this accurate. But if you find anything that's incorrect, please report it and let us know why it's inaccurate, and we will remove it if our double-check confirms it is inaccurate.",
+  "email_label": "Email me at:",
+  "email": "HolonCitizen@gmail.com"
+}

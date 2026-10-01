@@ -1,0 +1,6 @@
+Create the topic pages. The topic pages each directory  under ~/Dropbox/Code/act3/charlie-kirk/docs/Topics3/.
+* Update the overview.md under each of those directories.
+* These are the topic areas under the overview of this investigation. Build the content in this one overview.md based on the portion of this investigation based on the Goal: text in that file's overview.md.
+* Include the links to the wiki pages that will be below this.
+* Include write-up for this area that maps to this overview.md page.
+* Update the links in the top document in ~/Dropbox/Code/act3/charlie-kirk/docs/charlie-kirk.md so they go to these second level topics.

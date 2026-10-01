@@ -1,0 +1,33 @@
+id: '2070163736858694089'
+url: 'https://x.com/MuppetMasher/status/2070163736858694089'
+author:
+  username: 'MuppetMasher'
+  name: 'Muppet Masher'
+  id: '1586238206533865474'
+text: |
+  Has anyone ever noticed the buildings on either side of where they believe the suspect in Charlie's murder dropped his gun?
+  Has anyone ever noticed the official statement has the "suspect" parking his car at UVU at 8:29am but they never mentioned when he was seen leaving that parking lot?
+  Guess that's convenient.
+  Surely they have his phone pinging every cell tower he drives by or walks close to.
+  Why is his timeline so sketchy when they have the technology to track his every footstep. Guess that's just convenient??
+created_at: '2026-06-25T15:14:31.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 22
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 402
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2070163733926846464'
+      url: 'https://pbs.twimg.com/media/HLqy8qObIAAOIbK.jpg'
+      width: 720
+      height: 525
+      ipfs_cid: 'QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ'
+investigation: 'charlie_kirk'
+added_date: '2026-06-25'
+temp_file: false

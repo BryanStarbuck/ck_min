@@ -1,0 +1,46 @@
+id: '2077994177216827578'
+url: 'https://x.com/shiloheffort/status/2077994177216827578'
+author:
+  username: 'shiloheffort'
+  name: 'shiloh.mp4_'
+  id: '708907636553609216'
+text: |
+  (Post text is only a t.co media link; the post is two reposted video clips.)
+created_at: '2026-07-17T05:49:53.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 5
+  reply_count: 3
+  like_count: 29
+  quote_count: 0
+  bookmark_count: 11
+  impression_count: 2271
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2070610570676490240'
+      duration_ms: 19690
+      width: 576
+      height: 1024
+      local_file: 'videos/2077994177216827578_1.mp4'
+      ipfs_cid: 'QmRYqnrzozjGsYogb4uBk8LmckKS2xw9E2oXoqt5BK2Yt4'
+    - type: video
+      media_key: '13_2070610595632566272'
+      duration_ms: 104791
+      width: 1920
+      height: 1080
+      local_file: 'videos/2077994177216827578_2.mp4'
+      ipfs_cid: 'QmPPpsUN2QDQKFj283cfSX5RucawSLvgB1qvP4K8cxn1T7'
+media_from_reposted_status:
+  source_status_id: '2070610719456829597'
+  source_author: '@SH4D0W_M4TR1X'
+investigation: 'charlie_kirk'
+added_date: '2026-07-17'
+temp_file: false
+note: |
+  Two video clips reposted by @shiloheffort, originally from @SH4D0W_M4TR1X.
+  Cited in commentary raising a NON-ACCUSATORY question about Hunter Kozak's
+  on-camera hand gestures before and during the shooting. Hunter Kozak is a
+  living person who was questioned by the FBI and cleared; major outlets and
+  law enforcement treat his reaction as a genuine startle/shock response. No
+  wrongdoing is asserted. Handled under strict defamation-safe framing.

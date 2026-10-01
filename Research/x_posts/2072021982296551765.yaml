@@ -1,0 +1,35 @@
+id: '2072021982296551765'
+url: 'https://x.com/IGraceAshford/status/2072021982296551765'
+author:
+  username: 'IGraceAshford'
+  name: 'Grace Ashford'
+  id: '1990084177988063232'
+text: |
+  🚨 Tyler Robinson is being framed as the shooter in the Charlie Kirk assassination.
+
+  Baron Coleman says he has bulletproof evidence of a multi-agency cover-up behind the frame job.
+created_at: '2026-06-30T18:18:31.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 10
+  reply_count: 4
+  like_count: 54
+  quote_count: 1
+  bookmark_count: 4
+  impression_count: 1530
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2072021688225558528'
+      duration_ms: 58768
+      width: 854
+      height: 480
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2072021688225558528/img/GnUD1155u20eLhQH.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2072021688225558528/vid/avc1/854x480/fGyCXFSttrwv9HnL.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-06-30'
+temp_file: false

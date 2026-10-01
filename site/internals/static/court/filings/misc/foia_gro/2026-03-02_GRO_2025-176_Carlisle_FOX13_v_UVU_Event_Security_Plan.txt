@@ -1,0 +1,293 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2025-176
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 140196 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+NATE CARLISLE, Petitioner, v.
+
+UTAH VALLEY UNIVERSITY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2025-176
+
+By this appeal, Petitioner, Nate Carlisle, a reporter for KSTU-TV, Fox 13 Utah News, seeks access to records held by Respondent, Utah Valley University ("UVU").
+
+BACKGROUND
+
+On September 11, 2025, Mr. Carlisle submitted a record request under the Government Records Access and Management Act ("GRAMA") to UVU. Mr. Carlisle requested a "copy of any security plan for the Charlie Kirk or Turning Point USA event on campus on September 10, 2025." The request stems from an event at UVU during which Mr. Kirk died from a gunshot wound.
+
+On October 20, 2025, the UVU Records Officer denied Mr. Carlisle's request, stating that the requested records are not subject to GRAMA pursuant to Utah Code § 63G-2-106, which excludes records regarding security measures (including security plans). Alternatively, UVU argued the records are protected non-public records under Utah Code § 63G-2-305(10)(a-c) because they relate to ongoing investigations and their release could reasonably be expected to interfere with enforcement proceedings and the right to a fair trial.
+
+In a letter dated October 28, 2025, Mr. Carlisle appealed the denial to UVU Vice President, Val Peterson. Mr. Carlisle argued that UVU applied the security records exemption in an "overly broad" manner, arguing that security plans for a concluded event are historical and no longer represent an ongoing security measure. He further argued that UVU failed to consider segregating non-exempt information, that the justification for the enforcement exemption was speculative, and that the public has a significant interest in transparency regarding campus security and the use of taxpayer funds.
+
+In a response dated November 11, 2025, Vice President Peterson denied Mr. Carlisle's appeal. Mr. Peterson acknowledged the "tremendous public interest associated with this event" but asserted that the plain text of Utah Code § 63G-2-106 expressly excludes "security plans" without any temporal limitation restricting the exemption to only future or ongoing events. Mr. Peterson further maintained that revealing tactical information, vulnerabilities, and response protocols could compromise future protective efforts. Finally, Mr. Peterson upheld the alternative classification of the records as protected under § 63G-2-305(10), as well as § 63G-2-305(11) and (12) (jeopardy to life, safety, and property).
+
+Mr. Carlisle filed an appeal of this decision with the Government Records Office ("Office") on December 9, 2025. After filing of the appeal, Tyler Robinson--the individual charged with aggravated murder in the death of Mr. Kirk--and Utah County (the prosecuting agency) filed requests to intervene, arguing that disclosure would jeopardize the ongoing capital murder investigation and Mr. Robinson's constitutional rights to a fair trial. Despite objections from Petitioner, the Director granted both interventions on January 29, 2026.
+
+On February 19, 2026, the Director held a public hearing where Mr. Carlisle, UVU, and both Intervenors were permitted to present their evidence and arguments. UVU declined to submit the responsive records for in camera review, arguing that because the records are completely exempt from GRAMA under § 63G-2-106, the Director lacks subject matter jurisdiction to review them. After carefully considering the parties' presentations and the applicable law, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. GRAMA specifies that a "record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). Records that are designated as "private," "protected," or "controlled," are not public. See Utah Code §§ 63G-2-201(3)(a), -302, -303, -304 and -305. Records to which access is restricted pursuant to another state statute, are not public records. Utah Code § 63G-2-201(3)(b).
+
+2. Under Utah Code § 63G-2-106(1), records of a governmental entity regarding "security measures designed for the protection of persons or property, public or private, are not subject to [GRAMA]". The statute explicitly lists "security plans" as records regarding security measures. Utah Code § 63G-2-106(2)(a).
+
+3. Petitioner argues that because the Turning Point event has concluded, the security plans are "historical" and no longer serve a protective function, asserting that the legislature only intended to exclude "ongoing" security measures. However, the Director finds UVU's statutory interpretation persuasive. Utah Code § 63G-2-106 contains no language imposing a temporal limitation on "security plans". Where the legislature intended to limit exemptions to "ongoing" security measures--such as with building and public works designs under § 63G-2-106(2)(f)--it did so explicitly. No such limitation exists for security plans. Furthermore, releasing tactical plans, coordination logs, and response protocols, even for a past event, exposes ongoing security methodologies and vulnerabilities.
+
+4. Because Petitioner specifically requested a "security plan," the responsive records are not subject to GRAMA at all. Consequently, the Director lacks subject matter jurisdiction to compel UVU to submit the records for in camera review, to mandate redaction or segregation of the records, or to apply the public interest balancing test found in Utah Code § 63G-2-403(11)(b).
+
+5. Additionally, even if these "security plans" were found to be subject to GRAMA, they would be properly classified as non-public, protected records under Utah Code § 63G-2-305(10)(a-c), which protects records created or maintained for enforcement purposes if their release reasonably could be expected to interfere with investigations, enforcement proceedings, or create a danger of depriving a person of a right to a fair trial.
+
+6. The Director notes that there is an active, ongoing capital prosecution against Tyler Robinson involving federal, state, and local agencies. As the district court in Mr. Robinson's criminal proceeding noted, the media interest in this case is "unprecedented in the State of Utah". The Intervenors persuasively argued that releasing internal security documents prior to the conclusion of discovery and evidentiary rulings in the criminal trial poses a severe risk of prejudicing the jury pool and interfering with the defendant's constitutional right to a fair trial. While Mr. Carlisle argues this risk is speculative, given the heightened standard of evidentiary reliability required under the Eighth Amendment in capital cases, and the substantial potential for interference at this early stage of the investigation and prosecution, protection of these records is justified.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner, Nate Carlisle, is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 2nd day of March 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

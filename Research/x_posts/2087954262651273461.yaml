@@ -1,0 +1,32 @@
+id: '2087954262651273461'
+url: 'https://x.com/shiloheffort/status/2087954262651273461'
+author:
+  username: 'shiloheffort'
+  name: 'shiloh.mp4_'
+  id: '708907636553609216'
+text: |
+  (no text — video only)
+created_at: '2026-08-13T17:27:43.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 8
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 830
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2087954169944530944'
+      duration_ms: 51800
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2087954169944530944/img/LjU_t9U7G1_dL3br.jpg'
+      width: 720
+      height: 1280
+  images: []
+ipfs_cid: 'QmWyfhCMygaZ1Lz9JBTPh6b1zSuw744Bmccanv2qwMootj'
+sha256: '86873616a87f4ef5515d3fadde60596c32b8938882d824172880c70af65261db'
+site_page: 'site/docs/distraction_people/Outer_TikTok_Streamer.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-13'
+temp_file: false

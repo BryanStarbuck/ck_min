@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Aircraft and Flight Evidence",
+    "key": "Aircraft",
+    "members": ["Spy_Plane", "Planes", "Plane_Egypt_SU_BTT", "Plane_Piper_N59906", "Plane_N888KG", "Old/Airplane_1", "Egypt", "Drone", "Romania", "Wilmington"]
+  },
+  {
+    "title": "Tyler Robinson",
+    "key": "Tyler_Robinson",
+    "members": ["Tyler_Robinson", "Not_30_06_Tyler", "Girlfriend", "Arrested", "Dairy_Queen"]
+  },
+  {
+    "title": "The Table and Charlie",
+    "key": "Table_And_Charlie",
+    "members": ["Table_Hand_off"]
+  },
+  {
+    "title": "Google Search Evidence",
+    "key": "Google_Search",
+    "members": ["Google_Search"]
+  },
+  {
+    "title": "Ballistics and the Gun",
+    "key": "Ballistics_Gun",
+    "members": ["Ballistics", "Acoustics_Ballistics", "Bullet", "Enter_Exit_bullet", "Gun", "2_Cause_of_Death"]
+  },
+  {
+    "title": "The Shot and the Shooter Position",
+    "key": "Shot_Position",
+    "members": ["South_Side_Shot", "Sniper", "X_Shooter", "Roof", "After_Shooting"]
+  },
+  {
+    "title": "CIA and US Intelligence",
+    "key": "CIA_Intelligence",
+    "members": ["CIA", "MKUltra", "Huachuca_Fort", "Military_US", "Trump_Controlled"]
+  },
+  {
+    "title": "The Truck and Back of Tent",
+    "key": "Truck_Tent",
+    "members": ["Truck_and_Back_of_Tent"]
+  },
+  {
+    "title": "The Microphone",
+    "key": "Mic",
+    "members": ["Mic"]
+  },
+  {
+    "title": "Israel and Mossad",
+    "key": "Israel",
+    "members": ["Israel", "Israel_150m"]
+  },
+  {
+    "title": "People of the Investigation",
+    "key": "People",
+    "members": ["People", "Other/Skyler_Baird", "Zach_Qureshi", "Suspects", "Witnesses"]
+  },
+  {
+    "title": "Patsy Candidates",
+    "key": "Patsy",
+    "members": ["Patsy_George_Zinn", "Patsy_Fake_Doctor", "Patsy_Curly_Wave_Hands", "Patsy_Russell_Kennington", "Patsy_Sorenson_Building", "Patsy_Gun_Medical_Clothing", "Pellet_Gun_Guy", "Fance"]
+  },
+  {
+    "title": "Court and Legal Proceedings",
+    "key": "Court_Legal",
+    "members": ["Court", "Law_Fare", "Laws_Bad"]
+  },
+  {
+    "title": "Charlie Kirk Himself",
+    "key": "Charlie_Kirk",
+    "members": ["Charlie_Kirk", "Autopsy", "Medical", "To_Hospital"]
+  },
+  {
+    "title": "Maps and Site Geometry",
+    "key": "Maps",
+    "members": ["Map"]
+  },
+  {
+    "title": "The UVU Venue",
+    "key": "UVU_Venue",
+    "members": ["UVU_University", "Tent_Grass", "Teachers_Lounge", "Utah"]
+  },
+  {
+    "title": "Security Team",
+    "key": "Security_Team",
+    "members": ["Security_Team"]
+  },
+  {
+    "title": "TPUSA",
+    "key": "TPUSA",
+    "members": ["TPUSA"]
+  },
+  {
+    "title": "FBI Conduct and Cover Up",
+    "key": "FBI_CoverUp",
+    "members": ["FBI", "Cover_Up", "Censorship", "Blocking", "Threats"]
+  },
+  {
+    "title": "Memes and Commentary",
+    "key": "MEMEs",
+    "members": ["MEMEs"]
+  },
+  {
+    "title": "Unfiled Backlog",
+    "key": "Unfiled_Backlog",
+    "members": ["__TO_FILE", "Other", "Photos", "Organized", "Old", "video", "Early", "."]
+  }
+]

@@ -1,0 +1,50 @@
+id: '2083095317038215206'
+url: 'https://x.com/MarioNawfal/status/2083095317038215206'
+author:
+  username: 'MarioNawfal'
+  name: 'Mario Nawfal'
+  id: '1319287761048723458'
+text: |
+  🇺🇸 Candace: Patients were removed from the hospital Charlie Kirk was taken to hours BEFORE he was shot
+
+  "Over two hours before Charlie was shot, the Timpanogos Hospital staff directed everyone who was in the emergency room into a different wing of the hospital.
+
+  Then, after some time, at approximately 1130 a.m, patients were informed that they would be transferred aboard shuttles to Intermountain Hospital; that's Utah Valley Hospital, and that's what happened.
+
+  All of the emergency room patients and all of their files were then transferred to Intermountain.
+
+  So there's effectively no trail outside of hospital cameras, which have been conveniently seized by Kash Patel's office, of these patients ever having been at Timpanogos Hospital."
+
+  Source: @RealCandaceO / Writer: Ian
+created_at: '2026-07-31T07:40:00.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 244
+  reply_count: 123
+  like_count: 1116
+  quote_count: 13
+  bookmark_count: 105
+  impression_count: 71580
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2082974845760057344'
+      duration_ms: 152405
+      width: 2356
+      height: 1320
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2082974845760057344/img/kFYFXzHoSI6pgR3G.jpg'
+      local_file: 'videos/2083095317038215206.mp4'
+      ipfs_cid: 'QmccK17Zbc1365LesVBjy48S7tuL7KzFinxoiZB8qwUBGH'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2082975108042563665'
+  quoted_status_url: 'https://x.com/ArtifexMemor/status/2082975108042563665'
+  quoted_author: '@ArtifexMemor'
+transcription_file: 'videos_transcription/2083095317038215206.md'
+site_pages:
+  - 'site/docs/Medical/overview.mdx'
+  - 'site/docs/Medical/timpanogos_er_cleared_before_shooting.mdx'
+  - 'site/docs/Medical/patients_moved_to_another_hospital.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false

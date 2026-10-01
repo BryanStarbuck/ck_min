@@ -1,0 +1,47 @@
+id: '2087396047064625425'
+url: 'https://x.com/DiligentDenizen/status/2087396047064625425'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen'
+  id: '1585809424135995392'
+text: |
+  Here's EXACTLY where they found Tyler Robinson's rifle later that day.
+created_at: '2026-08-12T04:29:34.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 21
+  reply_count: 6
+  like_count: 116
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 5154
+parent_post:
+  id: '2087393163778347089'
+  url: 'https://x.com/DiligentDenizen/status/2087393163778347089'
+  text: |
+    Morning of 9/10/25 before Charlie Kirk's assassination, a WHITE KIA SOUL ODDLY turned
+    around EXACTLY WHERE THE MVRD3R weapon was found.
+    On 11/4/25 I went to Lance TWIGGS' HOUSE to try and interview them and there was a
+    WHITE KIA SOUL parked there.
+    Hat tip @baroncoleman
+  public_metrics:
+    like_count: 2152
+    retweet_count: 511
+    impression_count: 53995
+attachments:
+  videos: []
+  images:
+    - filename: '2087396047064625425_1.jpg'
+      sha256: 'cf101dbe1b6d8c6d77739cf08f7be4b62c25697e58bf0c826234ea6ac3769eb6'
+      ipfs_cid: 'QmXtwWYk5VGM4ncuyDAggBNn4xJ3bgwZUJWANKB9ytM2EA'
+      width: 986
+      height: 738
+    - filename: '2087393163778347089_1.jpg'
+      sha256: '7b4c728e80bbaf643e200e73ec79c0cdd6dcdd5be0a4109dcfbd207a008b1ee8'
+      ipfs_cid: 'QmS9woKH5V77rrLxSbJU81AWsXxGofhvLfMRrRkCXsvMgo'
+      width: 986
+      height: 738
+site_page: 'site/docs/Gun_Bullet/Rifle_Site_Kia_Soul_Turnaround.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-12'
+temp_file: false

@@ -1,0 +1,14 @@
+MISLABELED SOURCE FILES -> CONFIRMED GAPS
+Two files in the inherited local set were byte-identical copies of a DIFFERENT document
+saved under the wrong docket-entry name. The named documents are therefore NOT held.
+
+* 2025-10-24 "Updated Request And Order For Electronic Media Coverage Of Court Proceedings"
+  The file bearing this name was a byte-identical copy of the 2025-10-23 KUTV request
+  (Delilah Candelaria, KUTV, submitted Oct 23 2025 11:24 AM). Mislabeled copy deleted.
+  STATUS: NOT HELD.
+
+* 2026-03-11 "Request For Electronic Coverage Of Court Proceedings"
+  The file bearing this name was a byte-identical copy of the 2026-03-11 Notice Of
+  Restitution Claim (Utah Office for Victims of Crime, UOVC Claim 1113572, victim
+  Olivia Hobbs, notice dated March 4 2026). Mislabeled copy deleted.
+  STATUS: NOT HELD.

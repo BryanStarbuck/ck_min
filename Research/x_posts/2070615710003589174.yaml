@@ -1,0 +1,33 @@
+id: '2070615710003589174'
+url: 'https://x.com/DiligentDenizen/status/2070615710003589174?s=20'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen'
+  id: '1585809424135995392'
+text: |
+  ‼️🇺🇸: @RealCandaceO drops new photos from Charlie Kirk assassination that reveals apparent shattered tempered glass (like from a RODE microphone) all over the floor of the SUV that carried him to the hospital 👀
+
+  TPUSA hasn't addressed this anomaly
+
+  How'd that glass get there? 🤔
+created_at: '2026-06-26T21:10:30.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 90
+  reply_count: 38
+  like_count: 461
+  quote_count: 3
+  bookmark_count: 43
+  impression_count: 14696
+attachments:
+  videos:
+    - type: video
+      media_key: '7_2070615695231225856'
+      duration_ms: 12181
+      preview_image_url: 'https://pbs.twimg.com/ext_tw_video_thumb/2070615695231225856/pu/img/1XVr7PACwFq1WrYG.jpg'
+      ipfs_cid: 'QmQ8y9mRxxJfGq8VgGb3LN2aet5MnHnAzLpHaoDobDWeLs'
+      transcript: 'none — no spoken audio'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-06-26'
+temp_file: false

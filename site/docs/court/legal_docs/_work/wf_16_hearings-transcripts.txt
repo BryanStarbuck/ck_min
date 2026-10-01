@@ -1,0 +1,68 @@
+DOWNLOAD COMPLETE — 39 files kept, 21.6 MB.
+DEST: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/hearings-transcripts-video/
+LOG:  /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_hearings-transcripts-video.txt
+
+================================================================
+FILES KEPT (byte counts are exactly what ls -l reported)
+================================================================
+
+PDFs — 9. All verified: head -c 5 == "%PDF-", `file` reports a real PDF, page count and text extraction confirmed.
+
+  2,095,616  2026-07-09_Official_Certified_Transcript_Preliminary_Hearing_Day_4.pdf
+             278 pp, 85,165 words, md5 7f0b9a86d41f7a2b0ab093118fcb1ec4. THE OFFICIAL CERTIFIED transcript. Cover verified: Fourth Judicial District Court - Provo, PRELIMINARY HEARING - DAY FOUR, JULY 9 2026, reporter Phoebe S. Moorhead / Noteworthy Reporting LLC.
+  1,001,766  2026-07-10_Official_Certified_Transcript_Preliminary_Hearing_Day_5.pdf
+             97 pp, 31,109 words, md5 a1b9fb730b2d160a26525ccec654f362. Same caption, DAY FIVE, JULY 10 2026.
+  1,060,521  2025-10-24_Redacted_Transcript_Sealed_Motion_Hearing_TEXT_foxnews.pdf
+             97 pp, 34,048 words, md5 ee03f6b9f1e745497a6e22b8563c6e17. The searchable text-layer copy of the redacted 24 Oct 2025 SEALED MOTION HEARING.
+  1,060,521  2025-10-24_Redacted_Transcript_Sealed_Motion_Hearing_TEXT_substack_mirror.pdf
+             md5 ee03f6b9f1e745497a6e22b8563c6e17 — I confirmed BYTE-IDENTICAL to the Fox copy. Kept deliberately: two independent hosts, neither behind a login.
+ 14,428,416  2025-10-24_Redacted_Transcript_Sealed_Motion_Hearing_SCAN_deseret.pdf
+             97 pp, md5 d846b58efbf9dd9b10551fbc6da9d8e6, ZERO extractable words (confirmed by pdftotext). A DIFFERENT ARTIFACT, not a duplicate — the scan that shows where the redaction boxes physically sit.
+    415,727  2025-12-24_Ruling_And_Order_Re_Stipulated_Motion_To_Classify_Transcript_And_Audio_As_Private_Graf.pdf
+             6 pp, md5 1b24f84ad575d433dbd4aae2b3b835f7. This is intake item 14, which arrived UNIDENTIFIED — see the finding below. Renamed after OCR; PDF bytes untouched (md5 re-verified after rename).
+     13,988  2025-12-24_..._Graf.ocr.txt — OCR sidecar for the above.
+    214,446  2025-11-05_States_Motion_To_Amend_Or_Clarify_Pretrial_Publicity_Order_Dkt23.pdf
+             9 pp, 2,754 words, md5 e4e4cb0e8e0f223472b40c8d3f06737e. Likely duplicates a filing already held — compare md5 before filing.
+    119,735  2025-07-01_Utah_Approved_Court_Reporters_Capital_Case_List.pdf  (53 words is correct — it is a two-entry list; Noteworthy Reporting / Katie Harmon confirmed in the text)
+    166,219  2026-02-03_Utah_Approved_Court_Transcribers_List.pdf  (4 pp, 547 words)
+
+Rev.com transcripts saved as text — 6. All HTTP 200, free, no login, no dollar figure on any page.
+
+    321,216  2026-07-06_Rev_Transcript_Preliminary_Hearing_Day_1.txt  53,865 w · 2,684 ts · last 07:46:52
+    317,194  2026-07-07_Rev_Transcript_Preliminary_Hearing_Day_2.txt  52,910 w · 2,344 ts · last 08:14:51
+    127,383  2026-07-08_Rev_Transcript_Preliminary_Hearing_Day_3.txt  21,712 w ·   690 ts · last 03:30:58
+    306,452  2026-07-09_Rev_Transcript_Preliminary_Hearing_Day_4.txt  51,115 w · 2,288 ts · last 08:23:59
+    102,039  2026-07-10_Rev_Transcript_Preliminary_Hearing_Day_5.txt  16,827 w ·   614 ts · last 02:39:06
+     37,361  2026-00-00_Rev_Transcript_Tyler_Robinson_Contempt_Hearing_excerpt.txt  5,801 w · 72 ts · last 55:28
+
+Web pages saved as readable .txt — 23 (Burkhart ×3 + the extracted 25-URL handoff list; Utah Courts ×5; KSL ×5; Deseret ×2; Fox ×2; CNN/NBC/Herald Extra; Rumble page metadata; and the video inventory).
+
+================================================================
+FAILURES — 4, with the exact reason
+================================================================
+
+1. Deseret News LIVEBLOG (item 41) — https://www.deseret.com/utah/2026/07/06/live-coverage-tyler-robinson-murder-trial-preliminary-hearing/ — HTTP 200, 187,317 bytes, but the liveblog body IS NOT IN THE SERVED HTML. Extraction yielded 529 words that are entirely site navigation and footer plus one headline. Confirmed three ways: no `__NEXT_DATA__`, no `LiveBlogPosting`, and the page's one ld+json is a NewsArticle with NO articleBody. The `/amp/` variant is HTTP 404. I wrote the 3,739-byte stub and then DELETED it rather than poison the archive. Client-rendered — NEEDS A HUMAN or a real browser. This was the intake's "best partial transcript outside Rev", so it is the one gap worth chasing.
+
+2. PBS NewsHour (item 44) — HTTP 202 with a 1,995-byte AWS WAF JavaScript challenge (`window.awsWafCookieDomainList`, `window.gokuProps`). Retried with the full browser header set (Accept, Accept-Language, Sec-Fetch-*, Upgrade-Insecure-Requests): identical 202 / 1,995 bytes. Bot-blocked, not gone. NEEDS A HUMAN. Low loss — NBC and CNN cover the same story and both were captured.
+
+3. Court TV tag archive (item 46) — https://www.courttv.com/tag/tyler-robinson/ — HTTP 403 (5,740-byte block page), and HTTP 403 with ZERO bytes on the full-header retry. NEEDS A HUMAN. Low loss — the Court TV YouTube playlist is the same video set and I verified it reachable (HTTP 200, 1,062,002 bytes, all 20 video IDs confirmed).
+
+4. Rumble (item 45) — HTTP 200 but the page says verbatim "Premium Only Content / This video is only available to Rumble Premium subscribers." No account or purchase attempted. NEEDS A HUMAN WITH A SUBSCRIPTION; low value (commentary/recap, not a pool feed).
+
+================================================================
+FOUR THINGS THE INTAKE NOTE GOT WRONG OR LEFT OPEN
+================================================================
+
+* ITEM 22 HAD NOT HAPPENED. The closing-arguments video (K-G7UZ-Fmfo) is not a 31 Aug event. Its watch page carries `"isLiveNow":false, "startTimestamp":"2026-09-01T16:00:00+00:00"`, `"isUpcoming":true`, and yt-dlp said "This live event will begin in 16 hours." That is 10:00 a.m. MDT on 1 SEPTEMBER 2026 — matching the Daily Herald and the Utah Courts notice. It was merely *published* as a scheduled premiere on 31 Aug. Still the highest-priority capture; capture it on or after 1 Sep 16:00 UTC.
+
+* ITEM 14 IS IDENTIFIED. OCR shows it is Judge Graf's **RULING AND ORDER RE STIPULATED MOTION TO CLASSIFY TRANSCRIPT AND AUDIO AS PRIVATE**, dated 24 Dec 2025, certificate 12/29/2025 (clerk Treena Hansen), citing Dkt. 152 / 172 / 209. More useful than "the release order": it GRANTS the security redactions but DENIES redaction at 35:16-17 and 80:22-25 ("Privacy interests do not outweigh the public interest in this case") and DENIES the four fair-trial redactions at 55:2-7, 60:24-25, 61:1-6 and 61:13-14, and 64:11-17 as moot under *State v. Allgier*. Also orders the audio unsealed only long enough for the clerk to timestamp the redacted passages, then resealed. Note: **ocrmypdf refused the file — "Input PDF has a digital signature"** — so the PDF was left untouched and I rasterised to PNG + tesseract outside the repo instead.
+
+* THE "NO CAPTIONS" FINDING IS WRONG, AND THE ROUTE IS OPEN. Every one of the 11 primary hearing videos carries a real English ASR track — e.g. Ws3jBiVuh5U (the 4h34m49s contempt evidentiary hearing, the one proceeding with no transcript anywhere) has `"name":{"simpleText":"English (auto-generated)"},"kind":"asr"`. yt-dlp's "has no automatic captions" was it being blocked ("The page needs to be reloaded"), not a fact about the video. I could not pull them: `youtube.com/api/timedtext` returned **HTTP 429** on every attempt and every format, still 429 after a 90-second pause — per-IP rate limiting earned by my own yt-dlp probing minutes earlier. No junk file written. The four-step recipe is in the video inventory; run it from a cold IP, one video at a time, without running yt-dlp against the channel first.
+
+* A REAL EXTRACTION BUG, recorded so it is not repeated: each Rev.com page contains SEVERAL sibling `<div id="main-content">` blocks (duplicate ids). A naive "find the div, walk to its close" extractor silently captures only the first — my first pass produced a plausible-looking 8,518 words for Day 1 instead of 53,865. All six files are the corrected extraction, and completeness was proven by matching timestamp COUNT and LAST TIMESTAMP to the intake exactly (2,684/07:46:52, 2,344/08:14:51, 690/03:30:58, 2,288/08:23:59, 614/02:39:06, 72/55:28). My word counts run ~10% below the intake's on every file while timestamps match to the unit — a tokenising difference, not missing content.
+
+================================================================
+HANDOFFS
+================================================================
+* All 25 search-warrant affidavit PDF URLs parsed out of the Burkhart page HTML and written to `2026-00-00_Burkhart_Search_Warrant_Affidavit_PDF_URLs_FOR_FILINGS_LANE.txt` — NOT downloaded (filings lane's material). Substack 429s on rapid requests; every Substack fetch here was spaced 6s apart and all eight returned 200 first time.
+* The DEFENSE post-hearing brief filed 11 Aug 2026 → filings lane; item 29 is only KSL's coverage confirming it exists.

@@ -1,0 +1,46 @@
+id: '2094878764521955626'
+url: 'https://x.com/PBOnPoint/status/2094878764521955626'
+author:
+  username: 'PBOnPoint'
+  name: 'PB'
+  id: '2022621911927414784'
+  description: 'Independent Perspective | Predictive Analysis | Full Analysis + LIVE Shows on YouTube'
+  followers_count: 7808
+text: |
+  #TylerRobinson is trapped and he's not going to get out of this. I explain the Now and the Next in this Video.
+
+  Please take a Watch and Share.
+
+  #truecrime #trump #charliekirk https://t.co/dkCyyFWZtP
+created_at: '2026-09-01T20:03:13.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 6
+  reply_count: 1
+  like_count: 29
+  quote_count: 1
+  bookmark_count: 5
+  impression_count: 1100
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2094878050231959552'
+      duration_ms: 593581
+      width: 1080
+      height: 1920
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2094878050231959552/img/NddPZKe9w-LZWpyT.jpg'
+      downloaded_as: '2094878764521955626.mp4'
+      sha256: 'a881ffce1c0af6446c5a78f0bb570fa62b85d7f262cce24e166e721b3169200c'
+      ipfs_cid: 'QmScXVnh9xvGGq82ZMhnEh7arxdktmHewuqmdrvxBrXVQD'
+      ipfs_cid_base32: 'bafybeib7p7rllumsl4zzgeywn46lsu7r5fmjabbdk4gkk7d5srfoxh3loi'
+      public_verified: true
+  images: []
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+transcription_file: '~/BGit/Bryan_git/charlie-kirk/videos_transcription/2094878764521955626.md'
+site_page: 'site/docs/people_analysis/pb-onpoint.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-09-01'
+temp_file: false

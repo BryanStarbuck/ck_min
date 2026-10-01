@@ -1,0 +1,234 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/laws
+
+LAW_2_DIR dir is {ROOT_DIR}/2_US_Intel
+
+LAW_2_FILE is file {LAW_2_DIR}/Law_2_US_Intel.md
+
+THIS_DIR dir is {LAW_2_DIR}/tweet
+
+BACKGROUND_FILE is file {ROOT_DIR}/4_Trusted_Investigations/tweet/background.txt
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_num_2.txt
+
+FOCUS_LAW is Law 2 = "Force the Spies to Open Their Files"
+        (the Intelligence Services Disclosure Act)
+
+FOCUS is LAW 2 ONLY. This tweet is exclusively about Law 2. Assume the
+        reader has already seen separate tweets about Laws 1, 3, and 4.
+        Do NOT cover the other three laws in any depth. They get exactly
+        ONE sentence of reference -- placed after the opening 40 words
+        and the 200-word body -- noting that Law 2 is one of four laws.
+        Everything else in this tweet -- the hook, the body, the bullets,
+        the closing -- is dedicated to Law 2.
+
+==========================================================
+CHARTER -- BETA REVIEW RELEASE, LAW 2 ONLY
+==========================================================
+
+* This tweet is about Law 2 only -- the Intelligence Services Disclosure Act.
+* This is the Law 2 post in a series of four posts (one per law).
+* Law 2 is at DRAFT STAGE and being released for BETA REVIEW.
+* The reader is being invited to read Law 2, critique it, and respond.
+* The reader is assumed to have read (or be able to find) my other posts
+  about Laws 1, 3, and 4. Do not re-explain those laws here.
+* Law 2 closes the intelligence loophole -- it forces the entire U.S.
+  Intelligence Community to release all Charlie-Kirk-related information
+  that could identify perpetrators or provide insight into the death.
+
+==========================================================
+STAGE 1 -- READ LAW 2
+==========================================================
+
+* Read {LAW_2_FILE} in full -- this is the law this tweet is about.
+* Walk down from {LAW_2_DIR} and read every file under it recursively
+  into the context window -- including everything in {LAW_2_DIR}/more/
+  (Human_Requirements.md, Notes, Output_Analysis, etc.).
+* Read {BACKGROUND_FILE} only for the short framing context of the
+  four-law set -- do NOT pull material about Laws 1, 3, or 4 into this
+  tweet beyond the single one-sentence reference allowed.
+* Read {ROOT_DIR}/README.md and {ROOT_DIR}/CLAUDE.md for project context.
+* Understand specifically about Law 2:
+  * What Law 2 does -- forces every U.S. Intelligence Community element
+    defined in 50 U.S.C. 3003(4) (CIA, NSA, DIA, NRO, NGA, military
+    intelligence components, FBI intelligence division, DHS intelligence,
+    ODNI, and the rest of the IC) to release every piece of Charlie
+    Kirk-related information that could identify perpetrators or provide
+    insight into the assassination.
+  * The 30-day deadline from enactment.
+  * What can and cannot be redacted under Law 2: redaction permitted
+    ONLY for currently active human intelligence source identities and
+    specific technical collection methods currently in active use --
+    and analytical conclusions and final output information must
+    ALWAYS be disclosed.
+  * The enforcement teeth: criminal penalties (10 years for withholding,
+    15 for destruction), automatic 25% budget cuts for non-compliance,
+    no presidential override, anti-embarrassment clause, whistleblower
+    protections with treble damages, records preservation triggered at
+    bill introduction, private right of action, permanent congressional
+    review board.
+  * Why Law 2's structural answer to the JFK Records Act and Epstein
+    Files Act compliance failures matters -- prior disclosure laws
+    failed; Law 2 fixes the failure modes.
+  * Why Law 2 is structurally necessary on its own -- even if the FBI
+    discloses everything it has, the intelligence agencies hold the
+    information that actually answers who was involved.
+  * The thesis: Tyler Robinson did not act alone. An intelligence
+    service was involved. Law 2 forces that truth out of the IC.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is a single piece of writing about Law 2 only.
+* The bullet section is a single bulleted list of Law 2's key points.
+* Do NOT include bullet sections, headers, or expanded discussion of
+  Laws 1, 3, or 4. Their existence is acknowledged in exactly one
+  sentence (see below) and nowhere else.
+
+----------- THE FIRST 40 WORDS (CRITICAL) -----------
+
+* The first 40 words must perfectly catch attention and explain the stakes.
+* Start with Charlie Kirk.
+* State up-front that Law 2 -- the Intelligence Services Disclosure Act --
+  is being released for BETA REVIEW as a draft open for public feedback.
+* The 40 words must:
+  * Anchor the reader in the Charlie Kirk case.
+  * Name Law 2 directly and what it does at the highest level
+    (force the U.S. Intelligence Community to open its files on the
+    Charlie Kirk assassination).
+  * Make clear this is a DRAFT in beta review, asking for feedback.
+  * Lead the reader into the body that follows.
+* The first 40 words must NOT mention Laws 1, 3, or 4.
+
+----------- THE ONE-SENTENCE FOUR-LAW REFERENCE -----------
+
+* Immediately after the opening 40 words AND after the 200-word body,
+  include exactly ONE sentence acknowledging that Law 2 is one of four
+  laws being released for beta review, and that separate posts cover
+  the other three.
+* This is the ONLY place in the tweet that mentions the other three
+  laws. No expanded coverage. No bullets. No headers. One sentence.
+* Suggested placement: a single transitional sentence between the
+  200-word body and the bullet section.
+
+----------- THE NEXT 200 WORDS (NEXT CRITICAL, LAW 2 ONLY) -----------
+
+* The next ~200 words must deliver what the reader expects after the hook.
+* These 200 words are EXCLUSIVELY about Law 2. Do not divert to the
+  other laws.
+* Educate a reader who is not ramped up on this investigation:
+  * What Law 2 actually does -- forces the entire U.S. Intelligence
+    Community (CIA, NSA, DIA, NRO, NGA, military intelligence, FBI
+    intelligence division, DHS intelligence, ODNI, and every IC element
+    defined in 50 U.S.C. 3003(4)) to release every piece of Charlie
+    Kirk-related information that could identify perpetrators or
+    provide insight into the assassination.
+  * The 30-day deadline.
+  * What can and cannot be redacted under Law 2 (redaction permitted
+    ONLY for active human source identities and specific technical
+    collection methods currently in active use -- analytical conclusions
+    and final output must always be disclosed).
+  * Why this matters -- without Law 2, the intelligence agencies sit on
+    the most important information about the assassination. Law 2 is
+    the law that reaches the agencies that actually hold the answers.
+  * Why this model works where prior disclosure laws (JFK Records Act,
+    Epstein Files Act) failed -- real criminal penalties, automatic
+    budget cuts, no presidential override, anti-embarrassment clause,
+    whistleblower protections with treble damages, records preservation
+    triggered at bill introduction.
+  * How to engage with the beta review (read Law 2, critique it, give
+    feedback).
+* Quality bar: every sentence earns its place. No fluff. No throat-clearing.
+* Do NOT explain Laws 1, 3, or 4 in the body. The reader has seen the
+  other posts.
+
+----------- THE BULLET SECTION (AFTER THE BODY) -----------
+
+* After the 200-word body and the one-sentence four-law reference, the
+  tweet continues with a SINGLE bullet section -- Law 2 only.
+* Do NOT include bullet sections for Laws 1, 3, or 4.
+* Start the bullet section with a clear header naming Law 2:
+
+        Law 2 -- Force the Spies to Open Their Files
+
+* Under the header, place an asterisk bullet list of Law 2's key points.
+* TWELVE BULLETS OR LESS. Aim for the strongest 8-12 bullets.
+* Sort the bullets by what a non-ramped-up audience will want to learn
+  FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack multiple
+  points into one bullet.
+
+Suggested point categories to draw from for Law 2 (pick the strongest,
+in audience-priority order):
+
+  Law 2 -- Intelligence Services Disclosure:
+        * Forces CIA, NSA, DIA, NRO, NGA, ODNI to disclose
+        * Covers entire Intelligence Community (50 U.S.C. 3003(4))
+        * Includes FBI intel division and DHS intel
+        * Redaction only for active human sources
+        * Redaction only for active collection methods
+        * Analytical conclusions must always be disclosed
+        * 30-day deadline from enactment
+        * Criminal penalties -- 10 years for withholding
+        * 15 years for destruction of records
+        * No presidential override allowed
+        * Automatic 25% budget cut for non-compliance
+        * Whistleblower protections with treble damages
+        * Records preservation triggered at bill introduction
+        * Private right of action for citizens
+        * Permanent congressional review board
+        * Anti-embarrassment clause -- no reputational-harm withholding
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that Law 2 is at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback on Law 2 -- and
+  call out attorneys in particular as the audience whose feedback is
+  most wanted.
+* Place this draft/feedback framing somewhere in the body or near the
+  closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute Law 2 to its author:
+  Law 2 was drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by @HolonCitizen
+  and that Law 2 lives at the URL below as part of the website's bigger
+  investigation into the Charlie Kirk assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+
+----------- TONE AND VOICE -----------
+
+* Plain, direct, no jargon. Written for citizens, not lawyers.
+* Frame as a beta-review release throughout -- Law 2 is a draft,
+  feedback wanted.
+* Defamation-safe language throughout: never state as fact that any
+  living person committed a crime. Use "allegedly", "reportedly",
+  "evidence suggests" where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it is
+  designed for a thread or a long-form X post. Write it as one
+  continuous piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_2_FILE}, {BACKGROUND_FILE}, or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the body
+  * the Law 2 bullet section
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE}"
+Output to stdout "============================================="

@@ -1,0 +1,38 @@
+p_timeline_create RUN SUMMARY
+Assessed pages (non-Photos/Videos): 1674
+Candidates score>=6: 1043
+Already had chart at scan start: 13
+
+Candidate density by top-level dir (score>=6):
+  Timeline: 60
+  Planes: 34
+  Charlie: 22
+  UVU: 13
+  Medical: 10
+  Before: 7
+  Tyler_Robinson: 6
+  Israel_Main_Suspect: 6
+  After: 5
+  Security_Team: 4
+  Messages: 4
+  Proof_Intel_Services: 3
+  Suspicious: 3
+  TPUSA: 3
+  Tent: 2
+  Roof: 2
+  Killer: 2
+  Tyler_Robinson_Not_Assassin: 2
+  maps: 2
+  Topic-Analyses: 1
+  cameras: 1
+  CoverUp: 1
+  Locations: 1
+  Media: 1
+  Proof_Not_Tyler: 1
+
+Action this run:
+  - Rebuilt all 13 KM SVGs with hard trim + short-window multi-bar (SEPT cluster)
+  - Created 6 new event SVGs under site/internals/static/img/timelines/
+  - Embedded charts on 35 pages (KM deep pages + high-priority event pages + reuses)
+  - Updated timeslines.csv to 19 event_keys
+  - Remaining candidates deferred: Planes individual N-numbers, many After/FBI pages — reuse sept10_flight or create in follow-up when unique sub-event timing differs

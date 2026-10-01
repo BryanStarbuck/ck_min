@@ -1,0 +1,47 @@
+id: '2083300038344941756'
+url: 'https://x.com/TheDibsterX/status/2083300038344941756'
+author:
+  username: 'TheDibsterX'
+  name: 'The Dibster'
+  id: '1695181896236359680'
+text: |
+  According to the ATF Ballistic expert, Tyler Robinson's rifle could not have been fired, nor the bullet matches the size that rifle uses.
+
+  I don't understand why is there such a large amount of people online that STILL say Tyler Robinson used this rifle to kill Charlie.
+
+  Are they bots?  Are they stupid?  Is it a combination of both?
+created_at: '2026-07-31T21:13:29.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 20
+  reply_count: 10
+  like_count: 64
+  quote_count: 2
+  bookmark_count: 3
+  impression_count: 1098
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2083299536500375552'
+      url: 'https://pbs.twimg.com/media/HOld5AHXQAAFx3j.png'
+      width: 680
+      height: 645
+      local_file: 'images/2083300038344941756_1.png'
+      sha256: '5f1f3a37727bb1c6844c1762651731bd348897da93ff448474a188b6b5f98b75'
+ocr_text: |
+  Q. Okay. Did you inspect the interior of this barrel?
+  A. I did, yes.
+  Q. And did you notice whether it had any debris or dust
+  A. I believe my notes state that debris and dust was observed in the inside of the barrel, yes.
+  Q. And could you further characterize what that was? Debris?
+  A. I think it says "dust." So I would say dust.
+  PRELIMINARY HEARING TRANSCRIPT
+  Q. Did you measure [the diameter] of the bullet?
+  A. I did, yes.
+  Q. And did you end up with a range where it could have [been a] certain range of length -- diameter?
+  A. I did, yes.
+  The range of the [diameter] was .286 to .301 inches.
+site_page: 'site/docs/Gun_Bullet/Barrel_Dust_And_Diameter.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false

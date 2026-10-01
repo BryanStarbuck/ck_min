@@ -1,0 +1,446 @@
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk
+
+SITE_DIR dir is {ROOT_DIR}/site
+DOCS_DIR dir is {SITE_DIR}/docs
+CSS_FILE is file {SITE_DIR}/internals/src/css/custom.css
+EVIDENCE_DIR dir is {SITE_DIR}/internals/static/img/evidence
+PAGES_CSV is file {ROOT_DIR}/pages.csv
+IMAGES_YAML is file {ROOT_DIR}/images/images.yaml
+VIDEOS_YAML is file {ROOT_DIR}/videos/videos.yaml
+BAN_IMAGES_CSV is file {ROOT_DIR}/images/ban_images.csv
+BAN_VIDEOS_CSV is file {ROOT_DIR}/videos/ban_videos.csv
+ASSESS_MANUAL is file {ROOT_DIR}/prompts/Assess_Manual.md
+PILOT_DIR dir is {DOCS_DIR}/Tyler_Robinson/discord
+
+AGENT_COUNT is 12
+
+MAX_SENTENCE_WORDS is 17
+SENTENCES_PER_INTERESTING_BLOCK is 4
+CARDS_PER_FOUR_SQUARE is 4
+
+Read {ASSESS_MANUAL} into the context window before editing any page.
+Read the "Pages CSV" and "Images Are Tracked In Git" sections of {ROOT_DIR}/claude.md too.
+
+
+============================
+GOAL
+============================
+
+Walk every page under {DOCS_DIR} recursively and give each one four new blocks
+that carry a reader sideways into the rest of the site instead of dead-ending
+them at the bottom of an article.
+
+The four blocks, in this order, all placed at the same anchor point:
+
+  1. Interesting In This Area      four short sentences, densely hyperlinked,
+                                   every link inside the page's own Level 2.
+  2. Interesting In Other Areas    four short sentences, densely hyperlinked,
+                                   every link in some OTHER Level 2.
+  3. Four squares - in this area   2x2 grid of four sister-page cards, all four
+                                   sisters inside the page's own Level 2.
+  4. Four squares - other areas    2x2 grid of four sister-page cards, each card
+                                   in a DIFFERENT Level 2, none of them the
+                                   page's own.
+
+A "four square" is two rows by two columns. Each square carries the sister
+page's own hero image or video, two or three sentences saying what is in it and
+why it matters, and a chevron button through to that page. Solid background
+colour, white text, not large.
+
+The working pilot for all of this is {PILOT_DIR}. Every page there already
+carries one four-square block. Open two or three of those files and copy the
+markup exactly rather than inventing a new shape.
+
+
+============================
+WHAT ALREADY EXISTS - DO NOT REBUILD IT
+============================
+
+* The CSS is already written and shipped. It lives in {CSS_FILE} between the
+  markers CK_FOUR_SQUARE_START and CK_FOUR_SQUARE_END. Class names:
+
+    .ck-4sq          the 2x2 grid wrapper, collapses to one column below 996px
+    .ck-4sq-card     one square. Solid #0d2b6b panel, white text
+    .ck-4sq-side     card modifier: media left, text to its right
+    .ck-4sq-stack    card modifier: media on top, text underneath
+    .ck-4sq-thumb    the media anchor
+    .ck-4sq-body     the text side
+    .ck-4sq-title    sister page title, links to it
+    .ck-4sq-text     the two or three sentences, may contain its own links
+    .ck-4sq-btn      the white chevron button
+
+  Do not add new CSS. If a genuinely new shape is needed, add it inside those
+  same markers and say so in the run report.
+
+* {PILOT_DIR} is the reference implementation of block 3.
+
+
+============================
+BLOCK MARKERS
+============================
+
+Every generated block is fenced by MDX comment markers so a re-run replaces it
+in place instead of stacking duplicates. Canonical names:
+
+  {/* CK_INTERESTING_HERE_START */}   ... {/* CK_INTERESTING_HERE_END */}
+  {/* CK_INTERESTING_OTHER_START */}  ... {/* CK_INTERESTING_OTHER_END */}
+  {/* CK_4SQ_SECTION_START */}        ... {/* CK_4SQ_SECTION_END */}
+  {/* CK_4SQ_SITEWIDE_START */}       ... {/* CK_4SQ_SITEWIDE_END */}
+
+Rules:
+
+* On every run, strip any existing block with these markers FIRST, then write
+  the new one. Never nest, never append a second copy.
+* In .md files the marker is an HTML comment instead: <!-- CK_4SQ_SECTION_START -->
+  MDX comments break .md pages and HTML comments break .mdx pages. Check the
+  extension before writing.
+* Text outside the markers is never touched. Existing prose, existing tables,
+  existing "## Interesting" bullet lists, existing "## Related Areas" grids and
+  existing "## Images" galleries all survive unchanged.
+
+
+============================
+WHERE THE BLOCKS GO ON THE PAGE
+============================
+
+Insert all four blocks together, in the order listed under GOAL, at the FIRST
+of these anchors that appears in the file:
+
+  1. {/* CK_AUTHOR_CREDIT */}
+  2. a line that is exactly   ## Interesting
+  3. a line that is exactly   ## Related Areas
+  4. {/* CK_PLACED_IMAGES_START
+  5. a "## Sources" or "## Fix Laws" or "## The Laws" heading
+  6. end of file
+
+So the running order down a finished page is:
+
+  frontmatter
+  back button
+  H1
+  hero media
+  the page's own prose
+  Interesting In This Area
+  Interesting In Other Areas
+  Other Pages In This Section          (four squares, same Level 2)
+  Elsewhere In The Investigation       (four squares, other Level 2s)
+  author credit
+  Interesting                          (the old three-bullet block, if present)
+  Related Areas
+  Images
+
+The blocks sit BELOW the page's own argument and ABOVE the laws, the credits,
+the related-areas grid and the image gallery. A reader who has finished the
+article meets them; a reader still reading the article does not.
+
+
+============================
+STAGE 1 - LOAD THE MAP
+============================
+
+* Read {PAGES_CSV}. Columns are defined in {ROOT_DIR}/claude.md. The ones this
+  prompt uses: page_key, level, level2_parent, page_type, url_path, file_path,
+  title, sidebar_label, description.
+
+* Walk {DOCS_DIR} recursively for every .md and .mdx file.
+
+* Reconcile disk against {PAGES_CSV}:
+  * A file on disk with no row in {PAGES_CSV} gets a row added. Derive
+    page_key (four words maximum, underscores, no special characters, unique),
+    parent_key (the overview page of its directory), level, level2_parent,
+    level2_section, page_type, url_path, file_path, title, sidebar_label,
+    directory, extension, has_frontmatter, line_count and description.
+  * A row in {PAGES_CSV} whose file_path no longer exists is reported, not
+    deleted. Deleting rows is a human decision.
+  * Do not renumber or re-key existing rows.
+
+* Level 2 of a page = its level2_parent column. Every page has exactly one.
+  A page whose own level is 2 is its own Level 2.
+
+* Skip as edit targets, but keep as link targets:
+  * page_type of image or video (the generated /Photos and /Videos leaf pages).
+  * The site root index page.
+  * Any page under a directory owned by a generator, unless the generator's own
+    prompt says otherwise. Check for a "generated by" comment at the top.
+
+
+============================
+STAGE 2 - PARTITION THE WORK ACROSS {AGENT_COUNT} AGENTS
+============================
+
+* List the immediate subdirectories of {DOCS_DIR}. Each is one Level 2 area.
+* Sort them by page count, largest first.
+* Deal them round-robin into {AGENT_COUNT} buckets, so the biggest areas land in
+  different buckets and total page counts come out roughly even.
+* A directory is never split across two agents. An agent owns whole Level 2
+  areas including everything nested inside them.
+* Root-level loose pages (files directly in {DOCS_DIR}) go to the agent with the
+  smallest bucket.
+* Launch all {AGENT_COUNT} agents in one message so they run concurrently.
+
+Each agent receives:
+  * its list of owned directories
+  * the whole of {PAGES_CSV} as read-only reference (it needs the site-wide map
+    to build block 2 and block 4)
+  * this prompt
+
+Each agent may edit ONLY files inside its own directories. Every agent may READ
+any page anywhere.
+
+{PAGES_CSV} is written by ONE writer. Agents do not write to it. Each agent
+returns its new-row and missing-row findings as data, and the coordinator merges
+them into {PAGES_CSV} once, after all agents finish.
+
+
+============================
+STAGE 3 - PICK THE SISTER PAGES
+============================
+
+For the in-this-area four square (block 3):
+
+* The candidate pool is every editable page sharing this page's level2_parent,
+  minus the page itself.
+* Order the pool in a stable thematic sequence - the order the section's own
+  overview page lists them in, if it lists them. Otherwise alphabetical by
+  url_path.
+* For the page at index i in a pool of size N, take indexes
+  (i+1), (i+7), (i+13), (i+19) modulo N.
+  * This spreads the picks across the section and, when N is coprime with the
+    offsets, gives every page in the section the same number of inbound cards.
+  * If N is small the offsets collide. Deduplicate, then fill from the nearest
+    unused index.
+  * If N is 5 or fewer, use every other page in the section and stop. Do not
+    pad the grid with repeats and do not reach outside the section.
+* An overview or hub page does not have to follow the offsets. Give it the four
+  most important pages in its own section instead, chosen on merit.
+* A page never cards itself.
+
+For the other-areas four square (block 4):
+
+* Pick four pages from four DIFFERENT Level 2 areas, none of them this page's
+  own Level 2. Four cards, four distinct level2_parent values.
+* Choose on genuine relevance, not proximity: the page that a reader of THIS
+  page would most want next from that area. Read the candidate before carding it.
+* Prefer Level 3 pages with real substance and their own hero media over thin
+  stubs and over Level 2 overview pages.
+* Vary the four areas across the pages within one section, so a whole section
+  does not point at the same four outside pages. Rotate.
+
+
+============================
+STAGE 4 - BUILD ONE CARD
+============================
+
+Media:
+
+* The card uses the sister page's own hero media - the first image or video in
+  its body, normally the floated-right block just under the H1.
+* Image cards: reuse the sister page's src, data-cid and alt verbatim.
+  * src is ALWAYS the local repo path /img/evidence/{sha256}.jpg.
+  * NEVER an ipfs.io or dweb.link gateway URL for an image. Most CIDs in
+    {IMAGES_YAML} were produced with "ipfs add -n" and are on no node, so the
+    gateway 504s for real visitors while rendering fine on the machine that
+    holds the file. Keep the CID in data-cid as provenance only.
+  * Videos are the exception and do keep their gateway src, copied verbatim
+    from the sister page.
+* Add loading="lazy".
+* Check the ban lists before carding anything: an entry in {BAN_IMAGES_CSV},
+  {BAN_VIDEOS_CSV}, image_planning/exclude_images.txt or
+  videos_planning/exclude_videos.txt is banned. Treat the union as the ban set.
+  Never card banned media. Pick a different sister page.
+* Verify the file is actually served and tracked before you embed it:
+      git ls-files --error-unmatch <path>    must succeed
+      git check-ignore -v <path>             must produce nothing
+* If a sister page has no media at all, either pick a different sister or emit
+  the card with the .ck-4sq-stack shape and no thumb. Never emit a broken img.
+
+Shape, from the media's REAL pixel dimensions - measure, do not guess:
+
+      ratio = pixelWidth / pixelHeight     (macOS: sips -g pixelWidth -g pixelHeight)
+
+  * ratio < 1.0   portrait, 9:16-ish   ->  class ck-4sq-side
+                  media on the left, the text sits to its RIGHT
+  * ratio >= 1.0  landscape, 16:9-ish  ->  class ck-4sq-stack
+                  media on top, the text sits UNDERNEATH it
+
+Text:
+
+* Two or three sentences. What is in it, and why it matters. Not a summary of
+  the whole page - the hook.
+* The text may and should carry its own hyperlinks out to other pages. More than
+  one is good. They do not have to point at the card's own target.
+* Write one canonical teaser per page and reuse it everywhere that page is
+  carded, so the same page reads the same way across the site.
+
+Markup - copy this exactly, substituting the values:
+
+<div className="ck-4sq-card ck-4sq-side">
+  <a className="ck-4sq-thumb" href="{url}"><img src="{src}" data-cid="{cid}" alt="{alt}" loading="lazy" /></a>
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="{url}">{title}</a></p>
+    <p className="ck-4sq-text">{two or three sentences, with links}</p>
+    <a className="ck-4sq-btn" href="{url}">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+
+Four of those go inside one <div className="ck-4sq"> ... </div>.
+
+MDX safety:
+* Inside JSX, a bare { or } is code. Never put one in card text.
+* Write attributes camelCase: className, strokeWidth, strokeLinecap, loading.
+* Escape a literal apostrophe in JSX text as &apos; and use &mdash; &ndash;
+  &rarr; rather than raw punctuation.
+* Quote marks inside an alt attribute become &quot;.
+
+
+============================
+STAGE 5 - BUILD THE TWO INTERESTING BLOCKS
+============================
+
+Both blocks have the same shape. They differ only in where the links point.
+
+Interesting In This Area:
+
+* Read every page in this page's Level 2 first. Actually read them - the point
+  is to know what is in that area, not to restate the sidebar.
+* Write exactly {SENTENCES_PER_INTERESTING_BLOCK} sentences as a bullet list.
+* Each sentence is {MAX_SENTENCE_WORDS} words or fewer. Count them.
+* Hyperlink as many phrases as the sentence will carry. Two or three links in
+  one sentence is the target, not the exception. The phrase carries the meaning
+  and the link carries the reader.
+* Every link points at a page whose level2_parent equals this page's.
+* Never link to the page itself.
+* Each sentence should reveal something a reader did not know from this page.
+  "Learn more about X" is a wasted sentence. "A deputy detail appears only in
+  the indictment, never in the affidavit" is a sentence.
+
+Interesting In Other Areas:
+
+* Same rules, one inversion: every link points at a page whose level2_parent is
+  NOT this page's.
+* Across the four sentences, reach at least three different Level 2 areas.
+* This block matters most. It is how a reader crosses from one investigation
+  thread to another.
+
+Heading text:
+
+  ## Interesting In This Area
+  ## Interesting In Other Areas
+
+Do not rename or absorb the existing "## Interesting" three-bullet block that
+some pages already carry lower down. It stays where it is.
+
+
+============================
+STAGE 6 - SECTION HEADINGS FOR THE TWO GRIDS
+============================
+
+* Block 3 heading: "## Other Pages In This Section"
+  * A section may override this with something truer to its own material. The
+    Discord pilot uses "## Other Parts of the Discord Messages". Keep an
+    override that already exists; do not invent new ones casually.
+* Block 4 heading: "## Elsewhere In The Investigation"
+
+
+============================
+STAGE 7 - VERIFY BEFORE REPORTING DONE
+============================
+
+Every agent runs all of these on its own files and reports the counts.
+
+* MDX compiles. From {SITE_DIR}, with @mdx-js/mdx resolvable:
+
+    node -e "import('@mdx-js/mdx').then(async m=>{const fs=require('fs');
+      for (const f of process.argv.slice(1)) {
+        let s=fs.readFileSync(f,'utf8').replace(/^---\n[\s\S]*?\n---\n/,'');
+        try { await m.compile(s) } catch(e){ console.log('FAIL',f,e.message) } }
+    })" <files>
+
+  A single unescaped brace fails the whole GitHub Pages build and the live site
+  silently keeps serving the previous version. Never skip this.
+
+* Every internal link resolves. Build the route set from the .md and .mdx files
+  on disk - a directory's overview.md is reachable both as /Dir/overview and as
+  /Dir - or read {SITE_DIR}/.docusaurus/routes.js if it is current. Do not run a
+  full npm run build to check links; it takes twenty minutes.
+
+* Every embedded image is git-tracked and not gitignored:
+
+    python3 image_planning/generator/audit_image_publication.py
+
+  Exit 0 is clean. If Large File Bridge has re-appended per-file image lines to
+  {ROOT_DIR}/.gitignore, delete those lines. Never work around it with git add -f.
+
+* No page carries a duplicate block. Count the markers: each of the four
+  START markers appears at most once per file.
+
+* No page cards itself, and no four square contains the same target twice.
+
+* Sentence lengths in the Interesting blocks are within {MAX_SENTENCE_WORDS}.
+
+
+============================
+STAGE 8 - COORDINATOR MERGE AND REPORT
+============================
+
+* Merge every agent's new {PAGES_CSV} rows into the file in one write. Keep the
+  15-column schema and the existing quoting style.
+* Refresh line_count for every page that was edited.
+* Re-run the full link check across the whole site, not just per agent, because
+  block 4 crosses agent boundaries.
+* Output to stdout:
+
+    ============================================================
+    FOUR SQUARES PASS COMPLETE
+    ============================================================
+    pages walked          : N
+    pages edited          : N
+    pages skipped         : N   (image/video leaves, generated, root index)
+    rows added to CSV     : N
+    rows orphaned         : N   (file_path no longer on disk - REVIEW THESE)
+    cards emitted         : N
+    banned media avoided  : N
+    MDX compile failures  : N
+    unresolved links      : N
+    untracked images      : N
+    ============================================================
+
+* Any non-zero on the last three lines is a failure. Fix it, do not report done.
+
+
+============================
+DEFAMATION AND ACCURACY
+============================
+
+Everything written by this prompt is public site content and is bound by the
+defamation rules in {ROOT_DIR}/claude.md.
+
+* Never state as fact that a living person committed a crime unless a court
+  convicted them. Attribute: "according to", "reportedly", "allegedly".
+* A card teaser is 25 words of the most quotable text on the site. It is
+  exactly where an unattributed accusation does the most damage. Write it
+  accordingly.
+* Do not write "hand off" or similar wording implying a deliberate transfer.
+* The state's narrative is that Charlie Kirk was killed by a rifle round. The
+  majority citizen finding on X is that he died by an explosive device. Card
+  text may state the government narrative as the government's narrative. It
+  must not present it as the dominant or settled conclusion. Do not raise
+  electrocution.
+
+
+============================
+CONVERGENCE PRIORITY
+============================
+
+If context runs short, complete in this order and stop cleanly rather than
+leaving a half-written block on a page:
+
+  1. Block 3, the in-this-area four square. It is the highest value and the
+     easiest to get right.
+  2. Block 2, Interesting In Other Areas. It is the strongest cross-section
+     link generator on the site.
+  3. Block 4, the other-areas four square.
+  4. Block 1, Interesting In This Area.
+
+A page either has a complete, marker-fenced block or none of that block. There
+is no partial state.

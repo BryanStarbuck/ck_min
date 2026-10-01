@@ -1,0 +1,301 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2026-154
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 142690 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+COURTNEY TANNER, Petitioner, v.
+
+DEPARTMENT OF PUBLIC SAFETY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2026-154
+
+By this appeal, Petitioner Courtney Tanner, on behalf of the Salt Lake Tribune ("Tribune"), seeks access to records held by Respondent, the Utah Department of Public Safety ("Department").
+
+BACKGROUND
+
+On April 6, 2026, Ms. Tanner submitted a request for records pursuant to the Government Records Access and Management Act ("GRAMA") to the Department. Ms. Tanner requested the most recent Utah Bureau of Criminal Investigation ("BCI") "audits" of the police departments for the University of Utah, Brigham Young University, Weber State University, Utah State University, Utah Valley University, Southern Utah University, and Utah Tech University (collectively the "University Police Departments").
+
+On April 10, 2026, Stephanie Dinsmore, Public Information Specialist, issued the Department's initial denial. The denial letter acknowledged that BCI possesses responsive records but asserted that the records are categorized as part of the Utah Criminal Justice Information System ("UCJIS") controlled division files. The Department argued that dissemination of these files is restricted by Utah Code § 53-10-108, rendering them non-public pursuant to Utah Code § 63G-2-201(3)(b). Additionally, BCI confirmed that no responsive audit records existed outside of these protected systems.
+
+On May 7, 2026, Ms. Tanner filed an appeal with Department Commissioner Beau Mason, arguing that audit reports evaluating a law enforcement agency's compliance are administrative oversight documents rather than "criminal history records" or "criminal justice information." She emphasized that audit reports assess agency-level policies, training compliance, and equipment, and thus do not constitute restricted records on specific individuals. Ms. Tanner added that the "public has a right to know whether these agencies, funded by tax dollars and serving vulnerable populations, maintain adequate practices and procedures."
+
+While the appeal was pending, on May 13, 2026, BCI provided a limited media accommodation to Ms. Tanner. This disclosure outlined the general triennial audit process and provided a list containing the exact initiation and completion dates for the most recent compliance and security audits conducted at the University Police Departments between October 2024 and March 2026. However, the Department maintained its complete denial regarding the substance, details, and specific findings of the audits themselves.
+
+On May 18, 2026, Melanie Marlowe, the Department's Quality and Process Improvement Director, acting as the designated Chief Administrative Officer, formally denied Ms. Tanner's appeal. Ms. Marlowe upheld the initial denial, stating that because audit records inherently incorporate secure system data and details from BCI division files, access is strictly limited by Utah Code § 53-10-108(2) and "the requested records cannot be provided" under GRAMA.
+
+On June 1, 2026, Ms. Tanner filed an appeal of the CAO's decision with the Government Records Office ("Office"). On July 30, 2026, the Director of the Office ("Director") held a public hearing at which the parties were allowed to present their evidence and arguments. After having carefully considered the parties' presentations, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. Under GRAMA, "a record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). GRAMA further provides that "a record to which access is restricted in accordance with court rule, another state statute, federal statute, or federal regulation . . ." is categorized as a non-public record. Utah Code § 63G-2-201(3)(b).
+
+2. Utah Code § 53-10-108(2) provides that the "dissemination of information from a criminal history record, including information obtained from a fingerprint background check, name check, warrant of arrest information, or information from division files, is limited to" specifically enumerated entities, such as law enforcement agencies, criminal justice agencies, and authorized government bodies. The entities that may receive information from a criminal history record are listed in Utah Code § 53-10-108(2)(a-l). The news media and members of the general public are not included in this statutory list.
+
+3. Ms. Tanner argues that BCI audits are administrative, high-level oversight records that do not constitute individual criminal history records. Although it is true that the audits evaluate agency-level practices rather than individual records, the administrative and technical reality of BCI's auditing process—as established by the sworn testimony of the audit program manager, Mandy Biesinger, at the hearing—demonstrates that these records are deeply integrated with protected system data.
+
+4. BCI is the division of the Department responsible for the administration and security of UCJIS, which is a secure portal accessing multiple state and federal databases including driver licenses, motor vehicles, corrections, and federal FBI-CJIS systems. To maintain access to these systems and receive essential federal funding, BCI is mandated by federal regulations (28 CFR Part 20) and statute to conduct triennial "compliance audits" and "security audits" on all participating agencies to ensure strict compliance with security policies.
+
+5. Ms. Biesinger testified that the auditing process is conducted entirely electronically through an integrated system known as "Peak Performance." The process is essentially a specialized quality control mechanism integrated directly into the secure UCJIS network. To perform an audit, BCI compilers pull active query logs, user access records, transaction logs, and specific criminal history checks run by the University Police Departments. These active logs contain sensitive personal identifying information ("PII"), including names, Social Security numbers, driver license numbers, and detailed transactional histories showing who was run, when, and by which officer.
+
+Because the entire back-and-forth review, questionnaires, and corrective action histories are housed within this secure, integrated electronic system, the audit records contain and constitute "information from division files" under Utah Code § 53-10-108(2).
+
+6. The Director agrees with the Department's statutory interpretation of Utah Code § 53-10-108(2). Under a plain and grammatically sound reading, the phrase "or information from division files" is separated by the Oxford comma and functions as an independent category of restricted information. It is not sub-defined or limited by the term "criminal history record." Because the Peak Performance audit data resides inside secure division systems and incorporates direct queries, logs, and technical security structures of UCJIS, it constitutes "information from division files." Therefore, under Utah Code § 53-10-108(2) and § 63G-2-201(3)(b), the Department is legally restricted from disseminating these records to the public.
+
+7. Ms. Tanner argues that the requested records are subject to release under Utah Code § 63G-2-301(3), which provides that "final audit reports" are "normally public." However, this section explicitly contains the qualifier: "but to the extent that a record is expressly exempt from disclosure, access may be restricted under Subsection 63G-2-201(3)(b)." Because the audit data at issue is expressly exempt from disclosure under Utah Code § 53-10-108(2), access may be properly restricted regardless of whether it might otherwise qualify as public.
+
+8. Ms. Tanner's request for segregation and redaction of the records is likewise not required here. While GRAMA generally favors segregation, Utah Code § 63G-2-308 provides that segregation is only required "if the information the requester is entitled to inspect is intelligible" after segregation of "information that the requester is not entitled to inspect." Ms. Biesinger testified that BCI's Peak Performance software is essentially an interactive, live workflow system which lacks any native report-generation or statistics-compilation functionality, making segregation of information technically infeasible.
+
+9. In conclusion, because the requested compliance and security audits consist of integrated system data and files housed inside secure division networks, they are "information from division files" under Utah Code § 53-10-108(2). Consequently, access to the records is restricted by state statute, and the Department properly determined them to be non-public pursuant to Utah Code § 63G-2-201(3)(b). Moreover, because the requested records are not properly classified as private, controlled, or protected under GRAMA, they are not subject to the Director's weighing authority under Utah Code § 63G-2-403(11)(b). Accordingly, the Department's decision denying Ms. Tanner's records request is upheld.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner Courtney Tanner, on behalf of the Salt Lake Tribune, is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 10th day of August 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

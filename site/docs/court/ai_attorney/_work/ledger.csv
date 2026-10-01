@@ -1,0 +1,53 @@
+page_key,file,family,thesis_ids,last_run_date,state,verify_tier_high,disclaimer_ok,notes
+adsb-authentication-and-custody,site/docs/court/ai_attorney/adsb-authentication-and-custody.mdx,instrument,T6,2026-09-01,complete,T1,yes,236 lines
+aircraft-and-ground-vehicles,site/docs/court/ai_attorney/aircraft-and-ground-vehicles.mdx,thesis,T6,2026-09-01,complete,T1,yes,"251 lines, 20 gap-analysis rows"
+alternative-perpetrator-notice,site/docs/court/ai_attorney/alternative-perpetrator-notice.mdx,instrument,T3;T4;T6;T7;T9,2026-09-01,complete,-,yes,111 lines
+av-procurement-chain-subpoena,site/docs/court/ai_attorney/av-procurement-chain-subpoena.mdx,instrument,T4,2026-09-01,complete,-,yes,208 lines
+ballistics-daubert-challenge,site/docs/court/ai_attorney/ballistics-daubert-challenge.mdx,instrument,T1,2026-09-01,complete,-,yes,112 lines
+blast-and-acoustics-experts,site/docs/court/ai_attorney/blast-and-acoustics-experts.mdx,instrument,T1,2026-09-01,complete,-,yes,107 lines
+bomb-dogs-and-eod-sweep,site/docs/court/ai_attorney/bomb-dogs-and-eod-sweep.mdx,instrument,-,2026-09-01,complete,-,yes,106 lines
+brady-enforcement-and-sanctions,site/docs/court/ai_attorney/brady-enforcement-and-sanctions.mdx,instrument,T2;T9,2026-09-01,complete,-,yes,106 lines
+campus-camera-inventory-and-retention,site/docs/court/ai_attorney/campus-camera-inventory-and-retention.mdx,instrument,T9,2026-09-01,complete,T1,yes,179 lines
+case-stage-map,site/docs/court/ai_attorney/case-stage-map.mdx,spine,-,2026-09-01,complete,T1,yes,125 lines
+cell-site-and-tower-dump-discovery,site/docs/court/ai_attorney/cell-site-and-tower-dump-discovery.mdx,instrument,T7,2026-09-01,complete,-,yes,202 lines
+confession-suppression-motion,site/docs/court/ai_attorney/confession-suppression-motion.mdx,instrument,-,2026-09-01,complete,-,yes,109 lines
+crime-scene-warrant-gap-suppression,site/docs/court/ai_attorney/crime-scene-warrant-gap-suppression.mdx,instrument,T1;T2,2026-09-01,complete,T1,yes,210 lines
+detention-and-release-records,site/docs/court/ai_attorney/detention-and-release-records.mdx,instrument,T5,2026-09-01,complete,T3,yes,228 lines
+direction-of-us-military-intelligence,site/docs/court/ai_attorney/direction-of-us-military-intelligence.mdx,thesis,T4,2026-09-01,complete,T1,yes,"245 lines, 18 gap-analysis rows"
+dispatch-and-cad-records,site/docs/court/ai_attorney/dispatch-and-cad-records.mdx,instrument,T5,2026-09-01,complete,-,yes,177 lines
+exhibit-production-and-bates-audit,site/docs/court/ai_attorney/exhibit-production-and-bates-audit.mdx,instrument,T2;T9,2026-09-01,complete,T1,yes,211 lines
+explosive-residue-testing,site/docs/court/ai_attorney/explosive-residue-testing.mdx,instrument,T1,2026-09-01,complete,-,yes,108 lines
+family-and-organization-witnesses,site/docs/court/ai_attorney/family-and-organization-witnesses.mdx,instrument,-,2026-09-01,complete,-,yes,110 lines
+faro-point-cloud-expert,site/docs/court/ai_attorney/faro-point-cloud-expert.mdx,instrument,T1;T2;T9,2026-09-01,complete,-,yes,204 lines
+fbi-agents-on-the-stand,site/docs/court/ai_attorney/fbi-agents-on-the-stand.mdx,instrument,T2;T5,2026-09-01,complete,-,yes,107 lines
+fbo-and-ground-handling-records,site/docs/court/ai_attorney/fbo-and-ground-handling-records.mdx,instrument,T6,2026-09-01,complete,-,yes,217 lines
+federal-handling-and-nondisclosure,site/docs/court/ai_attorney/federal-handling-and-nondisclosure.mdx,thesis,T2,2026-09-01,complete,T1,yes,"224 lines, 20 gap-analysis rows"
+foreign-carrier-records-mlat,site/docs/court/ai_attorney/foreign-carrier-records-mlat.mdx,instrument,T7,2026-09-01,complete,-,yes,202 lines
+foreign-decision-and-notification,site/docs/court/ai_attorney/foreign-decision-and-notification.mdx,thesis,T3,2026-09-01,complete,T1,yes,"252 lines, 19 gap-analysis rows"
+foreign-registered-handsets-on-campus,site/docs/court/ai_attorney/foreign-registered-handsets-on-campus.mdx,thesis,T7,2026-09-01,complete,T1,yes,"241 lines, 20 gap-analysis rows"
+fort-huachuca-records,site/docs/court/ai_attorney/fort-huachuca-records.mdx,instrument,T4,2026-09-01,complete,-,yes,108 lines
+gag-order-and-publicity,site/docs/court/ai_attorney/gag-order-and-publicity.mdx,instrument,-,2026-09-01,complete,-,yes,106 lines
+hearing-audio-and-transcript-release,site/docs/court/ai_attorney/hearing-audio-and-transcript-release.mdx,instrument,ALL,2026-09-01,complete,T1,yes,202 lines
+hospital-and-transport-record,site/docs/court/ai_attorney/hospital-and-transport-record.mdx,instrument,-,2026-09-01,complete,-,yes,106 lines
+house-frontage-camera-canvass,site/docs/court/ai_attorney/house-frontage-camera-canvass.mdx,instrument,T8,2026-09-01,complete,T1,yes,209 lines
+independent-autopsy-review,site/docs/court/ai_attorney/independent-autopsy-review.mdx,instrument,T1,2026-09-01,complete,-,yes,109 lines
+independent-device-reexamination,site/docs/court/ai_attorney/independent-device-reexamination.mdx,instrument,T7,2026-09-01,complete,-,yes,107 lines
+mechanism-of-death-explosive,site/docs/court/ai_attorney/mechanism-of-death-explosive.mdx,thesis,T1,2026-09-01,complete,T1,yes,"241 lines, 18 gap-analysis rows; two extra H3 sections (Elements Analysis, FARO Point Cloud) commissioned this run"
+method,site/docs/court/ai_attorney/method.mdx,spine,-,2026-09-01,complete,T1,yes,109 lines
+microphone-hardware-subpoena,site/docs/court/ai_attorney/microphone-hardware-subpoena.mdx,instrument,T1;T4,2026-09-01,complete,-,yes,107 lines
+nctc-halted-inquiry-subpoena,site/docs/court/ai_attorney/nctc-halted-inquiry-subpoena.mdx,instrument,T3,2026-09-01,complete,-,yes,109 lines
+overview,site/docs/court/ai_attorney/overview.mdx,spine,-,2026-09-01,complete,T1,yes,338 lines
+rental-vehicle-subpoenas,site/docs/court/ai_attorney/rental-vehicle-subpoenas.mdx,instrument,T6,2026-09-01,complete,-,yes,204 lines
+scene-alteration-spoliation,site/docs/court/ai_attorney/scene-alteration-spoliation.mdx,instrument,T2,2026-09-01,complete,-,yes,107 lines
+security-team-clothing,site/docs/court/ai_attorney/security-team-clothing.mdx,instrument,T1,2026-09-01,complete,-,yes,108 lines
+soil-excavation-subpoena,site/docs/court/ai_attorney/soil-excavation-subpoena.mdx,instrument,T2,2026-09-01,complete,-,yes,107 lines
+state-expert-notice-exclusion,site/docs/court/ai_attorney/state-expert-notice-exclusion.mdx,instrument,T1;T2;T9,2026-09-01,complete,-,yes,196 lines
+the-day-one-track,site/docs/court/ai_attorney/the-day-one-track.mdx,spine,-,2026-09-01,complete,-,yes,179 lines
+the-diverted-pursuit,site/docs/court/ai_attorney/the-diverted-pursuit.mdx,thesis,T5,2026-09-01,complete,T1,yes,"239 lines, 20 gap-analysis rows"
+the-university-owned-house,site/docs/court/ai_attorney/the-university-owned-house.mdx,thesis,T8,2026-09-01,complete,T1,yes,"241 lines, 20 gap-analysis rows"
+tpusa-organizational-subpoenas,site/docs/court/ai_attorney/tpusa-organizational-subpoenas.mdx,instrument,T3,2026-09-01,complete,-,yes,107 lines
+transport-suv-custody,site/docs/court/ai_attorney/transport-suv-custody.mdx,instrument,T1,2026-09-01,complete,-,yes,106 lines
+trial-cursor,site/docs/court/ai_attorney/trial-cursor.mdx,spine,-,2026-09-01,complete,-,yes,113 lines
+two-tracks-compared,site/docs/court/ai_attorney/two-tracks-compared.mdx,spine,-,2026-09-01,complete,T1,yes,129 lines
+university-property-records-subpoena,site/docs/court/ai_attorney/university-property-records-subpoena.mdx,instrument,T8,2026-09-01,complete,-,yes,201 lines
+withheld-exculpatory-material,site/docs/court/ai_attorney/withheld-exculpatory-material.mdx,thesis,T9,2026-09-01,complete,T1,yes,"245 lines, 18 gap-analysis rows"

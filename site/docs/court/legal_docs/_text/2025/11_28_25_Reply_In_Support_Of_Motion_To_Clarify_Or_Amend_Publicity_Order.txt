@@ -1,0 +1,415 @@
+JEFFREY S. GRAY # 5852
+Utah County Attorney
+CHAD E. GRUNANDER # 9968
+RYAN MCBRIDE # 13079
+LAUREN HUNT # 14682
+DAVID STURGILL # 7995
+CHRISTOPHER D. BALLARD # 8497
+Deputy Utah County Attorneys
+100 East Center, Suite 2100
+Provo, Utah 84606
+Telephone: (801) 851-8026
+Email: dcourt@utahcounty.gov
+
+
+                   IN THE FOURTH JUDICIAL DISTRICT COURT
+                        UTAH COUNTY, STATE OF UTAH
+
+
+  STATE OF UTAH,                               STATE’S REPLY IN SUPPORT OF
+           Plaintiff,                          MOTION TO AMEND OR CLARIFY
+                                               COURT’S PRE-TRIAL AND TRIAL
+  v.                                           PUBLICITY ORDER (Dkt. #23)
+
+  TYLER JAMES ROBINSON,                               Case No. 251403576
+          Defendant.
+                                                      Judge Tony F. Graf, Jr.
+
+
+                                   INTRODUCTION
+
+       The Court’s September 16, 2025, Protection Order Re: Pre-Trial and Trial Publicity
+
+(Dkt. 23) (the Order) requires clarification and amendment. The Order’s use of the term
+
+“witnesses” is vague and ambiguous. If the Court meant “witnesses” to include only those
+
+who are members of the prosecution or defense teams, then that clarification would resolve
+
+the State’s concerns. But if the Court meant “witnesses” to include additional individuals,
+
+then the Order is flawed because it is not supported by the proper analysis and findings, it
+is vague and overbroad, and it imposes an unreasonable and essentially impossible burden
+
+on the State (and the defense). Defendant has not demonstrated otherwise.
+
+                                          ARGUMENT
+
+I.      The Order’s use of “witnesses” is vague and ambiguous.
+
+         The Order’s use of the term “witnesses” requires clarification because it is not clear
+
+exactly who qualifies as a witness in the context of the order. The term could be read to
+
+refer only to “witnesses … who are members of the prosecution or defense teams.” Order
+
+at 2. As explained, this is the meaning the State believes that the Court intended. See Mot.
+
+at 6.
+
+         Applying the series-qualifier cannon supports this reading. The Court included the
+
+term “witnesses” in a list of nouns followed by the modifier “other members of the
+
+prosecution or defense teams”:
+
+         lawyers participating in the investigation or litigation of this case shall inform
+         all witnesses, investigators, consultants, staff members, or other members of
+         the prosecution or defense teams about the prohibitions contained in this
+         order.
+
+Order at 2 (emphasis added). When a postpositive modifier like “other members of the
+
+prosecution or defense teams” follows a series of nouns like “witnesses, investigators,
+
+consultants …,” id., and there is a “‘straightforward, parallel construction that involves all
+
+nouns … in a series,’” then “‘a postpositive … modifier normally applies to the entire
+
+series,’” Williamson v. Farrell, 2024 UT App 111, ¶ 36, 557 P.3d 214 (quoting Downs v.
+
+Thompson, 2019 UT 63, ¶ 17, 452 P.3d 1101) in turn quoting (Antonin Scalia & Bryan A.
+
+Garner, Reading Law: The Interpretation of Legal Texts 147 (2012)). Thus, the phrase “or
+
+
+                                              2 of 10
+other members of the prosecution or defense teams” modifies all the preceding nouns,
+
+including “witnesses.” Order at 2.
+
+        But the term “witnesses” can be also reasonably read to apply to any member of the
+
+public who was present when the murder occurred, or who has any other personal or
+
+specialized knowledge relevant to this case but will never be called to testify. Those
+
+individuals number in the several thousand. The term can also mean only those lay or
+
+civilian witnesses who, while not members of the prosecution or defense teams, will testify
+
+at trial.
+
+        Defendant’s suggestion that “a witness is someone who has personal or specialized
+
+information that may be presented in court by them … or that may be relied upon by
+
+another person” who testifies, if correct, renders the Order improper for the reasons
+
+explained below. See Obj. at 9. The Order should not, and cannot as written, apply beyond
+
+members of the prosecution or defense teams. The Court must therefore clarify who is
+
+included in the category of “witnesses.”
+
+II.   There is no basis for extending the State’s ethical responsibilities to
+      witnesses beyond those who are part of the prosecution team.
+
+        The Court should not extend the term “witnesses” to apply beyond members of the
+
+prosecution team, because there is no basis or justification for doing so. A prosecutor’s
+
+ethical duties regarding extrajudicial statements by others extend only to members of the
+
+prosecution team. As explained, Rule 3.6 applies only to lawyers. See Utah R. Prof. Resp.
+
+3.6(a). And Rule 3.8 addresses only a prosecutor’s responsibility for members of her team.
+
+See id. R. 3.8(3) (requiring prosecutors to “[e]xercise reasonable care to prevent
+
+
+                                           3 of 10
+investigators, law enforcement personnel, employees, or other persons assisting or
+
+associated with the prosecutor in a criminal case from making an extrajudicial statement”
+
+the prosecutor should not make). Witnesses who are not part of the prosecution team are
+
+not “assisting or associated with the prosecutor.” See id. Rather, they are independent,
+
+objective witnesses who are participating merely because they have personal knowledge
+
+relevant to the trial.
+
+       Defendant cites no statute, rule, or caselaw that extends a prosecutor’s ethical
+
+responsibilities to “witnesses” beyond members of the prosecution team. See Def.’s Obj.
+
+at 2-4. Nor has the State located any such authority.
+
+       As explained in the State’s motion, limiting the prosecutor’s responsibility to those
+
+on her team makes sense because the prosecutor has no basis for exerting any authority
+
+over those beyond that team. See State’s Mem. at 3-7. The Court should therefore clarify
+
+that for purposes of the Order, “witnesses” includes only those on the prosecution or
+
+defense teams.
+
+III. If “witnesses” include persons beyond the prosecution team, then the
+     Order lacks the required analysis and findings to justify a prior restraint
+     on those individuals.
+
+       Besides the lack of any legal authority to extend the parties’ responsibilities for
+
+others beyond those on their respective teams, the Order is insufficient to apply any further
+
+than that. If the Court intends “witnesses” to apply beyond those on the prosecution team,
+
+then the Court must vacate that portion of the Order, hold a hearing after receiving briefing,
+
+conduct the proper analysis, enter detailed findings justifying the prior restraint on non-
+
+prosecution team witnesses and explaining why it is the prosecution’s duty to inform those
+
+                                           4 of 10
+witnesses of the prohibitions in the Court’s order, and further clarify when and how the
+
+prosecution is to fulfill that duty.
+
+     A. The Order is a prior restraint.
+
+       The Court’s Order is a prior restraint. See State ex rel. L.M., 2001 UT App 314, ¶
+
+24, 37 P.3d 1188 (defining prior restraint as an order that “forbids certain communications
+
+in advance of the time that such communications are to occur”) (citing Lawson v. Murray,
+
+515 U.S. 110, 1113 (1995)). As explained, “prior restraints on speech and publication are
+
+the most serious and the least tolerable infringement on First Amendment rights” and
+
+therefore require proper analysis and findings to be valid. Nebraska Press Ass’n v. Stuart,
+
+427 U.S. 539, 559 (1976).
+
+       If “witnesses” means anyone who has relevant information about this case, or even
+
+if it means only those who will testify at trial, the Court’s Order is not supported by the
+
+proper analysis and findings to justify a prior restraint on those individuals. As explained,
+
+to be justified, prior restraints on “non-attorney trial participants” and “non-witness
+
+members of the public” require a demanding analysis and the surmounting of high legal
+
+standards. See Mot. at 4-7 (citing Spencer v. State, 712 S.W.3d 296, 305-07 (Ark. 2025)
+
+and Nebraska Press Ass’n, 427 U.S. at 562). The Court has not engaged in either of these
+
+analyses, nor has it entered findings that would justify a prior restraint on these individuals.
+
+     B.    Extensive media coverage alone neither justifies a prior restraint, nor
+           creates a likelihood of an unfair trial.
+
+       Defendant ignores controlling precedent in asserting that the Court’s recognition of
+
+the extensive media interest in this case alone suffices to justify a prior restraint. See Obj.
+
+
+                                            5 of 10
+at 5-8. A mere finding that a case has garnered even extensive media interest is not
+
+sufficient to justify a prior restraint. See Nebraska Press Ass’n, 427 U.S. at 562; Spencer,
+
+712 S.W.3d at 305-07.
+
+         “Widespread publicity … does not necessarily lead to an unfair trial.” CBS, Inc. v.
+
+United States District Court, 729 F.2d 1174, 1179 (9th Cir. 1984). The Supreme Court
+
+observed in Nebraska Press that “pretrial publicity, even if pervasive and concentrated,
+
+cannot be regarded as leading automatically and in every kind of criminal case to an unfair
+
+trial.” 427 U.S. at 565.
+
+         Indeed, the court in one of the Watergate prosecutions observed that, “despite
+
+perhaps the most pervasive publicity accorded any trial in American history, ‘without
+
+undue effort, it would be possible to empanel a jury whose members had never even heard
+
+the [Watergate] tapes.’” CBS, 729 F.2d at 1180 (quoting United States v. Mitchell, 551 F.2d
+
+1252, 1262 n.46 (D.C. Cir. 1976), rev’d on other grounds sub nom. Nixon v. Warner
+
+Communications, Inc., 435 U.S. 589, (1978)). “The court justified this conclusion by
+
+noting that in a previous Watergate prosecution ten of the twelve jurors selected ‘claimed
+
+to have followed Watergate casually, if at all.’” Id. (quoting Mitchell, 551 F.2d at 1262
+
+n.46).
+
+         The Ninth Circuit has similarly recognized that extensive pretrial publicity is not
+
+necessarily prejudicial, nor sufficient to justify a prior restraint. See CBS, 729 F.2d at 1180.
+
+The CBS case concerned the broadcast of government surveillance tapes in John
+
+DeLorean’s federal cocaine trafficking prosecution. See id. at 1176. The Ninth Circuit held
+
+that “[e]ven if we assume arguendo that a prospective juror who has viewed all or some of
+
+                                            6 of 10
+the investigation tapes is likely to harbor preconceptions that would threaten Mr.
+
+DeLorean’s right to trial by an impartial jury, the test enunciated in Nebraska Press
+
+requires much more to justify prior restraint.” Id. at 1180 (emphasis added). As the
+
+Nebraska Press court held, a prior restraint cannot issue unless it is “clear that further
+
+publicity, unchecked, would so distort the views of potential jurors that 12 could not be
+
+found who would … fulfill their sworn duty.” 427 U.S. at 569.
+
+       A prior restraint therefore requires more than the existence of even extensive pre-
+
+trial publicity. See Mot. at 4-7. Rather, a prior restraint on “non-attorney trial participants”
+
+requires, among other things, a finding that the restrained speech would pose “a serious
+
+and imminent threat of material prejudice to an ongoing criminal proceeding.” Spencer,
+
+712 S.W.3d at 306-07. And a prior restraint on witnesses who will not testify at trial is
+
+likely unjustifiable under any circumstance. See id.
+
+       The Order reflects none of the required analysis or findings sufficient to impose a
+
+prior restraint on witnesses who are not members of the prosecution or defense teams. The
+
+Court should therefore clarify, consistent with the State’s proposed understanding, that
+
+“witnesses” means only those who are a part of counsels’ respective teams.
+
+     C.    The State is not attempting to assert the rights of third parties.
+
+       Defendant’s assertion that the State is improperly asserting the rights of third parties
+
+is unfounded. See Obj. at 4 n.3. The Order requires the State (and defense counsel) to take
+
+certain actions and therefore exposes the State’s attorneys, and this prosecution, to
+
+sanctions for noncompliance. See Order at 2 (requiring counsel to “inform all witnesses
+
+…about the prohibitions contained in this order”). The Order further requires the State to
+
+                                            7 of 10
+inform individuals of what the State believes is an unjustified prior restraint on their First
+
+Amendment rights. Because these issues directly affect the State, its attorneys, and this
+
+prosecution, the State properly raises these issues.
+
+IV. The Order is vague and overbroad if it applies beyond members of the
+    prosecution and defense teams.
+
+       As demonstrated, the Order is vague because it does not explain whether it applies
+
+to any possible witness, may-call and will-call witnesses, or only will-call witnesses. It also
+
+does not explain when or how the parties must notify those witnesses. It also fails to specify
+
+whether the parties are equally responsible for notifying all witnesses, or whether the
+
+prosecution is required to notify the witnesses that it may or will call, while the defense
+
+must notify the witnesses it may or will call.
+
+       If “witnesses” means what Defendant asserts—anyone with personal or specialized
+
+knowledge about the relevant events, see Obj. at 9—then the Order is also overbroad,
+
+because it would apply to thousands of members of the public who were present during the
+
+murder, but will not be trial participants. Again, “it is difficult to foresee any circumstance
+
+in which a prior restraint on the speech of a member of the public … could be
+
+constitutional.” Spencer, 712 S.W.3d at 307. The Court must therefore clarify and, if
+
+necessary, amend the Order.
+
+V.   The Order imposes an unreasonable and essentially impossible burden on
+     the State.
+
+       Finally, if “witnesses” means anyone with personal knowledge about the relevant
+
+events, as Defendant contends, then it imposes an unreasonable and potentially impossible
+
+burden on the State (and the defense for that matter) to notify those “witnesses … about
+
+                                           8 of 10
+the prohibitions contained in [the] order.” See Order at 2. Again, those individuals number
+
+in the several thousand and many are unidentified. Certainly, the Court could not have
+
+intended the parties to do what is essentially impossible.
+
+                                     CONCLUSION
+
+       The Court should clarify that its Order is limited to members and witnesses on the
+
+prosecution or defense teams and does not apply to all potential lay or civilian witnesses.
+
+       Dated November 28, 2025.
+
+                                                 Utah County Attorney’s Office
+
+                                                  s/ Christopher D. Ballard
+                                                 Ryan McBride
+                                                 Christopher D. Ballard
+                                                 Deputy Utah County Attorneys
+
+                                                 Counsel for Plaintiff
+
+
+
+
+                                          9 of 10
+                           CERTIFICATE OF SERVICE
+
+      I certify that on November 28, 2025, I filed the foregoing STATE’S REPLY IN
+
+SUPPORT OF MOTION TO AMEND OR CLARIFY COURT’S PRE-TRIAL AND
+
+TRIAL PUBLICITY ORDER (Dkt. #23) through the court’s electronic filing system,
+
+which served a copy on all counsel of record. I also emailed a copy to counsel for the
+
+interested news media as follows:
+
+      C. Michael Judd
+      mjudd@parsonsbehle.com
+
+      Jeffrey J. Hunt
+      jhunt@parrbrown.com
+
+      David C. Reymann
+      dreymann@parrbrown.com
+
+      Carissa A. Uresk
+      curesk@parrbrown.com
+
+                                               s/ Christopher D. Ballard
+                                              Christopher D. Ballard
+
+
+
+
+                                       10 of 10
+

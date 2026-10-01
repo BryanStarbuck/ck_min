@@ -1,0 +1,85 @@
+id: '2081356331886240173'
+url: 'https://x.com/Villgecrazylady/status/2081356331886240173'
+author:
+  username: 'Villgecrazylady'
+  name: 'Mel'
+  id: '1277594966705963009'
+text: |
+  KSL's Chopper 5 made its initial descent into Prove at 1:38 pm local time on 9/10.
+
+  They left 2 hours later.
+
+  The screwdriver wasn't on the roof.
+created_at: '2026-07-26T12:29:53.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 51
+  reply_count: 14
+  like_count: 335
+  quote_count: 2
+  bookmark_count: 23
+  impression_count: 12038
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2080782598058786816'
+      duration_ms: 95248
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2080782598058786816/img/WZOGHiPACctBVJu9.jpg'
+      from_quoted_status: true
+      local_file: 'videos/2080783022367162519.mp4'
+      ipfs_cid: 'Qme2M43yTB8mUuMuJs8Svw3kGUoYDk22gbC25GN8q9zxby'
+      best_variant_url: 'https://video.twimg.com/amplify_video/2080782598058786816/vid/avc1/1920x1080/6RjT0GQ_Hz-LxC9D.mp4'
+  images:
+    - type: photo
+      media_key: '3_2081356326949502976'
+      url: 'https://pbs.twimg.com/media/HOJ2jUbWQAAcCqy.jpg'
+      width: 2048
+      height: 1240
+      local_file: 'images/2081356331886240173_1.jpg'
+      sha256: 'da55365b830e2b35e9750b7c30238ea9058ae46a5ab57b88a647c4413f75a855'
+      ipfs_cid: 'Qme1va8gieqTsZAFucrvpStiued45xm6LuP4gCm4DXPt89'
+      description: 'FlightRadar24 playback of N155TV (KSL Chopper 5, Bell 206L-3 LongRanger III, serial 51339, squawk 0105, from Bountiful BTF). Playback time 7:38 PM UTC. Barometric altitude 5,850 ft, GPS 6,025 ft, ground speed 76 kts, vertical speed -832 fpm, track 145 degrees. Green track shows dozens of stacked orbits centered on the Utah Valley University campus; aircraft symbol circled in red near the Fulton Library.'
+    - type: photo
+      media_key: '3_2081356326936965120'
+      url: 'https://pbs.twimg.com/media/HOJ2jUYW8AAsvhV.jpg'
+      width: 2048
+      height: 1572
+      local_file: 'images/2081356331886240173_2.jpg'
+      sha256: '1a85537ffb16e6dc4e07220859cc5d4c480e44d19eb63d1eae4cc8190c7b63e4'
+      ipfs_cid: 'QmRwjZt7twsRUKK8aqgzgJKnuv5Vf1AXPGon66rWttaWLA'
+      description: 'FlightRadar24 playback of N155TV. Playback time 9:12 PM UTC. Barometric altitude 7,475 ft, GPS 7,550 ft, ground speed 67 kts, vertical speed -64 fpm, track 129 degrees. Aircraft has left the orbit stack and is southeast over Provo near S State St; playback slider near the end of the track.'
+media_from_quoted_status:
+  quoted_status_id: '2080783022367162519'
+  quoted_status_url: 'https://x.com/TootyTracksuit/status/2080783022367162519'
+  quoted_author: '@TootyTracksuit'
+  quoted_created_at: '2026-07-24T22:31:46.000Z'
+  quoted_replied_to: '@baroncoleman'
+  quoted_text: |
+    For those who watched yesterday, here's the KSL media coverage of those officers on the roof with Bagley.
+
+    - notice all the bodycams
+
+    - notice the "sniper perch" is taped off
+
+    - Notice the lack of evidence tape just "15ft from the banister" where officer Bagley allegedly found a screwdriver
+
+    - The screwdriver is not there.
+
+    And this IS in 4K HD.
+  quoted_public_metrics:
+    like_count: 813
+    retweet_count: 147
+    impression_count: 77912
+    bookmark_count: 185
+transcription:
+  file: 'videos_transcription/2080783022367162519.md'
+  usable: false
+  note: 'Aerial news footage with no narration. Only intelligible speech is cockpit audio: "And we will make sure we are so, uh, lower than 5,000. Come on."'
+notes: |
+  The two screenshots carry no visible calendar date. The 9/10/2025 date is asserted by the
+  poster, not shown in the images. 7:38 PM UTC = 1:38 PM MDT and 9:12 PM UTC = 3:12 PM MDT,
+  an interval of 1 hour 34 minutes, which the post rounds to "2 hours."
+site_page: 'site/docs/Suspicious/UVU_9_10/ksl-chopper-screwdriver-absent.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-26'
+temp_file: false

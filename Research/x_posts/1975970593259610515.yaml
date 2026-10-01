@@ -1,0 +1,87 @@
+id: '1975970593259610515'
+url: 'https://x.com/Mia_Stretch/status/1975970593259610515'
+author:
+  username: 'Mia_Stretch'
+  name: 'MIA'
+  id: '1812304718502518784'
+text: |
+  @ryanmatta @RealCandaceO @ShadowofEzra @ImMeme0 @BlakeBednarz @swordtruth Russell Kim Kennington booked on 9/11/25 at 12:33 PM
+  So Obvious WATCH THE VIDEO
+  ITS A RIFLE..
+created_at: '2025-10-08T17:04:35.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 1944
+in_reply_to:
+  status_id: '1975862675251851748'
+  url: 'https://x.com/ryanmatta/status/1975862675251851748'
+  author: '@Ryanmatta'
+  followers: 453532
+  text: |
+    Meet Russell Kennington, He is a 38 year old, retired, US Army, combat medic
+    who was arrested for criminal trespassing after he was caught tampering with
+    the Charlie Kirk crime scene at Utah Valley University. When he was arrested,
+    one of the sheriff's was photographed carrying what looks like a bolt action
+    long rifle.
+mentioned_accounts:
+  - '@ryanmatta'
+  - '@RealCandaceO'
+  - '@ShadowofEzra'
+  - '@ImMeme0'
+  - '@BlakeBednarz'
+  - '@swordtruth'
+attachments:
+  videos:
+    - type: video
+      media_key: '13_1975970531460734977'
+      duration_ms: 27714
+      width: 1080
+      height: 1080
+      local_file: 'videos/1975970593259610515.mp4'
+      ipfs_cid: 'QmcWL2KW2RcZ2MWe8EXhxUURgSuihPyjmkMxJvs49pevoZ'
+      description: 'Split-screen: left panel frozen zoom on the escort still, right panel the moving TikTok footage of the same walk. Originally posted to TikTok by @chelsealaroe; watermarked @THEINTELSCIF. No speech.'
+  images:
+    - type: photo
+      media_key: '3_1975970531473346560'
+      url: 'https://pbs.twimg.com/media/G2wOuq8b0AANh8b.jpg'
+      width: 1182
+      height: 2048
+      local_file: 'images/1975970593259610515_1.jpg'
+      ipfs_cid: 'QmTqfYCFtahd56gF7giuLS6N8eTHjtmqJXy6Dd8mUNH8NX'
+      description: 'Jail booking record for KENNINGTON, RUSSELL KIM'
+    - type: photo
+      media_key: '3_1975970531406163969'
+      url: 'https://pbs.twimg.com/media/G2wOuqsasAEQLQn.jpg'
+      width: 398
+      height: 979
+      local_file: 'images/1975970593259610515_2.jpg'
+      ipfs_cid: 'QmX1G7JSYwPR2doGzJqLTCqxMd1ZHggmM1dpvHBm63PV6T'
+      description: 'Tight zoom crop of the officer carrying the rifle-shaped object during the escort'
+booking_record:
+  name: 'KENNINGTON, RUSSELL KIM'
+  arrested: '2025-09-11 11:30:00'
+  arresting_agency: 'Orem PD'
+  booked: '2025-09-11 12:33:28'
+  booking_no: '460928'
+  released: '2025-09-11 18:16:07'
+  status: 'Booked Out'
+  height: '511'
+  weight: '204'
+  eyes: 'BLU'
+  hair: 'BRO'
+  sex: 'M'
+  yob: '1987'
+  birth_country: 'USA'
+  time_in_custody: '6 hours 46 minutes (arrest to release)'
+transcription:
+  attempted: true
+  result: 'empty — 1 word. The clip has no speech. Apple SpeechAnalyzer returned nothing; Whisper small fallback returned a single token.'
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false
+site_page: 'site/docs/distraction_people/Russell_Kennington.mdx'

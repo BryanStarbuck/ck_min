@@ -1,0 +1,1261 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Remove the theme breadcrumb bar (home icon > chevron > section) site-wide.
+   The inline blue "← Home" button in page content is unaffected. */
+.theme-doc-breadcrumbs {
+  display: none !important;
+}
+
+/* Hide expand arrow and child items for categories marked no-expand */
+.no-expand-sidebar > .menu__list {
+  display: none !important;
+}
+.no-expand-sidebar > .menu__list-item-collapsible .menu__caret {
+  display: none !important;
+}
+
+/* ============================================================
+   Full-bleed layout — SITE-WIDE across every Level 2 & Level 3 page.
+   Each such page carries an invisible <div className="ck-full-bleed" />
+   marker in its MDX plus `hide_table_of_contents: true` in frontmatter.
+   Every rule below is scoped with :has(.ck-full-bleed), so it applies
+   only to doc content containers that hold the marker — the navbar and
+   footer are never affected. Pages without the marker keep the default
+   capped-width Docusaurus layout. This pattern was first proven on the
+   Suspects/Black_Clothing_Suspect page and then rolled out site-wide.
+   ============================================================ */
+
+/* The marker element renders nothing. */
+.ck-full-bleed {
+  display: none;
+}
+
+/* 1) Use the full browser width. Docusaurus caps the content .container
+   at ~1140px (and 1416px on very wide screens), leaving white gutters on
+   the left and right. Remove that cap for this page only. This is the one
+   rule that needs :has() (we can't add a class to .container from MDX). */
+.container:has(.ck-full-bleed) {
+  max-width: none;
+}
+
+/* 2) Side videos float right with text wrapping around them. SITE RULE: a
+   side video may never be wider than 35% of the MAIN READING AREA (the doc
+   content column, which excludes the left sidebar), and it may never be
+   TALLER than that same 35%-of-width measure either — so a tall (portrait)
+   clip shrinks instead of towering down the page. Aspect ratio is always
+   preserved.
+
+   How the 35% is measured: the doc markdown wrapper is turned into a CSS
+   container (container-type: inline-size) whenever it holds a .ck-video, so
+   the `cqw` unit resolves to 1% of that wrapper's inline size — i.e. 1% of
+   the main content-area width, independent of the left sidebar. `35cqw` is
+   therefore exactly "35% of the main area." This is scoped via :has() to
+   pages that actually carry a side video, so nothing else is affected. */
+.theme-doc-markdown:has(.ck-video),
+.theme-doc-markdown:has(.ck-anchor-right),
+.theme-doc-markdown:has(.ck-shape-charge) {
+  container-type: inline-size;
+}
+
+/* The figure shrink-wraps its media (fit-content) so no empty gutter is
+   left beside a portrait clip, and is hard-capped at 35% of the main area. */
+.ck-video,
+.ck-video--16x9 {
+  float: right;
+  width: fit-content;
+  max-width: 35cqw;
+  margin: 0.25rem 0 1rem 1.5rem;
+}
+
+/* The <video> is capped at 35% of the main-area width in BOTH dimensions.
+   With width/height:auto plus the two max-* limits, the browser's
+   replaced-element sizing keeps the native aspect ratio while honoring both
+   caps — the width cap governs landscape clips, the height cap governs
+   portrait clips, and the smaller wins. `!important` on width/height defeats
+   any inline width:100% left on older embeds so the aspect ratio can never
+   be forced. (The .ck-video--16x9 modifier is now redundant — every side
+   video shares this single 35% cap — but is kept as a harmless alias so
+   existing markup keeps working.) */
+.ck-video video,
+.ck-video--16x9 video {
+  display: block;
+  width: auto !important;
+  height: auto !important;
+  max-width: 35cqw;
+  max-height: 35cqw;
+}
+
+/* YouTube / X embeds use an <iframe>. A 16:9 box at 35cqw wide is ~19.7cqw
+   tall — already inside the 35% height cap — so a plain width cap suffices. */
+.ck-video iframe,
+.ck-video--16x9 iframe {
+  display: block;
+  width: 35cqw;
+  max-width: 100%;
+  max-height: 35cqw;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+}
+
+.ck-video .ck-caption,
+.ck-video--16x9 .ck-caption {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.5rem;
+}
+
+/* 2b) Quarter-width side video. A specific clip we want smaller than the 35%
+   site cap: no wider than 25% of the main reading area. The height cap is
+   released to `none` so the width — not the height — is always the governing
+   dimension, which lets a portrait (tall) clip still reach the full 25% width
+   while prose wraps down its left edge. Still floats right via the base
+   .ck-video rule; still unfloats on phones via the media query below. */
+.ck-video--quarter {
+  max-width: 25cqw;
+}
+.ck-video--quarter video {
+  max-width: 25cqw;
+  max-height: none;
+}
+.ck-video--quarter iframe {
+  width: 25cqw;
+}
+
+/* 2b-2) Stacked media column. A single right-floated column holding two or
+   more pieces of media that must share one width and stack vertically rather
+   than sit side by side. Two separate 50% floats would pack into one row; one
+   50% float containing both forces the stack. Every child stretches to the
+   column width, so a video and an image below it come out exactly the same
+   size. Width is a plain percentage (not cqw) so it does not depend on the
+   container-type scoping above. Prose still wraps down the left edge. */
+.ck-media-stack {
+  float: right;
+  width: 50%;
+  max-width: 50%;
+  margin: 0.25rem 0 1rem 1.5rem;
+}
+.ck-media-stack iframe,
+.ck-media-stack video,
+.ck-media-stack img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  border: 0;
+}
+.ck-media-stack iframe {
+  aspect-ratio: 16 / 9;
+}
+.ck-media-stack > * + * {
+  margin-top: 1rem;
+}
+.ck-media-stack .ck-caption {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.5rem;
+}
+
+/* On phones, stop floating and go full width like the other media blocks. */
+@media (max-width: 768px) {
+  .ck-media-stack {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* 2c) Wide centered video. 50% larger than the 35% site cap (35 * 1.5 =
+   52.5cqw) and NOT floated — it sits as its own block, centered in the main
+   reading area, with prose above and below rather than beside it. Used for a
+   feature clip that deserves to be the focus of its section. The height cap
+   is released so width is always the governing dimension. These selectors
+   have the same specificity as the base .ck-video rules and come later, so
+   they win; the phone media query below still out-orders them and stacks the
+   clip full width. */
+.ck-video--wide-center {
+  float: none;
+  max-width: 52.5cqw;
+  margin: 1rem auto 1.5rem;
+}
+.ck-video--wide-center video {
+  max-width: 52.5cqw;
+  max-height: none;
+  margin: 0 auto;
+}
+.ck-video--wide-center iframe {
+  width: 52.5cqw;
+  max-height: none;
+  margin: 0 auto;
+}
+.ck-video--wide-center .ck-caption {
+  text-align: center;
+}
+
+/* 3) On phones/narrow screens, stop floating — stack the video full width
+   so it never crowds the text or overflows. The 35% caps are released here
+   because on a phone the "main area" is the whole screen. */
+@media (max-width: 768px) {
+  .ck-video,
+  .ck-video--16x9 {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+  .ck-video video,
+  .ck-video--16x9 video {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100%;
+    max-height: none;
+  }
+  .ck-video iframe,
+  .ck-video--16x9 iframe {
+    width: 100%;
+    max-height: none;
+  }
+  /* Release the 25% caps on phones too — these selectors out-specify the
+     .ck-video--quarter rules above, so the clip goes full width like the rest. */
+  .ck-video--quarter,
+  .ck-video--quarter video {
+    width: 100%;
+    max-width: 100%;
+  }
+  .ck-video--quarter iframe {
+    width: 100%;
+  }
+}
+
+/* 4) Anchored right-side image figure. Sits IN the page flow (float, not
+   position:fixed / sticky) so it scrolls with the document and never hovers
+   over the browser chrome. Its right edge lines up with the far right of the
+   main reading area, it occupies 30% of that area's width, its top begins
+   immediately below whatever element precedes it (normally the page H1), and
+   the surrounding prose flows down its left edge and wraps under it.
+   clear:right keeps it from sharing a line with any other right-floated media
+   such as .ck-video. Unfloats to full width on phones. */
+.ck-anchor-right {
+  float: right;
+  clear: right;
+  width: 30%;          /* fallback for engines without container queries */
+  max-width: 30%;
+  width: 30cqw;
+  max-width: 30cqw;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.ck-anchor-right img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.ck-anchor-right .ck-caption {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .ck-anchor-right {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* 5) Shape-charge footer figure. Used by the block that closes each Level 2
+   overview: a line of text on the LEFT, the "Visual Representation of Reported
+   Injuries" chart on the RIGHT.
+
+   Rules this implements, in order of precedence:
+     1. ANCHORED IN THE PAGE. It floats inside the document flow, so it scrolls
+        with the prose. Never position: fixed and never position: sticky — it is
+        anchored to the page, not to the browser window.
+     2. RIGHT ALIGNED. Its right edge lines up with the right edge of the main
+        reading area (the content column, left sidebar excluded).
+     3. 50% OF THE MAIN AREA WIDE — the default width.
+     4. AT LEAST THE TOP 40% OF THE IMAGE HEIGHT ON SCREEN. If rendering at 50%
+        would make the image so tall that less than 40% of its height fits in
+        one screenful, it renders NARROWER than 50% until that holds. That is
+        the only thing allowed to reduce the width.
+     5. ASPECT RATIO ALWAYS PRESERVED. The width cap and the height cap are both
+        expressed as widths, and the <img> is width:100% / height:auto, so the
+        image is never stretched in either direction.
+
+   How rule 4 becomes a width: one screenful of reading area is
+   (100vh - 6rem) after the navbar and breathing room. For 40% of the image to
+   fit in it, the rendered height may be at most 2.5x that. Multiplying a height
+   cap by the image's own width/height ratio (--ck-sc-aspect) turns it into a
+   width cap, and min() takes whichever of the two caps is tighter. */
+.ck-shape-charge {
+  --ck-sc-aspect: 0.7075;   /* 1055 / 1491 — the injuries chart */
+  clear: both;
+  margin-top: 2rem;
+}
+
+.ck-shape-charge .ck-shape-charge-figure {
+  float: right;
+  clear: right;
+  margin: 0 0 1rem 1.5rem;
+  width: 50%;               /* fallback for engines without container queries */
+  width: min(
+    50cqw,
+    calc((100vh - 6rem) * 2.5 * var(--ck-sc-aspect))
+  );
+}
+
+.ck-shape-charge .ck-shape-charge-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.ck-shape-charge .ck-shape-charge-figure figcaption {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-top: 0.4rem;
+}
+
+.ck-shape-charge .ck-shape-charge-text {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+/* Phones: no room for a 50% column, so it stacks — text, then image. */
+@media (max-width: 768px) {
+  .ck-shape-charge .ck-shape-charge-figure {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+/* CK_EVIDENCE_LAYOUT_START */
+/* Image-evidence pages under /Photos. This block is the single implementation
+   of image_planning/layout_guidelines.txt — that file is authoritative, this is
+   generated from it by image_planning/generator/gen_photos_pages.py. Do not
+   hand-edit; change the guidelines, change the generator, rerun.
+
+     1. The image lives IN THE PAGE, not pinned to the browser window. It is in
+        the document flow and scrolls up with the prose. Never position: fixed
+        and never position: sticky here.
+     2. The image is OPAQUE and paints above everything else. Transparent PNGs
+        get an opaque backing so page text can never show through them.
+     3. The prose WRAPS AROUND the image where there is a readable gutter, and
+        resumes full width below it. Nothing flows under or over the image.
+     4. Square corners. An image never loses its corners to a border radius.
+
+   THE BOUNDING BOX. Width ceiling: up to 85% of the main area (the content
+   column, sidebar excluded). Height ceiling: one screen, less the navbar and
+   6rem of breathing room. The image scales inside the box preserving aspect
+   ratio and whichever ceiling it meets first governs; it is never upscaled
+   past its intrinsic size. A wide image hits the width ceiling and SHOULD take
+   the full 85%. A tall image hits the height ceiling and comes out narrower
+   than 85% on its own — that is correct, and it is not padded out.
+
+   Sizing by the viewport is not anchoring to the viewport: the viewport says
+   how big the box may be, then the box travels with the page.
+
+   TWO LAYOUTS, chosen per image by the generator from its intrinsic aspect
+   ratio (see layout_class()):
+     .ck-evidence-wide  full-width block up to 85%, prose resumes below it —
+                        used when a float would leave a gutter under ~18rem.
+     .ck-evidence-tall  floats right, prose wraps beside it and below it. */
+.ck-evidence-image-wrap {
+  display: block;
+  position: relative;
+  z-index: 3;
+  width: fit-content;
+  background: var(--ifm-background-surface-color, #fff);
+  border-radius: 0;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  line-height: 0;
+  isolation: isolate;
+}
+/* Wide / landscape: width-limited, so it takes the full 85% of the main area
+   and the prose runs full width underneath rather than in a narrow gutter. */
+.ck-evidence-image-wrap.ck-evidence-wide {
+  float: none;
+  clear: both;
+  margin: 0 auto 1.5rem auto;
+  max-width: 85%;
+}
+/* Tall / portrait / square: height-limited, so it comes out narrow on its own
+   and leaves a readable column beside it. Float it and let the text wrap. */
+.ck-evidence-image-wrap.ck-evidence-tall {
+  float: right;
+  clear: right;
+  margin: 0 0 1.25rem 1.5rem;
+  max-width: 85%;
+}
+.ck-evidence-image {
+  display: block;
+  max-width: 100%;
+  max-height: calc(100vh - var(--ifm-navbar-height, 60px) - 6rem);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color, #fff);
+  opacity: 1;
+  border-radius: 0;
+}
+/* The prose column is never width-capped: the image reserves its own space and
+   the text flows around what is left. !important overrides the inline maxWidth
+   that older generated pages still carry from the superseded pinned layout. */
+.ck-evidence-text {
+  position: static;
+  max-width: none !important;
+}
+/* A heading must not be squeezed into the gutter beside a floated image. */
+.ck-evidence-text > h2 {
+  overflow-wrap: break-word;
+}
+/* Below the mobile breakpoint every image is a full-width block: a side-by-side
+   float has no room to work at this width. */
+@media (max-width: 996px) {
+  .ck-evidence-image-wrap,
+  .ck-evidence-image-wrap.ck-evidence-wide,
+  .ck-evidence-image-wrap.ck-evidence-tall {
+    float: none;
+    clear: both;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+  .ck-evidence-image {
+    max-height: none;
+  }
+}
+/* The "Next Image" button (image_planning/p_next_buttons.md) sits directly
+   under the image and walks the whole corpus one picture at a time, looping the
+   last image back to the first. Dark navy fill, white label, white right
+   chevron. It is an immediate sibling of the image wrapper, so it inherits the
+   wrapper's layout: it clears beneath a floated (tall) image aligned to the
+   image's right edge, and centers under a full-width (wide) image. */
+.ck-next-image-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  background: #0d2b6b;
+  color: #fff !important;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.ck-next-image-btn:hover,
+.ck-next-image-btn:focus {
+  background: #08205a;
+  color: #fff !important;
+  text-decoration: none;
+}
+.ck-next-image-btn svg {
+  display: inline-block;
+  flex: none;
+}
+.ck-evidence-image-wrap.ck-evidence-tall + .ck-next-image-btn {
+  float: right;
+  clear: right;
+  margin: 0 0 1.25rem 1.5rem;
+}
+.ck-evidence-image-wrap.ck-evidence-wide + .ck-next-image-btn {
+  display: flex;
+  width: fit-content;
+  clear: both;
+  margin: 0 auto 1.5rem auto;
+}
+@media (max-width: 996px) {
+  .ck-evidence-image-wrap.ck-evidence-tall + .ck-next-image-btn,
+  .ck-evidence-image-wrap.ck-evidence-wide + .ck-next-image-btn {
+    float: none;
+    clear: both;
+    margin: 1rem 0;
+  }
+}
+/* CK_EVIDENCE_LAYOUT_END */
+
+/* CK_PLACED_IMAGES_START */
+/* Stage 6 of p_yaml_to_site.md — the gallery of images placed on a topic page
+   from the YAML's should_be_on_pages. A responsive grid at the bottom of the
+   page; each tile is a fixed-height thumbnail that never crops (object-fit:
+   contain) and clicks through to that image's own Photos page. */
+.ck-placed-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.25rem;
+  margin: 1rem 0 2rem 0;
+  clear: both;
+}
+.ck-placed-figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.ck-placed-figure > a {
+  display: block;
+  background: var(--ifm-background-surface-color, #fff);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.28);
+  line-height: 0;
+}
+.ck-placed-img {
+  display: block;
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color, #fff);
+}
+.ck-placed-caption {
+  font-size: 0.82rem;
+  line-height: 1.35;
+  margin-top: 0.45rem;
+  color: var(--ifm-color-emphasis-700);
+}
+@media (max-width: 996px) {
+  .ck-placed-gallery { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+  .ck-placed-img { height: 150px; }
+}
+/* CK_PLACED_IMAGES_END */
+
+/* CK_LEAD_IMAGE_START */
+/* The page's LEAD image — the one picture the article itself is about. It sits
+   high on the page (after the intro, above the first table or first ## section)
+   rather than in the bottom gallery, because an article's own evidence must not
+   be ranked below the cards that send a reader somewhere else. Roughly 2.25x
+   the 190px bottom-gallery thumbnail: 430px tall, capped at 760px wide so it
+   never runs the full column. object-fit: contain, so nothing is ever cropped. */
+.ck-lead-figure {
+  margin: 1.25rem 0 1.9rem 0;
+  clear: both;
+}
+.ck-lead-figure > a {
+  display: block;
+  max-width: 760px;
+  background: var(--ifm-background-surface-color, #fff);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.28);
+  line-height: 0;
+}
+.ck-lead-img {
+  display: block;
+  width: 100%;
+  height: 430px;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color, #fff);
+}
+.ck-lead-caption {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+  max-width: 760px;
+  color: var(--ifm-color-emphasis-700);
+}
+@media (max-width: 996px) {
+  .ck-lead-img { height: 260px; }
+}
+/* CK_LEAD_IMAGE_END */
+
+
+/* CK_NAV_GALLERY_START */
+/* Owned by site/inject_nav_gallery.py. The navigation gallery injected onto
+   every non-root overview page under Photos/ and Videos/: below the in-body
+   table of contents and directly above "Related Areas". Two columns — one tile
+   on the left, one on the right — each filling its half of the main column at
+   full width. Right sidebar is off on these pages (hide_table_of_contents:true)
+   so the grid spans the whole main area. Each tile keeps the media's real
+   aspect ratio (set inline from the actual pixels) and links to that leaf page;
+   tiles cascade down the page until every leaf in the subtree is shown. */
+.ck-nav-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+  clear: both;
+  align-items: start;
+}
+.ck-nav-gallery .ck-nav-tile {
+  display: block;
+  line-height: 0;
+  background: var(--ifm-background-surface-color, #fff);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.ck-nav-gallery .ck-nav-tile:hover,
+.ck-nav-gallery .ck-nav-tile:focus {
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.55);
+  transform: translateY(-2px);
+}
+.ck-nav-gallery .ck-nav-tile img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color, #fff);
+}
+/* Below the mobile breakpoint the two columns stack into one. */
+@media (max-width: 996px) {
+  .ck-nav-gallery {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+/* CK_NAV_GALLERY_END */
+
+/* CK_MEDIA_WALL_START */
+/* Owned by site/build_plane_media_pages.py — the two-column media walls on
+   /Planes/Plane-Photos and /Planes/Plane-Videos. Each tile carries its own
+   aspect-ratio inline, measured from the real pixels, so nothing is stretched
+   to the column width and nothing is cropped. */
+.ck-media-wall {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem 1.5rem;
+  margin: 1.5rem 0 2rem 0;
+  clear: both;
+  align-items: start;
+}
+.ck-media-cell {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.ck-media-shot {
+  display: block;
+  line-height: 0;
+  background: var(--ifm-background-surface-color, #fff);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+a.ck-media-shot:hover,
+a.ck-media-shot:focus {
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.55);
+  transform: translateY(-2px);
+}
+/* width:100% + the inline aspect-ratio is what preserves the true shape; the
+   contain fallback covers any tile whose pixels could not be measured. */
+.ck-media-shot img,
+.ck-media-shot video {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color, #fff);
+}
+.ck-media-shot video {
+  background: #000;
+}
+.ck-media-cap {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin-top: 0.6rem;
+  color: var(--ifm-font-color-base);
+}
+.ck-media-cap a {
+  font-weight: 600;
+}
+/* The every-fourth-video interlude. Full page width, set apart from the wall
+   above and below it, and deliberately not styled as a quotation — it is the
+   site speaking, not a source. */
+.ck-media-note {
+  clear: both;
+  margin: 2.25rem 0;
+  padding: 1.1rem 1.35rem;
+  border-left: 4px solid var(--ifm-color-primary);
+  background: var(--ifm-background-surface-color, rgba(127, 127, 127, 0.08));
+  border-radius: 0 4px 4px 0;
+  line-height: 1.65;
+}
+.ck-media-note > :last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 996px) {
+  .ck-media-wall {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+/* CK_MEDIA_WALL_END */
+
+/* CK_VIDEO_LAYOUT_START */
+/* Owned by videos_planning/generator/gen_videos_pages.py. Implements
+   videos_planning/layout_guidelines.txt. Do not hand-edit; do not write into
+   the CK_EVIDENCE_LAYOUT or CK_PLACED_IMAGES blocks from the videos pipeline. */
+.ck-video-wrap {
+  position: static;
+  display: block;
+  margin: 0 0 1.25rem 0;
+  padding: 0;
+  border-radius: 0;
+  background: var(--ifm-background-color);
+  opacity: 1;
+  z-index: 1;
+  line-height: 0;
+}
+.ck-video-wrap .ck-video-media {
+  display: block;
+  border-radius: 0;
+  background: #000;
+  opacity: 1;
+  max-width: 100%;
+  max-height: calc(100vh - var(--ifm-navbar-height, 60px) - 6rem);
+}
+.ck-video-wrap--full {
+  width: 85%;
+  max-width: 85%;
+  clear: both;
+}
+.ck-video-wrap--full .ck-video-media {
+  width: 100%;
+  height: auto;
+}
+.ck-video-wrap--wrapped {
+  float: left;
+  width: auto;
+  max-width: 45%;
+  margin: 0 1.75rem 1rem 0;
+}
+.ck-video-wrap--wrapped .ck-video-media {
+  width: auto;
+  height: calc(100vh - var(--ifm-navbar-height, 60px) - 6rem);
+  max-width: 100%;
+}
+.ck-video-wrap--embed {
+  aspect-ratio: 16 / 9;
+}
+.ck-video-wrap--embed .ck-video-media {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.ck-video-wrap--pending .ck-video-media {
+  width: 100%;
+  height: auto;
+}
+.ck-video-text {
+  max-width: none !important;
+  width: auto !important;
+  line-height: var(--ifm-line-height-base);
+}
+.ck-video-text::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+@media (max-width: 996px) {
+  .ck-video-wrap--wrapped,
+  .ck-video-wrap--full {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 1.25rem 0;
+  }
+  .ck-video-wrap--wrapped .ck-video-media {
+    width: 100%;
+    height: auto;
+  }
+}
+/* The "Next Video" button (videos_planning/p_next_buttons.md) sits directly
+   under the player and walks the whole corpus one clip at a time, looping the
+   last video back to the first. Dark navy fill, white label, white right
+   chevron. It is an immediate sibling of the player wrapper, so it inherits the
+   wrapper's layout: it clears beneath a floated (vertical) player aligned to the
+   clip's left edge, and drops full-width under a landscape / media-pending
+   player. Its ~4px pill radius never inherits the player's border-radius:0. */
+.ck-video-next {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  clear: both;
+  margin: 0 0 1.25rem 0;
+  padding: 0.45rem 1rem;
+  background: #0d2b6b;
+  color: #fff !important;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.ck-video-next:hover,
+.ck-video-next:focus {
+  background: #08205a;
+  color: #fff !important;
+  text-decoration: none;
+}
+.ck-video-next:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+.ck-video-next svg {
+  display: inline-block;
+  flex: none;
+}
+.ck-video-wrap--wrapped + .ck-video-next {
+  float: left;
+  clear: left;
+  margin: 0 0 1.25rem 0;
+}
+@media (max-width: 996px) {
+  .ck-video-wrap--wrapped + .ck-video-next {
+    float: none;
+    clear: both;
+    margin: 1rem 0;
+  }
+}
+/* CK_VIDEO_LAYOUT_END */
+
+/* CK_PLACED_VIDEOS_START */
+/* Cards placed on topic pages by the videos pipeline. Never a player: the
+   player lives on the video's own page under /Videos and everything else
+   links to it. */
+.ck-placed-videos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1rem 0 1.5rem 0;
+}
+.ck-placed-video {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-surface-color);
+}
+.ck-placed-video img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+  background: #000;
+}
+.ck-placed-video-body {
+  padding: 0.6rem 0.75rem 0.75rem 0.75rem;
+  font-size: 0.9rem;
+}
+.ck-placed-video-title {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.3rem;
+  line-height: 1.3;
+}
+.ck-placed-video-caption {
+  color: var(--ifm-color-emphasis-800);
+  line-height: 1.4;
+}
+.ck-placed-video-meta {
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+}
+/* CK_PLACED_VIDEOS_END */
+
+/* ck-half-figure — a graphic shown at 50% of the main column width, centered,
+   aspect ratio preserved, with a caption underneath. Used for the Apple Podcast
+   removal count graphic on TPUSA / Censorship / Charlie pages. */
+.ck-half-figure {
+  width: 50%;
+  max-width: 50%;
+  margin: 2rem auto;
+  text-align: center;
+}
+.ck-half-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+}
+.ck-half-figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+@media (max-width: 996px) {
+  .ck-half-figure { width: 85%; max-width: 85%; }
+}
+
+/* CK_FOUR_SQUARE_START */
+/* "Four squares" — a 2x2 grid of sister-page cards placed after the body prose
+   and before the author credit / Related Areas / Images blocks. Each card is a
+   solid dark-navy panel with white text, carrying the sister page's own hero
+   media, two or three sentences of why it matters (with their own links out),
+   and a chevron button to that page.
+
+   Two card shapes, chosen from the real pixel aspect ratio of the media:
+     .ck-4sq-side   portrait / 9:16-ish media  -> image left, text to its right
+     .ck-4sq-stack  landscape / 16:9-ish media -> image on top, text underneath
+   Both collapse to a single column below 996px. */
+.ck-4sq {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+  margin: 1.25rem 0 2rem 0;
+  clear: both;
+}
+.ck-4sq-card {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  background: #0d2b6b;
+  color: #fff;
+  border-radius: 6px;
+  padding: 0.9rem;
+}
+.ck-4sq-card.ck-4sq-stack {
+  flex-direction: column;
+}
+.ck-4sq-card.ck-4sq-side .ck-4sq-thumb {
+  flex: 0 0 38%;
+  max-width: 38%;
+}
+.ck-4sq-card.ck-4sq-stack .ck-4sq-thumb {
+  width: 100%;
+}
+.ck-4sq-thumb {
+  line-height: 0;
+}
+.ck-4sq-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  background: #fff;
+}
+.ck-4sq-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.ck-4sq-title {
+  font-weight: 700;
+  font-size: 0.98rem;
+  line-height: 1.25;
+  margin: 0 0 0.4rem 0;
+}
+.ck-4sq-title a {
+  color: #fff !important;
+  text-decoration: none;
+}
+.ck-4sq-title a:hover,
+.ck-4sq-title a:focus {
+  text-decoration: underline;
+}
+.ck-4sq-text {
+  font-size: 0.86rem;
+  line-height: 1.45;
+  margin: 0 0 0.7rem 0;
+  color: #e8eefc;
+}
+.ck-4sq-text a {
+  color: #9ec6ff !important;
+  text-decoration: underline;
+}
+.ck-4sq-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.75rem;
+  background: #ffffff;
+  color: #0d2b6b !important;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none !important;
+}
+.ck-4sq-btn:hover,
+.ck-4sq-btn:focus {
+  background: #dce7ff;
+  color: #0d2b6b !important;
+}
+.ck-4sq-btn svg {
+  display: inline-block;
+  flex: none;
+}
+@media (max-width: 996px) {
+  .ck-4sq { grid-template-columns: 1fr; }
+}
+/* CK_FOUR_SQUARE_END */
+
+/* CK_PEOPLE_ANALYSIS_START */
+/* Owned by site/docs/people_analysis/ (see that directory's CLAUDE.md).
+   The People's Analysis overview re-hosts each person's video below the table
+   of contents, alternating left and right and cascading down the page. These
+   rules only add the right-hand mirror of .ck-video-wrap--wrapped plus the
+   per-entry clearing row; all sizing and the 996px stacking behaviour are
+   inherited from the CK_VIDEO_LAYOUT block above. Do not write generator
+   output into this block. */
+.ck-pa-entry {
+  overflow: hidden;
+  margin: 0 0 3rem 0;
+}
+.ck-pa-entry::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.ck-video-wrap--wrapped.ck-pa-right {
+  float: right;
+  margin: 0 0 1rem 1.75rem;
+}
+@media (max-width: 996px) {
+  .ck-video-wrap--wrapped.ck-pa-right {
+    float: none;
+    margin: 0 0 1.25rem 0;
+  }
+  .ck-pa-entry {
+    margin-bottom: 2rem;
+  }
+}
+/* CK_PEOPLE_ANALYSIS_END */
+
+/* CK_NO_TOC_START
+   ------------------------------------------------------------------
+   NO "ON THIS PAGE" TABLE OF CONTENTS ANYWHERE ON THE SITE. Third and last
+   layer of the removal. Layer 1 is `markdown.parseFrontMatter` in
+   docusaurus.config.ts (forces hide_table_of_contents on every doc, which is
+   what makes the content column full width). Layer 2 is the null swizzles at
+   src/theme/DocItem/TOC/Desktop and Mobile. This layer catches anything that
+   still emits the TOC class names, so a visitor never sees the widget even if
+   the two layers above were ever bypassed.
+   ------------------------------------------------------------------ */
+.theme-doc-toc-desktop,
+.theme-doc-toc-mobile {
+  display: none !important;
+}
+/* CK_NO_TOC_END */
+
+/* CK_CITIZEN_NOTICE_START
+   ------------------------------------------------------------------
+   THE NOTICE RAIL. Site chrome, on 100% of pages, rendered once by the `Root`
+   swizzle at site/src/theme/Root.tsx. Markup in
+   internals/src/components/CitizenNotice/.
+
+   IT IS NOT PART OF THE DOCS GRID. The rail is not a column in the docs grid
+   and it never enters that grid. It sits in a gutter reserved at the right
+   EDGE OF THE PAGE, outside the content area entirely, the way the navbar is
+   above it and the footer below it. The Docusaurus "On this page" table of
+   contents is removed site-wide (CK_NO_TOC block above, plus the config hook
+   and swizzles it names), so the rail is the ONLY right-hand furniture.
+
+   HOW THE GUTTER IS RESERVED. Two rules, and only two:
+     * `.main-wrapper` gets padding-right     — the page body ends before the rail
+     * `.footer`       gets padding-right     — footer content ends before it too
+   Both are stable Docusaurus global classes (ThemeClassNames.layout.main.container
+   and the footer container). The navbar is deliberately NOT padded: the rail
+   starts below it, so navbar items keep the full width.
+
+   The rail itself is position:fixed inside that gutter, so no amount of page
+   content can push it, and it cannot overlap anything.
+
+   WORDING is not in CSS or in the component: it is generated from
+   ~/BGit/all/politics/charlie_kirk/ck/docusaurus/right_bar.txt into
+   internals/src/data/right_bar.json by tools/sync_right_bar.py.
+
+   WIDTH IS A HARD CAP: 100px, never wider. That is --ck-rail-width and it is
+   the only number to change. It is stated as an absolute pixel value, not a
+   percentage, precisely so it cannot grow with the viewport. At 100px a line
+   holds roughly 16 characters, so everything below exists to keep short text
+   legible: hyphenation and overflow-wrap so long words break instead of
+   overflowing, a small type scale, and tight leading.
+   ------------------------------------------------------------------ */
+
+:root {
+  /* HARD CAP. The rail is never wider than this. */
+  --ck-rail-width: 100px;
+  /* Clear air between the page content and the rail. */
+  --ck-rail-gap: 14px;
+}
+
+/* ---- Desktop: reserve the gutter, then fix the rail into it ---- */
+@media (min-width: 997px) {
+  .main-wrapper,
+  .footer {
+    padding-right: calc(var(--ck-rail-width) + var(--ck-rail-gap));
+  }
+
+  .ck-rail {
+    position: fixed;
+    right: 0;
+    top: calc(var(--ifm-navbar-height, 60px) + 1rem);
+    width: var(--ck-rail-width);
+    max-width: var(--ck-rail-width);
+    max-height: calc(100vh - var(--ifm-navbar-height, 60px) - 2rem);
+    z-index: 1;
+    /* The right_bar.txt wording is taller than a laptop screen at 100px. Pin
+       the corrections half (call to action + email) to the bottom and let only
+       the notice half scroll, so the email link is always on screen. */
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .ck-rail__notice {
+    min-height: 0;
+    overflow-y: auto;
+    padding-right: 2px;
+  }
+
+  .ck-rail__action {
+    flex-shrink: 0;
+  }
+
+  /* The back-to-top button is fixed at right:1.3rem and would land on top of
+     the rail. Move it clear of the gutter. */
+  .theme-back-to-top-button {
+    right: calc(var(--ck-rail-width) + var(--ck-rail-gap) + 1.3rem) !important;
+  }
+}
+
+/* ---- Shared appearance ---- */
+.ck-rail {
+  padding: 0.6rem 0.5rem 0.7rem;
+  border-left: 3px solid var(--ifm-color-primary);
+  border-radius: 0 4px 4px 0;
+  background: var(--ifm-menu-color-background-active, rgba(0, 0, 0, 0.03));
+  font-size: 0.66rem;
+  line-height: 1.35;
+  color: var(--ifm-color-emphasis-800);
+  /* the rail is ~100px wide: long words must break rather than overflow */
+  overflow-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+}
+
+.ck-rail p {
+  margin: 0 0 0.55rem;
+}
+
+.ck-rail p:last-child,
+.ck-rail__notice p:last-child {
+  margin-bottom: 0;
+}
+
+.ck-rail__lead {
+  font-weight: 700;
+  font-size: 0.7rem;
+  line-height: 1.25;
+  color: var(--ifm-color-emphasis-900);
+}
+
+/* The rail has two halves: the disclaimer above, the corrections desk below.
+   The rule between them is what makes the bottom half read as an action rather
+   than as more small print. */
+.ck-rail__action {
+  margin-top: 0.55rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.ck-rail__cta {
+  font-weight: 700;
+  color: var(--ifm-color-emphasis-900);
+  margin-bottom: 0.3rem !important;
+}
+
+.ck-rail__email {
+  margin-top: 0.4rem;
+}
+
+/* "Email me at:" — the label from right_bar.txt, sitting directly on the link */
+.ck-rail__email-label {
+  margin-bottom: 0 !important;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.ck-rail__email a {
+  display: block;
+  font-weight: 600;
+  /* an email address has no spaces and is wider than the rail */
+  overflow-wrap: anywhere;
+  word-break: break-all;
+  /* a whole block to aim at, not one line of link text */
+  padding: 0.3rem 0.25rem;
+  border-radius: 3px;
+  background: var(--ifm-color-primary);
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.25;
+}
+
+.ck-rail__email a:hover,
+.ck-rail__email a:focus-visible {
+  background: var(--ifm-color-primary-dark, var(--ifm-color-primary));
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* ---- Below the desktop breakpoint there is no room for a side gutter ----
+   The rail stops being a rail and becomes a full-width notice band at the end
+   of the page. It is still present on every page — only its shape changes. */
+@media (max-width: 996px) {
+  .ck-rail {
+    position: static;
+    width: auto;
+    max-width: none;
+    max-height: none;
+    overflow-y: visible;
+    margin: 0;
+    padding: 1rem 1.25rem 1.25rem;
+    border-left: 0;
+    border-top: 3px solid var(--ifm-color-primary);
+    border-radius: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    hyphens: manual;
+  }
+
+  .ck-rail__lead {
+    font-size: 0.95rem;
+  }
+
+  .ck-rail__action {
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+  }
+
+  .ck-rail__email a {
+    display: inline-block;
+    padding: 0.45rem 0.9rem;
+    text-align: left;
+  }
+}
+/* CK_CITIZEN_NOTICE_END */

@@ -1,0 +1,117 @@
+FETCH LOG — related-dockets-foia lane
+State v. Tyler Robinson, Utah 4th District, No. 251403576
+Run date: 2026-08-31
+Destination: site/internals/static/court/filings/incoming/related-dockets-foia/
+User-Agent used on every request: Chrome 131 macOS.
+No payment made. No account created. No paywall or login bypassed.
+
+================ KEPT — TOP LEVEL ================
+    116597  0000-00-00_Utah_Courts_Request_for_Court_Record_Form.pdf
+    796899  2025-09-17_House_Judiciary_FBI_Oversight_Kash_Patel_Hearing.pdf
+   5614255  2025-09-29_House_Hearing_Victims_of_Violent_Crime.pdf
+    485376  2026-04-02_Smith_v_City_of_Orem_Complaint_1-26-cv-00044.pdf
+   1369739  2026-04-16_Defense_Motion_Bullet_Jacket_Fragment_ATF_Lab_Report_Exhibit2.pdf
+    164135  2026-07-08_Smith_v_City_of_Orem_Opposition_to_MTD_dkt21.pdf
+  12084034  2026-07-10_Judicial_Watch_UVU_Kirk_Records_Production_1.pdf
+  47681866  2026-07-10_Judicial_Watch_UVU_Kirk_Records_Production_2.pdf
+    277548  2026-08-18_State_Reply_Memo_Supporting_Bindover_251403576.pdf
+     11351  2026-02-02_GRO_2025-148_Inkley_v_UVU_Private_Security_Contracts.txt
+     13565  2026-02-02_GRO_2025-150_Gliha_Scripps_v_Washington_County_Robinson_Custody_Bodycam.txt
+     12772  2026-02-09_GRO_2025-155_Johns_v_UVU_Chris_Burk_Personnel_File.txt
+     10968  2026-03-02_GRO_2025-176_Carlisle_FOX13_v_UVU_Event_Security_Plan.txt
+     11105  2026-03-09_GRO_2026-002_Schreifels_SLTrib_v_Orem_City_Orem_PD_Bodycam.txt
+     12912  2026-03-30_GRO_2026-004_Marshall_Judicial_Watch_v_UVU_Evidence_Removal_Paving.txt
+     13213  2026-08-10_GRO_2026-154_Tanner_v_Utah_DPS_Campus_Police_Audits.txt
+     13215  2026-08-10_GRO_2026-155_Carlisle_v_Utah_DPS_Campus_Police_Audits.txt
+     79515  2026-08-31_Andrea_Burkhart_Substack_CK_Legal_Documents_Docket_Index.txt
+     52208  2026-08-31_Utah_GRO_Decisions_and_Orders_Full_Index.txt
+
+================ KEPT — burkhart_docket_pdfs/ ================
+264 PDFs, 144,895,813 bytes total. Every one verified: HTTP 200, magic %PDF, >1KB.
+Index: burkhart_docket_pdfs/_MANIFEST.csv (filename, bytes, docket_label, source_url).
+Source: the file embeds on
+  https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+served via https://andreaburkhart.substack.com/api/v1/file/{uuid}.pdf, which 302s to a
+presigned substack-post-media S3 URL. Free, no subscription, no login.
+
+================ PER-ITEM RESULT ================
+1  Judicial Watch UVU records prod 1 ........ OK  HTTP 200  12,084,034 B  11p
+2  Judicial Watch UVU records prod 2 ........ OK  HTTP 200  47,681,866 B  53p
+3  State's Reply Memo re Bindover ........... OK  HTTP 200     277,548 B
+4  Defense Motion Bullet Jacket + ATF rpt ... OK  HTTP 200   1,369,739 B
+5  GRO 2026-004 Marshall/JW v UVU ........... OK  HTTP 200  html 142,256 B -> txt 12,912 B
+6  GRO 2025-150 Gliha v Washington County ... OK  HTTP 200  html 142,937 B -> txt 13,565 B
+7  GRO 2025-176 Carlisle v UVU .............. OK  HTTP 200  html 140,196 B -> txt 10,968 B
+8  GRO 2026-002 Schreifels v Orem City ...... OK  HTTP 200  html 140,202 B -> txt 11,105 B
+9  GRO 2025-148 Inkley v UVU ................ OK  HTTP 200  html 140,591 B -> txt 11,351 B
+10 GRO 2025-155 Johns v UVU (Burk file) ..... OK  HTTP 200  html 142,159 B -> txt 12,772 B
+11 GRO 2026-154 Tanner v Utah DPS ........... OK  HTTP 200  html 142,690 B -> txt 13,213 B
+12 GRO 2026-155 Carlisle v Utah DPS ......... OK  HTTP 200  html 142,669 B -> txt 13,215 B
+13 GRO full decisions index ................. OK  HTTP 200  html 274,391 B -> txt 52,208 B
+14 House Judiciary FBI Oversight (Patel) .... OK  HTTP 200     796,899 B
+15 House hearing Victims of Violent Crime ... OK  HTTP 200   5,614,255 B
+16 Utah Courts Request for Court Record ..... OK  HTTP 200     116,597 B  2p
+17 DocumentCloud project 224251 ............. FAIL HTTP 403 Cloudflare bot wall
+18 DocumentCloud 27880531 filings/hearings .. FAIL HTTP 403 Cloudflare bot wall
+19 DocumentCloud 27880533 docket entries .... FAIL HTTP 403 Cloudflare bot wall
+20 Scribd Robinson defense PC filing ........ FAIL HTTP 200 but 3,038 B JS bot wall
+21 Andrea Burkhart Substack ................. OK  HTTP 200  html 788,478 B -> txt 79,515 B
+                                                  PLUS 264 rehosted docket PDFs (see above)
+22 Smith v City of Orem cplt (dkt 1) ........ OK  HTTP 200     485,376 B  15p
+22 Smith v City of Orem opp MTD (dkt 21) .... OK  HTTP 200     164,135 B
+
+================ FAILURES / HUMAN ROUTES ================
+DocumentCloud (items 17, 18, 19)
+  Every host returns HTTP 403 with the Cloudflare "Attention Required!" body to scripted
+  clients, regardless of User-Agent, Referer, Sec-Fetch-*, HTTP/2, or a cookie jar.
+  Hosts probed and rejected: www.documentcloud.org, api.www.documentcloud.org,
+  s3.documentcloud.org, assets.documentcloud.org, embed.documentcloud.org.
+  Wayback has NO snapshot of the S3 PDF (archive.org availability API: archived_snapshots {}).
+  A human must open in a browser:
+    https://www.documentcloud.org/documents/27880531-list-of-all-filings-and-hearings-as-of-3-15-2026/
+    https://www.documentcloud.org/documents/27880533-tyler-robinson-all-docket-entries-as-of-3-15-2026/
+    https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+  NOTE: much of what these two index documents were wanted for is now superseded — the
+  Burkhart archive (item 21) rehosts 264 actual filings and runs through 2026-08-31,
+  five and a half months past DocumentCloud's 2026-03-15 stopping point. What DocumentCloud
+  still adds that Burkhart does not is the numeric DOCKET NUMBER per entry.
+
+Scribd (item 20)
+  https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing
+  HTTP 200 but the body is a 3,038-byte "Client Challenge / JavaScript is disabled" wall.
+  Not retrievable by script. Must be opened in a browser. No payment attempted.
+  LIKELY ALREADY SUPERSEDED: burkhart_docket_pdfs/2026-08-11_dkt_Defendant_Tyler_James_
+  Robinson_s_Preliminary_Hearing_Briefing.pdf is the same 2026-08-11 defense bindover brief,
+  obtained free.
+
+================ CORRECTIONS TO THE SCOUTING NOTES ================
+* Item 21 was described as "Archive ENDS EARLY FEB 2026 — adds nothing past our cutoff."
+  That is wrong. The page is continuously updated and its docket list runs to 8-31-26
+  (latest entry: Order to Transport, 8-31-26). It is the single most productive source in
+  this lane by a wide margin.
+* Item 21 was described only as an index. It is not — it rehosts the filings themselves as
+  downloadable PDFs on Substack's own CDN, free and without a subscription. 264 obtained.
+  This includes several documents the scouting notes listed as NOT IN INVENTORY:
+    2025-12-17 (Public Version) Motion to Disqualify Utah Co Prosecutors Office (2.61 MB)
+    2026-01-10 Opposition to Motion to Disqualify the Utah County Attorney's Office (4.29 MB)
+    2026-01-30 Attachment A ... Attachment H (prosecutor-communications attachments)
+    2025-12-29 Redacted Transcript of the 10-24-25 Hearing (1.01 MB)
+    2025-10-08 Motion to Preserve Evidence; 2025-10-20 Order Granting it;
+               2025-10-22 Motion to Set Aside that Order; 2025-11-04 Stipulated Order
+    2025-12-05 UOVC Restitution Notice Claim #1113665
+    2025-09-16 Public Safety Assessment Report
+    2026-07-28 Memorandum in Support of Preliminary Hearing Bindover (State's opening brief)
+    2026-08-11 Defendant's Preliminary Hearing Briefing (the defense reply — see Scribd above)
+    2026-08-18 State's Reply Supporting Preliminary Hearing Bindover (duplicate of item 3)
+  All three bindover briefs are therefore now in hand.
+* The Burkhart page also carries 430 "(Not obtained)" markers — a ready-made gap list of
+  docket entries nobody has purchased. Preserved in the .txt.
+* Item 4 (ATF ballistics motion) and item 3 (State's bindover reply) both verified against
+  the byte counts in the scouting notes: exact match.
+
+================ METHOD NOTE ================
+The first pass of the Substack download reported 264/264 failures. That was a bug in this
+agent's verifier, not the source: it compared the first FIVE bytes of each file against the
+four-byte literal b'%PDF'. Every file had in fact downloaded correctly and was then deleted.
+Re-run with the corrected check: 264/264 OK, zero failures. Recorded here because a "the
+source blocked us" conclusion from that first pass would have been false.

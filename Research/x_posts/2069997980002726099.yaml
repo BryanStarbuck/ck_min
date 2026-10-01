@@ -1,0 +1,36 @@
+id: '2069997980002726099'
+url: 'https://x.com/realstewpeters/status/2069997980002726099'
+author:
+  username: 'realstewpeters'
+  name: 'Stew Peters'
+  id: '1288319695658135552'
+text: |
+  Sep. 24, 2025, I broke the exploding mic theory and attached it to the ~$440k DoD order from Accurate Energetic Systems, which blew up 2 weeks later, killing everyone inside, while Pete Hegseth's plane flew over (tail no. 99-0404, callsign SAM702).
+
+  Enter Elbit Systems of America https://t.co/PEKOnRgLxh
+created_at: '2026-06-25T04:15:51.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 566
+  reply_count: 76
+  like_count: 2740
+  quote_count: 19
+  bookmark_count: 344
+  impression_count: 43876
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2069997792215392257'
+      duration_ms: 267510
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2069997792215392257/img/PWuy-nV61PZAfq5m.jpg'
+      width: 1280
+      height: 720
+      ipfs_cid: 'QmTUAdM2AELmSag6in7A8AypCsSw6NKSQqFJj15gF28ZAj'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2069997792215392257/vid/avc1/1280x720/-1NcspJ2wXKPyKzp.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-06-25'
+temp_file: false

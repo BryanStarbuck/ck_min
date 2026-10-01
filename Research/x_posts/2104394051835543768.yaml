@@ -1,0 +1,36 @@
+id: '2104394051835543768'
+url: 'https://x.com/kiddkainmusic/status/2104394051835543768'
+author:
+  username: 'kiddkainmusic'
+  name: 'KIDDKAIN'
+  id: '1488278303131807745'
+text: |
+  who are these decoys? 🤔 https://t.co/fdhOHSZJUT
+created_at: '2026-09-28T02:13:34.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 143
+  reply_count: 35
+  like_count: 904
+  quote_count: 6
+  bookmark_count: 31
+  impression_count: 6844
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2104393621180940288'
+      url: 'https://pbs.twimg.com/media/HTRO2VIWgAATNVy.png'
+      width: 168
+      height: 240
+      local_file: 'images/2104394051835543768_1.png'
+      sha256: 'e92c1bc513563acb39c212e8376e2888bdc8e2b6421f69beae23511a6d38e61f'
+      ipfs_cid: 'QmWiHyprz6SPa9LQTq9hQbfXRoY2uWENqQMCZ2LgJsa5Gt'
+ocr_text: ''
+investigation: 'charlie_kirk'
+added_date: '2026-09-28'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

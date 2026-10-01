@@ -1,0 +1,47 @@
+id: '2076765947151393053'
+url: 'https://x.com/AMeadowInquiry/status/2076765947151393053'
+author:
+  username: 'AMeadowInquiry'
+  name: 'A Meadow'
+  id: '1868665910350753792'
+text: |
+  I have already uncovered that the man many are calling "Cooper Brown" appears to be the same individual photographed at Fort Huachuca with Jeb Jacobi (see photo below).
+
+  At the event, he was responsible for the microphone and was positioned directly in front of Charlie.
+
+  One detail that stands out: He has two large, identical rectangular objects, one in each pant pocket. They look too large to be cell phones.
+
+  [Note added by this investigation: We do not claim this person knew anything ahead of time or was involved in any way. The identification above is an unverified third-party claim. Only that the objects in the pockets could continue to be investigated.]
+created_at: '2026-07-13T20:29:20.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 328
+attachments:
+  images:
+    - filename: '2076765947151393053_1.jpg'
+      ipfs_cid: 'QmYoYWaG1AvpYgN5LL4H46KKFhj1KTgP9H2oryLM6JkyYc'
+      width: 296
+      height: 640
+      description: 'My POV before I spoke to Charlie — red American Comeback shirt, UVU barricade'
+    - filename: '2076765947151393053_2.jpg'
+      ipfs_cid: 'QmbJSTf54UeZsWm8BtE2D5peq7RqbHwoetXRdXPwzHAZUH'
+      width: 2404
+      height: 1280
+      description: 'ZUMA Press crowd photo, UVU Sept 10 2025; microphone visible'
+    - filename: '2076765947151393053_3.jpg'
+      ipfs_cid: 'QmZMgrcVW7J7sJz8vFfAy7xGfVaim7qn16tWixUj8TTiDf'
+      width: 1162
+      height: 2242
+      description: 'Fort Huachuca MWR photo, three men in Lawley Automotive Group shirts'
+investigation: 'charlie_kirk'
+topic: 'Cooper Brown / Jeb Jacobi same-person question; Fort Huachuca'
+site_pages:
+  - 'site/docs/People/cooper-brown.mdx'
+  - 'site/docs/People/jeb-jacobi.mdx'
+added_date: '2026-07-13'
+temp_file: false

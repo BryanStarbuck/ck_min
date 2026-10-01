@@ -1,0 +1,10 @@
+# Missing Videos Report
+# Generated: 2026-07-04
+#
+# IPFS video embeds found on the site whose video could NOT be pulled from
+# the IPFS network AND could not be found anywhere in the repo (recursively).
+# Scan covered every directory recursively: 65 unique embedded IPFS CIDs total.
+#
+# Format: <CID>  <target-filename>
+#
+# RESULT: 0 missing. All 65 embedded videos are present locally in videos/ and pinned to IPFS.

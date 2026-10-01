@@ -1,0 +1,275 @@
+<!-- Converted from 2025/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf -->
+# 2025-09-16-proposed-pretrial-protective-order-dkt7
+
+> **Source PDF:** `court/filings/2025/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf` — served at `/court/filings/2025/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf`  
+> **Pages:** 6  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+# In the District Court of Utah 
+
+# Fourth Judicial District Utah County 
+
+
+
+<!-- Start of picture text -->
+City of Provo<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Court Address 137 Freedom Blvd, Provo, UT 84601<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Pretrial Protective Order  (Utah Code<br>78B-7-803)<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+State of Utah<br>Prosecution  251403576<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Case Number<br>v.<br>Tyler James Robinson<br>Defendant  Tony F Graf<br>Judge<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+1.   Party information<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Victim needing protection (protected person):<br>First Name:                            Erika<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Middle name or initial (if any):<br>Last Name:                     Kirk<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Victim needing protection (protected person):<br>First Name:<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Middle name or initial (if any):<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Last Name:<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Defendant:<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+First Name:            Tyler<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Middle name or initial (if any):   James<br>Last Name:              Robinson<br><!-- End of picture text -->
+
+Court Address 137 Freedom Blvd, Provo, UT 84601 **Pretrial Protective Order** 78B-7-803) <u>251403576</u> Case Number <u>Tyler James Robinson Tony F Graf</u> Judge **Party information** Victim needing protection (protected person): First Name: **Erika** Middle name or initial (if any): Last Name: **Kirk** Victim needing protection (protected person): First Name: 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 1 of 6 
+
+# **2. The court finds** 
+
+The defendant represents a credible threat to the physical safety of the protected person. 
+
+The protected person is: 
+
+- [  ]  an intimate partner of the defendant. (The defendant and the protected person are or were married, are the parents of a shared child, cohabitate or have cohabited together). (18 U.S.C. Sec. 921 (a)(32)).  . 
+
+- [  ]  the child of an intimate partner of the defendant. 
+
+- <mark>[  ]  not an intimate partner of the defendant, but is a cohabitant under Utah law.</mark> 
+
+- [ X ]  not an intimate partner or cohabitant, but is an alleged victim. 
+
+
+
+<!-- Start of picture text -->
+The court orders:<br><!-- End of picture text -->
+
+- You, the defendant, must obey all orders marked below. 
+
+
+
+# **3. [X]  No domestic violence or abuse** 
+
+You must not do any of the following to the protected person or any of the designated family or household members: 
+
+- threaten to commit or commit acts of domestic violence or abuse,   threaten to commit or commit acts of domestic violence or abuse,  harass,   harass, 
+
+- use, attempt to use, or threaten to use physical force that would  use, attempt to use, or threaten to use physical force that would reasonably be expected to cause bodily harm, or 
+
+- engage in any other conduct that would place the protected person or designated family or household members in reasonable fear of bodily injury. 
+
+Designated family or household members: 
+
+Name (include first and last name): 
+
+Sec. 921 (a)(32)).  . [  ]  the child of an intimate partner of the defendant. <mark>[  ]  not an intimate partner of the defendant, but is a cohabitant under Utah law.</mark> [ X ]  not an intimate partner or cohabitant, but is an alleged victim. **The court orders:** You, the defendant, must obey all orders marked below. **[X]  No domestic violence or abuse** You must not do any of the following to the protected person or any of the designated family or household members: threaten to commit or commit acts of domestic violence or abuse,   threaten to commit or commit acts of domestic violence or abuse,  harass,   harass,  threaten,  stalk, use, attempt to use, or threaten to use physical force that would  use, attempt to use, or threaten to use physical force that would reasonably be expected to cause bodily harm, or 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 2 of 6 
+
+# **4. [X]  No contact or limited contact** 
+
+**<mark>Notice:</mark>** <mark>You will not violate the protective order by:</mark> 
+
+   - <mark>attending a hearing with the protected person. But you must be a party to the case or a required witness. And you must tell the bailiff that you are a respondent to a protective order when you arrive.</mark> 
+
+   - <mark>serving documents you file in court on the protected person. Service may not be in-person under any circumstances, but must otherwise be according to the Rules of Civil Procedure. It must also be civil and not threatening.</mark> 
+
+- <mark>according to the Rules of Civil Procedure. It must also be civil and not threatening.</mark> 
+
+- [X]   You must not harass, telephone, contact, or otherwise communicate with the protected person, directly or indirectly (includes email, text, social (includes email, text, social media, social media messaging or posts, mail, or other methods of contact). 
+
+- [  ]   You and the protected person share custody of one or more minor children. You must only contact the protected person to arrange visits with the children by the methods checked below. Any approved communication must be civil and respectful. [  ] Phone [  ] Text [  ]  Email [  ] Third party person (name):___________________________ [  ] Other:_________________________________________ 
+
+- [  ]   For family related matters other than parent time, you must only communicate with the protected person through the person listed below: 
+
+   - [X]   You must not harass, telephone, contact, or otherwise communicate with the protected person, directly or indirectly (includes email, text, social (includes email, text, social media, social media messaging or posts, mail, or other methods of contact). 
+
+   - [  ]   You and the protected person share custody of one or more minor children. You must only contact the protected person to arrange visits with the children by the methods checked below. Any approved communication must be civil and respectful. 
+
+
+
+<!-- Start of picture text -->
+First Name:<br><!-- End of picture text -->
+
+Middle name or initial (if any): 
+
+Last Name: 
+
+Phone or other: 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 3 of 6 
+
+# **5. [X]  Defendant cannot live at protected person’s residence** 
+
+You **must not** go to the protected person’s residence or premises without an officer. You must remove yourself from and stay away from the protected person's residence and premises. 
+
+- **Warning to defendant:** Law enforcement can remove you or keep you away from the protected person’s residence or premises if needed. 
+
+- **[X]  Stay away** **<mark>Notice:</mark>** <mark>You will not violate the protective order by:  attending a hearing with the protected person. But you must be a party to the case or a required witness. And you must tell the bailiff that you are a respondent to a protective order when you arrive.</mark> 
+
+- <mark> serving documents you file in court on the protected person. Service may not be in-person under any circumstances, but must otherwise be according to the Rules of Civil Procedure. It must also be civil and not threatening.</mark> 
+
+- **Warning to defendant:** You **must not** go to the residence or premises of the protected person or other protected places without an officer. Law enforcement can remove you or keep you away from the places frequented by the protected person if needed. You must stay away from: [X] The protected person's residence; [X] The protected person's school; [X] The protected person's workplace; [  ] These other places frequented by the protected person and any designated family members: 
+
+# **6. [X]  Stay away** 
+
+**Warning to defendant:** You **must not** go to the residence or premises of the protected person or other protected places without an officer. Law enforcement can remove you or keep you away from the places frequented by the protected person if needed. 
+
+______________________________________________________________ (Street, City, State, ZIP) 
+
+______________________________________________________________ (Street, City, State, ZIP) 
+
+- [X] You must <mark>stay away from the protected person if you encounter them at any other location not listed in this order. You must not communicate or have contact with the protected person and must leave. If leaving is not an option (such as at your place of employment or at a required court hearing), you must move as far away as possible to avoid any confrontation.</mark> 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 4 of 6 
+
+# **7. [   ]   Personal property is transferred as follows:** 
+
+
+
+<!-- Start of picture text -->
+To you  To the protected person<br><!-- End of picture text -->
+
+
+
+**Warning to defendant:** You **must not** go to the residence of the protected person or other protected places without an officer. Law enforcement can evict you or keep you away from the places frequented by the protected person if needed. **<mark>8. [  ]  Monitoring programs</mark>** [  ] You must participate in and comply with an electronic monitoring program. (Your location is monitored with a wearable tracking device.) [  ] You must participate in and comply with these monitoring programs: ___________________________________________________________ ___________________________________________________________ **9. [  ]  Other orders** 
+
+# **<mark>8. [  ]  Monitoring programs</mark>** 
+
+
+
+<!-- Start of picture text -->
+9.  [  ]  Other orders<br><!-- End of picture text -->
+
+# **10. [  ]  Orders to agencies** 
+
+A law enforcement officer from: 
+
+_________________________________ (police agency) will enforce the orders checked below: 
+
+- [  ]  Remove and require you to stay away from the protected person’s residence. 
+
+- [  ]  Accompany you one time to get your personal property. 
+
+- [  ]  Accompany the protected person to get their personal property. 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 5 of 6 
+
+# **Notices to defendant:** 
+
+# **This order is in effect until further order of the court, trial, or other resolution of the case.** 
+
+**Penalties for violating this order** (Utah Code 78B-7-806(2)) 
+
+If you do not obey this order, you can be arrested and charged with a new offense. The new offense would be Violation of a Protective Order, which is a: 
+
+- Third degree felony, if you were charged of committing a felony in this case. 
+
+- Class A misdemeanor, if you were charged of committing a misdemeanor in this case. 
+
+You may become subject to federal law because this protective order was issued against you. This would mean that it would be a crime for you to possess, transport, ship or receive any firearm or ammunition, including a hunting weapon. 
+
+<mark>"The defendant was afforded both notice and opportunity to be heard in the hearing that gave rise to this order. Pursuant to the Violence Against Women Act of 1994, P.L. 103-322, 108 Stat. 1796, 18 U.S.C. Sec. 2265, this order is valid in all the United States, the District of Columbia, tribal lands, and United States territories. This order complies with the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act." ((</mark> Utah Code 78B-7-105.5(4)) 
+
+The parties cannot change or dismiss this order. Only the court has the authority to change or dismiss this order. If you want to ask the court to change or dismiss this order, you must file a motion with the court. 
+
+
+
+<!-- Start of picture text -->
+Signature ►<br><!-- End of picture text -->
+
+Date 
+
+
+
+<!-- Start of picture text -->
+Judge<br><!-- End of picture text -->
+
+ Class A misdemeanor, if you were charged of committing a misdemeanor in this case. You may become subject to federal law because this protective order was issued against you. This would mean that it would be a crime for you to possess, transport, ship or receive any firearm or ammunition, including a hunting weapon. <mark>"The defendant was afforded both notice and opportunity to be heard in the hearing that gave rise to this order. Pursuant to the Violence Against Women Act of 1994, P.L. 103-322, 108 Stat. 1796, 18 U.S.C. Sec. 2265, this order is valid in all the United States, the District of Columbia, tribal lands, and United States territories. This order complies with the Uniform Interstate Enforcement of Domestic Violence Protection Orders Act." ((</mark> Utah Code 78B-7-105.5(4)) **Notice to defendant, petitioner, and protected person:** The parties cannot change or dismiss this order. Only the court has the authority to change or dismiss this order. If you want to ask the court to change or dismiss this order, you must file a motion with the court. **— The court completes this section —** <mark>Expiration date for National Crime Information Center purposes only: 01/01/3000</mark> Judge's signature may instead appear at the top of the first page of this document. 
+
+**Pretrial Protective Order** 
+
+1501POF Approved June 13, 2022 / Revised April 10, 2023 
+
+Page 6 of 6

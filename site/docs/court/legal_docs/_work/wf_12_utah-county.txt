@@ -1,0 +1,48 @@
+LANE: utah-county-attorney — State v. Tyler James Robinson (251403576). Run 2026-08-31.
+
+DESTINATION: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/utah-county-attorney/
+LOG: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_utah-county-attorney.txt
+
+=== FILES KEPT (byte counts exactly as ls -l reported) ===
+
+1. 0000-00-00_Utah_County_Sheriff_GRAMA_Request_Form.pdf — 154,139 bytes
+   The only real PDF in this lane. HTTP 200, verified %PDF-1.7, valid %%EOF trailer, /AcroForm present (fillable). Utah County Sheriff GRAMA records-request form. Not a case document — it is the instrument for requesting one. Date unknown, hence 0000-00-00.
+
+2. 2025-09-10_UtahDPS_Updates_on_Charlie_Kirk_Shooting_at_UVU.html — 94,546 bytes
+   2025-09-10_UtahDPS_Updates_on_Charlie_Kirk_Shooting_at_UVU.txt — 3,751 bytes
+   Utah DPS advisory, day of the shooting. Full body captured: shot ~12:20pm MST; Timpanogos Regional Hospital; DPS/FBI co-leading with Utah County Attorney, Sheriff, local PD; George Zinn released and charged with obstruction by UVU police; Zachariah Qureshi released after interrogation, "no current ties to the shooting with either"; multiple active crime scenes; "targeted attack"; shooter "believed to have fired from the roof of a building"; six UVU PD officers plus Kirk's own detail; ~3,000 attendees. Confirmed by fetch: no PDFs linked.
+
+3. 2026-08-28_UtahCourts_Public_Attendance_Robinson_Preliminary_Hearing.html — 42,873 bytes
+   ...same basename .txt — 4,201 bytes
+   Utah Courts notice. FINAL DAY of the preliminary hearing, 10:00am Provo Courthouse; 12 public seats; wristbands 9:00am; no electronic devices. Carries the pool-feed link — this is the court's own endorsement of the YouTube URL in the failures below. No documents attached.
+   Note: the scouting report's "43,188" was actually the 2026-07-06 page; this one measured 42,873.
+
+4. 2026-07-06_UtahCourts_Public_Information_Robinson_Preliminary_Hearing.html — 43,188 bytes
+   ...same basename .txt — 4,741 bytes
+   Covers the 6–10 July 2026 hearing week (14 seats, parking, decorum order). No documents attached.
+
+5. 2025-09-13_UtahCounty_News_Arrest_of_Tyler_James_Robinson.html — 63,904 bytes
+   ...same basename .txt — 947 bytes
+   Client-rendered shell confirmed: extracted text is headline + date + site chrome only, the release body is not in the HTML. Grep for ".pdf" and "cms/uploads" returned nothing. Body stamps the release "September 12, 2025 5:00 PM" (not 09-13).
+
+6. 2025-09-16_UtahCounty_News_Conference_Alert_Formal_Charges_Robinson.html — 65,062 bytes
+   ...same basename .txt — 1,099 bytes
+   Same shape — headline-and-chrome only, no PDF links. Body stamps "September 15, 2025 7:00 PM".
+
+No junk kept; nothing was deleted because nothing downloaded as a disguised error page.
+
+=== FAILURES, WITH EXACT REASON ===
+
+[1] https://atty.utahcounty.gov/media/ckpr — HTTP 404, 7,220 bytes, genuine Next.js error page, reproduced with browser UA. New finding this run: the outage is broader than that one page. atty.utahcounty.gov/ = 200 and /media = 200, but /cms/ = 503 nginx and /cms/api/upload/files = 503 nginx, and the live /media listing renders with its content area reading literally "Press Releases / All Categories / No results found." The entire press-release repository is serving nothing. The 404 is a downstream symptom of the dead Strapi backend, not a removal.
+
+[2] Wayback memento of the case page — HTTP 503, 108 bytes, "No server is available to handle this request." Attempted ~25 times over ~25 minutes, politely spaced, across both the id_ and plain replay forms and across all 10 CDX-confirmed mementos; also hit HTTP 429 at one point. CONTROL TEST RUN per the repo rule: example.com and utah.gov mementos returned 503 identically alongside the target. This is an archive-wide replay outage, NOT suppression, and must not be published as a removal. (One control briefly returned 200 while the target 503'd, but it reverted to 503 immediately after — outage flapping, not a target-specific block.)
+
+The index backends are healthy — only replay is down. timemap, CDX, and the availability API all worked and gave 10 distinct mementos with digests. Two useful facts for the retry: the 20260409104229 capture is the LARGEST at 21,016 bytes (likely the most documents listed), and 20260613223424 shares digest PUHMX3… with 20260512101753, meaning the page did not change between 12 May and 13 Jun 2026. The scouting report's 11th memento (20260512163153) does not appear separately under collapse=digest. Full ranked retry list is in the log. WebFetch cannot reach web.archive.org — use curl.
+
+[3] TJR_Information PDF — HTTP 503 nginx, 599 bytes. Not a loss; already in our inventory. The exact filename match re-confirms the whole 173-file collection came from this /cms/uploads/ endpoint.
+
+[4] 2025-09-13 Press Release: Robinson Arrest and Potential Charges — HTTP 503 nginx, 599 bytes. This is the one genuinely missing document in the lane. Same CMS outage. Highest-priority retry once /cms/ stops returning 503.
+
+[5] YouTube pool feed — HTTP 200, 1,191,993 bytes of watch-page HTML, but NOT YET AIRED. Parsed live: liveBroadcastDetails {"isLiveNow":false,"startTimestamp":"2026-09-01T14:30:00+00:00"}, channel UCFVUStJ4azXbWMhFO4yTELg (KUTV 2). That start time is tomorrow relative to this run. No media stream exists yet, and videos were out of scope for this lane regardless.
+
+ROUTES NEEDING A HUMAN: none. Nothing here required payment, login, or identity, and no paywall was encountered. Everything outstanding is blocked by server outages on the publisher side (Utah County Attorney Strapi) and the archive side (Wayback replay) — both should self-heal and simply need re-probing. The log ends with a three-step retry checklist.

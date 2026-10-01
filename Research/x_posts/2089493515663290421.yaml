@@ -1,0 +1,43 @@
+id: '2089493515663290421'
+url: 'https://x.com/RedactedNews/status/2089493515663290421'
+author:
+  username: 'RedactedNews'
+  name: 'Redacted'
+  id: '1510971574115086339'
+text: |
+  ROB O'NEILL: "THE MORE I LOOK AT IT, THE LESS IT MAKES SENSE"
+
+  Former Navy SEAL Robert O'Neill is challenging the official account of Charlie Kirk's assassination, arguing that the tactical and forensic details raise more questions than answers.
+
+  How did Tyler Robinson allegedly transport a rifle onto a rooftop, disassemble and reassemble it, then escape with it, all while making what is described as a precision shot? O'Neill also points to the reported ballistics: a .30-06 round should have left a clear exit wound. Why was there no obvious evidence of one, and why was the scene cleaned so quickly?
+
+  @mchooyah asks why these questions about the weapon, wound, and crime scene are dismissed rather than addressed directly. Questioning an official narrative should prompt evidence and transparency, not instant accusations of antisemitism.
+created_at: '2026-08-17T23:24:09.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1163
+  reply_count: 149
+  like_count: 5105
+  quote_count: 56
+  bookmark_count: 796
+  impression_count: 93654
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2089492680334086144'
+      duration_ms: 276651
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2089492680334086144/img/xWHeULw8BHCXkZOv.jpg'
+      local_file: 'videos/2089493515663290421.mp4'
+      sha256: 'cc77eee06d54081ed1008ac6d1c03dafd8d25d25064fb423b0f27330ac3ae6ee'
+      ipfs_cid: 'QmafHo4Szu56hSxaDGPavDQJQiaVa7VpkypDY3goTTRJ57'
+  images: []
+transcription_file: 'videos_transcription/2089493515663290421.md'
+investigation: 'charlie_kirk'
+added_date: '2026-09-08'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

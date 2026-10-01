@@ -1,0 +1,58 @@
+id: '2077847223082103278'
+url: 'https://x.com/ProjectConstitu/status/2077847223082103278'
+author:
+  username: 'ProjectConstitu'
+  name: 'Project Constitution'
+  id: '1605508047140438016'
+text: |
+  BOMBSHELL: The Burnt OBJECT In Charlie Kirk's SUV Isn't Just Shirt and Skin — It's Part of the RØDE Wireless Mic Transmitter!
+
+  Candace was right that a large portion of the burnt object left in the back of the SUV is melted polyester from Charlie's shirt fused with charred skin. But there's more to it. When you examine the clearer photo taken by @michael_vina27 while the vehicle was at the auto auction (not the initial cropped version), a thicker black section on the left side of the object becomes visible. Zoomed in, it appears to contain a melted female audio jack — the exact same type of jack found on the top of the RØDE Wireless ME transmitter that Charlie was wearing under his shirt, clipped to his belt.
+
+  Even more damning: in the center of the burnt mass is a fragment sticking up with visible writing and a circular symbol. That marking seems to match warning symbols from the modified battery pack that was used inside the RØDE mic transmitter.
+
+  This strongly suggests the RØDE Wireless ME unit itself was involved in the explosion. The device was positioned under Charlie's shirt against his body clipped to his belt on his left side — directly inline with the neck wound. If that transmitter contained a shaped charge or was otherwise modified to detonate, it would explain the catastrophic neck injury far better than a distant rifle shot.
+
+  The official narrative still insists this was a clean gunshot from a rooftop. The physical evidence left behind in the SUV is telling a very different story.
+
+  Something exploded against Charlie Kirk's body that day. And the remnants of the wireless transmitter appear to still be sitting in that car.
+created_at: '2026-07-16T20:05:57.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 70
+  reply_count: 31
+  like_count: 225
+  quote_count: 3
+  bookmark_count: 22
+  impression_count: 7301
+attachments:
+  videos: []
+  images:
+    - filename: '2077847223082103278_1.jpg'
+      ipfs_cid: 'QmSN1swZcxXUKBi5tQQwMmp2VNK4TVnGg4gxU1chW2bL9x'
+      width: 1920
+      height: 1080
+      description: 'Annotated "Female Audio Jack?" with RØDE Wireless ME TX inset'
+    - filename: '2077847223082103278_2.jpg'
+      ipfs_cid: 'QmeBfSSQgCW8mcd7HES2E49frLM3wcDbTGpyhJXrsK3qkm'
+      width: 1920
+      height: 1080
+      description: 'Battery label MK1SL 1200mAh Sino vs circled fragment'
+    - filename: '2077847223082103278_3.jpg'
+      ipfs_cid: 'QmT5R9fq7Xwa7vDeaWcgLmkuuHhMXY34enQYvuiVHvHQpG'
+      width: 1179
+      height: 2556
+      description: 'Phone screenshot of @michael_vina27 auto-auction photo'
+    - filename: '2077847223082103278_4.jpg'
+      ipfs_cid: 'Qmcbh1fJUV8Bb5EBbkQgJZe8k4w77wadBVHNhvQeR9KjXy'
+      width: 1215
+      height: 704
+      description: 'Unannotated close-up of charred object on SUV upholstery'
+mentions:
+  - 'michael_vina27'
+investigation: 'charlie_kirk'
+added_date: '2026-07-16'
+temp_file: false
+site_pages:
+  - 'site/docs/Mic/burnt-object-rode-transmitter.mdx'
+unlinked_by_request: true

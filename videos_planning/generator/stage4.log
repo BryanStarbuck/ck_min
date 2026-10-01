@@ -1,0 +1,30 @@
+376 local video files to hash (25.2 GB), 6 workers
+  ... 25/376
+  ... 50/376
+  ... 75/376
+  ... 100/376
+  ... 125/376
+  ... 150/376
+  ... 175/376
+  ... 200/376
+  ... 225/376
+  ... 250/376
+  ... 275/376
+  ... 300/376
+  ... 325/376
+  ... 350/376
+  ... 375/376
+checking pin status for 371 distinct CIDs
+  local pinset holds 87006 CIDs
+building base32 index
+============================
+STAGE 4 COMPLETE
+Seeded from manifest/ipfs.txt: 64
+Rows with local file: 376    CID computed: 330    already present and matching: 64
+CID mismatches (bytes changed): 0
+Pinned on local node: 57    NOT pinned: 337 (THESE PUBLISH AS DEAD PLAYERS)
+Rows left cid "": 8
+   2071736376215920842_extracted, yt/0pvEGO4W85k, yt/8HkNMTNHsa8, yt/PLnZT7Gz_VSN520UilgmZqikvi3n1MsuZR, yt/PLuXXbBFpPc0lhc6PfJae8Rav-gMNpmeuL, yt/ccRNaLGavf8, yt/qpGPZHdil1E, yt/w-ng95XlQb4
+CID index built: 371 v0 + 371 base32 forms
+Nothing pinned by this stage: confirmed
+============================

@@ -1,0 +1,19 @@
+<!-- Converted from 2025/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf -->
+# 2025-10-08-proposed-order-preserve-evidence-dkt76
+
+> **Source PDF:** `court/filings/2025/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf` — served at `/court/filings/2025/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf`  
+> **Pages:** 3  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (UT #13967) NESTER LEWIS PLLC 40 S 600 E Salt Lake City, UT  84102 (801) 535-4375 kathy@nesterlewis.com Richard G. Novak, _pro hac vice_ RICHARD G. NOVAK, APLC 65 North Raymond Avenue, Suite 320 Pasadena, CA 91103 Telephone: 626-578-1175 Michael N. Burt, _pro hac vice_ LAW OFFICE OF MICHAEL BURT PC 1000 Brannan Street Suite 400 San Francisco, California 94103 Telephone: 415-522-1508 Attorneys for Tyler James Robinson IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH ORDER GRANTING MOTION TO STATE OF UTAH, PRESERVE EVIDENCE Plaintiff, Case No.  251403576 vs. TYLER JAMES ROBINSON, Honorable Tony F. Graf, Jr. Defendant. 
+
+1 
+
+The Court GRANTS Defendant, Tyler James Robinson’s Motion to Preserve Evidence and hereby ORDERS the Utah County Attorney’s Office, its agents and any law enforcement agencies involved in the investigation of this case, to preserve all evidence in their custody or under their control,  involved in the investigation of this case. Further, this Court ORDERS the Utah County Attorney’s Office and any law enforcement agency involved in the investigation of this case to notify defense counsel prior to any potentially destructive testing and/or examination. *****END OF ORDER -  SIGNATURE/DATE ON TOP OF FIRST PAGE****** 
+
+2 
+
+3

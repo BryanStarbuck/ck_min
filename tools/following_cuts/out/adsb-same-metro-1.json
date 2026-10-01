@@ -1,0 +1,93 @@
+{
+ "slug": "adsb-same-metro-1",
+ "title": "The one row that is right area, wrong field",
+ "cell_text": "Right area, wrong field",
+ "url": "/Planes/following/cuts/adsb-same-metro-1",
+ "summary": {
+  "rows": 1,
+  "distinct_dates": 1,
+  "by_airport": {
+   "KICT": 1
+  },
+  "by_state": {
+   "KS": 1
+  },
+  "by_tail": {
+   "SU-BTT": 1
+  },
+  "by_year": {
+   "2023": 1
+  },
+  "by_adsb_verdict": {
+   "Right area, wrong field": 1
+  },
+  "by_audit_verdict": {
+   "Accurate": 1
+  },
+  "by_attendee": {
+   "Erika Kirk alone": 1
+  },
+  "ground_confirmed": 0,
+  "with_same_day_event": 0
+ },
+ "rows": [
+  {
+   "overlap_id": "OWENS-012",
+   "owens_index": "12",
+   "date": "2023-04-14",
+   "date_raw": "2023-04-14",
+   "date_pretty": "14 April 2023",
+   "airport_code": "KICT",
+   "airport_name": "Wichita Dwight D. Eisenhower National",
+   "airport_class": "international / Falcon MRO",
+   "airport_page": "/Planes/following/Wichita_KICT_2022-11-13_to_2025-08-03/overview",
+   "mro_on_field": "Yingling Aviation - FAA Part 145 repair station servicing Dassault Falcon aircraft; Dassault-Wichita State ties since 2015",
+   "customs": "yes",
+   "military_colocation": "McConnell AFB is a separate field ~7 mi southeast",
+   "city": "Wichita",
+   "state": "KS",
+   "country": "",
+   "metro_area": "Wichita KS",
+   "following_tails": [
+    "SU-BTT"
+   ],
+   "following_tail_raw": "SU-BTT",
+   "following_type": "Dassault Falcon 7X",
+   "following_hex": "0101D3",
+   "following_operator": "Egyptian government / Egypt Air Force registration",
+   "arrived_from": "Cairo via Paris",
+   "departed_to": "Wilmington 2023-04-20",
+   "transponder": "",
+   "subject": "Erika",
+   "attendee_class": "ERIKA_ONLY",
+   "attendee_label": "Erika Kirk alone",
+   "charlie_present": "not_claimed",
+   "erika_present": "claimed",
+   "tpusa_event_present": "unknown",
+   "claimed_erika_location": "Kansas",
+   "event": "claimed Kansas cluster; Ep 256 ties next week to Topeka Faith tour",
+   "venue": "UNKNOWN",
+   "kirk_tail": "",
+   "sourced_kirk_event_same_day": "",
+   "nearest_sourced_kirk_event": "TPUSA Faith Kingdom to the Capitol Topeka KS 2023-04-23",
+   "nearest_event_gap_days": "9",
+   "audit_verdict": "accurate",
+   "audit_label": "Accurate",
+   "confidence": "audited_accurate",
+   "survives_audit": "yes",
+   "adsb_verdict": "SAME_METRO_WRONG_FIELD",
+   "adsb_label": "Right area, wrong field",
+   "adsb_km": "27.58",
+   "adsb_ground": "",
+   "adsb_note": "RIGHT AREA, WRONG FIELD. Closest recovered position is 28 km from KICT - inside the source sheet's own 50-100 mile tolerance, outside a same-airport test. Neither confirmed nor refuted.",
+   "days_before_sept10": "880",
+   "source": "Owens sheet via Kanekoa audit (ACCURATE 4/14); Owens Ep 256 INFILTRATION (Sacramento 4/13 then Cairo-to-Kansas)",
+   "source_url": "https://www.youtube.com/watch?v=YFmRH8p5lt0",
+   "counterargument": "Flight accurate. Topeka event is 9 days later and ~135 miles from Wichita; aircraft had already left for Wilmington on 4/20. Ep 256 also puts Charlie in Sacramento on 4/13 — a claimed pairing with this inbound. Duncan Aviation has held the Egyptian Air Force Falcon/VIP maintenance account since 1999; Lincoln is the main plant, Provo a second facility. A landing at Lincoln, Omaha (15-min hop to Lincoln), Wichita (Yingling Falcon service centre), or Wilmington (outbound customs only) is also what that contract produces.",
+   "notes": "Owens Ep 256: 'Charlie is speaking in Sacramento on April 13th, yellow plane again comes in. This time it flies to Kansas. Cairo to Kansas.'",
+   "overlap_page": "/Planes/following/overlap/20230414_KS_wichita_owens_012/overview",
+   "ground_stay": null,
+   "nearby_events": []
+  }
+ ]
+}

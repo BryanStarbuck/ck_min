@@ -1,0 +1,54 @@
+DOWNLOAD COMPLETE — related-dockets-foia lane
+
+Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/related-dockets-foia/
+Log: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_related-dockets-foia.txt
+
+Totals: 273 PDFs + 10 .txt = 207 MB. Every PDF verified to begin with %PDF. No payment, no account, no paywall bypass.
+
+=== KEPT — TOP LEVEL (byte counts are what `ls -l` reported) ===
+
+PDFs
+- 2026-07-10_Judicial_Watch_UVU_Kirk_Records_Production_1.pdf — 12,084,034 B, 11 pages. GRAMA production 1 to Judicial Watch on the UVU site cleanup/paving.
+- 2026-07-10_Judicial_Watch_UVU_Kirk_Records_Production_2.pdf — 47,681,866 B, 53 pages. Production 2. 11+53 = the stated 64 pages.
+- 2026-08-18_State_Reply_Memo_Supporting_Bindover_251403576.pdf — 277,548 B. State's reply memo in the bindover briefing.
+- 2026-04-16_Defense_Motion_Bullet_Jacket_Fragment_ATF_Lab_Report_Exhibit2.pdf — 1,369,739 B. Defense motion with the ATF lab report as Exhibit 2.
+- 2025-09-17_House_Judiciary_FBI_Oversight_Kash_Patel_Hearing.pdf — 796,899 B.
+- 2025-09-29_House_Hearing_Victims_of_Violent_Crime.pdf — 5,614,255 B.
+- 0000-00-00_Utah_Courts_Request_for_Court_Record_Form.pdf — 116,597 B, 2 pages.
+- 2026-04-02_Smith_v_City_of_Orem_Complaint_1-26-cv-00044.pdf — 485,376 B, 15 pages. (Negative result, kept per instruction.)
+- 2026-07-08_Smith_v_City_of_Orem_Opposition_to_MTD_dkt21.pdf — 164,135 B.
+
+Web pages saved as readable .txt (raw HTML also kept under _raw_html/). Each carries source URL, retrieval date, HTTP status, and raw byte count in its header. All eight GRO decisions came back with the FULL decision body — background, statement of reasons, ORDER, right-to-appeal.
+- 2026-03-30_GRO_2026-004_Marshall_Judicial_Watch_v_UVU_Evidence_Removal_Paving.txt — 12,912 B (from 142,256 B HTML)
+- 2026-02-02_GRO_2025-150_Gliha_Scripps_v_Washington_County_Robinson_Custody_Bodycam.txt — 13,565 B (142,937)
+- 2026-03-02_GRO_2025-176_Carlisle_FOX13_v_UVU_Event_Security_Plan.txt — 10,968 B (140,196)
+- 2026-03-09_GRO_2026-002_Schreifels_SLTrib_v_Orem_City_Orem_PD_Bodycam.txt — 11,105 B (140,202)
+- 2026-02-02_GRO_2025-148_Inkley_v_UVU_Private_Security_Contracts.txt — 11,351 B (140,591)
+- 2026-02-09_GRO_2025-155_Johns_v_UVU_Chris_Burk_Personnel_File.txt — 12,772 B (142,159)
+- 2026-08-10_GRO_2026-154_Tanner_v_Utah_DPS_Campus_Police_Audits.txt — 13,213 B (142,690)
+- 2026-08-10_GRO_2026-155_Carlisle_v_Utah_DPS_Campus_Police_Audits.txt — 13,215 B (142,669)
+- 2026-08-31_Utah_GRO_Decisions_and_Orders_Full_Index.txt — 52,208 B (274,391)
+- 2026-08-31_Andrea_Burkhart_Substack_CK_Legal_Documents_Docket_Index.txt — 79,515 B (788,478)
+
+=== KEPT — burkhart_docket_pdfs/ (the big find) ===
+264 PDFs, 144,895,813 bytes. All HTTP 200, all %PDF, none under 5 KB. Index at burkhart_docket_pdfs/_MANIFEST.csv (filename, bytes, docket_label, source_url).
+
+Item 21 is not merely an index. The Substack page embeds the filings themselves as free downloadable PDFs on Substack's own CDN (…/api/v1/file/{uuid}.pdf, 302 to presigned substack-post-media S3). No subscription, no login.
+
+Two corrections to the scouting notes:
+- "Archive ENDS EARLY FEB 2026 — adds nothing past our cutoff" is wrong. The docket list runs to 8-31-26 (latest entry: Order to Transport, 8-31-26) — five and a half months past DocumentCloud's 2026-03-15 stop.
+- Documents obtained that the notes listed as NOT IN INVENTORY: 12-17-25 (Public Version) Motion to Disqualify (2.61 MB); 1-10-26 Opposition to Motion to Disqualify (4.29 MB); 1-30-26 Attachments A through H; 12-29-25 Redacted Transcript of the 10-24-25 Hearing (1.01 MB); 10-08-25 Motion to Preserve Evidence with the 10-20-25 Order granting it, the 10-22-25 Motion to Set Aside, and the 11-04-25 Stipulated Order; 12-5-25 UOVC Restitution Notice; 9-16-25 Public Safety Assessment Report; 7-28-26 Memorandum in Support of Bindover; 8-11-26 Defendant's Preliminary Hearing Briefing. All three bindover briefs are now in hand.
+- The page also carries 430 "(Not obtained)" markers — a ready-made gap list, preserved in the .txt.
+
+=== FAILURES / HUMAN ROUTES ===
+
+DocumentCloud, items 17, 18, 19 — HTTP 403 Cloudflare bot wall on every host tried: www.documentcloud.org, api.www.documentcloud.org, s3.documentcloud.org, assets.documentcloud.org, embed.documentcloud.org. Tried browser UA, Referer, full Sec-Fetch-* set, sec-ch-ua, HTTP/2, and a cookie jar. Wayback has no snapshot of the S3 PDF (availability API returned archived_snapshots {}). A human must open these in a browser:
+- https://www.documentcloud.org/documents/27880531-list-of-all-filings-and-hearings-as-of-3-15-2026/
+- https://www.documentcloud.org/documents/27880533-tyler-robinson-all-docket-entries-as-of-3-15-2026/
+- https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+Their value is now mostly reduced to the numeric docket numbers, which Burkhart's labels do not carry.
+
+Scribd, item 20 — https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing returned HTTP 200 but the body is a 3,038-byte "Client Challenge / JavaScript is disabled" wall. Not retrievable by script; needs a browser. Almost certainly superseded anyway: burkhart_docket_pdfs/2026-08-11_dkt_Defendant_Tyler_James_Robinson_s_Preliminary_Hearing_Briefing.pdf is the same 2026-08-11 defense bindover brief, obtained free.
+
+=== METHOD NOTE (my own error, recorded so it is not mistaken for a source problem) ===
+My first Substack pass reported 264/264 failures and deleted every file. The cause was a bug in my verifier — it compared the first FIVE bytes read against the four-byte literal b'%PDF'. The downloads had all succeeded. Re-run with the corrected check: 264/264 OK, zero failures. Had I stopped at that first pass I would have wrongly reported this source as blocked.

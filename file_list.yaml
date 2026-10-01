@@ -1,0 +1,3173 @@
+# file_list.yaml — Charlie Kirk repo: the exact files behind each Large File Bridge
+# "One Repo -> Metrics" tile.
+#
+# Level 1  : files
+# Level 2  : one array per metric tile
+# Level 3  : one entry per file, with its full absolute path
+#
+# Reproduced from Large File Bridge state, not from the UI:
+#   ~/T/_large_files_bridge/pin/r/charlie-kirk/{config,status,manifest}.yaml
+#   ~/T/_large_files_bridge/repos/dbd9c2c05564/manifest.yaml
+#   ~/T/_large_files_bridge/foreign-pins.json
+#   git check-ignore -v  (run inside the repo)
+#   filesystem probes for .lfbridge/<rel>.transcription / .ai_description
+#
+# Metric logic lives in:
+#   code/packages/backend/src/modules/store-model/units.service.ts  (computeTaskMetrics)
+#   code/packages/frontend/src/pages/repos/metricWarnings.ts        (metricCount)
+#   code/packages/backend/src/modules/fs/badges.ts                  (compressInfo)
+#   code/packages/shared/src/media.ts                               (mediaKindForName)
+
+repo:
+  name: charlie-kirk
+  root: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk
+  this_device: bryanstarbuck-macbook-pro
+
+counts:
+  add_to_ipfs: 0
+  git_ignore: 74
+  pull_down: 0
+  not_backed_up: 79   # tile read 0; recomputed now
+  compressible_videos: 70
+  compressible_images: 14
+  transcribable: 76
+  ai_describable: 183
+
+files:
+
+  # --------------------------------------------------------------------------
+  # Add to IPFS  (0)
+  # Tile: "Add to IPFS" -> taskMetrics.undecided.
+  # A scanned candidate with no IPFS decision recorded in the pin unit's
+  # config.yaml decisions ledger (absent key, or the literal `undecided`),
+  # excluding rows whose bytes another IPFS tool already pinned on this node
+  # (foreign-pins.json) and excluding small analysis-only (scan rule 5) media.
+  # --------------------------------------------------------------------------
+  add_to_ipfs: []
+
+  # --------------------------------------------------------------------------
+  # Git Ignore  (74)
+  # Tile: "Git Ignore" -> frontend gitIgnoreCandidates().
+  # A scanned candidate that git is still willing to commit: `git check-ignore`
+  # does NOT ignore it, no non-root/pattern .gitignore rule owns it, it is not
+  # analysis-only, and it is not a remote-only row. There is NO size floor on
+  # this tile (unlike the backend's separate bigNotIgnored metric).
+  # --------------------------------------------------------------------------
+  git_ignore:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/Angel_Charlie.png
+      relative_path: cover_image/Angel_Charlie.png
+      size_bytes: 9419799
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.jpg
+      relative_path: cover_image/charlie.jpg
+      size_bytes: 40733
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.png
+      relative_path: cover_image/charlie.png
+      size_bytes: 290334
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/cover.jpg
+      relative_path: cover_image/cover.jpg
+      size_bytes: 8282319
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2074570091673649274_1.jpg
+      relative_path: images/2074570091673649274_1.jpg
+      size_bytes: 151830
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_1.jpg
+      relative_path: images/2075589097603891487_1.jpg
+      size_bytes: 24873
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_2.jpg
+      relative_path: images/2075589097603891487_2.jpg
+      size_bytes: 130174
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_3.jpg
+      relative_path: images/2075589097603891487_3.jpg
+      size_bytes: 71702
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_1.jpg
+      relative_path: images/2076019571127935010_1.jpg
+      size_bytes: 501760
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_2.jpg
+      relative_path: images/2076019571127935010_2.jpg
+      size_bytes: 110159
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_3.jpg
+      relative_path: images/2076019571127935010_3.jpg
+      size_bytes: 74246
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4.jpg
+      relative_path: images/2076019571127935010_4.jpg
+      size_bytes: 357267
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4_cropped.jpg
+      relative_path: images/2076019571127935010_4_cropped.jpg
+      size_bytes: 349003
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_1.jpg
+      relative_path: images/2076765947151393053_1.jpg
+      size_bytes: 98296
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_2.jpg
+      relative_path: images/2076765947151393053_2.jpg
+      size_bytes: 397939
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_3.jpg
+      relative_path: images/2076765947151393053_3.jpg
+      size_bytes: 229656
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_1.jpg
+      relative_path: images/2077277163053564059_1.jpg
+      size_bytes: 72595
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_2.jpg
+      relative_path: images/2077277163053564059_2.jpg
+      size_bytes: 107524
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_3.jpg
+      relative_path: images/2077277163053564059_3.jpg
+      size_bytes: 175000
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_1.jpg
+      relative_path: images/2077847223082103278_1.jpg
+      size_bytes: 111994
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_2.jpg
+      relative_path: images/2077847223082103278_2.jpg
+      size_bytes: 207714
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_3.jpg
+      relative_path: images/2077847223082103278_3.jpg
+      size_bytes: 194979
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_4.jpg
+      relative_path: images/2077847223082103278_4.jpg
+      size_bytes: 115618
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_1.jpg
+      relative_path: images/2077921727888138329_1.jpg
+      size_bytes: 310336
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_2.jpg
+      relative_path: images/2077921727888138329_2.jpg
+      size_bytes: 214759
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_3.jpg
+      relative_path: images/2077921727888138329_3.jpg
+      size_bytes: 226190
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077951056697331723_1.jpg
+      relative_path: images/2077951056697331723_1.jpg
+      size_bytes: 285579
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077957959905427544_1.jpg
+      relative_path: images/2077957959905427544_1.jpg
+      size_bytes: 183328
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078105368933142589_1.jpg
+      relative_path: images/2078105368933142589_1.jpg
+      size_bytes: 105983
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_1.jpg
+      relative_path: images/2078362407508812262_1.jpg
+      size_bytes: 205740
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_2.jpg
+      relative_path: images/2078362407508812262_2.jpg
+      size_bytes: 206452
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_3.jpg
+      relative_path: images/2078362407508812262_3.jpg
+      size_bytes: 279158
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078404214313857083_1.jpg
+      relative_path: images/2078404214313857083_1.jpg
+      size_bytes: 431432
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_1.jpg
+      relative_path: images/2078856527541362697_1.jpg
+      size_bytes: 278514
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_2.jpg
+      relative_path: images/2078856527541362697_2.jpg
+      size_bytes: 262827
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_3.jpg
+      relative_path: images/2078856527541362697_3.jpg
+      size_bytes: 402117
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      relative_path: images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      size_bytes: 2250179
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      size_bytes: 56243
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      size_bytes: 9281
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      size_bytes: 21128
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      size_bytes: 2294731
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      size_bytes: 7242123
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      size_bytes: 2274513
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      size_bytes: 7343021
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/ico/angel.png
+      relative_path: images/ico/angel.png
+      size_bytes: 1426964
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/All_Laws.jpeg
+      relative_path: images/laws/All_Laws.jpeg
+      size_bytes: 424059
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_1.jpeg
+      relative_path: images/laws/Law_1.jpeg
+      size_bytes: 413811
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_2.jpeg
+      relative_path: images/laws/Law_2.jpeg
+      size_bytes: 417209
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_3.jpeg
+      relative_path: images/laws/Law_3.jpeg
+      size_bytes: 415378
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_4.jpeg
+      relative_path: images/laws/Law_4.jpeg
+      size_bytes: 423916
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/All_Laws.jpeg
+      relative_path: images/laws/big/All_Laws.jpeg
+      size_bytes: 939193
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_1.jpeg
+      relative_path: images/laws/big/Law_1.jpeg
+      size_bytes: 917517
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_2.jpeg
+      relative_path: images/laws/big/Law_2.jpeg
+      size_bytes: 925321
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_3.jpeg
+      relative_path: images/laws/big/Law_3.jpeg
+      size_bytes: 922134
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_4.jpeg
+      relative_path: images/laws/big/Law_4.jpeg
+      size_bytes: 934376
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      relative_path: site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      size_bytes: 172518
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Sept_11_Grok.png
+      relative_path: site/internals/static/court/mirandize/Sept_11_Grok.png
+      size_bytes: 376673
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/All_Laws.jpeg
+      relative_path: site/internals/static/img/All_Laws.jpeg
+      size_bytes: 424059
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.jpg
+      relative_path: site/internals/static/img/Angel_Charlie.jpg
+      size_bytes: 1739758
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.png
+      relative_path: site/internals/static/img/Angel_Charlie.png
+      size_bytes: 9419799
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Header_Charlie.jpeg
+      relative_path: site/internals/static/img/Header_Charlie.jpeg
+      size_bytes: 3147
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Iran_Timeline.jpeg
+      relative_path: site/internals/static/img/Iran_Timeline.jpeg
+      size_bytes: 115022
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Timeline_Israel.jpeg
+      relative_path: site/internals/static/img/Timeline_Israel.jpeg
+      size_bytes: 83842
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/cover.png
+      relative_path: site/internals/static/img/cover.png
+      size_bytes: 9419799
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus-social-card.jpg
+      relative_path: site/internals/static/img/docusaurus-social-card.jpg
+      size_bytes: 1739758
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus.png
+      relative_path: site/internals/static/img/docusaurus.png
+      size_bytes: 5142
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp3
+      relative_path: videos/2045116771431321829.mp3
+      size_bytes: 958789
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: sync
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp4
+      relative_path: videos/2045116771431321829.mp4
+      size_bytes: 6059643
+      gitignored: false
+      analysis_only: false
+      ipfs_decision: ignore
+
+  # --------------------------------------------------------------------------
+  # Pull down  (0)
+  # Tile: "Pull down" -> RepoDetail.missingPinned.
+  # An entry in the Local-Storage TRACKING manifest
+  # (~/T/_large_files_bridge/repos/<repoKey>/manifest.yaml) that has a CID, whose
+  # bytes are absent from this working tree, and whose CID is not in this node's
+  # IPFS pinset.
+  # --------------------------------------------------------------------------
+  pull_down: []
+
+  # --------------------------------------------------------------------------
+  # Not backed up  (79)
+  # Tile: "Not backed up" -> taskMetrics.notBackedUp.
+  # A file decided `sync`, carrying a CID in the merged manifest, whose
+  # `pinned_by` list names NO device other than this one. A pin by this computer
+  # is local pin truth, not a backup.
+  # NOTE: the Metrics tile read 0 when the counts above were captured. A pin pass
+  # has since recorded CIDs for the 79 audio files below with `pinned_by` naming
+  # only this computer, so the tile now computes 79. These are the files that are
+  # live on exactly one machine.
+  # --------------------------------------------------------------------------
+  not_backed_up:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/Angel_Charlie.png
+      relative_path: cover_image/Angel_Charlie.png
+      size_bytes: 9419799
+      cid: bafybeiayexjyvnwem4jxgeyrchvu2ciedzctg5ssmt6fq3zrilg55d5t5m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.jpg
+      relative_path: cover_image/charlie.jpg
+      size_bytes: 40733
+      cid: bafkreier6lhmt3er7rgavw754gwkn45tlpbyktdgqxbc5qxm44e4cf3iqq
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.png
+      relative_path: cover_image/charlie.png
+      size_bytes: 290334
+      cid: bafybeih2uh4cf3hbb3eytn6noio6jfl3vgtvs3rj6syqvbsbwu3gpduqti
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/cover.jpg
+      relative_path: cover_image/cover.jpg
+      size_bytes: 8282319
+      cid: bafybeiahmub7bvp6jycofevjshofnqwypnrrd5llyiqfd5ts6jjc3wek5y
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2074570091673649274_1.jpg
+      relative_path: images/2074570091673649274_1.jpg
+      size_bytes: 151830
+      cid: bafkreib4v4qv66scydzxvlhfrc5xrb7xukwnvhqvgiqwjwrxxq3jhsnfla
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_1.jpg
+      relative_path: images/2075589097603891487_1.jpg
+      size_bytes: 24873
+      cid: bafkreiasgi32n2p5wyh4nusloxe5oseahnkkjwzrzyruqptburxopl4oha
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_2.jpg
+      relative_path: images/2075589097603891487_2.jpg
+      size_bytes: 130174
+      cid: bafkreigavluxefphxu4zk3wais6bajlgjdhcvgfme5sngtnnf5lsgqvi2m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_3.jpg
+      relative_path: images/2075589097603891487_3.jpg
+      size_bytes: 71702
+      cid: bafkreiedwxboblebn36a6qdf2tuwp44plsvmrt2r7oslchcei5ar7tpwdu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_1.jpg
+      relative_path: images/2076019571127935010_1.jpg
+      size_bytes: 501760
+      cid: bafybeibjugrcfpox3i36jbtba2ad2gsrpzcptsc4nfj2e3go2keyswkjxy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_2.jpg
+      relative_path: images/2076019571127935010_2.jpg
+      size_bytes: 110159
+      cid: bafkreifko7kyem6tyxnhcksyctptqmia7lm7oxg6r4ofsezelpznz4bgqm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_3.jpg
+      relative_path: images/2076019571127935010_3.jpg
+      size_bytes: 74246
+      cid: bafkreiakuv3l2fictome2tndalayet3yct2novew54rrltlump7bc5kzji
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4.jpg
+      relative_path: images/2076019571127935010_4.jpg
+      size_bytes: 357267
+      cid: bafybeicc4c6xznmhmwlbuyjbt7qekwys445myijrk5reek62wyghbp32ae
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4_cropped.jpg
+      relative_path: images/2076019571127935010_4_cropped.jpg
+      size_bytes: 349003
+      cid: bafybeidzjxiwyn5bhjkzzmvxxoercscf2ymw6sgv5tgromniczo6kjbivi
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_1.jpg
+      relative_path: images/2076765947151393053_1.jpg
+      size_bytes: 98296
+      cid: bafkreiev24n3ls2puhbe7bdhiwxf3ln5sana4yt2yqn2ktzseaihhl652m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_2.jpg
+      relative_path: images/2076765947151393053_2.jpg
+      size_bytes: 397939
+      cid: bafybeihsxw33fyydjkon57zkzkhrsvlkcnjouhbhwqvwiezv4nlhaduw2q
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_3.jpg
+      relative_path: images/2076765947151393053_3.jpg
+      size_bytes: 229656
+      cid: bafkreigb66mq722tt5threremik47qm5rf5tkxnveuoiacvf2ojmmsgxsy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_1.jpg
+      relative_path: images/2077277163053564059_1.jpg
+      size_bytes: 72595
+      cid: bafkreiclkwctuamoa5wjhet743fex3bzpikrsk67zzxaj3da56spihhtci
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_2.jpg
+      relative_path: images/2077277163053564059_2.jpg
+      size_bytes: 107524
+      cid: bafkreiadyvv3kffuhtnur4ivzfztzv4qgz4rzng24p5aglqhvkh7tf5bvi
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_3.jpg
+      relative_path: images/2077277163053564059_3.jpg
+      size_bytes: 175000
+      cid: bafkreibbehdjkgxqt3neizmajyoryvp7sxjgwgby2kkf7mif5ortyeuo5a
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_1.jpg
+      relative_path: images/2077847223082103278_1.jpg
+      size_bytes: 111994
+      cid: bafkreidirmwooru4xaia5x6cjurtufbzr76nnwhuy7utjqqn4hweydihum
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_2.jpg
+      relative_path: images/2077847223082103278_2.jpg
+      size_bytes: 207714
+      cid: bafkreickcs3n3dhkkfejpp2ppw6zmx25icsjse5mfoftrw7xp3n4b6etke
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_3.jpg
+      relative_path: images/2077847223082103278_3.jpg
+      size_bytes: 194979
+      cid: bafkreigwliflf3p22ijkh553l2n5s7ppwpmpueb77qdpjxfssnahhbhoju
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_4.jpg
+      relative_path: images/2077847223082103278_4.jpg
+      size_bytes: 115618
+      cid: bafkreicawmphaseqvrnyrzxb3h55cs6cryywo5q7syuclbjzfiaxlyrihu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_1.jpg
+      relative_path: images/2077921727888138329_1.jpg
+      size_bytes: 310336
+      cid: bafybeicuvzrivplevtiq7jrfghlrfubw2pqiq6o2ripxzczj2ozrhzitii
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_2.jpg
+      relative_path: images/2077921727888138329_2.jpg
+      size_bytes: 214759
+      cid: bafkreigjfjkscdnly6dlz7qkjtc5p3dyox3gdqt6sbnb4ekdet24u7kthq
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_3.jpg
+      relative_path: images/2077921727888138329_3.jpg
+      size_bytes: 226190
+      cid: bafkreiafxwgwdpek6rulwi6hbr3nigtg2oj4dbu32yqxn3z5qcj4rn34r4
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077951056697331723_1.jpg
+      relative_path: images/2077951056697331723_1.jpg
+      size_bytes: 285579
+      cid: bafybeibtodrc5rwapjqt7v5eld5nduplachvjc2gwwk4xoxx4kw372okwy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077957959905427544_1.jpg
+      relative_path: images/2077957959905427544_1.jpg
+      size_bytes: 183328
+      cid: bafkreiebxhx3uehkocufb3ppufd4a2ov2uqj2jklfla44cy5l6jwzyg4ti
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078105368933142589_1.jpg
+      relative_path: images/2078105368933142589_1.jpg
+      size_bytes: 105983
+      cid: bafkreie3bxy4tdakeo4kfm6muxs4nel7ktadszzit2a2l5pem2lv4qg3ri
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_1.jpg
+      relative_path: images/2078362407508812262_1.jpg
+      size_bytes: 205740
+      cid: bafkreibrw6il3zqga7lqt5avutxjttlvs5cgsho3fssjf23gpmvc2al6k4
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_2.jpg
+      relative_path: images/2078362407508812262_2.jpg
+      size_bytes: 206452
+      cid: bafkreifzvyafj2plomkc3vdi7znraypcwktsudvh6jfcefpe5ksdooiike
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_3.jpg
+      relative_path: images/2078362407508812262_3.jpg
+      size_bytes: 279158
+      cid: bafybeigubbimotusybumyyeijsgk7hcs6a4ls6vmknmtq54lntsask54c4
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078404214313857083_1.jpg
+      relative_path: images/2078404214313857083_1.jpg
+      size_bytes: 431432
+      cid: bafybeify3uomcd4i6uemtn45egcyn4y6jtajarpbbkmxfws7hyyrjdt2pm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_1.jpg
+      relative_path: images/2078856527541362697_1.jpg
+      size_bytes: 278514
+      cid: bafybeif3f3nunr6urbfrqiobo5bnobzegphquvrvvtubgiae6jsbe6qswy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_2.jpg
+      relative_path: images/2078856527541362697_2.jpg
+      size_bytes: 262827
+      cid: bafybeiblyane5tl3t5s2zb6tccaa7oy5eboaxfob3vozekqdxcvgez4tzm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_3.jpg
+      relative_path: images/2078856527541362697_3.jpg
+      size_bytes: 402117
+      cid: bafybeihyugwvl7im3ig3vhg4w2kkapmhr7k3qtdyhmfarab6rqep7czkay
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      relative_path: images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      size_bytes: 2250179
+      cid: bafybeif47p3lkcw2chuqvo3nhmsuedhgjadr4ko7maf2qiculx4nd6obei
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      cid: bafybeie4byrhpknr5rd2f7oo4urlnwomcos5scrxe7wfeeaigvfeplizsi
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      cid: bafybeicsuuyjq5ibnaqi7hw4ayw6rgawlvmrian2ntnkei57lim4n3dkky
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      size_bytes: 56243
+      cid: bafkreih4p2ogntivoirfunhiiytmcjm5wphlq7funohdyc72nbbuqnbkly
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      cid: bafybeic7cl6jl57p7dtpw3fkdeowklkqe57fndumvrsbpt7ykoh5wj6nia
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      size_bytes: 9281
+      cid: bafkreih5vhuqerflcpusu3cmwly4pqxfcw4owdsuycuny6eom2zwgsczum
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      size_bytes: 21128
+      cid: bafkreid25wjnan6uh4aooaj5oby4hl3dbgxsr2kerodlmgeynxybe777jy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      size_bytes: 2294731
+      cid: bafybeiazjtghsxo7ofg74wcmhgrxdde6qedfzaw5njkucw2istkksa7p2u
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      size_bytes: 7242123
+      cid: bafybeib55ilu2ka2w5sn6vtgur7wqikbyt4bcsfxdx4ed4ijj2hn4ml57y
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      size_bytes: 2274513
+      cid: bafybeiegjl2byk3vgu5ixzxquvlqx5mbblz2fvfgnn2e7bmnnks36luugy
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      size_bytes: 7343021
+      cid: bafybeict7lfvzqzfp4pafxorgjg627svgjdwr3conxqdng4t7fviap7fma
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      cid: bafybeie4byrhpknr5rd2f7oo4urlnwomcos5scrxe7wfeeaigvfeplizsi
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      cid: bafybeicsuuyjq5ibnaqi7hw4ayw6rgawlvmrian2ntnkei57lim4n3dkky
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      cid: bafybeic7cl6jl57p7dtpw3fkdeowklkqe57fndumvrsbpt7ykoh5wj6nia
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/ico/angel.png
+      relative_path: images/ico/angel.png
+      size_bytes: 1426964
+      cid: bafybeicokk43e3ctxpqvcuzocg55gvxmxxg6s3ggixeblwsq6jchflwova
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/All_Laws.jpeg
+      relative_path: images/laws/All_Laws.jpeg
+      size_bytes: 424059
+      cid: bafybeiasp6umlhwqgyjheyz72p6kezafypz63xn7xu6dh2d3oysdxhruvm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_1.jpeg
+      relative_path: images/laws/Law_1.jpeg
+      size_bytes: 413811
+      cid: bafybeif72gvw2wrjwuasgplrmg6erits5ryghtnuch6hou7ca2oa7mpm74
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_2.jpeg
+      relative_path: images/laws/Law_2.jpeg
+      size_bytes: 417209
+      cid: bafybeid5jlfk76an6e4lu5wuiglliwzkcmv3wofmkkhktwm2rcxzzhyc5y
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_3.jpeg
+      relative_path: images/laws/Law_3.jpeg
+      size_bytes: 415378
+      cid: bafybeih7tgfcqedpflp5uzrb7gl5uuzdovmr4xj6gfhkkoe26tqp6y77bu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_4.jpeg
+      relative_path: images/laws/Law_4.jpeg
+      size_bytes: 423916
+      cid: bafybeibs3mt3w4lwousynyugd3f4vstqv7fwvsq3qvsvbbptuxzru5t7su
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/All_Laws.jpeg
+      relative_path: images/laws/big/All_Laws.jpeg
+      size_bytes: 939193
+      cid: bafybeie2uaf25aj6fo6yd26zaqt3fd2fkzzj2tw33265bocvrnpieesfwm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_1.jpeg
+      relative_path: images/laws/big/Law_1.jpeg
+      size_bytes: 917517
+      cid: bafybeidxqee4wmq2zqdjhcwjme67ypcktwpenrzppywiqwlbmiook5q66q
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_2.jpeg
+      relative_path: images/laws/big/Law_2.jpeg
+      size_bytes: 925321
+      cid: bafybeigwq3hu7suaynmsypod76lkpzn2utxjeknf4e2vetmiz5dj65uioi
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_3.jpeg
+      relative_path: images/laws/big/Law_3.jpeg
+      size_bytes: 922134
+      cid: bafybeih6unm33koazml6nwqtrtocoya7m3pbceladdvka6t5qjo4jk7jpm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_4.jpeg
+      relative_path: images/laws/big/Law_4.jpeg
+      size_bytes: 934376
+      cid: bafybeif4uiq4mgznjqh3w33hu7jdkn3cgsnobaj6yo654voto6vjhaz4xu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      relative_path: site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      size_bytes: 172518
+      cid: bafkreihfdtqm3lpn5kccvxgfwbc34oz5tl4ttfdiqtmpc76si7avfaymea
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Sept_11_Grok.png
+      relative_path: site/internals/static/court/mirandize/Sept_11_Grok.png
+      size_bytes: 376673
+      cid: bafybeiezuzvuoi2sxkwt4wmc3ggbyamw4ncgdlspudmxrn6p443s7vraaq
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/All_Laws.jpeg
+      relative_path: site/internals/static/img/All_Laws.jpeg
+      size_bytes: 424059
+      cid: bafybeiasp6umlhwqgyjheyz72p6kezafypz63xn7xu6dh2d3oysdxhruvm
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.jpg
+      relative_path: site/internals/static/img/Angel_Charlie.jpg
+      size_bytes: 1739758
+      cid: bafybeibkazjs2z7pyr7d4rz4wppv7bm5jypivaaqmrxtaa2t6aeyiy6bzu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.png
+      relative_path: site/internals/static/img/Angel_Charlie.png
+      size_bytes: 9419799
+      cid: bafybeiayexjyvnwem4jxgeyrchvu2ciedzctg5ssmt6fq3zrilg55d5t5m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Header_Charlie.jpeg
+      relative_path: site/internals/static/img/Header_Charlie.jpeg
+      size_bytes: 3147
+      cid: bafkreih53ra5h4hiavym62r3uxgubmybfn4jdne43x7bl7lwmair7oujba
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Iran_Timeline.jpeg
+      relative_path: site/internals/static/img/Iran_Timeline.jpeg
+      size_bytes: 115022
+      cid: bafkreih3sovrxjdgysh5k66s7axzeb3mtf6hoco7hepigs5bgm57yaldv4
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Timeline_Israel.jpeg
+      relative_path: site/internals/static/img/Timeline_Israel.jpeg
+      size_bytes: 83842
+      cid: bafkreiclev45gvaicf26dkmuvo5ozk3csvqrvyhfluumfblaxa5v62tx4m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/cover.png
+      relative_path: site/internals/static/img/cover.png
+      size_bytes: 9419799
+      cid: bafybeiayexjyvnwem4jxgeyrchvu2ciedzctg5ssmt6fq3zrilg55d5t5m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus-social-card.jpg
+      relative_path: site/internals/static/img/docusaurus-social-card.jpg
+      size_bytes: 1739758
+      cid: bafybeibkazjs2z7pyr7d4rz4wppv7bm5jypivaaqmrxtaa2t6aeyiy6bzu
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus.png
+      relative_path: site/internals/static/img/docusaurus.png
+      size_bytes: 5142
+      cid: bafkreiesaqqs2oifxqny2hmifas5d3hlllmuemuseitx24sxqmnh2r6ye4
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp3
+      relative_path: videos/2045116771431321829.mp3
+      size_bytes: 958789
+      cid: bafybeib24jh4f6jz75pamjkutf7pwexgv2axon4xclewheluqleylsb644
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046414464447287296.mp3
+      relative_path: videos/2046414464447287296.mp3
+      size_bytes: 1589059
+      cid: bafybeicnzxecdtkmat3dnydzuxne5wefqk4kodirdyaf6blrcnowcwyvpe
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264562921472.mp3
+      relative_path: videos/2046416264562921472.mp3
+      size_bytes: 98220
+      cid: bafkreig4j35u3bsfj2oorcf2y5hpvzx44sqzsgwrloupkpkihm4qyk4ene
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264567140352.mp3
+      relative_path: videos/2046416264567140352.mp3
+      size_bytes: 265592
+      cid: bafybeigveyjf64ue5opw6poxifk5tgcnuhekfhgq4vo56s5wm4pobma4fq
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2068463186668605858.mp3
+      relative_path: videos/2068463186668605858.mp3
+      size_bytes: 564792
+      cid: bafybeiagy6yk55tps2igstw5ecsidqkdpqmcbm4fq7u65dmxq2us5vab7m
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370.mp3
+      relative_path: videos/2069185145555255370.mp3
+      size_bytes: 5127185
+      cid: bafybeibcwcmojee3ieoom6c5iegtl4wrjqulpgn7dqmsfiodymzw3egeei
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072814926133866634.mp3
+      relative_path: videos/2072814926133866634.mp3
+      size_bytes: 2138486
+      cid: bafybeie4jk4gkvvvn56b4kpbztpu6kx2inmd5jh3txdloi3iv6bsi6skge
+      ipfs_decision: sync
+      pinned_by: [bryanstarbuck-macbook-pro]
+      peers_other_than_this_device: 0
+
+  # --------------------------------------------------------------------------
+  # Compressible videos  (70)
+  # Tile: "Compressible videos" -> taskMetrics.compressibleVideos.
+  # compressInfo() classifies by EXTENSION only (no bitrate probe, no size floor):
+  #   .mp4 .mov .mkv .avi .webm .m4v .mpg .mpeg .wmv .flv .ts
+  # and the filename does NOT already advertise a compressed encode via
+  # /(compress|h264|x264|hevc|x265|av1|reenc|shrunk|small)/i.
+  # --------------------------------------------------------------------------
+  compressible_videos:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/IPFS/videos/Blake Bednarz UVU original.MP4
+      relative_path: IPFS/videos/Blake Bednarz UVU original.MP4
+      size_bytes: 3211918311
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965869689755812061.mp4
+      relative_path: videos/1965869689755812061.mp4
+      size_bytes: 2058838
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965871960702828885.mp4
+      relative_path: videos/1965871960702828885.mp4
+      size_bytes: 13560413
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965884012565766172.mp4
+      relative_path: videos/1965884012565766172.mp4
+      size_bytes: 1349105
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965890646746513821.mp4
+      relative_path: videos/1965890646746513821.mp4
+      size_bytes: 14499759
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965892000185725129.mp4
+      relative_path: videos/1965892000185725129.mp4
+      size_bytes: 475718
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965913654840406034.mp4
+      relative_path: videos/1965913654840406034.mp4
+      size_bytes: 475718
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966235480732873149.mp4
+      relative_path: videos/1966235480732873149.mp4
+      size_bytes: 1508756
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966293765158560167.mp4
+      relative_path: videos/1966293765158560167.mp4
+      size_bytes: 15620406
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1969832388823003519.mp4
+      relative_path: videos/1969832388823003519.mp4
+      size_bytes: 638032
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1976419242666021122.mp4
+      relative_path: videos/1976419242666021122.mp4
+      size_bytes: 2684183
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2002152440435781712.mp4
+      relative_path: videos/2002152440435781712.mp4
+      size_bytes: 2080626
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2011947043674034660.mp4
+      relative_path: videos/2011947043674034660.mp4
+      size_bytes: 1339701
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp4
+      relative_path: videos/2045116771431321829.mp4
+      size_bytes: 6059643
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00001.mp4
+      relative_path: videos/2045871393611395289_00001.mp4
+      size_bytes: 8378775
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00002.mp4
+      relative_path: videos/2045871393611395289_00002.mp4
+      size_bytes: 56460035
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046380775579209982.mp4
+      relative_path: videos/2046380775579209982.mp4
+      size_bytes: 22593106
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046414464447287296.mp4
+      relative_path: videos/2046414464447287296.mp4
+      size_bytes: 6546481
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264562921472.mp4
+      relative_path: videos/2046416264562921472.mp4
+      size_bytes: 6216571
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264567140352.mp4
+      relative_path: videos/2046416264567140352.mp4
+      size_bytes: 1525649
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2047113133903495513.mp4
+      relative_path: videos/2047113133903495513.mp4
+      size_bytes: 58916838
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2053805778952417528.mp4
+      relative_path: videos/2053805778952417528.mp4
+      size_bytes: 6159642
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055025567255191600.mp4
+      relative_path: videos/2055025567255191600.mp4
+      size_bytes: 48741435
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055445490003489041.mp4
+      relative_path: videos/2055445490003489041.mp4
+      size_bytes: 15229977
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2057560145379708956.mp4
+      relative_path: videos/2057560145379708956.mp4
+      size_bytes: 3685643
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2067372027623715212.mp4
+      relative_path: videos/2067372027623715212.mp4
+      size_bytes: 46196181
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2068463186668605858.mp4
+      relative_path: videos/2068463186668605858.mp4
+      size_bytes: 10585703
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370.mp4
+      relative_path: videos/2069185145555255370.mp4
+      size_bytes: 96925208
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370_source.mp4
+      relative_path: videos/2069185145555255370_source.mp4
+      size_bytes: 6758881
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069350461573046382.mp4
+      relative_path: videos/2069350461573046382.mp4
+      size_bytes: 30635952
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069566053353463951.mp4
+      relative_path: videos/2069566053353463951.mp4
+      size_bytes: 173543756
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069997980002726099.mp4
+      relative_path: videos/2069997980002726099.mp4
+      size_bytes: 30641855
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070467635578294609.mp4
+      relative_path: videos/2070467635578294609.mp4
+      size_bytes: 42701327
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070615710003589174.mp4
+      relative_path: videos/2070615710003589174.mp4
+      size_bytes: 556396
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071072788132118610.mp4
+      relative_path: videos/2071072788132118610.mp4
+      size_bytes: 75721393
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071074071404798401.mp4
+      relative_path: videos/2071074071404798401.mp4
+      size_bytes: 11877523
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071736376215920842.mp4
+      relative_path: videos/2071736376215920842.mp4
+      size_bytes: 3922575
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072021982296551765.mp4
+      relative_path: videos/2072021982296551765.mp4
+      size_bytes: 3078587
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072814926133866634.mp4
+      relative_path: videos/2072814926133866634.mp4
+      size_bytes: 13316587
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2076465128329846991.mp4
+      relative_path: videos/2076465128329846991.mp4
+      size_bytes: 20839951
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2079054276320440416.mp4
+      relative_path: videos/2079054276320440416.mp4
+      size_bytes: 5340486
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      relative_path: videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      size_bytes: 453493
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      relative_path: videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      size_bytes: 90510
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      relative_path: videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      size_bytes: 471997
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      relative_path: videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      size_bytes: 117709
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      relative_path: videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      size_bytes: 314286
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      relative_path: videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      size_bytes: 54643354
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      relative_path: videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      size_bytes: 150063
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      relative_path: videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      size_bytes: 184817
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      relative_path: videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      size_bytes: 169473
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      relative_path: videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      size_bytes: 229697
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      relative_path: videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      size_bytes: 46430
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      relative_path: videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      size_bytes: 227091
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      relative_path: videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      size_bytes: 161963
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      relative_path: videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      size_bytes: 88546
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      relative_path: videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      size_bytes: 163512
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      relative_path: videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      size_bytes: 250197
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      relative_path: videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      size_bytes: 61565
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      relative_path: videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      size_bytes: 263078
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      relative_path: videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      size_bytes: 19953
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      relative_path: videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      size_bytes: 55940
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      relative_path: videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      size_bytes: 78729
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      relative_path: videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      size_bytes: 218752
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      relative_path: videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      size_bytes: 82558
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      relative_path: videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      size_bytes: 81522
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      relative_path: videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      size_bytes: 233442
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      relative_path: videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      size_bytes: 426942
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      relative_path: videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      size_bytes: 215371
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      relative_path: videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      size_bytes: 244049
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      relative_path: videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      size_bytes: 149544
+      extension: .mp4
+      compress_state: should
+      compressible_kind: video
+
+  # --------------------------------------------------------------------------
+  # Compressible images  (14)
+  # Tile: "Compressible images" -> taskMetrics.compressibleImages.
+  # Lossless / poorly-supported still formats:
+  #   .png .bmp .tif .tiff .gif   (recompress)
+  #   .heic .heif .avif           (JPEG compatibility conversion)
+  # .jpg/.jpeg/.webp are already compressed and are NOT counted here.
+  # --------------------------------------------------------------------------
+  compressible_images:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/Angel_Charlie.png
+      relative_path: cover_image/Angel_Charlie.png
+      size_bytes: 9419799
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.png
+      relative_path: cover_image/charlie.png
+      size_bytes: 290334
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      relative_path: images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      size_bytes: 2250179
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      size_bytes: 56243
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      size_bytes: 2294731
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      size_bytes: 7242123
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      size_bytes: 2274513
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      size_bytes: 7343021
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/ico/angel.png
+      relative_path: images/ico/angel.png
+      size_bytes: 1426964
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      relative_path: site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      size_bytes: 172518
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Sept_11_Grok.png
+      relative_path: site/internals/static/court/mirandize/Sept_11_Grok.png
+      size_bytes: 376673
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.png
+      relative_path: site/internals/static/img/Angel_Charlie.png
+      size_bytes: 9419799
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/cover.png
+      relative_path: site/internals/static/img/cover.png
+      size_bytes: 9419799
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus.png
+      relative_path: site/internals/static/img/docusaurus.png
+      size_bytes: 5142
+      extension: .png
+      compress_state: should
+      compressible_kind: image
+
+  # --------------------------------------------------------------------------
+  # Transcribable  (76)
+  # Tile: "Transcribable" -> taskMetrics.transcribable.
+  # Any VIDEO or AUDIO file with no `.transcription` artifact yet. Unlike the
+  # space metrics this counts small analysis-only media too, which is why it can
+  # exceed the visible "Large files only" table.
+  # Artifact probed at <repo>/.lfbridge/<rel>.transcription and <repo>/<rel>.transcription.
+  # --------------------------------------------------------------------------
+  transcribable:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/IPFS/videos/Blake Bednarz UVU original.MP4
+      relative_path: IPFS/videos/Blake Bednarz UVU original.MP4
+      size_bytes: 3211918311
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/IPFS/videos/Blake Bednarz UVU original.MP4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965869689755812061.mp4
+      relative_path: videos/1965869689755812061.mp4
+      size_bytes: 2058838
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965869689755812061.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965871960702828885.mp4
+      relative_path: videos/1965871960702828885.mp4
+      size_bytes: 13560413
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965871960702828885.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965884012565766172.mp4
+      relative_path: videos/1965884012565766172.mp4
+      size_bytes: 1349105
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965884012565766172.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965890646746513821.mp4
+      relative_path: videos/1965890646746513821.mp4
+      size_bytes: 14499759
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965890646746513821.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965892000185725129.mp4
+      relative_path: videos/1965892000185725129.mp4
+      size_bytes: 475718
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965892000185725129.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965913654840406034.mp4
+      relative_path: videos/1965913654840406034.mp4
+      size_bytes: 475718
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965913654840406034.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966235480732873149.mp4
+      relative_path: videos/1966235480732873149.mp4
+      size_bytes: 1508756
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1966235480732873149.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966293765158560167.mp4
+      relative_path: videos/1966293765158560167.mp4
+      size_bytes: 15620406
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1966293765158560167.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1969832388823003519.mp4
+      relative_path: videos/1969832388823003519.mp4
+      size_bytes: 638032
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1969832388823003519.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1976419242666021122.mp4
+      relative_path: videos/1976419242666021122.mp4
+      size_bytes: 2684183
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1976419242666021122.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2002152440435781712.mp4
+      relative_path: videos/2002152440435781712.mp4
+      size_bytes: 2080626
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2002152440435781712.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2011947043674034660.mp4
+      relative_path: videos/2011947043674034660.mp4
+      size_bytes: 1339701
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2011947043674034660.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp3
+      relative_path: videos/2045116771431321829.mp3
+      size_bytes: 958789
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045116771431321829.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00001.mp4
+      relative_path: videos/2045871393611395289_00001.mp4
+      size_bytes: 8378775
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045871393611395289_00001.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00002.mp4
+      relative_path: videos/2045871393611395289_00002.mp4
+      size_bytes: 56460035
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045871393611395289_00002.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046380775579209982.mp4
+      relative_path: videos/2046380775579209982.mp4
+      size_bytes: 22593106
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046380775579209982.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046414464447287296.mp3
+      relative_path: videos/2046414464447287296.mp3
+      size_bytes: 1589059
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046414464447287296.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046414464447287296.mp4
+      relative_path: videos/2046414464447287296.mp4
+      size_bytes: 6546481
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046414464447287296.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264562921472.mp3
+      relative_path: videos/2046416264562921472.mp3
+      size_bytes: 98220
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264562921472.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264562921472.mp4
+      relative_path: videos/2046416264562921472.mp4
+      size_bytes: 6216571
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264562921472.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264567140352.mp3
+      relative_path: videos/2046416264567140352.mp3
+      size_bytes: 265592
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264567140352.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264567140352.mp4
+      relative_path: videos/2046416264567140352.mp4
+      size_bytes: 1525649
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264567140352.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2047113133903495513.mp4
+      relative_path: videos/2047113133903495513.mp4
+      size_bytes: 58916838
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2047113133903495513.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2053805778952417528.mp4
+      relative_path: videos/2053805778952417528.mp4
+      size_bytes: 6159642
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2053805778952417528.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055025567255191600.mp4
+      relative_path: videos/2055025567255191600.mp4
+      size_bytes: 48741435
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2055025567255191600.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055445490003489041.mp4
+      relative_path: videos/2055445490003489041.mp4
+      size_bytes: 15229977
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2055445490003489041.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2057560145379708956.mp4
+      relative_path: videos/2057560145379708956.mp4
+      size_bytes: 3685643
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2057560145379708956.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2067372027623715212.mp4
+      relative_path: videos/2067372027623715212.mp4
+      size_bytes: 46196181
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2067372027623715212.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2068463186668605858.mp3
+      relative_path: videos/2068463186668605858.mp3
+      size_bytes: 564792
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2068463186668605858.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2068463186668605858.mp4
+      relative_path: videos/2068463186668605858.mp4
+      size_bytes: 10585703
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2068463186668605858.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370.mp3
+      relative_path: videos/2069185145555255370.mp3
+      size_bytes: 5127185
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069185145555255370.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370.mp4
+      relative_path: videos/2069185145555255370.mp4
+      size_bytes: 96925208
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069185145555255370.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370_source.mp4
+      relative_path: videos/2069185145555255370_source.mp4
+      size_bytes: 6758881
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069185145555255370_source.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069350461573046382.mp4
+      relative_path: videos/2069350461573046382.mp4
+      size_bytes: 30635952
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069350461573046382.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069566053353463951.mp4
+      relative_path: videos/2069566053353463951.mp4
+      size_bytes: 173543756
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069566053353463951.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069997980002726099.mp4
+      relative_path: videos/2069997980002726099.mp4
+      size_bytes: 30641855
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069997980002726099.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070467635578294609.mp4
+      relative_path: videos/2070467635578294609.mp4
+      size_bytes: 42701327
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2070467635578294609.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070615710003589174.mp4
+      relative_path: videos/2070615710003589174.mp4
+      size_bytes: 556396
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2070615710003589174.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071072788132118610.mp4
+      relative_path: videos/2071072788132118610.mp4
+      size_bytes: 75721393
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071072788132118610.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071074071404798401.mp4
+      relative_path: videos/2071074071404798401.mp4
+      size_bytes: 11877523
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071074071404798401.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071736376215920842.mp4
+      relative_path: videos/2071736376215920842.mp4
+      size_bytes: 3922575
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071736376215920842.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072021982296551765.mp4
+      relative_path: videos/2072021982296551765.mp4
+      size_bytes: 3078587
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2072021982296551765.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072814926133866634.mp3
+      relative_path: videos/2072814926133866634.mp3
+      size_bytes: 2138486
+      media_kind: audio
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2072814926133866634.mp3.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072814926133866634.mp4
+      relative_path: videos/2072814926133866634.mp4
+      size_bytes: 13316587
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2072814926133866634.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2076465128329846991.mp4
+      relative_path: videos/2076465128329846991.mp4
+      size_bytes: 20839951
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2076465128329846991.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2079054276320440416.mp4
+      relative_path: videos/2079054276320440416.mp4
+      size_bytes: 5340486
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2079054276320440416.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      relative_path: videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      size_bytes: 453493
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      relative_path: videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      size_bytes: 90510
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      relative_path: videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      size_bytes: 471997
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      relative_path: videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      size_bytes: 117709
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      relative_path: videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      size_bytes: 314286
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      relative_path: videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      size_bytes: 54643354
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      relative_path: videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      size_bytes: 150063
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      relative_path: videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      size_bytes: 184817
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      relative_path: videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      size_bytes: 169473
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      relative_path: videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      size_bytes: 229697
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      relative_path: videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      size_bytes: 46430
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      relative_path: videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      size_bytes: 227091
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      relative_path: videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      size_bytes: 161963
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      relative_path: videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      size_bytes: 88546
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      relative_path: videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      size_bytes: 163512
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      relative_path: videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      size_bytes: 250197
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      relative_path: videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      size_bytes: 61565
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      relative_path: videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      size_bytes: 263078
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      relative_path: videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      size_bytes: 19953
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      relative_path: videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      size_bytes: 55940
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      relative_path: videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      size_bytes: 78729
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      relative_path: videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      size_bytes: 218752
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      relative_path: videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      size_bytes: 82558
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      relative_path: videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      size_bytes: 81522
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      relative_path: videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      size_bytes: 233442
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      relative_path: videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      size_bytes: 426942
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      relative_path: videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      size_bytes: 215371
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      relative_path: videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      size_bytes: 244049
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4.transcription
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      relative_path: videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      size_bytes: 149544
+      media_kind: video
+      transcript_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4.transcription
+
+  # --------------------------------------------------------------------------
+  # AI Describable  (183)
+  # Tile: "AI Describable" -> taskMetrics.describable.
+  # Any IMAGE or VIDEO file with no `.ai_description` artifact yet (audio is
+  # covered by transcription instead). Also counts small analysis-only media.
+  # Artifact probed at <repo>/.lfbridge/<rel>.ai_description and <repo>/<rel>.ai_description.
+  # --------------------------------------------------------------------------
+  ai_describable:
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/IPFS/videos/Blake Bednarz UVU original.MP4
+      relative_path: IPFS/videos/Blake Bednarz UVU original.MP4
+      size_bytes: 3211918311
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/IPFS/videos/Blake Bednarz UVU original.MP4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/Angel_Charlie.png
+      relative_path: cover_image/Angel_Charlie.png
+      size_bytes: 9419799
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/cover_image/Angel_Charlie.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.jpg
+      relative_path: cover_image/charlie.jpg
+      size_bytes: 40733
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/cover_image/charlie.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/charlie.png
+      relative_path: cover_image/charlie.png
+      size_bytes: 290334
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/cover_image/charlie.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/cover_image/cover.jpg
+      relative_path: cover_image/cover.jpg
+      size_bytes: 8282319
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/cover_image/cover.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/1965884012565766172_1.jpg
+      relative_path: images/1965884012565766172_1.jpg
+      size_bytes: 180509
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/1965884012565766172_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/1967936311421178053_1.jpg
+      relative_path: images/1967936311421178053_1.jpg
+      size_bytes: 6149
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/1967936311421178053_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/1968024348050198752_1.jpg
+      relative_path: images/1968024348050198752_1.jpg
+      size_bytes: 231140
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/1968024348050198752_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/1969831645403365640_1.jpg
+      relative_path: images/1969831645403365640_1.jpg
+      size_bytes: 67536
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/1969831645403365640_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/1969832388823003519_1.jpg
+      relative_path: images/1969832388823003519_1.jpg
+      size_bytes: 61991
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/1969832388823003519_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2011947043674034660_1.jpg
+      relative_path: images/2011947043674034660_1.jpg
+      size_bytes: 314286
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2011947043674034660_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2011947043674034660_2.jpg
+      relative_path: images/2011947043674034660_2.jpg
+      size_bytes: 233442
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2011947043674034660_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2011947043674034660_3.jpg
+      relative_path: images/2011947043674034660_3.jpg
+      size_bytes: 88546
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2011947043674034660_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2011947043674034660_4.jpg
+      relative_path: images/2011947043674034660_4.jpg
+      size_bytes: 263078
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2011947043674034660_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2044131420956963292_1.jpg
+      relative_path: images/2044131420956963292_1.jpg
+      size_bytes: 229697
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2044131420956963292_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2044300845609824305_1.jpg
+      relative_path: images/2044300845609824305_1.jpg
+      size_bytes: 149544
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2044300845609824305_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2045212282712703209_1.png
+      relative_path: images/2045212282712703209_1.png
+      size_bytes: 81522
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2045212282712703209_1.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2045212282712703209_2.png
+      relative_path: images/2045212282712703209_2.png
+      size_bytes: 250197
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2045212282712703209_2.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2046200409476489659_1.jpg
+      relative_path: images/2046200409476489659_1.jpg
+      size_bytes: 471997
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2046200409476489659_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2046414464447287296_thumb.jpg
+      relative_path: images/2046414464447287296_thumb.jpg
+      size_bytes: 76842
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2046414464447287296_thumb.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2046416264562921472_thumb.jpg
+      relative_path: images/2046416264562921472_thumb.jpg
+      size_bytes: 126003
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2046416264562921472_thumb.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2046416264567140352_thumb.jpg
+      relative_path: images/2046416264567140352_thumb.jpg
+      size_bytes: 92565
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2046416264567140352_thumb.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2052006013684126145_1.jpg
+      relative_path: images/2052006013684126145_1.jpg
+      size_bytes: 90510
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2052006013684126145_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2052006013684126145_2.jpg
+      relative_path: images/2052006013684126145_2.jpg
+      size_bytes: 82558
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2052006013684126145_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2052006013684126145_3.jpg
+      relative_path: images/2052006013684126145_3.jpg
+      size_bytes: 46430
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2052006013684126145_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2052006013684126145_4.jpg
+      relative_path: images/2052006013684126145_4.jpg
+      size_bytes: 426942
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2052006013684126145_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2067169575217799549_1.jpg
+      relative_path: images/2067169575217799549_1.jpg
+      size_bytes: 78729
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2067169575217799549_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2067169575217799549_2.jpg
+      relative_path: images/2067169575217799549_2.jpg
+      size_bytes: 55940
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2067169575217799549_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2067169575217799549_3.jpg
+      relative_path: images/2067169575217799549_3.jpg
+      size_bytes: 19953
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2067169575217799549_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2067169575217799549_4.jpg
+      relative_path: images/2067169575217799549_4.jpg
+      size_bytes: 218752
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2067169575217799549_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2067170760238792731_1.jpg
+      relative_path: images/2067170760238792731_1.jpg
+      size_bytes: 61565
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2067170760238792731_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2068506485420892470_1.jpg
+      relative_path: images/2068506485420892470_1.jpg
+      size_bytes: 47528
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2068506485420892470_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2068506485420892470_2.jpg
+      relative_path: images/2068506485420892470_2.jpg
+      size_bytes: 156582
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2068506485420892470_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2068506485420892470_3.jpg
+      relative_path: images/2068506485420892470_3.jpg
+      size_bytes: 169752
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2068506485420892470_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2068506485420892470_4.jpg
+      relative_path: images/2068506485420892470_4.jpg
+      size_bytes: 138144
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2068506485420892470_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070163736858694089_1.jpg
+      relative_path: images/2070163736858694089_1.jpg
+      size_bytes: 117709
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070163736858694089_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070597252133818558_1_cropped.png
+      relative_path: images/2070597252133818558_1_cropped.png
+      size_bytes: 453493
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070597252133818558_1_cropped.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070599972072874006_1.jpg
+      relative_path: images/2070599972072874006_1.jpg
+      size_bytes: 215371
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070599972072874006_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070599972072874006_2.jpg
+      relative_path: images/2070599972072874006_2.jpg
+      size_bytes: 184817
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070599972072874006_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070599972072874006_3.jpg
+      relative_path: images/2070599972072874006_3.jpg
+      size_bytes: 244049
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070599972072874006_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070601198848049263_1.jpg
+      relative_path: images/2070601198848049263_1.jpg
+      size_bytes: 150063
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070601198848049263_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070606777691816338_1.jpg
+      relative_path: images/2070606777691816338_1.jpg
+      size_bytes: 227091
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070606777691816338_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070606777691816338_2.jpg
+      relative_path: images/2070606777691816338_2.jpg
+      size_bytes: 161963
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070606777691816338_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070606777691816338_3.jpg
+      relative_path: images/2070606777691816338_3.jpg
+      size_bytes: 169473
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070606777691816338_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2070606777691816338_4.jpg
+      relative_path: images/2070606777691816338_4.jpg
+      size_bytes: 163512
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2070606777691816338_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2074570091673649274_1.jpg
+      relative_path: images/2074570091673649274_1.jpg
+      size_bytes: 151830
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2074570091673649274_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_1.jpg
+      relative_path: images/2075589097603891487_1.jpg
+      size_bytes: 24873
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2075589097603891487_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_2.jpg
+      relative_path: images/2075589097603891487_2.jpg
+      size_bytes: 130174
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2075589097603891487_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2075589097603891487_3.jpg
+      relative_path: images/2075589097603891487_3.jpg
+      size_bytes: 71702
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2075589097603891487_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_1.jpg
+      relative_path: images/2076019571127935010_1.jpg
+      size_bytes: 501760
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076019571127935010_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_2.jpg
+      relative_path: images/2076019571127935010_2.jpg
+      size_bytes: 110159
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076019571127935010_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_3.jpg
+      relative_path: images/2076019571127935010_3.jpg
+      size_bytes: 74246
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076019571127935010_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4.jpg
+      relative_path: images/2076019571127935010_4.jpg
+      size_bytes: 357267
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076019571127935010_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076019571127935010_4_cropped.jpg
+      relative_path: images/2076019571127935010_4_cropped.jpg
+      size_bytes: 349003
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076019571127935010_4_cropped.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076075338409398330_1.jpg
+      relative_path: images/2076075338409398330_1.jpg
+      size_bytes: 44831
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076075338409398330_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_1.jpg
+      relative_path: images/2076765947151393053_1.jpg
+      size_bytes: 98296
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076765947151393053_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_2.jpg
+      relative_path: images/2076765947151393053_2.jpg
+      size_bytes: 397939
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076765947151393053_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2076765947151393053_3.jpg
+      relative_path: images/2076765947151393053_3.jpg
+      size_bytes: 229656
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2076765947151393053_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_1.jpg
+      relative_path: images/2077277163053564059_1.jpg
+      size_bytes: 72595
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077277163053564059_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_2.jpg
+      relative_path: images/2077277163053564059_2.jpg
+      size_bytes: 107524
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077277163053564059_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077277163053564059_3.jpg
+      relative_path: images/2077277163053564059_3.jpg
+      size_bytes: 175000
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077277163053564059_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_1.jpg
+      relative_path: images/2077847223082103278_1.jpg
+      size_bytes: 111994
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077847223082103278_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_2.jpg
+      relative_path: images/2077847223082103278_2.jpg
+      size_bytes: 207714
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077847223082103278_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_3.jpg
+      relative_path: images/2077847223082103278_3.jpg
+      size_bytes: 194979
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077847223082103278_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077847223082103278_4.jpg
+      relative_path: images/2077847223082103278_4.jpg
+      size_bytes: 115618
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077847223082103278_4.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_1.jpg
+      relative_path: images/2077921727888138329_1.jpg
+      size_bytes: 310336
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077921727888138329_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_2.jpg
+      relative_path: images/2077921727888138329_2.jpg
+      size_bytes: 214759
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077921727888138329_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077921727888138329_3.jpg
+      relative_path: images/2077921727888138329_3.jpg
+      size_bytes: 226190
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077921727888138329_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077951056697331723_1.jpg
+      relative_path: images/2077951056697331723_1.jpg
+      size_bytes: 285579
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077951056697331723_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2077957959905427544_1.jpg
+      relative_path: images/2077957959905427544_1.jpg
+      size_bytes: 183328
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2077957959905427544_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078105368933142589_1.jpg
+      relative_path: images/2078105368933142589_1.jpg
+      size_bytes: 105983
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078105368933142589_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_1.jpg
+      relative_path: images/2078362407508812262_1.jpg
+      size_bytes: 205740
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078362407508812262_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_2.jpg
+      relative_path: images/2078362407508812262_2.jpg
+      size_bytes: 206452
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078362407508812262_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078362407508812262_3.jpg
+      relative_path: images/2078362407508812262_3.jpg
+      size_bytes: 279158
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078362407508812262_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078404214313857083_1.jpg
+      relative_path: images/2078404214313857083_1.jpg
+      size_bytes: 431432
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078404214313857083_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_1.jpg
+      relative_path: images/2078856527541362697_1.jpg
+      size_bytes: 278514
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078856527541362697_1.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_2.jpg
+      relative_path: images/2078856527541362697_2.jpg
+      size_bytes: 262827
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078856527541362697_2.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/2078856527541362697_3.jpg
+      relative_path: images/2078856527541362697_3.jpg
+      size_bytes: 402117
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/2078856527541362697_3.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      relative_path: images/GPT_Imagine/all_ck_laws/Pre_Final.png
+      size_bytes: 2250179
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/Pre_Final.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/Candace_Owens_(53805331465)_(cropped).jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/Charlie_Kirk.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/Document.png
+      size_bytes: 56243
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/Document.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/G05w2sHaEAUGIKh.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/images.jpg
+      size_bytes: 9281
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/images.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      relative_path: images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp
+      size_bytes: 21128
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/all_ck_laws/inputs/schoolhouse-rock.webp.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png
+      size_bytes: 2294731
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/Pre_Final_GPT_Image.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png
+      size_bytes: 7242123
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/Pre_Final_Gemini.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png
+      size_bytes: 2274513
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_GPT_Image.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      relative_path: images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png
+      size_bytes: 7343021
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/bad/BAD_Pre_Final_Gemini.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg
+      size_bytes: 415815
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/inputs/Candace_Owens_(53805331465)_(cropped).jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg
+      size_bytes: 1631321
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/inputs/Charlie_Kirk.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      relative_path: images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg
+      size_bytes: 271868
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/GPT_Imagine/ck_law_4/inputs/G05w2sHaEAUGIKh.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/ico/angel.png
+      relative_path: images/ico/angel.png
+      size_bytes: 1426964
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/ico/angel.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/All_Laws.jpeg
+      relative_path: images/laws/All_Laws.jpeg
+      size_bytes: 424059
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/All_Laws.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_1.jpeg
+      relative_path: images/laws/Law_1.jpeg
+      size_bytes: 413811
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/Law_1.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_2.jpeg
+      relative_path: images/laws/Law_2.jpeg
+      size_bytes: 417209
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/Law_2.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_3.jpeg
+      relative_path: images/laws/Law_3.jpeg
+      size_bytes: 415378
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/Law_3.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/Law_4.jpeg
+      relative_path: images/laws/Law_4.jpeg
+      size_bytes: 423916
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/Law_4.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/All_Laws.jpeg
+      relative_path: images/laws/big/All_Laws.jpeg
+      size_bytes: 939193
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/big/All_Laws.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_1.jpeg
+      relative_path: images/laws/big/Law_1.jpeg
+      size_bytes: 917517
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/big/Law_1.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_2.jpeg
+      relative_path: images/laws/big/Law_2.jpeg
+      size_bytes: 925321
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/big/Law_2.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_3.jpeg
+      relative_path: images/laws/big/Law_3.jpeg
+      size_bytes: 922134
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/big/Law_3.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/images/laws/big/Law_4.jpeg
+      relative_path: images/laws/big/Law_4.jpeg
+      size_bytes: 934376
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/images/laws/big/Law_4.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      relative_path: site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+      size_bytes: 172518
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/court/mirandize/Mirandized_Sept_11_.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/court/mirandize/Sept_11_Grok.png
+      relative_path: site/internals/static/court/mirandize/Sept_11_Grok.png
+      size_bytes: 376673
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/court/mirandize/Sept_11_Grok.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/All_Laws.jpeg
+      relative_path: site/internals/static/img/All_Laws.jpeg
+      size_bytes: 424059
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/All_Laws.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.jpg
+      relative_path: site/internals/static/img/Angel_Charlie.jpg
+      size_bytes: 1739758
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/Angel_Charlie.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Angel_Charlie.png
+      relative_path: site/internals/static/img/Angel_Charlie.png
+      size_bytes: 9419799
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/Angel_Charlie.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Header_Charlie.jpeg
+      relative_path: site/internals/static/img/Header_Charlie.jpeg
+      size_bytes: 3147
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/Header_Charlie.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Iran_Timeline.jpeg
+      relative_path: site/internals/static/img/Iran_Timeline.jpeg
+      size_bytes: 115022
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/Iran_Timeline.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/Timeline_Israel.jpeg
+      relative_path: site/internals/static/img/Timeline_Israel.jpeg
+      size_bytes: 83842
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/Timeline_Israel.jpeg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/cover.png
+      relative_path: site/internals/static/img/cover.png
+      size_bytes: 9419799
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/cover.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus-social-card.jpg
+      relative_path: site/internals/static/img/docusaurus-social-card.jpg
+      size_bytes: 1739758
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/docusaurus-social-card.jpg.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/site/internals/static/img/docusaurus.png
+      relative_path: site/internals/static/img/docusaurus.png
+      size_bytes: 5142
+      media_kind: image
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/site/internals/static/img/docusaurus.png.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965869689755812061.mp4
+      relative_path: videos/1965869689755812061.mp4
+      size_bytes: 2058838
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965869689755812061.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965871960702828885.mp4
+      relative_path: videos/1965871960702828885.mp4
+      size_bytes: 13560413
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965871960702828885.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965884012565766172.mp4
+      relative_path: videos/1965884012565766172.mp4
+      size_bytes: 1349105
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965884012565766172.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965890646746513821.mp4
+      relative_path: videos/1965890646746513821.mp4
+      size_bytes: 14499759
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965890646746513821.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965892000185725129.mp4
+      relative_path: videos/1965892000185725129.mp4
+      size_bytes: 475718
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965892000185725129.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1965913654840406034.mp4
+      relative_path: videos/1965913654840406034.mp4
+      size_bytes: 475718
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1965913654840406034.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966235480732873149.mp4
+      relative_path: videos/1966235480732873149.mp4
+      size_bytes: 1508756
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1966235480732873149.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1966293765158560167.mp4
+      relative_path: videos/1966293765158560167.mp4
+      size_bytes: 15620406
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1966293765158560167.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1969832388823003519.mp4
+      relative_path: videos/1969832388823003519.mp4
+      size_bytes: 638032
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1969832388823003519.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/1976419242666021122.mp4
+      relative_path: videos/1976419242666021122.mp4
+      size_bytes: 2684183
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/1976419242666021122.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2002152440435781712.mp4
+      relative_path: videos/2002152440435781712.mp4
+      size_bytes: 2080626
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2002152440435781712.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2011947043674034660.mp4
+      relative_path: videos/2011947043674034660.mp4
+      size_bytes: 1339701
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2011947043674034660.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045116771431321829.mp4
+      relative_path: videos/2045116771431321829.mp4
+      size_bytes: 6059643
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045116771431321829.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00001.mp4
+      relative_path: videos/2045871393611395289_00001.mp4
+      size_bytes: 8378775
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045871393611395289_00001.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2045871393611395289_00002.mp4
+      relative_path: videos/2045871393611395289_00002.mp4
+      size_bytes: 56460035
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2045871393611395289_00002.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046380775579209982.mp4
+      relative_path: videos/2046380775579209982.mp4
+      size_bytes: 22593106
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046380775579209982.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046414464447287296.mp4
+      relative_path: videos/2046414464447287296.mp4
+      size_bytes: 6546481
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046414464447287296.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264562921472.mp4
+      relative_path: videos/2046416264562921472.mp4
+      size_bytes: 6216571
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264562921472.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2046416264567140352.mp4
+      relative_path: videos/2046416264567140352.mp4
+      size_bytes: 1525649
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2046416264567140352.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2047113133903495513.mp4
+      relative_path: videos/2047113133903495513.mp4
+      size_bytes: 58916838
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2047113133903495513.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2053805778952417528.mp4
+      relative_path: videos/2053805778952417528.mp4
+      size_bytes: 6159642
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2053805778952417528.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055025567255191600.mp4
+      relative_path: videos/2055025567255191600.mp4
+      size_bytes: 48741435
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2055025567255191600.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2055445490003489041.mp4
+      relative_path: videos/2055445490003489041.mp4
+      size_bytes: 15229977
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2055445490003489041.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2057560145379708956.mp4
+      relative_path: videos/2057560145379708956.mp4
+      size_bytes: 3685643
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2057560145379708956.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2067372027623715212.mp4
+      relative_path: videos/2067372027623715212.mp4
+      size_bytes: 46196181
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2067372027623715212.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2068463186668605858.mp4
+      relative_path: videos/2068463186668605858.mp4
+      size_bytes: 10585703
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2068463186668605858.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370.mp4
+      relative_path: videos/2069185145555255370.mp4
+      size_bytes: 96925208
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069185145555255370.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069185145555255370_source.mp4
+      relative_path: videos/2069185145555255370_source.mp4
+      size_bytes: 6758881
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069185145555255370_source.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069350461573046382.mp4
+      relative_path: videos/2069350461573046382.mp4
+      size_bytes: 30635952
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069350461573046382.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069566053353463951.mp4
+      relative_path: videos/2069566053353463951.mp4
+      size_bytes: 173543756
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069566053353463951.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2069997980002726099.mp4
+      relative_path: videos/2069997980002726099.mp4
+      size_bytes: 30641855
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2069997980002726099.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070467635578294609.mp4
+      relative_path: videos/2070467635578294609.mp4
+      size_bytes: 42701327
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2070467635578294609.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2070615710003589174.mp4
+      relative_path: videos/2070615710003589174.mp4
+      size_bytes: 556396
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2070615710003589174.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071072788132118610.mp4
+      relative_path: videos/2071072788132118610.mp4
+      size_bytes: 75721393
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071072788132118610.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071074071404798401.mp4
+      relative_path: videos/2071074071404798401.mp4
+      size_bytes: 11877523
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071074071404798401.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2071736376215920842.mp4
+      relative_path: videos/2071736376215920842.mp4
+      size_bytes: 3922575
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2071736376215920842.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072021982296551765.mp4
+      relative_path: videos/2072021982296551765.mp4
+      size_bytes: 3078587
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2072021982296551765.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2072814926133866634.mp4
+      relative_path: videos/2072814926133866634.mp4
+      size_bytes: 13316587
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2072814926133866634.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2076465128329846991.mp4
+      relative_path: videos/2076465128329846991.mp4
+      size_bytes: 20839951
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2076465128329846991.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/2079054276320440416.mp4
+      relative_path: videos/2079054276320440416.mp4
+      size_bytes: 5340486
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/2079054276320440416.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      relative_path: videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4
+      size_bytes: 453493
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      relative_path: videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4
+      size_bytes: 90510
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      relative_path: videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4
+      size_bytes: 471997
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      relative_path: videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4
+      size_bytes: 117709
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      relative_path: videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4
+      size_bytes: 314286
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      relative_path: videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4
+      size_bytes: 54643354
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      relative_path: videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4
+      size_bytes: 150063
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      relative_path: videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4
+      size_bytes: 184817
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      relative_path: videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4
+      size_bytes: 169473
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      relative_path: videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4
+      size_bytes: 229697
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      relative_path: videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4
+      size_bytes: 46430
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      relative_path: videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4
+      size_bytes: 227091
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      relative_path: videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4
+      size_bytes: 161963
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      relative_path: videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4
+      size_bytes: 88546
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      relative_path: videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4
+      size_bytes: 163512
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      relative_path: videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4
+      size_bytes: 250197
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      relative_path: videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4
+      size_bytes: 61565
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      relative_path: videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4
+      size_bytes: 263078
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      relative_path: videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4
+      size_bytes: 19953
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      relative_path: videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4
+      size_bytes: 55940
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      relative_path: videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4
+      size_bytes: 78729
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      relative_path: videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4
+      size_bytes: 218752
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      relative_path: videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4
+      size_bytes: 82558
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      relative_path: videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4
+      size_bytes: 81522
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmULY7EQjJCcu89B8jXXUrcAEpbhGU8XF8JifnCJmSHYL9.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      relative_path: videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4
+      size_bytes: 233442
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      relative_path: videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4
+      size_bytes: 426942
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      relative_path: videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4
+      size_bytes: 215371
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      relative_path: videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4
+      size_bytes: 244049
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4.ai_description
+    - path: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      relative_path: videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4
+      size_bytes: 149544
+      media_kind: video
+      description_exists: false
+      expected_artifact: /Users/bryanstarbuck/BGit/Bryan_git/charlie-kirk/.lfbridge/videos/Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4.ai_description

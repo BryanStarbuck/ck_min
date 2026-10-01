@@ -1,0 +1,301 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2025-155
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 142159 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+COURTNEY JOHNS, Petitioner, v.
+
+UTAH VALLEY UNIVERSITY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2025-155
+
+By this appeal, Petitioner Courtney Johns, an investigative reporter/anchor with KSL-TV, seeks access to records allegedly held by Respondent, Utah Valley University ("UVU"), concerning a former employee.
+
+BACKGROUND
+
+On April 11, 2025, Petitioner submitted an initial records request pursuant to the Government Records Access and Management Act ("GRAMA") to UVU seeking records regarding Mr. Chris Burk. UVU granted and denied that request in part on or about April 18, 2025. Petitioner then appealed the partial denial to the State Records Committee (SRC Appeal No. 2025-061). However, that appeal was dismissed on August 26, 2025, due to Petitioner's non-response to an Order to Show Cause.
+
+On September 16, 2025, Ms. Johns submitted the current request to UVU, which she characterizes as a "refiling" of the previous matter. This request sought records related to the employment, vetting, and personnel history of Mr. Burk, including employment application materials, personnel file contents, and communications regarding Mr. Burk. Ms. Johns specifically expanded the scope of her original request to include "separation documentation" and "complaints (formal and informal)."
+
+On October 8, 2025, UVU informed Ms. Johns that it was then processing a large number of records requests and needed additional time to process her request. On October 29, 2025, UVU granted the request in part (releasing a redacted resume, application, and pay history) and denied it in part. UVU withheld disciplinary records, complaints, investigations, and separation documentation, citing privacy classifications under Utah Code § 63G-2-302 and protected status under § 63G-2-305(10) due to pending criminal charges against the subject. Other records were not found, despite a search by UVU's Records Officers.
+
+On October 31, 2025, Ms. Johns filed an appeal with Val Peterson, UVU's Vice President of Administration and Strategic Relations. Ms. Johns argued that any disciplinary records should be disclosed if the disciplinary action was sustained, pursuant to Utah Code § 63G-2-301(3)(o). Ms. Johns also argued that communications regarding misconduct are not automatically private, and that records created pursuant to statutory mandates are public even if they are being used in litigation or contain sensitive information. On November 14, 2025, Vice President Peterson denied Ms. Johns' appeal, finding that the records had been properly classified. He noted that while records regarding "assignment of work" existed which might be considered "informal discipline," no records of sustained formal discipline existed, rendering the records private
+
+On November 15, 2025, Ms. Johns appealed this decision to the Government Records Office ("Office"). On January 29, 2026, the Director of the Office ("Director") held a public hearing at which the parties were allowed to present their evidence and arguments. After carefully considering the parties' presentations and reviewing the disputed records in camera, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. Utah Code § 63G-2-201(7)(b) provides that a governmental entity shall conduct a reasonable search for a requested record. GRAMA further specifies that a governmental entity is not required to fulfill a person's records request if the request unreasonably duplicates prior records requests from that person. Utah Code § 63G-2-201(7)(a)(iv).
+
+2. The Director finds that the portion of the request seeking the employment application, resume, and pay history is unreasonably duplicative of the April 11, 2025 request, as these records were previously processed and released. However, the September request contains substantive expansions---specifically the requests for "separation documentation" (distinct from "termination papers") and "informal" complaints---which warrant further review.
+
+3. Based upon the evidence presented by UVU, the Director finds that UVU has conducted a reasonable search and that all records responsive to the non-duplicative portion of the request have either been provided to Ms. Johns or have been provided for in camera review by the Director.
+
+4. GRAMA provides that a "record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). Records that are designated as "private," "protected," or "controlled," are not public. See Utah Code §§ 63G-2-201(3)(a), -302, -303, -304 and -305.
+
+5. Records concerning a current or former employee of, or applicant for employment with a governmental entity, including performance evaluations and personal status information such as race, religion, or disabilities, are private records if properly classified by a governmental entity, but not including records that are public under Utah Code §§ 63G-2-301(2)(b) or -301(3)(o). Utah Code § 63G-2-302(2)(a).
+
+6. Utah Code § 63G-2-301(2)(b) provides that the name, gender, gross compensation, job title, job description, business address, business email address, business telephone number, number of hours worked per pay period, dates of employment, and relevant education, previous employment, and similar job qualifications of a current or former employee or officer of the governmental entity, are generally public.
+
+7. Under Utah Code § 63G-2-301(3)(o), records that would disclose information relating to formal charges or disciplinary actions against a past or present governmental entity employee are normally public if: (1) The disciplinary action has been completed and all time periods for administrative appeal have expired; and (2) The charges on which the disciplinary action was based were sustained. However, access to such records may be restricted under Utah Code § 63G-2-201(3)(b) to the extent that a record is expressly exempt from disclosure under another provision.
+
+8. Records created or maintained for criminal enforcement purposes are protected records if properly classified by a governmental entity and if release of the records: (1) Reasonably could be expected to interfere with investigations for enforcement purposes; (2) Reasonably could be expected to interfere with enforcement proceedings; or (3) Would create a danger of depriving a person of a right to a trial or impartial hearing. Utah Code § 63G-2-305(10)(a-c).
+
+9. After considering the arguments presented by the parties and reviewing the records in camera, the Director finds that the records related to informal discipline and separation of Mr. Burk are properly classified as private records under Utah Code § 63G-2-302(2)(a). These records do not include records of sustained formal charges or disciplinary actions against Mr. Burk, which would qualify as public records under Utah Code § 63G-2-301(3)(o).
+
+10. UVU also argues that some of the withheld records are properly classified as protected under Utah Code § 63G-2-305(10)(a-c) due to the ongoing criminal investigation and enforcement proceedings. UVU asserts that release of these records at this time would create a danger interfering with the investigation and depriving Mr. Burk of his right to a fair trial or impartial hearing. Based on the active status of the investigation and the criminal trial scheduled for February 2026, the Director finds that UVU properly classified these records as protected.
+
+11. Under Utah Code § 63G-2-403(11)(b) the Director may, upon consideration and weighing the various interests and public policies pertinent to the classification and disclosure or nondisclosure, order the disclosure of information properly classified as private, controlled, or protected if the public interest favoring access is greater than or equal to the interest favoring restriction of access. Ms. Johns argued persuasively as an investigative reporter/anchor with KSL-TV, that there is great public interest in release of the requested records to shed light on how UVU handled reports of misconduct and whether institutional safeguards were followed. However, this must be weighed against the due process rights of a criminal defendant and the integrity of an ongoing prosecution. Because release of these records currently poses a risk to an ongoing investigation and the fairness of a pending criminal trial, the interest in restricting access currently outweighs the interests favoring disclosure. Accordingly, the Director finds that the records should not be released pursuant to the weighing provision at this time.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner, Courtney Johns, is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 9th day of February 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

@@ -1,0 +1,9 @@
+{
+  "label": "Messages & Threats",
+  "position": 27,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "Messages/overview"
+  }
+}

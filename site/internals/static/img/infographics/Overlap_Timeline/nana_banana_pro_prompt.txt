@@ -1,0 +1,69 @@
+Create a precise, editorial-quality data-visualisation infographic. 16:9 landscape, wide format. Flat vector information-design style, the register of a serious investigative newspaper graphic, not an illustration and not a poster. No photographs, no people, no aircraft drawings, no maps, no logos, no icons beyond simple geometric marks. Every element is a rectangle, a line, a diamond, or text.
+
+Colour and ground. Near-black charcoal background, roughly #1b1b1f, filling the entire frame edge to edge. Off-white text, roughly #f4f4f6, for headlines and emphasis. Mid grey, roughly #9b9ba3, for secondary text. Dim grey, roughly #6e6e77, for the smallest text. Warm amber, roughly #e0a33e, for everything belonging to Charlie Kirk and TPUSA. Cool blue, roughly #6ea8d8, for everything belonging to Erika Kirk. Thin dark rules, roughly #3a3a42, for gridlines and card borders. Only those colours. No gradients, no glow, no drop shadows, no texture, no vignette.
+
+The central object, occupying roughly 46 percent of the frame and running almost edge to edge horizontally, is a diverging monthly bar chart with a single shared horizontal time axis across the middle of the image at about 49 percent of the frame height. Time runs left to right across 46 equal month slots, from January 2022 at the far left to October 2025 at the far right. Faint vertical gridlines mark every month. Slightly stronger vertical rules mark each January, labelled above the chart in mid grey with the year numerals "2022", "2023", "2024", "2025".
+
+Above the axis, bars grow upward in amber: this is the Charlie Kirk and TPUSA band. Below the axis, bars grow downward in blue, mirrored: this is the Erika Kirk band. Bars are narrow, about half the width of their month slot, with clear space between them. One unit of bar height equals one claimed overlap; the tallest bars anywhere on the chart are five units.
+
+Every bar is built from stacked unit blocks, and each block is drawn in one of four styles. This is the most important instruction in the whole prompt, because the fill style carries the entire argument.
+SOLID: a completely filled block in the band's colour. Meaning: corroborated.
+HATCHED: a block filled with fine 45-degree diagonal stripes in the band's colour, with a thin solid outline. Meaning: right area, wrong airport.
+HOLLOW: an empty block with a clean thin solid outline in the band's colour and no fill. Meaning: refuted.
+DOTTED: an empty block with a thin dashed or dotted outline, noticeably fainter and lower contrast than the hollow style. Meaning: could not be tested.
+Within a single bar the blocks stack outward from the axis in this order: solid first, nearest the axis, then hatched, then hollow, then dotted furthest from the axis.
+
+The distribution the chart must show. The far left of the timeline, all of 2022 and the start of 2023, is empty on the amber band and holds only short, entirely DOTTED blue bars below the axis. The middle of the chart is mixed. The right-hand third, from roughly March 2025 onward, is where the SOLID blocks concentrate, and the last populated month, September 2025, is entirely SOLID on both bands. Fifteen of the forty-six months are completely empty on both sides, leaving visible gaps in the rhythm, including a long unbroken gap through the last quarter of 2023. The blue band below the axis is longer, busier and overwhelmingly DOTTED. The amber band above the axis is much sparser but a clear majority of its blocks are SOLID, and the amber band contains NO hollow blocks at all. That contrast between a mostly-dotted lower trace and a mostly-solid upper trace is the single thing the reader must see.
+
+Specific tall bars to place. An amber bar of height five in April 2024, of which four blocks are solid and one is dotted. A blue bar of height five in July 2025. An amber bar of height four in April 2023 and another amber bar of height four in September 2025 whose blocks are all four solid. A blue bar of height four in November 2022, entirely dotted.
+
+Six small solid off-white diamond markers, each about the size of a bar's width, pinned just beyond the outer end of a specific bar, three above the amber band and three below the blue band, clustered in April 2023, April 2024, May 2025 and September 2025. Immediately above the amber band, roughly centred horizontally at about a third of the frame width, place one sample diamond followed by two short lines of mid-grey text reading exactly:
+"the jet transmitting from on the ground"
+"at the named field — 6 dates"
+Render the words "on the ground" and "6 dates" in off-white and bold within those lines.
+
+Title block, upper left, occupying roughly 12 percent of the frame. One line of large bold off-white text, letter-spaced slightly, reading exactly:
+"THE OVERLAPS, RE-TESTED AGAINST RECOVERED DATA"
+Beneath it, two lines of smaller mid-grey text at roughly 43 percent of the title's size, reading exactly:
+"Egyptian-registered jets and the Kirks, January 2022 – October 2025. Each bar is one month."
+"Records in this case go missing, so every claim was re-tested against raw ADS-B traces we pulled and kept — not a live tracking site."
+
+Statistics card, upper right, at the same height as the title, occupying roughly 11 percent of the frame. A rectangle with a thin grey border, slightly rounded corners, no fill. Inside it, a very large bold off-white numeral "80" at the left, and to its right two stacked short lines reading exactly "dated claimed overlaps" in mid grey and "tallies broadcast as “73”" in dim grey. Below those, a thin horizontal rule, then a small dim-grey all-caps letter-spaced label reading exactly "CHECKED AGAINST TRACES WE HOLD". Below that label, a single slim horizontal 100-percent stacked bar spanning the card's width, divided left to right into four segments in this proportion: a solid off-white segment about 29 percent of the width, a narrow amber hatched segment about 1 percent, a narrow hollow outlined segment about 4 percent, and a long faint dotted segment filling the remaining 66 percent. Below the stacked bar, two lines of text reading exactly:
+"25 corroborated  ·  3 refuted  ·  1 wrong field"
+"47 the archives cannot answer  ·  4 name no aircraft"
+Render "25 corroborated" in bold off-white; the rest of the first line in mid grey; the second line entirely in dim grey.
+
+Band labels, frame left, set inside the empty 2022 region of each band so they do not collide with any bar. Above the axis, in bold amber: "CHARLIE KIRK + TPUSA" followed by mid-grey regular text "— 24 claimed". Below the axis, in bold blue: "ERIKA KIRK" followed by mid-grey regular text "— 56 claimed".
+
+Ghosted detached block, hanging off the right-hand end past where the time axis stops, deliberately outside the timeline. Five narrow dashed empty rectangles in dim grey, standing above a short baseline, with text beneath them reading exactly:
+"5 more claimed overlaps"
+"never published — no date, no city,"
+"no airport, no tail. Cannot be placed"
+"on this timeline."
+The first line in mid grey and semibold; the rest in dim grey and smaller.
+
+Legend card, lower left, occupying roughly 5 percent of the frame. A rectangle with a thin grey border and no fill. Four rows, each a small square swatch followed by mid-grey text. The swatches, top to bottom, are: a solid off-white square, a hatched square, a hollow outlined square, a dotted outlined square. The four text strings read exactly:
+"corroborated — a trace we hold puts the jet at the claimed field"
+"right area, wrong field — within 50 miles, not at the airport named"
+"refuted — a trace we hold puts the jet somewhere else"
+"not testable — no archive reaches back, or no aircraft was named"
+
+September call-out lens, lower right, occupying roughly 17 percent of the frame. A hard-edged rectangle with a bright off-white border, filled with the same charcoal background so it reads as a panel lifted off the chart. Two thin grey leader lines run from the September 2025 position on the main time axis down to the top corners of this panel, so the reader understands it is a magnified excerpt. Inside the panel, a bold amber all-caps letter-spaced heading reading exactly:
+"WHAT THE RECOVERED TRACES SHOW AT PROVO"
+Below it, four rows. Each row begins with a bold off-white date, followed by an em dash and mid-grey descriptive text. The rows read exactly:
+"4 SEP 2025 — SU-BTT lands Provo, 12:45 pm — inbound from 8,100 km out"
+"5–10 SEP — SU-BND transmits from the ground at Provo every day"
+"10 SEP 2025 — SU-BTT departs Provo, 07:14 am"
+"10 SEP 2025 — SU-BND still on the ground at 2:29 pm — it never leaves"
+Below those four rows, one line of off-white text reading exactly:
+"Charlie Kirk is killed at UVU, Orem — 7 miles away — at 12:23 pm"
+Then a thin horizontal rule across the panel, and beneath it one line of smaller mid-grey text reading exactly:
+"Times are Mountain, read off the trace. A trace proves presence — never who was aboard."
+
+Source line, along the very bottom edge, full width, above it a thin horizontal rule. Four lines of the smallest dim-grey text in the image, all four fitting inside the frame with a clear margin at both sides and below, reading exactly:
+"Claim counts are researcher tallies attributed to Candace Owens and others. Every fill is computed from raw ADS-B trace files recovered from adsb.lol and airplanes.live and kept in this repo,"
+"measured point-by-point: corroborated = within 15 km of the claimed field that day. Dotted bars could not be tested — either no free archive reaches that day, or an archive that was serving other"
+"aircraft did not hear this one. Control aircraft with no connection to this case were queried on the same dates to tell those apart, and neither is evidence of anything. Erika Kirk's itinerary has never"
+"been published, so no trace can place her aboard. Nothing here is a finding of wrongdoing by any living person."
+
+Typography throughout is a clean neutral grotesque sans-serif, in the family of Helvetica Neue or Inter. Tight, even, professional. Spell every quoted string exactly as given, with no substitutions, no invented words, no extra labels, and no additional numbers anywhere in the image beyond those specified here and the year ticks on the axis. Do not add any title, watermark, byline, caption or credit that is not listed above. Do not draw aircraft, silhouettes, flags, maps, radar sweeps, crosshairs, or any human figure.

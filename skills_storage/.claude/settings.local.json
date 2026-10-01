@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/commands)",
+      "Bash(ln -sf ~/BGit/Bryan_git/charlie-kirk/skills_storage/ck_add_text/ck_add_text.md ~/.claude/commands/ck_add_text.md)",
+      "Bash(ln -sf ~/BGit/Bryan_git/charlie-kirk/skills_storage/ck_defemation_prevention.md ~/.claude/commands/ck_defemation_prevention.md)",
+      "Read(//Users/bryanstarbuck/.claude/commands/**)"
+    ]
+  }
+}

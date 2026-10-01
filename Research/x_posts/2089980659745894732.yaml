@@ -1,0 +1,43 @@
+id: '2089980659745894732'
+url: 'https://x.com/YTRABBITCHASER/status/2089980659745894732'
+author:
+  username: 'YTRABBITCHASER'
+  name: 'YT RABBIT CHASER'
+  id: '31400328'
+text: |
+  Check out this UVU DISPATCH audio. I clipped the relavent portion about the UVU Library on 9/10, plus testimony from the preliminary hearing about it but I have included the full clips separately in the comments.
+  @baroncoleman @realstewpeters @RealCandaceO @AnaEscobarShow @DiligentDenizen @realhonestash
+  @ProjectConstitu
+  Full Video of Both Clips in Comments
+created_at: '2026-08-19T07:39:53.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 2
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 64
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2089979715205427200'
+      duration_ms: 700650
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2089979715205427200/img/1rZkdelBsAZ-HIaj.jpg'
+      downloaded_as: 'videos/2089980659745894732.mp4'
+      downloaded_variant: 'http-2176 (1280x720)'
+      sha256: '055db1386a76b29151f38f870820deb969d642ab68043c5faaebbdb37a573d3d'
+      ipfs_cid: 'QmRquvtpmxPkRU1KAnqazzkmDzGHW9tEoSF4bJN7EvyZdh'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2089301268741189658'
+  quoted_status_url: 'https://x.com/YTRABBITCHASER/status/2089301268741189658'
+  quoted_author: '@YTRABBITCHASER'
+  note: 'Parent post carries its own video. The quoted post has a SEPARATE video (TPUSA "Freudian slips" compilation, 9:02) on a different topic — deliberately NOT downloaded for this page.'
+transcription_file: 'videos_transcription/2089980659745894732.md'
+site_page: 'site/docs/Suspects/UVU_Library_Backpack_Testimony.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-19'
+temp_file: false

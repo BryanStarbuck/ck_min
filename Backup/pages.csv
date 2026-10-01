@@ -1,0 +1,7 @@
+key,unique_ref,page_title,url,portal,ascii_web_source,ascii_mobile_source,status,created,version,last_updated
+backup_landing,backup_landing,Backup Landing Page,/,main_site,Page_Landing_Web_UI.md,Page_Landing_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10
+backup_setup_connect,backup_setup_connect,Setup — Connect Account,/setup/connect,main_site,Page_Setup_Connect_Web_UI.md,Page_Setup_Connect_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10
+backup_setup_options,backup_setup_options,Setup — Configure Options,/setup/options,main_site,Page_Setup_Options_Web_UI.md,Page_Setup_Options_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10
+backup_setup_progress,backup_setup_progress,Setup — Backup Progress,/setup/progress,main_site,Page_Setup_Progress_Web_UI.md,Page_Setup_Progress_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10
+backup_dashboard,backup_dashboard,Backup Dashboard,/dashboard,main_site,Page_Dashboard_Web_UI.md,Page_Dashboard_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10
+backup_viewer,backup_viewer,Backup Viewer,/view/:platform/:handle,main_site,Page_Backup_Viewer_Web_UI.md,Page_Backup_Viewer_Mobile_UI.md,done,2026-04-09,0.6,2026-04-10

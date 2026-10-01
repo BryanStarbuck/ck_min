@@ -1,0 +1,56 @@
+id: '2093761830225350902'
+url: 'https://x.com/BlacksNeff/status/2093761830225350902'
+author:
+  username: 'BlacksNeff'
+  name: 'Black Neff'
+  id: '2067429466339426304'
+text: |
+  Great catch! I remember @baron talking about this.
+created_at: '2026-08-29T18:04:55.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 23
+  reply_count: 7
+  like_count: 307
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 3488
+quoted_tweet:
+  id: '2093546357999243481'
+  url: 'https://x.com/DiligentDenizen/status/2093546357999243481'
+  author: '@DiligentDenizen'
+  created_at: '2026-08-29T03:48:42.000Z'
+  public_metrics:
+    retweet_count: 509
+    reply_count: 98
+    like_count: 3018
+    quote_count: 8
+    bookmark_count: 173
+    impression_count: 54752
+  text: |
+    Remember the Charlie Kirk "command center" truck I pointed the antenna array out on that across the street from UVU during his assassination?
+
+    The special operations SWAT vehicle on the scene in St George today had the same COMs and climate control unit on top of it. 🫡👇🏻
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2093546353934893056'
+      url: 'https://pbs.twimg.com/media/HQ3FURsagAAq3ym.jpg'
+      width: 1080
+      height: 1185
+      ipfs_cid: 'QmbsRuHouuH2KfxXxGGYgdXZm9RDb7cRzZrVx7HypyqtQT'
+      sha256: '83322bf23be22f9b32afc48921704474eb5dc7e8ee8f324af9506bf936c1ddc1'
+ocr_text: |
+  tesseract returned nothing usable (the only rendered text is a stylised "S.W.A.T." on
+  the truck flank and two hand-added yellow labels). Read visually instead:
+  TOP PANEL: white S.W.A.T. box truck, police-star emblem, THREE roof features circled in red.
+  BOTTOM PANEL: overhead frame of a white box truck, TWO roof features circled and labelled
+  in yellow — "AC" and "COMS ANTENNA".
+investigation: 'charlie_kirk'
+added_date: '2026-08-31'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2093546357999243481'
+  quoted_status_url: 'https://x.com/DiligentDenizen/status/2093546357999243481'
+  quoted_author: '@DiligentDenizen'

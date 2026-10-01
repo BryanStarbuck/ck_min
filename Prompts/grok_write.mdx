@@ -1,0 +1,633 @@
+This is a prompt file. It runs in stages. When it is run, the person running it
+passes in INPUT_TEXT that tells this prompt what to focus on for this run.
+
+
+====================================================================
+VARIABLES
+====================================================================
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk
+  This directory is a git repo, and it is a Docusaurus site.
+
+SITE_DOCS_DIR dir is {ROOT_DIR}/site/docs
+  For the most part, the directories directly under here are the "Level 2"
+  areas. There are some exceptions, like "trash".
+
+PLANNING_YAML is file {ROOT_DIR}/planning_grok.yaml
+PLANNING_TXT is file {ROOT_DIR}/grok_planning.txt
+CHANGES_FILE is file {ROOT_DIR}/changes.txt
+
+CK_FILE is file ~/BGit/all/politics/charlie_kirk/Charlie_Kirk.txt
+  (Real file. Moved 2026-09-19. ~/BGit/Bryan_git/charlie-kirk/Charlie_Kirk.txt is now a symlink to it —
+   use that only to verify the location; always read and write the real path.)
+  The master investigation file. See "READ FIRST" and "KEY FILES" below.
+
+PAGES_CSV is file {ROOT_DIR}/pages.csv
+PLANES_YAML is file {ROOT_DIR}/planes.yaml
+
+INPUT_TEXT is the value = the text the person passes in when running this prompt.
+  It tells this prompt what its focus is for this run. It will often say
+  "build out information on a certain Level 2" and name which Level 2, or it
+  will say "make sure we have a Level 3 document by a certain name". It will
+  often name a Level 2, and possibly a Level 3.
+
+THE_DATE_TIME_STRING is the string "{Date}_{Time}" where it uses "_" instead of
+  any special characters, so it is purely alphanumeric or underscores.
+
+RANDOM_PHRASE is a short random phrase that you generate ONE TIME at the very
+  start of this run and then reuse for the whole run.
+  * 12 characters or less.
+  * Letters only -- no numbers, no special characters, no spaces, no
+    underscores. Lowercase is fine (e.g. "amberfox", "quietheron").
+  * Its only purpose is to give this run its own private folder so its Grok
+    results never collide with another run's results. Pick something unlikely
+    to have been used before.
+
+GROK_QUERY_ROOT dir is ~/T/_ck/grok_query
+  The shared root where every run drops its raw Grok AI query results.
+
+GROK_QUERY_DIR dir is {GROK_QUERY_ROOT}/{RANDOM_PHRASE}
+  This run's own private results folder. You create it once (mkdir -p) at the
+  start of the Grok fan-out stage, and every one of the 10 Grok result files
+  for this run is written inside it as {N}_results.txt where N is 1..10.
+
+
+====================================================================
+READ FIRST (BEFORE ANY STAGE)
+====================================================================
+
+* Before doing anything else, read CK_FILE into your context window.
+
+* CK_FILE is the master investigation file. It is the primary source of truth
+  for this investigation: raw evidence, quotes, timeline entries, court case
+  details, flight tracking data, strange-events lists, and investigative notes.
+  It uses "=============== Section Title ==================" section headers.
+
+* Everything you write in later stages should be grounded in what CK_FILE says,
+  combined with what Grok AI returns.
+
+
+====================================================================
+KEY FILES (READ WHEN APPROPRIATE)
+====================================================================
+
+* CK_FILE (~/BGit/all/politics/charlie_kirk/Charlie_Kirk.txt)
+  The master investigation file (see READ FIRST above). Always read it first.
+
+* PAGES_CSV ({ROOT_DIR}/pages.csv)
+  The master index of every public page on the Docusaurus site. One row per
+  page. Read it when you need to find existing pages, their page_key, level,
+  url_path, file_path, parent_key, or Level 2 section. Columns include:
+  page_key, parent_key, level, level2_section, page_type, url_path, file_path,
+  title, sidebar_label, directory, extension, has_frontmatter, line_count,
+  description. Keep this file in sync when you add, move, or rename pages.
+
+* PLANES_YAML ({ROOT_DIR}/planes.yaml)
+  Structured data on every aircraft in the investigation (e.g. N1098L, SU-BTT).
+  Each plane entry has identifier, aircraft_type, operator, why-interesting
+  notes, dates, tracking notes, X analysis, conspiracy theories, official
+  responses, related investigators, and trips. Read it when writing about
+  planes, flights, ISR/surveillance aircraft, or the flight-plan angle.
+
+
+====================================================================
+BACKGROUND: WHAT THIS SITE IS AND WHO READS IT
+====================================================================
+
+* The audience reading this Charlie Kirk Docusaurus is people who are seeing
+  that the narrative from the FBI and the government -- that Tyler Robinson did
+  the killing of Charlie Kirk -- is wrong. They claimed that Tyler Robinson
+  shot him with a 30-06 gun and a bullet, and that this is what killed Charlie
+  Kirk. We are able to prove that a 30-06 bullet did not hit Charlie Kirk.
+
+* The Twitter citizen investigators are converging on the idea that a shaped
+  charge is likely what exploded and caused Charlie Kirk to die. Citizen
+  investigators on X.com are seeing that there are intelligence services
+  involved. Almost certainly, Israel decided to have him killed and picked the
+  day and the location and put things in place. It looks like U.S.
+  intelligence, and whether that might be U.S. military intelligence, is
+  involved.
+
+* The mainstream media and the government have very much a narrative that we
+  are not seeing hold true. That means their claim that a bullet killed him is
+  not true. A number of cases look like intelligence service operators, or
+  something sophisticated, are doing things. This means flight plans: there are
+  one or two flights into that location around that time period. There are a
+  couple of rental cars, and they were doing certain things.
+
+* The audience very much cares about the information -- the claims and the
+  pieces of information. We are doing an investigation. We work on connecting
+  the pieces of information.
+
+* The audience understands the idea of what the information is and what the
+  specific factor or reasoning is, and why that jumps out: that this is a
+  murder beyond Tyler Robinson. Put that kind of information more toward the
+  top. If it is just factual information -- this happened, then this happened
+  -- that can go further toward the bottom of the page.
+
+
+====================================================================
+DEFAMATION RULES (ALWAYS APPLY)
+====================================================================
+
+* We do not want to make defamation claims that say somebody did something
+  illegal, or knew ahead of time that Charlie Kirk would die, or chose to kill
+  Charlie Kirk, or anything else that would cause defamation problems.
+
+* If somebody makes an allegation, we can state that allegation. But if it is
+  an allegation that a person knew ahead of time, or that they carried it out,
+  or that they are in any way involved with the murder, then we must add that
+  we do NOT claim they knew ahead of time or that they were involved with
+  anything illegal or immoral. We do this to prevent defamation problems.
+
+
+====================================================================
+STRUCTURE: LEVEL 2 page, LEVEL 3 page, LEVEL 4 page
+====================================================================
+
+* We group our investigation based on what we call Level 2 pages. Those are the main
+  grouped areas. There is a directory for each of the Level 2s, and for the
+  most part those directories are the ones directly under {SITE_DOCS_DIR}.
+  There are some exceptions, like "trash".
+
+* A Level 2 works as an area. We generally want the page that renders for that
+  area, and it is often called overview.mdx in that Level 2 directory. That
+  overview page is generally a bullet point list that gets the reader into the
+  Level 3 documents. Sometimes those bullet points also go off to other
+  important Level 3s and to other (different) Level 2s.
+
+* We have a way to do two-column bullet point lists. Learn from the
+  pre-existing Level 2 documents how we do that.
+
+* Level 3 (and sometimes Level 4) documents are each on a specific thing, and
+  we then write extensively on that thing. Put the summary on top and then the
+  details below.
+
+* Think about how Wikipedia articles are written.
+
+* We want each of the Level 3s to often have a lot of hyperlinks, so that
+  phrases can link off to another Level 3 or Level 2, even outside of the
+  Level 2 we are in. That is a very good thing. We want everything that can
+  have hyperlinks to have hyperlinks.
+
+
+====================================================================
+LINKING RULES (BACK BUTTONS AND INTERNAL LINKS)  --  READ CAREFULLY
+====================================================================
+
+* This Docusaurus site is configured with trailingSlash: false (see
+  site/docusaurus.config.ts). That means a page served at /FBI/FBI_Investigation
+  has NO trailing slash, so the browser treats /FBI/ as its base directory.
+
+* CONSEQUENCE: a raw HTML relative link like <a href="../overview"> from
+  /FBI/FBI_Investigation resolves in the browser to /overview (one level too
+  high), which does NOT exist. This is exactly how the back buttons got broken.
+  NEVER use a relative href in a raw HTML <a> tag.
+
+* RULE 1 -- Header back-button on every Level 3 (and Level 4) page:
+  Use an ABSOLUTE href that points at the Level 2 overview:
+
+      <a href="/{Level2Section}/overview" style={{display:'inline-block',
+      marginBottom:'1rem', padding:'0.35rem 0.9rem', background:'#1a73e8',
+      color:'#fff', borderRadius:'4px', textDecoration:'none',
+      fontSize:'0.9rem'}}>← {Level2 Label}</a>
+
+  Example on any FBI Level 3 page: href="/FBI/overview" with label "← FBI".
+  A sub-section overview (e.g. Medical/Hospital/overview.mdx) points its back
+  button at its PARENT section overview: href="/Medical/overview", "← Medical".
+
+* RULE 2 -- Header back-button on a Level 2 overview page:
+  It points home: <a href="/" ...>← Home</a>. Absolute.
+
+* RULE 3 -- Any raw HTML <a href> anywhere (back buttons, card buttons,
+  "Related Areas" grids, "View Law" buttons) MUST be an absolute path that
+  starts with "/". Never "../" and never a bare "overview".
+
+* RULE 4 -- Markdown links are the exception. A markdown doc-to-doc link like
+  [FBI Investigation](./FBI_Investigation) is fine and preferred, because
+  Docusaurus resolves it against the source FILE path at build time, not
+  against the browser URL. Overview TOC bullets should use this markdown form.
+
+* SELF-CHECK before finishing: grep the files you touched for
+  href="../  -- if any raw HTML anchor uses a relative href, rewrite it to an
+  absolute /{Section}/... path. There must be zero relative raw-HTML hrefs.
+
+
+====================================================================
+DIRECTORY MAP (WHAT LIVES WHERE)
+====================================================================
+
+These are the directories under ROOT_DIR, with a short description of each and
+any key files it holds. Generated dirs (node_modules/, site/build/,
+site/.docusaurus/) are ignored. For the authoritative page inventory, read
+PAGES_CSV rather than walking directories.
+
+--- Top level of the repo ({ROOT_DIR}) ---
+
+* {ROOT_DIR}/analysis/
+  Analysis notes for the site. Contains seo.txt (search-engine-optimization notes).
+
+* {ROOT_DIR}/Backup/
+  Old landing / dashboard / setup / viewer page variants and a pages.csv snapshot. Reference only; not published.
+
+* {ROOT_DIR}/ck/
+  Older private people-profile workspace. ck/people/ holds profiles (e.g. Dustin_Bednarz). Canonical people location is Details/.
+
+* {ROOT_DIR}/cover_image/
+  Cover and hero images (charlie.jpg, cover.jpg, Angel_Charlie.png) plus image-generation prompt files.
+
+* {ROOT_DIR}/Details/
+  Private people profiles, one subdirectory per person. Main profile, research file, and prompt template each.
+
+* {ROOT_DIR}/images/
+  Site images. Includes laws/ graphics, ico/ icons, and GPT_Imagine/ generated law images.
+
+* {ROOT_DIR}/IPFS/
+  Evidence files pinned to IPFS so they cannot be censored. ipfs.txt has pull/pin commands; videos/ is gitignored.
+
+* {ROOT_DIR}/Israel/
+  Private Israel-connection research. overview.md holds the Israel-angle notes.
+
+* {ROOT_DIR}/knowledge/
+  Synthesized write-ups: FULL_WRITE_UP.md, Big_write_up.md, GPT-5 and Gemini versions, research notes, site instructions.
+
+* {ROOT_DIR}/laws/
+  Private drafting workspace for the four proposed federal laws. Feeds the public site/docs/Fix pages. Has its own CLAUDE.md.
+
+* {ROOT_DIR}/prompts/
+  Prompt files for AI workflows (this file lives here). Includes 2_Level/, Change_Levels/, Download_Transcript/, Grow_Content_Structure/, Assess_Manual.md.
+
+* {ROOT_DIR}/Research/
+  Raw research materials: evidence/, PDFs/, raw/ source posts, organized Topics/, and x_posts/.
+
+* {ROOT_DIR}/site/
+  The public Docusaurus site published at whoassassinatedcharliekirk.com. Broken out below.
+
+* {ROOT_DIR}/skills_storage/
+  Source files for Claude Code skills: ck_add_text, ck_defemation_prevention, ck_rebalance_level.
+
+* {ROOT_DIR}/tmp/
+  Scratch / temporary workspace. Nothing durable; safe to ignore.
+
+* {ROOT_DIR}/videos/
+  Downloaded source videos and extracted audio (.mp4 / .mp3), named by X/Twitter post id.
+
+* {ROOT_DIR}/videos_transcription/
+  Text transcriptions (.md) of the videos in videos/, named by the same post id.
+
+--- Inside {ROOT_DIR}/site/ ---
+
+* {ROOT_DIR}/site/docs/
+  The published pages. Directories directly under it are the Level 2 investigation areas (listed below).
+
+* {ROOT_DIR}/site/blog/
+  Docusaurus blog posts. blog/Research/ holds research-oriented posts.
+
+* {ROOT_DIR}/site/Content_Structure/
+  Per-section content-structure YAML plans (CS_After.yaml, CS_Before.yaml, Describe.yaml).
+
+* {ROOT_DIR}/site/Download_Transcript/
+  Node tool for downloading and transcribing source media (script/, to_transcribe/, transcribed_out/).
+
+* {ROOT_DIR}/site/internals/
+  Docusaurus theme/build internals: src/ (components, css, pages) and static/ assets.
+
+* {ROOT_DIR}/site/keywords/
+  Per-Level-2 keyword files (.keywords) for search indexing (Israel, Media, People, TPUSA, Tyler_Robinson).
+
+* {ROOT_DIR}/site/temp/
+  Scratch file (temp.txt) used by other prompts; not published.
+
+* {ROOT_DIR}/site/Topics2/  and  {ROOT_DIR}/site/docs/Topics3/
+  Legacy staging topic trees from earlier restructures. NOT the live Level 2 areas. Reference only; do not build here.
+
+--- Level 2 areas (directories directly under {SITE_DOCS_DIR}) ---
+
+Each is a Level 2 area with an overview.mdx (or overview.md) that links into its
+Level 3 pages. Some areas overlap or are older; consult PAGES_CSV for the
+authoritative, current list.
+
+* After/                    Post-shooting developments: crime-scene changes, gag orders, discovery, media narratives, censorship.
+* analysis_documentation/   Meta pages documenting the analysis process and methodology behind the investigation.
+* Before/                   Events before the shooting: pre-planning signals, foreknowledge, actions leading up.
+* cameras/                  Surveillance and eyewitness camera analysis around the UVU event.
+* campus_university/        UVU campus details: layout, buildings, access, campus-specific facts.
+* Censorship/               Censorship of the investigation: deleted footage, platform takedowns, suppressed evidence.
+* Charlie/                  Charlie Kirk personal background, statements, and biography.
+* court/                    Court proceedings in State v. Tyler Robinson; court/mirandize covers Miranda-rights analysis.
+* CoverUp/                  Cover-up evidence (navbar section): actions suggesting concealment or evidence destruction.
+* distraction_people/       People or narratives that may function as distractions from the core investigation.
+* Drones/                   Drone sightings and aerial-device analysis.
+* FBI/                      FBI involvement and cover-up indicators: agent conduct, evidence handling, obstruction claims.
+* Fix/                      The four proposed federal laws (navbar section). overview.mdx cards link to each law page.
+* GoogleSearches/           Google-search evidence and claims that search results were altered or deleted.
+* gov/                      Government-entity involvement notes (may overlap government_organizations).
+* Gov_Mind_Control/         Government mind-control / psychological-operations angle as it relates to the case.
+* government_organizations/ Government entities involved (agencies, offices) and their roles.
+* Gun_Bullet/               Ballistics analysis: the 30-06 claim, wound analysis, shaped-charge theory.
+* Influencers/              Influencer coverage of the case; Influencers/x/ covers X/Twitter voices.
+* intelligence/             Intelligence-services involvement, general (overlaps US_Intelligence, Proof_Intel_Services).
+* Israel/                   Israel connections; Israel/Mossad_TPUSA covers alleged Mossad-TPUSA links.
+* key_individuals/          Overview pages for key people in the investigation.
+* Killer/                   Analysis of who the actual shooter was, beyond the official suspect.
+* Law_Enforcement/          Local law-enforcement conduct and the gun-discovery sequence.
+* laws/                     Published law pages (site copy); Fix/ is the primary navbar entry. Holds sub-versions and old drafts.
+* Legal/                    Legal analysis pages (overlaps legal_investigation).
+* legal_investigation/      Legal proceedings and investigation-process analysis.
+* Locations/                Key locations tied to the case.
+* maps/                     Location maps and geographic analysis.
+* Media/                    Media analysis and mainstream-narrative critique.
+* Medical/                  Medical response, wounds, transport; Medical/Autopsy and Medical/Hospital subsections.
+* Mic/                      The microphone / "exploding microphone" theory analysis.
+* Motive/                   Motive analysis: who benefited and why Charlie Kirk was targeted.
+* organizations_groups/     Organizations and groups connected to the case.
+* Other/                    Miscellaneous pages that do not fit other areas.
+* other_topics/             Additional miscellaneous topics.
+* People/                   Key-individual profiles (public); the main people section.
+* Photos/                   Photographic evidence and image analysis.
+* Planes/                   Aircraft and flight analysis; Planes/N1098L covers the HADES ISR jet. Pairs with PLANES_YAML.
+* political_context/        Political backdrop and context around the assassination.
+* Proof_Intel_Services/     Proof of intelligence-services involvement (navbar section).
+* Proof_Not_Tyler/          Evidence that Tyler Robinson is not the shooter (navbar section).
+* security_law_enforcement/ Security and law-enforcement failures at the event.
+* Security_Team/            Charlie Kirk's / TPUSA's security team and their actions.
+* social_media_analysis/    Analysis of social-media activity and citizen-investigator findings.
+* Suspects/                 Suspect analysis beyond Tyler Robinson.
+* technology_surveillance/  Technology and surveillance systems relevant to the event.
+* Tent/                     The event tent and the rapid paving-over of the tent area.
+* Theories/                 Competing theories about how and why the assassination happened.
+* Timeline/                 Detailed timeline; Timeline/Tyler_Robinson covers his movements.
+* Topic-Analyses/           Cross-cutting topic analyses.
+* Topics3/                  Legacy staging topic tree from an earlier restructure; not a live Level 2 area.
+* TPUSA/                    Turning Point USA: internal dynamics, donors, succession, Erika Kirk.
+* Tyler_Robinson/           The official suspect; Girlfriend, Shooting, Trial subsections.
+* US_Intelligence/          U.S. intelligence (and military-intelligence) involvement analysis.
+* UVU/                      Utah Valley University event specifics.
+* Videos/                   Video-evidence pages.
+* Vote/                     Citizen voting / action-related pages.
+* Witnesses/                Witness accounts and analysis.
+* Your_Actions_Fix_It/      Citizen action items (navbar section): what readers can do.
+
+
+====================================================================
+GROK AI: HOW WE USE IT
+====================================================================
+
+* Grok AI is very important when we are building up the content for this.
+
+* When we do queries in Grok AI, we often want to talk about how we are looking
+  at the Charlie Kirk investigation and looking beyond the official government
+  narrative. We want to look at people's Twitter posts and their X.com posts.
+
+
+====================================================================
+STAGE 1: PULL CONTEXT AND CHOOSE THE 10 GROK QUERY TARGETS
+====================================================================
+
+* Pull the relevant information out of the site and out of INPUT_TEXT. You
+  should already have read CK_FILE (see READ FIRST). Read PAGES_CSV to see the
+  existing pages for the target Level 2, and read PLANES_YAML if this run
+  touches planes, flights, or the flight-plan angle.
+
+* Identify the target Level 2 for this run from INPUT_TEXT (and any Level 3 it
+  names). Understand what that Level 2 means and what areas / sub-topics live
+  underneath it -- use PAGES_CSV (the existing Level 3 pages under that Level 2)
+  and the DIRECTORY MAP above to enumerate those sub-areas.
+
+* From that understanding, choose 10 DISTINCT query targets for the Grok AI
+  fan-out in STAGE 2.
+
+* RESERVED SLOT (query number 1 is ALWAYS this): one of the 10 slots is NOT a
+  sub-area query. Instead, reserve it for a single broad, whole-investigation
+  query about the Charlie Kirk investigation as a whole. In that query, name
+  which Level 2 we are working on for this run, and ask Grok to find any and all
+  information -- via X.com / Twitter posts -- about the Charlie Kirk
+  investigation and that Level 2. Tell it NOT to summarize, and to give as many
+  details as possible. This slot exists to catch broad, cross-cutting posts that
+  the 9 narrow sub-area queries would miss. See STAGE 2 for the exact wording.
+
+* The OTHER 9 slots are specific areas underneath the target Level 2 -- each a
+  different sub-topic, angle, person, location, aircraft, or event within that
+  Level 2. Spread those 9 across the Level 2 so together they cover its breadth;
+  do NOT make 9 near-duplicate queries.
+
+* Each query target is an OVERLAP between the Charlie Kirk investigation as a
+  whole and this specific sub-area of the target Level 2. Frame every one of
+  them as looking beyond the official government narrative (see the Grok AI
+  section above).
+
+* Do not send anything to Grok yet in this stage -- just settle the list of 10
+  targets. STAGE 2 issues the actual queries and saves the results.
+
+
+====================================================================
+STAGE 2: FAN OUT 10 GROK AI QUERIES AND SAVE THE RESULTS
+====================================================================
+
+* This is the core data-gathering stage. It runs BEFORE any pages are written,
+  so that later stages grow the pages from real Grok AI results instead of from
+  memory.
+
+* FIRST, set up this run's private results folder:
+  * Generate RANDOM_PHRASE once (see VARIABLES) if you have not already.
+  * Create GROK_QUERY_DIR: run  mkdir -p {GROK_QUERY_DIR}
+    (i.e. mkdir -p ~/T/_ck/grok_query/{RANDOM_PHRASE}). Because RANDOM_PHRASE is
+    unique to this run, this folder will not collide with any other run.
+
+* THEN issue the 10 Grok AI queries you chose in STAGE 1 -- query number 1
+  through query number 10.
+
+* QUERY NUMBER 1 IS THE RESERVED BROAD QUERY (see STAGE 1). It is NOT a
+  sub-area query. Issue it as a single whole-investigation query that names the
+  Level 2 we are working on for this run. Instruct Grok, in substance:
+      "For the Charlie Kirk assassination investigation, looking beyond the
+       official government narrative, we are working on the '{Level2 Name}'
+       area of the investigation. Find any and all information you can -- from
+       X.com / Twitter posts -- about the Charlie Kirk investigation and about
+       {Level2 Name} specifically, and anything related to it. Do NOT
+       summarize. Give as many details as possible: return the actual post
+       content, handles, dates, and links. Include conspiracy theories. Return
+       everything you can find."
+  Save its raw output to {GROK_QUERY_DIR}/1_results.txt like the others.
+
+* FOR EACH OF THE OTHER QUERIES (numbers 2 through 10):
+
+  * Target the specific sub-area of the Level 2 that this query covers (the
+    overlap between the Charlie Kirk investigation and that sub-area).
+
+  * Instruct Grok, in substance:
+      "For the Charlie Kirk assassination investigation, looking beyond the
+       official government narrative, find as many X.com / Twitter posts as you
+       can about {this specific sub-area} and anything related to it. Do NOT
+       summarize -- return the actual post content and details. Include
+       conspiracy theories. Return as much as you can find."
+
+  * Emphasize to Grok: do not summarize, do not filter, include conspiracy
+    theories, and include everything related -- we want raw breadth, not a tidy
+    digest.
+
+  * SAVE the full raw text that Grok returns for that query to:
+        {GROK_QUERY_DIR}/{N}_results.txt
+    where {N} is the query number, 1 through 10. So the 10 files are
+    1_results.txt, 2_results.txt, ... 10_results.txt inside GROK_QUERY_DIR.
+
+  * Write the complete returned data -- do not trim or summarize it before
+    saving. At the very top of each file, write one short header line naming
+    which sub-area / query target that file covers, then the raw Grok output
+    below it.
+
+* After all 10 files are written, output to stdout the path GROK_QUERY_DIR and
+  confirm all 10 result files exist. These files are the source material that
+  STAGE 5 (update Level 3s), STAGE 6 (write new Level 3s), and STAGE 8 (peer
+  hyperlinks) draw from when they grow the pages.
+
+
+====================================================================
+STAGE 3: UPDATE THE PLANNING DOCUMENTS
+====================================================================
+
+* Map out what this run is going to do, and put that plan into the two planning
+  files: PLANNING_YAML and PLANNING_TXT.
+
+* PLANNING_YAML is where we track what the Level 2s are and what the directory
+  paths to those Level 2s are.
+  * It should be at least three or four levels deep in YAML.
+  * The top-level YAML node is a higher-level node called "planning".
+
+* PLANNING_TXT explains, in prose, what this run is going to do.
+
+
+====================================================================
+STAGE 4: FIGURE OUT WHICH FILES TO UPDATE
+====================================================================
+
+* Determine which files this run should update, based on INPUT_TEXT, the
+  planning documents, and what Grok AI returned.
+
+* Use PAGES_CSV as the authoritative page inventory (page_key, level,
+  url_path, file_path, parent_key, level2_section) instead of walking the
+  directory tree. Use the DIRECTORY MAP above to know which Level 2 area a
+  topic belongs to. When you add, move, or rename a page, keep PAGES_CSV in
+  sync.
+
+
+====================================================================
+STAGE 5: UPDATE PRE-EXISTING LEVEL 3s
+====================================================================
+
+* Write one or all of the following: update any pre-existing Level 3s that
+  should be updated. There might be more than one.
+
+* This work is guided by INPUT_TEXT that was passed in as this prompt was run,
+  AND by the 10 Grok result files saved in GROK_QUERY_DIR during STAGE 2. Read
+  the relevant {N}_results.txt files and fold the X.com / Twitter posts and
+  theories they contain into the pages you update.
+
+
+====================================================================
+STAGE 6: WRITE NEW LEVEL 3s
+====================================================================
+
+* Figure out if new Level 3s should be written, and then write them as
+  appropriate.
+
+* Make sure we are factoring in the information we got from the Grok AI
+  searches -- read the 10 {N}_results.txt files in GROK_QUERY_DIR (saved in
+  STAGE 2) and build the new pages from the X.com / Twitter posts and
+  conspiracy theories they contain, grounded against CK_FILE.
+
+* Every new Level 3 page MUST start with an absolute header back-button per
+  RULE 1 in LINKING RULES above (href="/{Level2Section}/overview", "← {Label}").
+
+* THE MOMENT you create a new Level 3 file, also add its bullet to the Level 2
+  overview's table-of-contents bullet list, in the same edit pass. Do not defer
+  this and do not rely on remembering it later. Use a markdown link of the form
+  [Nice Title](./New_Level3_Filename) placed in the appropriate two-column
+  bullet block. The overview TOC must grow every time the directory grows.
+
+
+====================================================================
+STAGE 7: VERIFY INBOUND LINKS
+====================================================================
+
+* Double-check that any Level 3 files we added or modified have inbound links
+  from the appropriate level.
+
+* FULL DIRECTORY-VS-TOC RECONCILIATION (do this for every Level 2 directory we
+  touched this run -- do NOT do it from memory):
+  * List every .mdx and .md file in the Level 2 directory (skip overview.* and
+    _category_.json).
+  * For each such file, confirm there is a bullet link to it in that Level 2's
+    overview table of contents.
+  * If any file is not linked, ADD its bullet to the overview TOC now. The
+    overview must link to 100% of the Level 3 documents that live in its
+    directory. This is the step that keeps the Level 2 table of contents
+    growing as new Level 3s are added -- it is not optional.
+  * A quick way to find gaps: for each filename (minus extension), grep the
+    overview for that filename; zero hits means it is missing from the TOC.
+
+* A Level 3 document should have an inbound link from its Level 2. If a Level 3
+  does not have an inbound link from its Level 2, add that link to the Level 2.
+
+* A Level 2 should have an inbound link from either the left bar or the table
+  of contents.
+
+* We always want to make sure that, if we create a new Level 2 (or for the
+  Level 2 we are working on), the top of the website has a table of contents
+  that links into that Level 2, OR the left bar has an entry to that Level 2.
+  * We are NOT going to update that table of contents ourselves, and we do NOT
+    add left-bar entries, without permission.
+  * If there is no UI entry point into this Level 2 (nothing in the table of
+    contents and nothing in the left bar), then Output to stdout a warning
+    message to the person running this prompt saying what is missing and asking
+    them to add it.
+
+* Output to stdout "WARNING: <what is missing>" for any Level 2 that has no
+  inbound UI entry point.
+
+* BACK-BUTTON CHECK: for every file we added or modified, confirm its header
+  back-button (and any other raw HTML <a href>) uses an absolute path per the
+  LINKING RULES. Grep the touched files for  href="../  -- there must be zero
+  matches. Rewrite any relative raw-HTML href to an absolute /{Section}/...
+  path before finishing.
+
+
+====================================================================
+STAGE 8: ADD PEER HYPERLINKS
+====================================================================
+
+* For any documents we added or modified, see if we can add hyperlinks to peer
+  documents.
+
+* We want everything that can have hyperlinks to have hyperlinks. Phrases can
+  link off to another Level 3 or Level 2, even outside of the Level 2 we are
+  in. That is a very good thing.
+
+
+====================================================================
+STAGE 9: ANYTHING MORE
+====================================================================
+
+* See if there is anything more that should be done that we have not done yet,
+  and do that work.
+
+
+====================================================================
+STAGE 10: UPDATE THE CHANGES FILE
+====================================================================
+
+* One of the later stages, after all of the above, is to update CHANGES_FILE.
+
+* Append to the TOP of the file. Do NOT modify any pre-existing content there.
+  Always inject your new entry by prepending it to the front of the text file,
+  so that older things get slid down toward the bottom of the file.
+
+* Each entry should include:
+  * A time-date stamp (use THE_DATE_TIME_STRING).
+  * The GROK_QUERY_DIR path used this run (so the raw Grok results for this run
+    can be found later, e.g. ~/T/_ck/grok_query/{RANDOM_PHRASE}).
+  * What changes you made.
+  * Which pages you changed.
+  * What you added, deleted, or changed.
+
+* We want to review CHANGES_FILE to know what this prompt carried out.

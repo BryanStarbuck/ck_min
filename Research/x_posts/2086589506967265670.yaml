@@ -1,0 +1,26 @@
+id: '2086589506967265670'
+url: 'https://x.com/TarynEllez7/status/2086589506967265670'
+author:
+  username: 'TarynEllez7'
+  name: 'TarynEllez'
+  id: '1649929332280684545'
+text: |
+  UVU Tried to warn Charlie about GOP on September 9th?!
+created_at: '2026-08-09T23:04:40.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 5
+  reply_count: 0
+  like_count: 14
+  quote_count: 0
+  bookmark_count: 5
+  impression_count: 1488
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2086589127969959936'
+      duration_ms: 467675
+      ipfs_cid: 'QmVs4MdZVNs2giSpTWQAbwW4NnEn6FKDd23msoMQwNn91h'
+investigation: 'charlie_kirk'
+added_date: '2026-08-10'
+temp_file: false

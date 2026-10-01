@@ -1,0 +1,51 @@
+id: '2052006013684126145'
+url: 'https://x.com/MuppetMasher/status/2052006013684126145'
+author:
+  username: 'MuppetMasher'
+  name: 'Muppet Masher'
+  id: '1586238206533865474'
+text: |
+  Why is this guy in the front row, in the reserve seating area at UVU? Human behavioural expert from BYU.
+  Black shirt front row BYU Mormon.
+created_at: '2026-05-06T12:42:12.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 510
+linked_youtube:
+  url: 'https://youtu.be/Ws0p2SQs54g?si=H4mLchVXtEJIx74B'
+  title: 'EksAyn Anderson Book Introduction'
+attachments:
+  videos: []
+  images:
+    - media_key: '3_2052006004867641344'
+      original_url: 'https://pbs.twimg.com/media/HHowluUasAA1Va-.jpg'
+      local_path: 'images/2052006013684126145_1.jpg'
+      ipfs_cid: 'QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4'
+      width: 719
+      height: 810
+    - media_key: '3_2052006006004334592'
+      original_url: 'https://pbs.twimg.com/media/HHowlyjbQAAQUKS.jpg'
+      local_path: 'images/2052006013684126145_2.jpg'
+      ipfs_cid: 'QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U'
+      width: 720
+      height: 964
+    - media_key: '3_2052006006918676480'
+      original_url: 'https://pbs.twimg.com/media/HHowl19bAAAhwJl.jpg'
+      local_path: 'images/2052006013684126145_3.jpg'
+      ipfs_cid: 'QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X'
+      width: 360
+      height: 555
+    - media_key: '3_2052006010701942784'
+      original_url: 'https://pbs.twimg.com/media/HHowmEDbEAAB2XG.jpg'
+      local_path: 'images/2052006013684126145_4.jpg'
+      ipfs_cid: 'QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu'
+      width: 2048
+      height: 2048
+investigation: 'charlie_kirk'
+added_date: '2026-05-11'
+temp_file: false

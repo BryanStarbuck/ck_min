@@ -1,0 +1,196 @@
+# Dependencies
+node_modules
+
+# Production
+site/build
+
+# Generated files
+site/.docusaurus
+site/.cache-loader
+
+# Misc
+.DS_Store
+
+# ============================================================================
+# SECRETS — never commit a credential to this repo.
+# Credentials live OUTSIDE every git repo, in ~/.credentials/charlie_kirk.json
+# (mode 600), and are read at run time by
+# site/docs/Planes/following/apis/public_open_source/code/lib/credentials.js.
+# These patterns are the backstop, not the policy.
+# ============================================================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+!*.public.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+credentials.json
+!site/docs/Planes/following/apis/public_open_source/code/lib/credentials.js
+service-account*.json
+*credentials*.yaml
+*secrets*.yaml
+.netrc
+cookies.txt
+**/captures/**/cookies*.json
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local research notes
+Research/Charlie_Kirk.txt
+
+# IPFS videos directory
+IPFS/videos/
+
+# videos/ — the media never lands in the repo (it is pulled from IPFS), but the
+# metadata that describes it must travel with the repo. Use "videos/*" rather
+# than "videos/" so the negations below can re-include named files; git will not
+# re-include anything inside a directory that is itself excluded.
+# videos.yaml is the video evidence hierarchy, the counterpart of
+# images/images.yaml. Add a new negation here rather than force-adding by hand.
+videos/*
+!videos/.gitignore
+!videos/videos.yaml
+!videos/manifest.yaml
+!videos/videos.md
+
+.transcribe/
+/videos/2045116771431321829.mp3
+/site/internals/static/img/All_Laws.jpeg
+/site/internals/static/img/Angel_Charlie.jpg
+/site/internals/static/img/Angel_Charlie.png
+/site/internals/static/img/Header_Charlie.jpeg
+/site/internals/static/img/Iran_Timeline.jpeg
+/site/internals/static/img/Timeline_Israel.jpeg
+/site/internals/static/img/cover.png
+/site/internals/static/img/docusaurus-social-card.jpg
+/site/internals/static/img/docusaurus.png
+/site/internals/static/court/mirandize/Grok.pdf
+/site/internals/static/court/mirandize/Mirandized_Sept_11_.png
+/site/internals/static/court/mirandize/Sept_11_Grok.png
+/site/internals/static/court/mirandize/robinson-affidavit-of-probable-cause.pdf
+/cover_image/Angel_Charlie.png
+/cover_image/charlie.jpg
+/cover_image/charlie.png
+/cover_image/cover.jpg
+/Research/PDFs/00000500000004000Grok.pdf
+/Research/PDFs/0005505Grok.pdf
+/Research/PDFs/235Grok.pdf
+/Research/PDFs/26247_783_Grok.pdf
+/Research/PDFs/2626269499Grok.pdf
+/Research/PDFs/2783838Grok.pdf
+/Research/PDFs/333333Grok.pdf
+/Research/PDFs/34444747Grok.pdf
+/Research/PDFs/34853485Grok.pdf
+/Research/PDFs/37373737_Grok.pdf
+/Research/PDFs/3834583Grok.pdf
+/Research/PDFs/4563839Grok.pdf
+/Research/PDFs/484846483Grok.pdf
+/Research/PDFs/624624626_Grok.pdf
+/Research/PDFs/62464678Grok.pdf
+/Research/PDFs/62626683838_8Grok.pdf
+/Research/PDFs/626267Grok.pdf
+/Research/PDFs/62628484_Grok.pdf
+/Research/PDFs/6262_27Grok.pdf
+/Research/PDFs/6759570Grok.pdf
+/Research/PDFs/7272277772Grok.pdf
+/Research/PDFs/772772355Grok.pdf
+/Research/PDFs/Grok.pdf
+/Research/PDFs/Overview.pdf
+/Research/PDFs/affidavit-of-probable-cause.pdf
+/videos/2045116771431321829.mp4
+
+# Large File Bridge: transcripts / AI descriptions / OCR text under .lfbridge/ must travel with the repo.
+# These re-include rules override any ignore rule above them (e.g. ".lfbridge/", "*.transcription").
+!.lfbridge/
+!.lfbridge/**
+/site/internals/static/img/cover.jpg
+/site/internals/static/img/docusaurus.webp
+/site/internals/static/court/mirandize/Mirandized_Sept_11_.jpg
+/cover_image/Angel_Charlie.jpg
+
+# Redaction key — maps PERSON_N_REDACTED codes to real names. Never commit.
+Research/NAME_MAPPING.json
+/site/internals/static/img/Apple_Podcast_Removed_1793.jpg
+/site/internals/static/court/bindover/state-memorandum-supporting-bindover.pdf
+/Research/PDFs/State_Memorandum_Supporting_Bindover_Tyler_Robinson.pdf
+
+# ============================================================================
+# IMAGES ARE TRACKED IN GIT — DO NOT ADD PER-FILE IMAGE IGNORE LINES HERE.
+# ============================================================================
+# These directories must stay fully tracked. The Docusaurus build and the live
+# site at whoassassinatedcharliekirk.com serve files straight out of them, so an
+# ignored file becomes a broken image in production:
+#
+#   images/                                   source images (private layer)
+#   site/internals/static/img/evidence/       served as /img/evidence/<sha>.jpg
+#   site/internals/static/img/video_posters/  served as /img/video_posters/...
+#
+# Large File Bridge previously appended ~1,950 per-file lines for these paths.
+# Those were harmless for files already committed (git never un-tracks a tracked
+# file) but silently dropped any NEW image, which is how two images went missing
+# on 2026-08-12. All such lines were removed. Do not let them come back.
+#
+# To keep an image OUT of the repo or off the public site, use the real gates:
+#   images/.gitignore                      per-file privacy exclusions
+#   images/ban_images.csv                  publish-time ban (see CLAUDE.md)
+#   image_planning/exclude_images.txt      legacy sha256 never-publish list
+#
+# Videos are the exception: videos/* stays ignored on purpose (pulled from IPFS).
+# ============================================================================
+
+# Python bytecode caches — build artifacts, never committed.
+__pycache__/
+*.pyc
+
+# ============================================================================
+# COMMERCIAL FLIGHT-API RAW RESPONSES — never in this public repo.
+# FlightAware's terms do not allow republishing an AeroAPI response. Raw pulls,
+# the spend ledger, plans and verdicts are checked in to the PRIVATE `all` repo:
+#   ~/BGit/all/politics/charlie_kirk/flights/<vendor>/
+# (proprietary/code/private_store.js). The published form is the restated data
+# in proprietary/data/<vendor>_restated/, which IS tracked. Backstop only.
+# ============================================================================
+site/docs/Planes/following/apis/proprietary/data/flightaware/
+/site/internals/static/img/evidence/164df3b4bf3cfb2a8f61d22cc8c4df50d577ad36eb9777ac278355defd33cdb0.png
+/site/internals/static/img/evidence/301e311eeb333bb6c53ff2de0f68d6e7d8976a2a279c84aeee07b31adc89f0ef.jpg
+/site/internals/static/img/evidence/4b71d4cb53e56589271ce4223e422df64eac2f56d5adca753b4c555f6563c280.jpg
+/site/internals/static/img/evidence/6f8e4a1edd50a80032ce7a8b6bb373a3a3533728d88be3ffef7d199354b80127.jpg
+/site/internals/static/img/evidence/c5189f0440ccdd98de9427a726f898d11952388959a8b95fb31895df8817299f.jpg
+/site/internals/static/img/evidence/daaadeb290e4005887b0e323bd8478583381623e3608fc3aa61bbc2243bd3fdc.jpg
+/site/internals/static/img/video_posters/219dd85096757aeb3829924df1a3d47ee67902a02e91a6d7188ec5bda8dd8379.jpg
+/site/internals/static/img/video_posters/3bec809db61250873847988c0847d5e9c26365eebe41e35f13fd83f712551976.jpg
+/site/internals/static/img/video_posters/4966bc7eb538cf498cc08c19f16b306c0ad766f8863160f25d2b548f484d78ec.jpg
+/site/internals/static/img/video_posters/5c0a0e6fc7c1c1877f2ceedabcde57cca6e036413496c6daeca284c348bf2415.jpg
+/site/internals/static/img/video_posters/674578b5b635a24f24a6ddef983c1bbef2f4e1a0126ee4b25beaf042a870c96c.jpg
+/site/internals/static/img/video_posters/7f54dd202cc723044bd9c75866d996563bf4796cab238575c10fdb95fa096b51.jpg
+/site/internals/static/img/video_posters/8ccc06136a752986dd4395e0a51bb693abc69378cce73a6be247791c1933c002.jpg
+/site/internals/static/img/video_posters/a73fb95bdfd739bdeef6bc8c557cae886c5b7c7cecaa312c630e0fa890ffb299.jpg
+/site/internals/static/img/video_posters/aec0027e9ea2715f0764639e46f5c5dca583fbb9e561a1cba79ca0cb4fe1cd85.jpg
+/site/internals/static/img/video_posters/e8b067ec8b1f0c990e7a63bba2af84035e6530426162c43338e35cb7a4b0ac31.jpg
+/site/internals/static/img/video_posters/09b202c3da9a3585d4f78cf11303cc2c8afee8b9a7e0ca9ad632c775431cad2f.jpg
+/site/internals/static/img/video_posters/465ba9f664621803a3267937eee46d28bb429ded9fd7b59314b9abf71956f758.jpg
+/site/internals/static/img/video_posters/5bd3c585fe9b8eeafb5823d1ec053ac19a93fd935d04883508396bf0a47750d5.jpg
+/site/internals/static/img/video_posters/6cf09b08c0dd346ec549c7314b670c704d790f9503b2ecbe52b00c434407de66.jpg
+/site/internals/static/img/video_posters/83e1bebf4a6a4fe7ebdfe1c51cd5d65c1e6b32f07dd0a9b3f93557309a0f3e90.jpg
+/site/internals/static/img/video_posters/84c8eb9b4468c5e010deb0a0fa9adb9602679d8aadfcc844822f5fa8b8e70c3b.jpg
+/site/internals/static/img/video_posters/9442bb93c8c2ef084c89eced915f20cd3aae439232151aaabfac4af9eebc6311.jpg
+/site/internals/static/img/video_posters/9e80e0634b55ccb6616199ef8218514db61ee4585eea161f56a3a0ca3b99d4a9.jpg
+/site/internals/static/img/video_posters/a1e7774f3c4c314938d48149ac47c7f00782c427ac948ecb2db396b134d30cfb.jpg
+/site/internals/static/img/video_posters/b90b4c4028a2dc478c93ec14141bbb13bf0fdb832aa476b493a92ca65603001d.jpg
+/site/internals/static/img/video_posters/cadf22d1230fc44bb604988d8c08e1912e557e229de62f0218d2577344ab5085.jpg
+/site/internals/static/img/evidence/1c1e2515e3b887f1188c5df658cb03d0cc03ee3dbe633eafaf1437674aeee95c.jpg
+/site/internals/static/img/evidence/22a824a9219495968fa3cd91e118d153c504601d5454198ddc14697ef8977774.jpg
+/site/internals/static/img/evidence/27768a00328909d9973fb6cee867c535f65236e59b0e17288c05f3016f202805.jpg
+/site/internals/static/img/evidence/31bbeef7643b34728b2f62307aed0e086fd15bf91938861f6d609074058a37e6.jpg
+/site/internals/static/img/evidence/784cab570bcbecc688708fabc48fe156dd01a01f7e95564825b4237945611893.jpg
+/site/internals/static/img/video_posters/0de6a49d777d0c5d95def8ba2709f6530741f02fa5a93a6a03d727433f4a8272.jpg
+/site/internals/static/img/video_posters/a68af6c45171fe531ca39f2c95f7005bd960e7833aba2726458d3d66d0fe7c08.jpg

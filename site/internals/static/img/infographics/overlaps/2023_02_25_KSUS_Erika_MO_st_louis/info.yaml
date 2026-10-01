@@ -1,0 +1,47 @@
+overlap_id: OWENS-046
+date: 2023-02-25
+person: erika
+dir_name: 2023_02_25_KSUS_Erika_MO_st_louis
+evidence_basis: adsb_ground_contact
+airport:
+  code: KSUS
+  name: Spirit of St Louis Airport
+  city: St Louis
+  state: MO
+  state_name: Missouri
+  timezone: America/Chicago
+  elevation_ft: 463
+  town_population: unknown
+  town_population_source: no sourced figure held for this place
+following_plane:
+  tail: SU-BTT
+  type: Dassault Falcon 7X
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2023-02-25T18:38:04Z, source_zone: UTC}
+      to:   {utc: 2023-02-25T18:41:27Z, source_zone: UTC}
+      basis: final_approach
+      ground_points: 54
+      min_km: 2.22
+      min_alt_ft: 350
+      last_alt_ft: 350
+      last_km: 2.22
+      sources: adsb-lol|airplanes-live
+kirk_plane:
+  no_aircraft_in_record: true
+  claim: "Erika Kirk claimed in St Louis on this date · no Kirk-party aircraft heard on the ground here"
+  queried_tails: N102DZ, N582MM, N79SC, N872RA, N40JD, N560TW, N888KG
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: recovered ADS-B traces, adsb.lol and airplanes.live. Ground contacts and near-field passes measured point by point. As of 2026-09-28."
+sources:
+  - site/docs/Planes/following/overlaps.csv
+  - site/docs/Planes/following/airports.csv
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2023-02-25_adsb-lol_trace_full.json
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2023-02-25_airplanes-live_trace_full.json
+  - site/docs/Planes/info_graphic/code/build_info_yaml.py
+notes: >-
+  SU-BTT was heard airborne within 15 km 1 time at KSUS on this date.
+  NO Kirk-party or TPUSA-linked airframe was heard on the ground at this field on this date. Queried: N872RA, N560TW. Held by neither archive for this date: N102DZ, N582MM, N79SC, N40JD, N888KG. The Kirk band is drawn hollow because the claim on this row is a PERSON IN A CITY, and a claimed itinerary is not an aircraft.
+  COMING IN TO LAND: last heard at 350 ft, 2.22 km from the field, descending, and the trace ends there - no receiver heard this aircraft again that UTC day. That is what a landing no receiver heard on the ground looks like. It is not a recorded arrival.
+  A trace proves presence, never purpose, and never occupancy. Nothing here places any person aboard any aircraft.

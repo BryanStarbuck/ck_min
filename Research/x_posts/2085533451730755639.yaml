@@ -1,0 +1,37 @@
+id: '2085533451730755639'
+url: 'https://x.com/godfatherofchao/status/2085533451730755639'
+author:
+  username: 'godfatherofchao'
+  name: 'GodFatherOfChaos'
+  id: '951371604071653376'
+text: |
+  In Episode 458 of the Julian Dorey Podcast, Baron Coleman discusses what he says Tyler Robinson's family told him during his investigation.
+
+  Whether you agree with his conclusions or not, this conversation adds another perspective to the ongoing public debate surrounding the case.
+
+  Watch the full discussion and decide for yourself.
+
+  @juliandorey @baroncoleman
+created_at: '2026-08-07T01:08:16.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 13
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 299
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2085533338237022208'
+      duration_ms: 149066
+      width: 720
+      height: 1280
+      ipfs_cid: 'QmP2m6sPYnpBgUzr6JfnRwitwqJG64eE7i3KYVsG5bgDPG'
+  images: []
+site_page: 'site/docs/Tyler_Robinson/baron-coleman-family-denial.mdx'
+transcription: 'videos_transcription/2085533451730755639.md'
+investigation: 'charlie_kirk'
+added_date: '2026-08-07'
+temp_file: false

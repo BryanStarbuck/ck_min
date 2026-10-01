@@ -1,0 +1,38 @@
+id: '2084986993063166461'
+url: 'https://x.com/DangerousConspr/status/2084986993063166461'
+author:
+  username: 'DangerousConspr'
+  name: 'Dangerous Conspiracy Theories'
+  id: '2491909730'
+text: |
+  (video only — no text)
+created_at: '2026-08-05T12:56:50.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 6
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 348
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2084878354017112065'
+      duration_ms: 129064
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2084878354017112065/img/8ig8-h5fv_sqWNt6.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2084878354017112065/vid/avc1/1080x1920/MrOtmvbF0-MzOOvc.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-05'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2084878484459962440'
+  quoted_status_url: 'https://x.com/DiligentDenizen/status/2084878484459962440'
+  quoted_author: '@DiligentDenizen'
+user_note: |
+  Man dressed in all black — suspect who ran from the shooting and
+  talked to the construction worker.

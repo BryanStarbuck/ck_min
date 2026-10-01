@@ -1,0 +1,516 @@
+# LANE: hearing recordings, video streams, transcripts, audio-recording ordering routes
+# case: State of Utah v. Tyler James Robinson, No. 251403576, 4th Jud. Dist. Utah County (Provo)
+# run date: 2026-08-31
+# tooling: yt-dlp 2025.10.14 present at /Users/bryan/Library/Python/3.9/bin/yt-dlp
+
+
+================================================================
+PASS 1 — WebSearch discovery (candidates, not yet probed)
+================================================================
+KEY FACT ESTABLISHED: preliminary hearing ran Mon 6 July 2026 - Fri 10 July 2026 (5 days),
+4th Dist. Court, Provo, Judge Tony F. Graf. Court-authorized POOL VIDEO FEED existed and was
+rebroadcast by many outlets. Day 4 = Thu 9 July 2026. Day 5 = Fri 10 July 2026.
+
+Search-result candidates (Day/date guessed from title, to be confirmed):
+  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4   <-- COMMERCIAL TRANSCRIPT
+  https://andreaburkhart.substack.com/p/completing-the-record-of-the-tyler <-- "completing the record"
+  https://www.deseret.com/utah/2026/07/06/live-coverage-tyler-robinson-murder-trial-preliminary-hearing/
+  https://www.youtube.com/watch?v=Eqo3-4YpCWg  "LIVE: Day 5 (Final Day) ... July 10, 2026"
+  https://www.youtube.com/watch?v=i-bSd9D8dnk  "LIVE: Tyler Robinson appears in court for preliminary hearing"
+  https://www.youtube.com/watch?v=kG8PI_xFCRA  "WATCH LIVE: Public Court Hearing Held For ... Tyler Robinson"
+  https://www.youtube.com/watch?v=89ZKQIHaJpM  COURT TV Day 4
+  https://www.youtube.com/watch?v=bFwe5CwDudk  COURT TV Day 5
+  https://www.youtube.com/watch?v=6fq2kCMVMXI  COURT TV Day 1
+  https://www.youtube.com/watch?v=956YAos_AIY  "LIVE: Day 4 of hearing"
+  https://www.youtube.com/watch?v=geI1zeTb0m4  "Tyler Robinson Preliminary Hearing: Day 4 | 7.9.2026"
+  https://www.youtube.com/watch?v=cnn6tiIrK7Q  "LIVE | Day 4 ..."
+  https://www.youtube.com/watch?v=VnGiYAQ28pc  "LIVE: Day 4 ..."
+  https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinson-preliminary-hearing-day-four/
+  https://www.ksl.com/article/51595867/watch-live-more-evidence-expected-in-day-4-of-tyler-robinsons-preliminary-hearing
+  https://www.cnn.com/2026/07/11/us/charlie-kirk-tyler-robinson-hearing-takeaways
+  https://www.yahoo.com/news/articles/judge-orders-release-private-hearing-183353650.html  <-- ORDERED RELEASE OF PRIVATE TRANSCRIPT
+
+================================================================
+PASS 2 — REV.COM TRANSCRIPTS  *** BIGGEST WIN OF THIS LANE ***
+================================================================
+Rev.com publishes FULL free news transcripts of the pool feed. No login, no paywall, whole
+transcript is in the page HTML. Probed each with browser UA, status + body size observed:
+
+ 200  https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1                      (NOTE ODD SLUG: 3 hyphens)
+ 200  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2
+ 200  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3
+ 200  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4
+ 200  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5
+ 404  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-1     (use the ---day-1 slug)
+ 404  https://www.rev.com/transcripts/ut-v-tyler-robinson---day-2 .. ---day-5
+
+Extracted text measurements (proof they are real full transcripts, not teasers):
+  day1  60,330 words  2,684 timestamps  last ts 07:46:52
+  day2  58,689 words  2,344 timestamps  last ts 08:14:51
+  day3  24,178 words    690 timestamps  last ts 03:30:58   <-- SHORT; likely partial day or partial capture
+  day4  56,781 words  2,288 timestamps  last ts 08:23:59
+  day5  19,142 words    614 timestamps  last ts 02:39:06   <-- SHORT
+  TOTAL ~219,120 words.
+Speaker-labelled, timestamped. Verified opening of day 1: "Calling case 251-403-576, State of
+Utah versus Tyler James Robinson", Judge Tony F. Graf Jr. presiding, appearances by Grunander /
+McBride / Sturgill / Gray / Ballard for the State and Nester / Burt / Novak / Visser for defense;
+Erika Kirk present; KSL's John Wilson identified as the pool camera operator.
+COST: free. Rev's own page carries a fair-use notice. Day3/Day5 shortness is an OPEN GAP -
+cross-check against the video runtimes below.
+
+================================================================
+PASS 3 — OFFICIAL CERTIFIED COURT TRANSCRIPTS, FREE, DIRECT PDF
+================================================================
+Source page: https://andreaburkhart.substack.com/p/completing-the-record-of-the-tyler   HTTP 200
+Author Andrea Burkhart ("Bad Batch"/"Completing the record...") attached two OFFICIAL transcripts
+as Substack file downloads. BOTH DOWNLOADED AND VERIFIED (curl, browser UA):
+
+  HTTP 200  application/pdf  2,095,616 bytes  278 pages
+  https://andreaburkhart.substack.com/api/v1/file/4414a046-37e3-4bec-8284-319788c13cbe.pdf
+  Cover page reads:
+    IN THE FOURTH JUDICIAL DISTRICT COURT - PROVO / IN AND FOR PROVO COUNTY, STATE OF UTAH
+    STATE OF UTAH v. TYLER JAMES ROBINSON   Case No. 251403576
+    TRANSCRIPT OF: PRELIMINARY HEARING - DAY FOUR
+    BEFORE THE HONORABLE TONY GRAF, FOURTH DISTRICT COURT, 137 NORTH FREEDOM BOULEVARD, PROVO, UT 84601
+    JULY 9, 2026
+    Reporter: Phoebe S. Moorhead, RDR, CRR, UT CCR / Certified Court Reporter for the State of Utah
+    NOTEWORTHY REPORTING, LLC
+  (Substack labels this file "070926 State Vs Robinson". Full word index at the back.)
+
+  HTTP 200  application/pdf  1,001,766 bytes   97 pages
+  https://andreaburkhart.substack.com/api/v1/file/e151680b-97d4-40b3-831d-1ce29ee9e43f.pdf
+  Same caption; TRANSCRIPT OF: PRELIMINARY HEARING - DAY FIVE, JULY 10, 2026, same reporter.
+  (Substack labels this file "071026 State Vs Robinson".)
+
+=> This CONFIRMS the court reporter for the July 2026 preliminary hearing is
+   Phoebe S. Moorhead, RDR, CRR, UT CCR, of NOTEWORTHY REPORTING, LLC, and that the
+   official transcripts are being produced day-by-day and can be obtained.
+=> DAYS 1, 2, 3 OFFICIAL TRANSCRIPTS ARE NOT ON THIS POST. Open gap - hunt other Burkhart posts,
+   then fall back to ordering from Noteworthy Reporting / the court.
+
+Burkhart's post also documents what the pool camera did NOT show (muted testimony / unreadable
+exhibits): the reading of a note allegedly left by Robinson, Discord message statements, the
+David Engelhardt affidavit, the burnt-vs-intact note photo comparison, and ATF DNA testimony.
+Judge Graf barred exhibits from being publicly inspected or copied. That is the exhibit gap.
+
+================================================================
+PASS 4 — THE UNSEALED / REDACTED OCT 24 2025 SEALED-HEARING TRANSCRIPT
+================================================================
+Source page: https://andreaburkhart.substack.com/p/takeaways-from-the-unsealed-tyler   HTTP 200
+Three attachments, all downloaded and identified:
+
+ HTTP 200  application/pdf  1,060,521 bytes  97 pages   *** THE PRIZE ***
+ https://andreaburkhart.substack.com/api/v1/file/fb25b527-dd12-4b5b-9194-33ee893ef346.pdf
+   REDACTED TRANSCRIPT OF: SEALED MOTION HEARING
+   BEFORE THE HONORABLE TONY GRAF, FOURTH DISTRICT COURT, 137 N FREEDOM BLVD, PROVO UT 84601
+   OCTOBER 24, 2025
+   Court Reporter: Phoebe S. Moorhead, RDR, CRR, UT CSR - NOTEWORTHY REPORTING, LLC
+   (This is the transcript behind the inventory's 11_13_25_Motion_To_Reclassify_Transcript.pdf,
+    11_13_25_Order_For_Transcript_Of_October_24,_2025_Hearing.pdf, 11_3_25_Stipulated_Motion_To_
+    Classify_Transcript_And_Audio_As_Private.pdf and 12_4_25_Joint_Status_Report_Re_Transcript_
+    Redaction.pdf. We hold the MOTIONS about it; this is the DOCUMENT ITSELF.)
+
+ HTTP 200  application/pdf  214,446 bytes  9 pages
+ https://andreaburkhart.substack.com/api/v1/file/8189bd29-a134-46e7-9985-659715c22cef.pdf
+   State's MOTION TO AMEND OR CLARIFY COURT'S PRE-TRIAL AND TRIAL PUBLICITY ORDER (Dkt. #23),
+   signed Gray / Grunander / McBride / Hunt / Sturgill / Ballard, Utah County Attorney.
+   (matches inventory 11_5_25_Motion_To_Amend_Or_Clarify_Pretrial_Publicity_Order.pdf - dup, low value)
+
+ HTTP 200  application/pdf  415,727 bytes  6 pages - SCANNED IMAGE ONLY, no text layer
+ https://andreaburkhart.substack.com/api/v1/file/6ffe6f26-085b-400a-92f1-f10ad6100f98.pdf
+   (CCITT 300dpi scans; almost certainly the signed order releasing the transcript. Needs OCR.)
+
+OTHER BURKHART ATTACHMENT CACHES OBSERVED (out of this lane but real and free):
+ https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits  HTTP 200
+   -> 25 separate /api/v1/file/*.pdf attachments (search warrant affidavits set)
+ https://andreaburkhart.substack.com/p/cameras-out-of-the-tyler-robinson      HTTP 200 -> 2 PDFs
+ https://andreaburkhart.substack.com/p/read-the-tyler-robinson-gag-order      HTTP 200
+ RATE LIMIT NOTE: substack returned HTTP 429 on 7 of 11 post fetches when hit back-to-back.
+ Space requests >= 4s apart. 429 here means throttled, NOT missing.
+
+================================================================
+PASS 5 — VIDEO OF THE HEARINGS
+================================================================
+HEARING DATES CONFIRMED: Day1 Mon 6 Jul 2026, Day2 Tue 7 Jul, Day3 Wed 8 Jul,
+Day4 Thu 9 Jul, Day5 Fri 10 Jul 2026. KSL reports the prelim "ends - for now - will
+resume in SEPTEMBER" => THERE IS A SEPTEMBER 2026 CONTINUATION still to be captured.
+
+--- COURT TV OFFICIAL PLAYLIST (the cleanest single source) ---
+https://www.youtube.com/playlist?list=PLH_gQUPWcJYA   HTTP 200, 1,074,530 bytes
+Title: "Utah v. Tyler Robinson - Court TV". 20 videos. All 20 IDs parsed out of the
+playlist HTML and each confirmed live via YouTube oEmbed (HTTP 200):
+
+  FULL HEARING DAYS (gavel-to-gavel pool feed):
+   https://www.youtube.com/watch?v=6fq2kCMVMXI  Day 1  (yt-dlp: dur 28,045s = 7h47m, upload 2026-07-06)
+   https://www.youtube.com/watch?v=y6ofpz6ReuE  Day 2  (yt-dlp: dur 29,775s = 8h16m, upload 2026-07-07)
+   https://www.youtube.com/watch?v=szsmK2Ul9XY  Day 3
+   https://www.youtube.com/watch?v=89ZKQIHaJpM  Day 4
+   https://www.youtube.com/watch?v=bFwe5CwDudk  Day 5
+   (Day1 28,045s vs Rev day1 last timestamp 07:46:52 -> Rev day 1 IS the complete day. Good.)
+
+  COURT TV CLIP/ANALYSIS VIDEOS in the same playlist (all HTTP 200):
+   _fWmnzffDMM 15 Pieces of New Bombshell Evidence in Charlie Kirk's Murder
+   uozf09W17EE New Disturbing Messages Shake Up Charlie Kirk Case
+   JQrUgpWBrPg Full Interview: Tyler Robinson's Lover SPILLS Alleged Confession   <-- the Lance Twiggs interview
+   WTRI5HJlWQo Lover's Interview Could Change the Charlie Kirk Case...
+   bi_hG-FUkrI Texts Reveal How Long Charlie Kirk's Alleged Killer Planned Shooting
+   o2Mgtn5h7Is Tyler Robinson's Lover Can't Identify Him 'With 100% Certainty'
+   FTijMQCsETM Tyler Robinson Confessed to Killing Charlie Kirk to Lover: Preliminary
+   i72CybGg4Qg Judge Appears Stunned, Flinches Watching Charlie Kirk Shooting Footage
+   vBP9J3MS5N8 Charlie Kirk's Family Demands 'No Redactions' to Evidence
+   8s_ZkFSp7Iw Charlie Kirk Hearing Shocker: The Towel, Rifle & Disturbing DNA
+   2oUgh4phkyo Tyler Robinson Defense Rips Into FBI Analyst Over DNA Evidence
+   TtZjzQ7m7Mk Bombshell Video Shakes Up Charlie Kirk Murder Case
+   qMTndAqwONI Tyler Robinson Hit Up Chick-fil-A Before Charlie Kirk Shooting: Detective
+   kQhTQIe09Bo Explosive New Details Rock Charlie Kirk Murder Case
+   C1jl4sdqQTs Missing Shell Casings in Charlie Kirk Killing Stun Courtroom
+
+--- OTHER FULL-DAY REBROADCASTS (each confirmed HTTP 200 via oEmbed) ---
+ The Salt Lake Tribune:
+   https://www.youtube.com/watch?v=QLuVTgrUfo0  "Tyler Robinson preliminary hearing: full day 2"
+   https://www.youtube.com/watch?v=uhPKFG9sw6U  "... full day 4"
+   https://www.youtube.com/watch?v=FLHRu0aZ19U  "... full day 5"
+ Charlie Kirk (official TPUSA channel):
+   https://www.youtube.com/watch?v=DtqdnNste5I  "Tyler Robinson Preliminary Hearing: Day 3 | 7.8.2026"
+   https://www.youtube.com/watch?v=geI1zeTb0m4  "Tyler Robinson Preliminary Hearing: Day 4 | 7.9.2026"
+ Associated Press:
+   https://www.youtube.com/watch?v=956YAos_AIY  "LIVE: Day 4 of hearing ..."
+ The Christian Post:
+   https://www.youtube.com/watch?v=Eqo3-4YpCWg  "LIVE: Day 5 (Final Day) ... July 10, 2026" (dur 12,285s, upload 2026-07-11)
+ KUTV 2 News Salt Lake City:
+   https://www.youtube.com/watch?v=i-bSd9D8dnk
+ Forbes Breaking News:
+   https://www.youtube.com/watch?v=kG8PI_xFCRA
+ ABC 7 News - WJLA:
+   https://www.youtube.com/watch?v=cnn6tiIrK7Q  Day 4
+ East Idaho News:
+   https://www.youtube.com/watch?v=VnGiYAQ28pc  Day 4
+ Recovery Addict (citizen mirror):
+   https://www.youtube.com/watch?v=s4DFoNsscxk  Day 1
+   https://www.youtube.com/watch?v=jiAZFJbzIZU  Day 4
+ Courtroom Confidential: Live Trials:
+   https://www.youtube.com/watch?v=nhkK1CNIsew  Day 3
+ The Interview Room (commentary, not raw feed):
+   https://www.youtube.com/watch?v=eDbV0DdvqMY  Day 3 breakdown
+ Fox News video page (not YouTube):
+   https://www.foxnews.com/video/6400583376112  "Tyler Robinson leaves court in armored vehicle as day 3 ... wraps up"
+
+--- yt-dlp CAPTION TEST (as instructed) ---
+yt-dlp IS installed: /Users/bryan/Library/Python/3.9/bin/yt-dlp, version 2025.10.14, Python 3.9
+(yt-dlp warns Python 3.9 is deprecated).
+TESTED --list-subs on three videos that resolved:
+  6fq2kCMVMXI (Court TV Day 1): "has no automatic captions"; only subtitle track is `live_chat` (json).
+  y6ofpz6ReuE (Court TV Day 2): metadata resolved fine.
+  QLuVTgrUfo0 (Tribune full day 2): "has no automatic captions" AND "has no subtitles".
+CONCLUSION: **yt-dlp caption pulling is NOT a transcript route for this case.** These are
+livestream VODs and YouTube generated no auto-captions for them. The viable yt-dlp route is
+AUDIO EXTRACTION + local Whisper (repo already has ~/BGit/all/tools/Transcription/Transcribe.js).
+RELIABILITY PROBLEM OBSERVED: this yt-dlp build fails intermittently with
+  ERROR: [youtube] <id>: The page needs to be reloaded.. The page needs to be reloaded.
+and warns "YouTube is forcing SABR streaming for this client". About 60-80% of calls failed;
+the same IDs return HTTP 200 from https://www.youtube.com/oembed?... every time. Upgrading
+yt-dlp (build is ~10 months old) is the fix. oEmbed is the reliable existence check.
+
+================================================================
+PASS 6 — HOW TO ORDER AUDIO AND CERTIFIED TRANSCRIPTS (the human routes)
+================================================================
+(a) AUDIO RECORDING OF A HEARING - 4th District
+    Page: https://www.utcourts.gov/en/court-records-publications/records/transcripts.html  (fetched OK)
+    Form: 1100GE "Request for Copy of Audio Recording"
+    Submit by email to: recordingrequest4th@utcourts.gov     <-- THE FOURTH DISTRICT ADDRESS
+    Fees observed on that page: $15.00 per half-day for the electronic record;
+      $10.00 for each recording delivered via the FTR Cloud online system;
+      $15.00 per item if placed on USB/disc; plus actual postage if mailed.
+    Process: court quotes cost -> you pay -> they release the recording.
+    (The inventory already contains 10_6_25_Request_For_Audio_Recording.pdf and
+     2_25_26_Request_For_Copy_Of_Audio_Records.pdf - those are OTHER PARTIES using this same route.)
+
+(b) OFFICIAL CERTIFIED TRANSCRIPT - statewide portal
+    https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp
+    Public request form; on placing the order you are emailed the assigned transcriber.
+    Also: https://www.utcourts.gov/en/about/miscellaneous/legal-community/transcripts.html
+
+(c) THE REPORTER ON THIS CASE - direct order route
+    The July 2026 preliminary hearing transcripts and the 24 Oct 2025 sealed-hearing transcript
+    are all captioned "Phoebe S. Moorhead, RDR, CRR, UT CCR ... NOTEWORTHY REPORTING, LLC".
+    From https://www.utcourts.gov/content/dam/courts/coa/docs/Court_Reporters.pdf  (HTTP 200, 119,735 b)
+    "Court Reporters Approved to Report Proceedings in a Capital Case, July 1, 2025 - June 30, 2026":
+        Noteworthy Reporting
+        Contact: Katie Harmon
+        586 East 4800 South, Murray, Utah 84107
+        Phone: (801) 634-5549
+        E-mail: noteworthyreporting@gmail.com
+    From https://www.utcourts.gov/content/dam/courts/coa/docs/court_transcribers.pdf (HTTP 200, 166,219 b)
+    "OFFICIAL COURT TRANSCRIBER LIST (current as of 02/03/2026)" lists BOTH:
+        Noteworthy Reporting, LLC - Contact: Katie Harmon - (801)634-5549 - noteworthyreporting@gmail.com
+        Phoebe Moorhead, RPR, CRR - Ticon Reporting, LLC - (480)265-0404 - Phoebe4774@gmail.com
+    NOTE THE DISCREPANCY: the state list files Moorhead under TICON Reporting, but she signs these
+    transcripts under NOTEWORTHY REPORTING, LLC. Only Noteworthy is on the capital-case approved
+    list, which is presumably why. Try Noteworthy/Katie Harmon FIRST for this case number.
+    Company site observed in search results: https://noteworthyreporting.com/ (not probed).
+    Business listing: https://www.manta.com/c/mhhf2l4/noteworthy-reporting-llc
+
+================================================================
+PASS 7 — SECOND INDEPENDENT HOST OF THE OCT 24 2025 TRANSCRIPT
+================================================================
+ HTTP 200  application/pdf  1,060,521 bytes  97 pages  (CreationDate Sun Dec 28 2025 16:48:47 PST)
+ https://static.foxnews.com/foxnews.com/content/uploads/2025/12/tyler-robinson-redacted-hearing-transcript.pdf
+ Byte-for-byte the SAME SIZE as the Burkhart Substack copy (1,060,521) and the same cover page:
+ "REDACTED TRANSCRIPT OF: SEALED MOTION HEARING ... OCTOBER 24, 2025 ... Phoebe S. Moorhead".
+ => two independent hosts, no login, no paywall on either. Good redundancy for archiving.
+
+================================================================
+PASS 8 — CASE POSTURE (drives what to hunt next)
+================================================================
+ * Prelim recessed 10 Jul 2026 WITHOUT a bind-over ruling.
+ * Judge Graf ordered post-hearing BRIEFS: State's brief due 28 Jul 2026; Defense brief due
+   11 Aug 2026; State's shorter rebuttal due 18 Aug 2026.  <-- ALL THREE ARE AFTER OUR APR 2026
+   INVENTORY CUTOFF AND ARE PRIME TARGETS.
+ * Hearing RESUMES 1 SEPTEMBER 2026 at 10:00 a.m. MDT for final oral arguments; bind-over ruling
+   expected after, near the 10 Sep anniversary. THAT HEARING IS TOMORROW relative to this run
+   (run date 2026-08-31) -> a new pool feed / Court TV stream will exist on 1 Sep 2026.
+ Sources for the above (all from search result pages):
+   https://www.axios.com/local/salt-lake-city/2026/07/10/tyler-robinson-charlie-kirk-killing-case-trial-evidence-judge
+   https://www.ksl.com/article/51596294/tyler-robinson-preliminary-hearing
+   https://kslnewsradio.com/utah/tyler-robinson-prelim-hearing-friday/2313087/
+   https://www.eastidahonews.com/2026/07/tyler-robinson-preliminary-hearing-ends-for-now-will-resume-in-september/
+   https://www.cnn.com/2026/07/11/us/charlie-kirk-tyler-robinson-hearing-takeaways
+   https://dailycaller.com/2026/07/12/charlie-kirk-murder-trial-tyler-robinson-utah-preliminary-hearing-probable-cause-ruling/
+   https://www.npr.org/2026/07/09/nx-s1-5886140/preliminary-hearing-for-accused-shooter-in-charlie-kirk-case-continues
+ POSSIBLE DOC REPOSITORY SPOTTED (other lane, worth handing over):
+   https://atty.utahcounty.gov/media/ckpr  "Charlie Kirk Case Updates - Utah County Attorney's Office"
+
+================================================================
+PASS 9 — KSL NEWS UTAH IS THE POOL CAMERA. ITS CHANNEL IS THE MASTER VIDEO ARCHIVE.
+================================================================
+Day 1 transcript identifies the pool camera operator as "John Wilson, KSL News". So the
+KSL News Utah YouTube channel (https://www.youtube.com/@KSLNews) holds the original feeds.
+Enumerated by fetching the channel search page and parsing videoRenderer blocks:
+  https://www.youtube.com/@KSLNews/search?query=Robinson%20hearing     HTTP 200 (1,163,993 b)
+  ...&query=LIVE%20Tyler%20Robinson                                    HTTP 200
+  ...&query=Tyler%20Robinson%20Preliminary%20Hearing%20Day             HTTP 200
+  ...&query=Robinson%20contempt                                        HTTP 200
+NOTE: https://www.youtube.com/@KSLNewsUtah/search?... returns 404 - the handle is @KSLNews.
+
+Dates + durations below were scraped from each watch page's uploadDate / approxDurationMs
+(this WORKS when yt-dlp does not). All confirmed HTTP 200 via oEmbed as well.
+
+*** FULL GAVEL-TO-GAVEL PRELIMINARY HEARING, KSL (pool feed, original) ***
+ https://www.youtube.com/watch?v=6Z76La2OYKQ  Day 1  2026-07-06  27,544,716 ms = 7h39m
+ https://www.youtube.com/watch?v=nHSOGFiAI28  Day 2  2026-07-07  29,143,544 ms = 8h05m
+ https://www.youtube.com/watch?v=uZSYb3o1e_o  Day 3  2026-07-08  12,360,632 ms = 3h26m
+ https://www.youtube.com/watch?v=G5csxeUf9ts  Day 4  2026-07-09  28,541,576 ms = 7h55m
+ https://www.youtube.com/watch?v=XzHdjfX3SNE  Day 5  2026-07-10  11,050,105 ms = 3h04m
+ COURT TV mirrors, same days:
+ https://www.youtube.com/watch?v=6fq2kCMVMXI  Day 1  2026-07-06  28,045 s
+ https://www.youtube.com/watch?v=y6ofpz6ReuE  Day 2  2026-07-07  29,775 s
+ https://www.youtube.com/watch?v=szsmK2Ul9XY  Day 3  2026-07-08  12,705,030 ms
+ https://www.youtube.com/watch?v=89ZKQIHaJpM  Day 4  2026-07-09  30,287,924 ms
+ https://www.youtube.com/watch?v=bFwe5CwDudk  Day 5  2026-07-10   9,584,975 ms
+ *** RESOLVES THE EARLIER WORRY: Rev's day 3 (last ts 03:30:58) and day 5 (02:39:06) are NOT
+     truncated - days 3 and 5 really were short court days (3h26m / 3h04m). Rev day 1 07:46:52
+     matches KSL 7h39m. THE REV TRANSCRIPT SET IS COMPLETE FOR ALL FIVE DAYS. ***
+
+*** OTHER FULL HEARINGS ON KSL - THESE ARE THE POST-APRIL-2026 ONES WE DO NOT HAVE ***
+ https://www.youtube.com/watch?v=K-G7UZ-Fmfo
+   "LIVE: Closing arguments on charges and death penalty against Tyler Robinson"
+   publishDate 2026-08-31T10:53:48-07:00  <-- PUBLISHED **TODAY**, no duration yet =>
+   THIS IS THE LIVE/UPCOMING CLOSING-ARGUMENT HEARING. Capture it. (Press reporting put oral
+   argument at 1 Sep 2026 10:00 MDT; KSL has the stream page up 31 Aug.)
+ https://www.youtube.com/watch?v=Ws3jBiVuh5U
+   "Evidentiary hearing on if Tyler Robinson's prosecutors should be held in contempt of court"
+   yt-dlp: duration 16,490 s = 4h35m, upload_date 20260612, live_status was_live.  *** JUNE 2026 ***
+ https://www.youtube.com/watch?v=Dw2y1BTwE_o
+   "COURT: Judge rules on if Tyler Robinson's prosecution should be held in contempt of court"
+   2026-06-26  3,044,941 ms = 50m47s   *** THE CONTEMPT RULING FROM THE BENCH ***
+ https://www.youtube.com/watch?v=ZGSjqY6m6Xw  and  https://www.youtube.com/watch?v=TUm83WZUddo
+   "Utah County Attorney's Office found in contempt in Robinson case, but death penalty still on table"
+   2026-06-26  291,658 ms = 4m52s (news package)   *** OUTCOME: UCAO HELD IN CONTEMPT ***
+ https://www.youtube.com/watch?v=2vo3zm_F-4A  "Public access arguments in Tyler Robinson case | March 13"
+   2026-03-13  9,743,466 ms = 2h42m
+ https://www.youtube.com/watch?v=15zfFiuPWAc  "Tyler Robinson court hearing | Jan 16, 2026"
+   2026-01-19  7,578,157 ms = 2h06m
+ https://www.youtube.com/watch?v=waMASNaRWPI  "LIVE: Tyler Robinson appears virtually in court"
+   2025-12-29  1,233,832 ms = 20m34s
+ https://www.youtube.com/watch?v=vvRKAEkPyOM
+   "Tyler Robinson contends state has not proven elements needed for 'aggravated murder'"
+   2026-08-12  101,367 ms  <-- news package on the DEFENSE POST-HEARING BRIEF filed 11 Aug 2026
+ https://www.youtube.com/watch?v=R49mZVDfvbU  "'Tyler killed Charlie!' Unsealed evidence reveals new
+   details in Kirk killing"  2026-04-13  530,466 ms
+ https://www.youtube.com/watch?v=2SHJ4HhZCGM  "Tyler Robinson's closed October hearing will be
+   released with some redactions"  (the Oct 24 2025 transcript release story)
+
+*** OTHER KSL CLIPS SEEN IN CHANNEL SEARCH (titles only; each is a /watch?v= URL) ***
+ msRdKPSqaq4 Tyler Robinson court hearing to have portions of his preliminary hearing sealed
+ qN4N70DmIjk Tyler Robinson makes first in-person court appearance
+ EuNxDBycoFc Tyler Robinson's first public in-person appearance in Provo courthouse
+ 11ONsGVGy6Y Judge rules on allowing cameras in Tyler Robinson hearings
+ QistadMTxkk Judge says cameras can stay in the court room
+ vgOeeQVuS74 Tyler Robinson's defense argues to remove courtroom cameras
+ 5meIC6IszS4 Rulings in Tyler Robinson effort to ban cameras from court
+ vJbJpiopOXA Robinson preliminary hearing delayed until July; cameras will be allowed
+ 3_F1A2sf32A Judge considers disqualification motion
+ acOflHtL_G8 Tyler Robinson defense seeks to bar the death penalty
+ PHBuNjEIpeo Judge rules on preliminary hearing motions
+ 5e8zivsxlVs Judge rules on how evidence is viewed in the preliminary hearing
+ _P7Uo2bGHN8 Judge redacts parts of Robinson roommate interview
+ _CoVFBgZfaQ Erika Kirk visibly upset as judge limits broadcast of roommate video interview
+ JGqkE_zRtQw Debate over courtroom transparency, day four
+ JnKDgFQ4J9s COURT: Trial consultant says media commentary is 'a performative experience'
+ njtv12hvkrw COURT: Judge warns media after recording of Robinson speaking with lawyers releases
+ 0viVnoe9dIM COURT: Judge reminds media to follow decorum order
+ KfshFWe4F2Y Prosecution says it had to counter 'absolutely misleading' info
+ wm5UtxhdwFs Prosecutors oppose effort to make roommate appear at prelim
+ PBANuR0dqto Surveillance video shows Robinson at UVU when Kirk was shot, witness testifies
+ D3XacBCNHEk UVU security footage from day of Kirk murder shown in court
+ ebA8zTW3DT8 New security footage of Robinson at UVU before the shooting
+ aVYw6576rNo Rifle and cartridge evidence presented
+ iB--FA6i4xY DNA evidence presented
+ JoTLpaZ71BY Defense challenges DNA evidence
+ pUF4NILDTxU Roommate talks about engraved bullets
+ S8yVJVZkOlI Roommate says Robinson never talked about Charlie Kirk with him
+ -8hOfPYqPaw Robinson said he wished he 'hadn't' killed Charlie Kirk, roommate says
+ R7AMQ1MXr-s Emotional end to preliminary hearing, Kirk family views close-up surveillance video
+ c6jXC4d6sEg Kirk's lawyer sternly asks the judge to allow evidence to be shown
+ whH4i5Fsl1I Erika Kirk, Donald Trump Jr. attend first day
+ G19a8QNtwHw Kirk family, friends react following the preliminary hearing
+ zm0qYfnuaWU / iYc0Pg17Uts / ed1FldOxV2I  analysis segments
+
+*** ASSOCIATED PRESS full-day mirrors (oEmbed HTTP 200 each) ***
+ https://www.youtube.com/watch?v=09VAaZ4kYvc  "LIVE: Hearing in the case of Tyler Robinson"
+ https://www.youtube.com/watch?v=UPU-9unCKus  Day 3
+ https://www.youtube.com/watch?v=956YAos_AIY  Day 4
+ https://www.youtube.com/watch?v=MW0rwcmFO6E  Day 5
+
+*** RUMBLE ***
+ https://rumble.com/v7ceaa8-inside-the-courtroom-with-graham-allen-and-jobob-tyler-robinson-hearing-rec.html
+ HTTP 200, 526,314 bytes, title "Inside the Courtroom With Graham Allen & Jobob - Tyler Robinson
+ Hearing RECAP". COMMENTARY/RECAP, not a raw feed. No raw-feed Rumble mirror found.
+
+*** DEAD / MOVED ***
+ https://ksltv.com/youtube_videos/video-tyler-robinson-hearing/                       HTTP 404
+ https://ksltv.com/youtube_videos/video-live-tyler-robinson-oral-arguments-court-hearing-feb-3-2026/  HTTP 404
+ https://ksltv.com/youtube_videos/video-live-evidentiary-hearing-on-if-tyler-robinsons-prosecutors-should-be-held-in-contempt-of-court/  HTTP 404
+ https://ksltv.com/youtube_videos/video-live-tyler-robinson-court-hearing-to-have-portions-of-his-preliminary-hearing-sealed/  HTTP 404
+   (ksltv.com's youtube_videos permalinks are gone; the underlying YouTube videos are alive.
+    Search the @KSLNews channel instead. NOT evidence of suppression - the whole
+    /youtube_videos/ path pattern appears retired.)
+ https://atty.utahcounty.gov/media/ckpr    HTTP 404 today (real 404 body, 7,220 b) BUT the page
+   existed and is archived - Wayback CDX shows 200s on 2025-11-14, 2025-12-13, 2026-01-06,
+   2026-01-23, 2026-03-11, 2026-04-09, 2026-04-22, 2026-05-12 (x2), 2026-06-13, plus per-release
+   child pages /media/ckpr/119, /121, /123, /126, /128. Wayback playback returned HTTP 503
+   (transient, twice). HAND THIS TO THE FILINGS LANE - it is the prosecutor's own press archive
+   and it has gone dark on the live site.
+
+================================================================
+PASS 10 — MORE REV TRANSCRIPTS + PRICING QUESTION ANSWERED
+================================================================
+Rev's own index https://www.rev.com/category/news (HTTP 200) links these case transcripts:
+  /transcripts/ut-v-tyler-robinson---day-1
+  /transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2
+  /transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3
+  /transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4
+  /transcripts/tyler-robinson-comtempt-hearing        <-- NOTE THE TYPO "comtempt" IN THE SLUG
+  /transcripts/erika-kirk-speaks-at-memorial
+(day-5 is NOT in the index but the URL works - HTTP 200. Pages 1-4 of the category are identical;
+ there is no deeper pagination.)
+ https://www.rev.com/sitemap.xml -> HTTP 200 but it is a Webflow "Page Not Found" HTML body, useless.
+
+NEW: https://www.rev.com/transcripts/tyler-robinson-comtempt-hearing   HTTP 200, 210,301 bytes
+  <title>Tyler Robinson Charlie Kirk Contempt Bullet | Rev</title>
+  7,030 words, 72 timestamps, last ts 55:28 -> a ~55 minute hearing.
+  Opens: Judge Tony Graf Jr. "Calling case number 251403576, State of Utah versus Tyler James
+  Robinson"; State = Grunander, McBride, Gray, Ballard; Defense = Nester, Visser, Burt; Robinson
+  appearing REMOTELY ("Mr. Robinson, can you hear us?"). Discovery status given by McBride:
+  "just late last week we provided 12 additional files ... reports from the ATF labs. That brings
+  our total back up to approximately 100% of what we have has been shared."
+
+PRICE / PAYWALL QUESTION - ANSWERED: Rev.com is the commercial transcript service that published
+the preliminary-hearing days (including day 4). ITS PUBLISHED NEWS TRANSCRIPTS ARE FREE. Scanned
+the day-4 page for any dollar figure: NONE present; full transcript text is in the page body with
+only a Title 17 fair-use notice. No login, no paywall, no purchase step. Rev's paid products
+(Human Transcription, Legal Rough Draft, Legal Premium Transcript, Court Reporting) are for
+ordering YOUR OWN transcription and are irrelevant to reading these.
+
+================================================================
+PASS 11 — THE OCT 24 2025 TRANSCRIPT: THREE HOSTS, TWO DIFFERENT ARTIFACTS
+================================================================
+ A) TEXT-LAYER VERSION - 1,060,521 bytes, 97 pages, 34,048 extractable words. Two hosts,
+    byte-identical size, same MD5 ee03f6b9f1e745497a6e22b8563c6e17:
+      https://static.foxnews.com/foxnews.com/content/uploads/2025/12/tyler-robinson-redacted-hearing-transcript.pdf
+      https://andreaburkhart.substack.com/api/v1/file/fb25b527-dd12-4b5b-9194-33ee893ef346.pdf
+ B) SCANNED-IMAGE VERSION - the one that shows the physical redaction boxes:
+      https://media.deseret.com/media/misc/pdf/dn/news/2025-12-tyler-robinson-transcript.pdf
+      HTTP 200, application/pdf, 14,428,416 bytes, 97 pages, CreationDate Mon Dec 29 2025 14:15:51 PST
+      MD5 d846b58efbf9dd9b10551fbc6da9d8e6. 150-dpi colour page images, ZERO extractable text.
+      This is almost certainly the copy the court handed out on release day. GET BOTH.
+ Press reported it as an "80-page" / "83-page" document with "nearly 250 words" (246) redacted;
+ the actual PDFs are 97 pages including the reporter's certificate/index. Note the discrepancy.
+
+ *** OPEN ITEM: THE REDACTED **AUDIO** OF THE OCT 24 2025 HEARING ***
+ Judge Graf ordered the AUDIO released too, ~2 weeks after the transcript (so ~mid-Jan 2026).
+ I FOUND NO PUBLISHED COPY OF THAT AUDIO ANYWHERE. Searched repeatedly. If it was released it
+ was not posted by any outlet I could find. => request it directly: form 1100GE to
+ recordingrequest4th@utcourts.gov, case 251403576, hearing date 24 Oct 2025, ask for the
+ court-approved REDACTED version. Reporting on the order:
+   https://kutv.com/news/local/tyler-robinson-expected-in-court-as-attorneys-discuss-media-access
+   https://www.youtube.com/watch?v=hJtojSwzwWo  (title: "Judge orders release of redacted audio,
+     transcript from closed Tyler Robinson hearing")  [seen in search results, not oEmbed-probed]
+   https://www.ksl.com/article/51424552/tyler-robinsons-closed-october-hearing-will-be-released-with-some-redactions  HTTP 200
+   https://www.ksl.com/article/51424715/judge-releases-transcript-of-closed-tyler-robinson-hearing
+   https://www.kuer.org/politics-government/2025-12-29/judge-orders-release-of-transcript-from-closed-door-tyler-robinson-hearing
+   https://www.kpcw.org/state-regional/2025-12-29/judge-orders-release-of-transcript-from-closed-door-tyler-robinson-hearing
+   https://kutv.com/news/local/court-releases-transcript-from-sealed-motion-hearing-in-tyler-robinson-murder-case
+
+================================================================
+PASS 12 — THE COURT'S OWN PRESS PAGE (official, and it names the schedule)
+================================================================
+ https://legacy.utcourts.gov/utc/news/   HTTP 200  - "Utah Courts Recent Press Notifications"
+ https://legacy.utcourts.gov/utc/news/2026/08/28/public-attendance-for-tyler-robinson-preliminary-hearing/  HTTP 200
+   Posted August 28, 2026: "The FINAL DAY of the preliminary hearing for Tyler Robinson is
+   scheduled to begin at 10:00 a.m. local time at the Provo Courthouse. There will be 12 seats
+   available to members of the public... wristbands... distributed beginning at 9:00 a.m....
+   Electronic devices are not permitted in the courtroom."
+ https://legacy.utcourts.gov/utc/news/2026/07/06/public-information-regarding-the-tyler-robinson-preliminary-hearing/  HTTP 200
+   Posted July 6, 2026: hearing "scheduled during the week of July 6-10, at the Fourth District
+   Courthouse in Provo"; 14 public seats; decorum order bars recording devices.
+ => THIS PAGE IS THE OFFICIAL SOURCE FOR FUTURE HEARING DATES AND SHOULD BE MONITORED.
+
+================================================================
+PASS 13 — LIVEBLOGS / ALREADY-PUBLISHED PARTIAL TRANSCRIPT TEXT
+================================================================
+Probed with browser UA; status observed:
+ 200  https://www.deseret.com/utah/2026/07/06/live-coverage-tyler-robinson-murder-trial-preliminary-hearing/  (187,310 b) DAY-BY-DAY LIVEBLOG
+ 200  https://www.foxnews.com/live-news/tyler-robinson-court-appearance-07-08-26  (416,581 b) FOX LIVE BLOG, day 3
+ 200  https://www.foxnews.com/live-news/tyler-robinson-returns-to-court-for-judge-s-decision-on-his-push-for-secret-hearings
+ 200  https://www.ksl.com/article/51596294/tyler-robinson-preliminary-hearing  (211,944 b)
+ 200  https://www.ksl.com/article/51595867/watch-live-more-evidence-expected-in-day-4-of-tyler-robinsons-preliminary-hearing (199,977 b)
+ 200  https://www.ksl.com/article/51595429/tyler-robinson-returns-to-court-for-day-3-of-his-preliminary-hearing
+ 200  https://www.cnn.com/2026/07/11/us/charlie-kirk-tyler-robinson-hearing-takeaways  (4,494,641 b)
+ 200  https://www.deseret.com/utah/2026/07/06/tyler-robinson-preliminary-hearing-what-was-it-like-in-the-courtroom/
+ 200  https://www.nbcnews.com/news/us-news/transcript-audio-closed-door-hearing-alleged-charlie-kirk-shooter-case-rcna251368
+        (200 to curl+UA, but 403 to WebFetch - NBC blocks that fetcher specifically)
+ 202  https://www.pbs.org/newshour/nation/court-releases-closed-hearing-transcript-for-man-accused-of-killing-charlie-kirk
+ 200  https://www.heraldextra.com/news/2026/jul/10/tyler-robinsons-five-day-preliminary-hearing-concludes-final-arguments-set-for-sept-1/
+ 200  https://www.courttv.com/tag/tyler-robinson/   (Court TV's own tag archive)
+ 403  https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinson-preliminary-hearing-day-four/
+ 403  https://www.abc4.com/news/charlie-kirk-shooting/preliminary-hearing-day-three-tyler-robinson/
+ 403  https://www.abc4.com/news/charlie-kirk-shooting/timeline-court-proceedings-tyler-robinson/
+ 403  https://www.axios.com/local/salt-lake-city/2026/07/10/tyler-robinson-charlie-kirk-killing-case-trial-evidence-judge
+   *** THE 403s ARE ANTI-BOT, NOT MISSING PAGES. Identical 6,516-byte body from every abc4 URL,
+       6,067 from axios. Retried with Accept header - same. These OPEN FINE IN A BROWSER.
+       Do NOT record them as removed. abc4's "Timeline: Court proceedings for Tyler Robinson"
+       is specifically worth a human opening - it is a per-hearing index. ***
+
+================================================================
+END OF LANE. SUMMARY OF WHAT IS NEW vs THE EXISTING INVENTORY (which stops Apr 2026):
+  * 5 full free Rev transcripts of the July 2026 preliminary hearing (~219k words)
+  * 2 OFFICIAL certified Moorhead transcripts as PDFs (Day 4 278pp, Day 5 97pp)
+  * The Oct 24 2025 sealed-hearing redacted transcript in BOTH text and scan form (3 hosts)
+  * A free Rev transcript of the contempt hearing
+  * ~10 full-length hearing videos incl. the June 2026 contempt evidentiary hearing (4h35m),
+    the 26 Jun 2026 contempt ruling, and TODAY'S closing-argument stream
+  * The exact court forms/emails/reporter contacts to order audio and certified transcripts
+STILL MISSING: official Day 1/2/3 certified transcripts; the redacted Oct 24 2025 AUDIO;
+  a transcript of the June contempt evidentiary hearing beyond the 55-min Rev excerpt;
+  any transcript of the 31 Aug / 1 Sep 2026 closing arguments (not yet held/finished).

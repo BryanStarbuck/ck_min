@@ -1,0 +1,67 @@
+id: '2078105368933142589'
+url: 'https://x.com/tsorama/status/2078105368933142589'
+author:
+  username: 'tsorama'
+  name: "TS O'Rama"
+  id: '20536461'
+text: |
+  [Image post — quotes @TheCKFiles1]
+  Post text is only the pic link plus a quoted tweet.
+  Quoted @TheCKFiles1 (2026-07-10): "Bagley has a history of body cam "malfunctions".
+  Highly sketchy individual. Despicable that he was one of the people supposed to be
+  watching the roofs that day."
+created_at: '2026-07-17T13:11:43.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 1
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 1381
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2078105365602766848'
+      url: 'https://pbs.twimg.com/media/HNbp0dqWEAA4SgC.jpg'
+      width: 1206
+      height: 678
+      ipfs_cid: 'QmZ1mCGVdSjGXoXVDSBnpCS7qUZbz32S6yT6BecMCmH5cS'
+ocr_text: |
+  From: [redacted]
+  Sent: Thursday, 16 July 2026 03:43:01
+  To: Candace Tips <tips@candaceowens.com>
+  Subject: Axon Body Camera
+
+  Hi Candace,
+
+  Ive been following your investigation religiously since Charlie's passing. You and
+  Charlie are both an inspiration to me.
+
+  I am [redacted]. We use the same body camera that Utah city police use. The Axon
+  Body Cam 4 model. I would be happy to look into any questions you might have about it.
+  It bothered me that the officer claimed his camera died when he was on the roof top.
+  The camera battery lasts approx 14 hours. At the end of every shift we have to dock
+  our cameras, all on a detachment shared dock. The dock is also what uploads all the
+  data and videos from the shift onto the server. We can then review the videos on the
+  Axon website, this website is the same across North America. The camera video also
+  captures a GPS route of exactly everywhere the officer walked. To turn on the
+  recording we press the middle button twice, it automatically saves the 30 seconds
+  before that. To turn the video off you have to hold the button down for a few seconds.
+  At the end of the video you can usually see the officers hand moving toward the button
+  and even blocking the lens a bit with their hand. I'll also mention you get a reminder
+  when the battery is going to die, it does a high pitched tone and vibrates 4 times at
+  10% left and again at 5%. So there's no way he didn't know his battery was going to
+  die. The Axon Body 4 system also logs and records the specific reason a video stops or
+  the device turns off. All of this information can be seen on the Axon site that the
+  police have access to and can review.
+
+  Please let me know if you want to see anything or ask any questions about the Axon
+  body camera.
+investigation: 'charlie_kirk'
+added_date: '2026-07-17'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2075651880647086418'
+  quoted_status_url: 'https://x.com/TheCKFiles1/status/2075651880647086418'
+  quoted_author: '@TheCKFiles1'

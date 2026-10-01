@@ -1,0 +1,39 @@
+id: '2070601198848049263'
+url: 'https://x.com/KaySu00/status/2070601198848049263'
+author:
+  username: 'KaySu00'
+  name: 'Kay Su'
+  id: '1965982472052621312'
+text: |
+  Why is there burned/charred material in the SUV…..?
+
+  Cmon now…
+created_at: '2026-06-26T20:12:50.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 28
+  reply_count: 36
+  like_count: 424
+  quote_count: 1
+  bookmark_count: 23
+  impression_count: 11936
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2070601193387069440'
+      url: 'https://pbs.twimg.com/media/HLxA0JtWEAA6I2_.jpg'
+      width: 2048
+      height: 943
+      ipfs_cid: 'QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud'
+      local_file: 'images/2070601198848049263_1.jpg'
+ocr_text: ''
+note: |
+  Screenshot from a Candace Owens broadcast (watermarked "CANDACE") showing an inset
+  close-up of a pale, irregular fragment with charred/blackened edges resting on a dark
+  seat surface. Poster questions why burned/charred material would be in the SUV that
+  transported Charlie Kirk. Tied to the exploding-mic theory.
+site_page: 'site/docs/Mic/suv-transporting-charlie.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-06-26'
+temp_file: false

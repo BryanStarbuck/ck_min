@@ -1,0 +1,127 @@
+<!-- Converted from 2025/11_19_25_Defendant's_Response_To_Motion_For_Intervention_And_Notice.pdf -->
+# 11 19 25 Defendant's Response To Motion For Intervention And Notice
+
+> **Source PDF:** `court/filings/2025/11_19_25_Defendant's_Response_To_Motion_For_Intervention_And_Notice.pdf` — served at `/court/filings/2025/11_19_25_Defendant's_Response_To_Motion_For_Intervention_And_Notice.pdf`  
+> **Pages:** 9  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (13967) NESTER LEWIS PLLC 40 S 600 E Salt Lake City, UT  84102 Telephone: (801) 535-4375 Email: kathy@nesterlewis.com Richard G. Novak, _pro hac vice_ RICHARD G. NOVAK, APLC 65 North Raymond Avenue, Suite 320 Pasadena, CA 91103 Telephone: 626-578-1175 
+
+Michael N. Burt, _pro hac vice_ LAW OFFICE OF MICHAEL BURT PC 1000 Brannan Street Suite 400 San Francisco, California 94103 Telephone: 415-522-1508 
+
+Staci Visser (14358) BROWN, BRADSHAW & MOFFAT 422 N 300 W Salt Lake City, UT 84103 Telephone: 801-532-5297 _Attorneys for Tyler James Robinson_ 
+
+IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT 
+
+IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH 
+
+STATE OF UTAH, **DEFENDANT TYLER JAMES ROBINSON’S RESPONSE TO** Plaintiff, **“PROPOSED MEDIA INTERVENORS” MOTION FOR LIMITED** vs. **INTERVENTION AND REQUEST FOR NOTICE OF MOTIONS TO CLOSE,** TYLER JAMES ROBINSON, **SEAL, OR RECLASSIFY** Defendant. Case No.  251403576 Honorable Tony F. Graf, Jr. 
+
+Page **1** of **9** 
+
+# **INTRODUCTION** 
+
+Defendant, Tyler James Robinson (“Mr. Robinson”), by and through undersigned 
+
+counsel, hereby files this response to the _Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify_ (hereinafter “the motion for limited intervention”) filed by “Proposed Media Intervenors” on November 5, 2025. (Dkt. 164). 
+
+The motion for limited intervention overlaps with a similar but significantly narrower _Request for Notice of Motions to Close Judicial Proceedings and Records_ (hereinafter “the request for notice”), which was filed on October 30, 2025, by a group of media entities that refer to themselves collectively, in their motion, as “News Media.”  (Dkt. 150). 
+
+Mr. Robinson filed a timely response to the request for notice on November 10, 2025, which is equally applicable to a portion of the motion for limited intervention.  (Dkt. 169).  On November 13, 2025, this Court entered an order, (Dkt. 171), appearing to rule upon News Media’s request for notice, although the order does not specifically state that it is granting the request for notice.  The Order states, however, that it is _not_ ruling on Proposed Media Intervenors’ motion for limited intervention.  (Order at 2, n.1). 
+
+“Proposed Media Intervenors” motion for limited intervention seeks, in part, the same 
+
+relief sought in the request for notice filed by “News Media”; namely, that notice of motions or requests by the parties to close, seal, or reclassify be provided to them and that they have an opportunity to be heard.  In his response to News Media’s request for notice, Mr. Robinson acknowledged that the media does have, under Utah law, a right to notice and to request leave to be heard concerning the potential sealing of a record or the closing of a hearing, but Mr. 
+
+Robinson objected to the request that he be required to take steps to provide notice beyond that which is or should be provided by the court’s public docketing system. 
+
+Page **2** of **9** 
+
+While this Court’s November 13, 2025 Order, does not explicitly acknowledge Mr. 
+
+Robinson’s response to the request for notice, timely filed three days earlier, the order tacitly rejects Mr. Robinson’s position that the parties to this action (the State and Mr. Robinson) should be burdened with serving every media entity that has sought or will in the future seek notice of requests to seal or close with notice of such pleadings, since they are or should be available to the public through the court’s docketing system.  Of course, Mr. Robinson’s counsel will comply with the Court’s order requiring the party filing a motion to reclassify a record to serve such motion on representatives of the media who have requested notice.  To date, those 
+
+representatives are counsel for News Media and counsel for the “Proposed Media Intervenors.” 
+
+However, in their motion for limited intervention, “Proposed Media Intervenors’” seek a more formal status in this litigation, the status of “intervenor” which is significantly broader than that provided for by Utah law and Utah Rules of Court, and broader than that which is required by the First Amendment.  The balance of this response addresses that portion of their motion for intervenor status, which should be denied. 
+
+# **THE PUBLIC RIGHT TO ACCESS MUST GIVE WAY TO MR. ROBINSON’S RIGHT TO A FAIR TRIAL** 
+
+The United States Supreme Court has “firmly established” that “the press and general public have a constitutional right of access to criminal trials” under the First Amendment. _See, e.g., Globe Newspaper Co. v. Superior Court for Norfolk County_ , 457 U.S. 596, 603-04 (1982). The Utah Supreme Court likewise has “recognized a presumptive right” under article I, section 15, of the Utah Constitution encompassing press “access significant pretrial proceedings” in a criminal case. _See State v. Archuleta_ , 857 P.2d 234, 239-40 (Utah 1993) (citations omitted). “That right has never been absolute, however.” _Id_ .; _see also Globe Newspaper_ , 457 U.S. at 606 (“Although the right of access to criminal trials is of constitutional stature, it is not absolute.”). 
+
+Page **3** of **9** 
+
+Indeed, “[w]hile open criminal proceedings give assurances of fairness to both the public and the accused, there are some limited circumstances in which the right of the accused to a fair trial might be undermined by publicity.” _Press-Enterprise Co. v. Superior Court_ , 478 U.S. 1, 9 (1986). For example, the Utah Supreme Court has found that “allowing blanket inspection of [preliminary hearing] exhibits that must be preserved for a later trial if the defendant is bound over . . . will hinder, not further, the interests of the criminal process.” _Archuleta,_ 857 P.2d at 242. 
+
+As the Court considers any requests made of the media regarding court record classification and objections to reclassification or closure motions, it is critical that this Court consider the “realistic likelihood of prejudice” to Mr. Robinson’s right to fair trial. _See Archuleta_ , 857 P.2d at 240. To preserve a defendant’s right to a fair trial, trial courts have “an affirmative constitutional duty to minimize the effects of prejudicial pretrial publicity.” _Gannett Co. v. DePasquale_ , 443 U.S. 368, 378 (1979); _see also Chandler v. Florida_ , 449 U.S. 560, 574 (1981) (“Trial courts must be especially vigilant to guard against any impairment of the defendant's right to a verdict based solely upon the evidence and the relevant law”). In so doing, the United States Supreme Court has encouraged trial courts to “take such steps by rule and regulation that will protect their process from prejudicial outside interferences.” _Sheppard v. Maxwell_ , 384 U.S. 333, 363 (1966). 
+
+**THERE IS NO PRECEDENT FOR GRANTING A MEDIA ENTITY BROAD “INTERVENOR” STATUS IN A CRIMINAL PROCEEDING BEYOND THE RULE 4- 202.04 RIGHT TO NOTICE AND A CLOSURE HEARING ON** **_SPECIFIC_ MOTIONS TO SEAL RECORDS OR HEARINGS** 
+
+“Proposed Media Intervenors” conflate their right to notice and opportunity to be heard under Rule 4-202.04 of the Utah Rules of Judicial Administration with the law governing the doctrine of intervention.  While Rule 4-202.04 clearly applies to criminal proceedings, the 
+
+Page **4** of **9** 
+
+doctrine of intervention, does not permit a media entity to obtain broad intervenor status in a criminal case beyond the event-specific protocols outlined in Rule 4-202.04. 
+
+It is notable that none of the cases cited by “Proposed Media Intervenors” support their broad contention that “[c]ourts have concluded that press organizations have standing to intervene in criminal proceedings to vindicate these rights.” ( _Motion for Limited Intervention_ , at 6).  They cite _Society of Prof. Journalists v. Briggs_ , 675 F. Supp. 1308, 1312 (D. Utah 1987), a _civil_ action in which media representatives sought access to a confidential settlement agreement in another civil dispute between a former government employee and a Utah county.  They also cite _Utah Chapter of the Sierra Club v. Utah Air Quality Board_ , 2006 UT 73, 148 P.3d 975, but that too was a _civil_ action arising out of the Air Quality Board’s refusal to permit the Sierra Club and its members to intervene in administrative proceedings. Criminal cases are different—an individual’s _life_ and liberty are at stake—and “[o]nly the State and the defendant are actual parties to a criminal action.” _State v. Lane_ , 2009 UT 35, ¶ 17, 212 P.3d 529. 
+
+Proposed Media Intervenors do cite to a decision of the Utah Supreme Court resolving media access questions related to specific sealed competency hearings that were part of a criminal proceeding that had already concluded, the capital trial of Ronald Lafferty. _Soc’y of Pro. Journalists v. Bullock_ , 743 P.2d 1166 (Utah 1987).  In the underlying criminal matter, the district court sealed Lafferty’s competency hearings and the resultant memorandum opinion finding Lafferty incompetent, in order to protect his right to a fair trial, but it did so without giving the media an opportunity to be heard on the need for closure/sealing and without making specific findings that supported the sealing/closing orders. _Id_ . at 1168. After Lafferty’s capital trial concluded, the media entity filed a petition for an extraordinary writ seeking an order from the Utah Supreme Court directing the district court to conduct a “closure hearing” and make 
+
+Page **5** of **9** 
+
+findings concerning whether disclosure of the competency hearings and the court’s rulings on the competency issues would impair Lafferty’s right to a fair retrial.<sup>1</sup> _Id_ . at 1169. The Supreme Court ordered the district court to do so. _Id_ . at 1179. However, that decision does not confer permanent intervenor status on the media group which brought the petition, which is exactly what “Proposed Media Intervenors” seek here.  Rather, _Bullock_ requires district courts to convene a hearing at which the media entity may be heard and for the district court to make findings on the need to keep sealed the record of that competency hearing and court’s rulings thereafter on the competency issues. _Id._ at 1179-80. This is the process now contained in Utah Rule of Judicial Administration 4-202.04. 
+
+There is no rule applicable to criminal proceedings that allows for intervention by third party entities like the “Proposed Media Intervenors.” While others have argued in prior cases that Utah Rule of Civil Procedure 24 should apply, Utah appellate courts, including the Supreme Court, addressing intervention in criminal cases have chosen not to apply the civil intervention rule. This is due to concerns “with the broad consequences of applying rule 24 to allow intervention in criminal proceedings[.]” _F.L. v. Court of Appeals_ , ¶ 37, n.36, 2022 UT 32, 515 P.3d 421. 
+
+1 It is notable that even after criminal proceedings in the district court have concluded, the court must still be vigilant that disclosure of materials that had been sealed or closed to the public do not prejudice a defendant during post-conviction review of the outcome of their trial court proceeding.  That concern was especially appropriate in _Lafferty,_ since he was sentenced to death.  In light of the fact that here, the State has provided notice of its intent to seek the death penalty against Mr. Robinson, the Fifth, Sixth, Eighth, and Fourteenth Amendments to the Constitution require the most extreme vigilance that potentially prejudicial information that is properly sealed or disclosed only in closed hearings remain in that status until all judicial and other official government proceedings have concluded. 
+
+Page **6** of **9** 
+
+Having now requested notice, Proposed Media Intervenors are entitled to notice and the opportunity to be heard regarding motions to reclassify court records and closure requests. In this regard, they have standing and it is anticipated that the Court will permit the media to be heard on these issues _in the manner the Court deems appropriate_ . However, the Court should not permit the Proposed Media Intervenors to become a named party, even a limited purpose party, in this case. Doing so would afford the media direct notice of _all filings_ , not just those they are entitled to under the Court’s Order. Doing so also creates concerns with the security of the record, specifically, ensuring court records that are properly classified as private, sealed, or closed are not accessible to the media from the point of filing to the temporary classification by court staff and to the ultimate decision on the classification.<sup>2</sup> 
+
+Without limiting the clear right of the media entities who collectively refer to themselves here as “Proposed Media Intervenors” to notice of motions to seal/close/reclassify and to request a closure hearing with respect to those specific pleadings and hearings, this Court should not confer some form of generalized and permanent intervenor status on them.  Beyond the relief which Mr. Robinson acknowledges here, as he did in his response to the request for notice, is appropriate (notice and an opportunity to request to be heard), the motion for limited intervention should be denied. 
+
+# **CONCLUSION** 
+
+The State of Utah is seeking the death penalty against Mr. Robinson. All participants in this proceeding have a duty to ensure that Mr. Robinson receives a fair trial and a reliable penalty proceeding. _See_ U.S. Const. amend. XIII; Utah Const. art. I, § 9. This may, at times, necessitate 
+
+2 Mr. Robinson’s counsel notes that there is no mechanism in the electronic e-filing system to mark a filing as “private” upon filing. To counsel’s knowledge, this designation must be made by court staff upon the granting of an appropriate motion. 
+
+Page **7** of **9** 
+
+closure of proceedings or classification of filings as private. As aptly stated by the First Circuit, “[t]he right to an impartial jury is nowhere as precious as when a defendant is on trial for his 
+
+life.” _Sampson v. United States_ , 724 F.3d 150, 163 (1st Cir. 2013). 
+
+- Mr. Robinson will comply with this Court’s order of November 13, 2025.  Any relief or 
+
+status which the Proposed Media Intervenors seek beyond that which the court has provided for in that order should be denied. 
+
+RESPECTFULLY SUBMITTED this 19th day of November, 2025. 
+
+_<u>/s/ Kathryn N. Nester</u>_ Kathryn N. Nester _<u>/s/ Michael N. Burt</u>_ Michael N. Burt 
+
+_<u>/s/ Richard G. Novak</u>_ 
+
+Richard G. Novak 
+
+_<u>/s/ Staci Visser</u>_ Staci Visser 
+
+_Attorneys for Defendant, Tyler James Robinson_ 
+
+Page **8** of **9** 
+
+# **CERTIFICATE OF SERVICE** 
+
+This is to certify that a true and correct copy of the foregoing was served via the Court’s 
+
+electronic filing system on the 19th day of November, 2025, which served all attorneys of record. 
+
+A copy was also emailed to counsel for Proposed Media Intervenors on the same date. 
+
+_<u>/s/ Staci Visser</u>_ 
+
+9

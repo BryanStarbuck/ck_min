@@ -1,0 +1,536 @@
+FETCH LOG - github-community-mirrors lane
+State of Utah v. Tyler James Robinson, case 251403576
+Run: 2026-08-31 16:43:12 PDT
+Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/github-community-mirrors
+====================================================================================================
+
+RESULT: 200 files kept, 268,318,612 bytes. 0 failures.
+Every file verified: magic bytes match extension, none empty, no PDF under 5 KB,
+no login wall / Cloudflare challenge / 404 page kept.
+
+----------------------------------------------------------------------------------------------------
+[items 1]  manifests/   (1 files, 572,004 bytes)
+    CharlieFiles.com full-mirror enumeration (367 files)
+----------------------------------------------------------------------------------------------------
+     572,004  2026-08-31_CharlieFiles_Full_File_Manifest.json
+              https://publish-01.obsidian.md/cache/545fd2e08a9cfdf36ea131e5b2e326e5
+
+----------------------------------------------------------------------------------------------------
+[items 2-8]  burkhart/   (8 files, 3,251,540 bytes)
+    Andrea Burkhart Substack - docket page + the 6 named PDFs
+----------------------------------------------------------------------------------------------------
+     729,039  2026-07-08_PRELIMINARY_HEARING_Minute_Entry.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+      93,068  2026-07-10_Request_Speedy_Disposition_and_Prompt_Bindover.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+     319,679  2026-07-28_Memorandum_Supporting_Preliminary_Hearing_Bindover_State.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+     389,135  2026-08-11_Defendant_Robinson_Preliminary_Hearing_Briefing.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+     277,548  2026-08-18_State_Reply_Supporting_Preliminary_Hearing_Bindover.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+     572,857  2026-08-28_Defendant_Robinson_Discovery_Status_Report.pdf
+              https://andreaburkhart.substack.com/api/v1/file/(see item list)
+     788,478  2026-08-31_Burkhart_Charlie_Kirk_Legal_Documents_docket.html
+              https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+      81,736  2026-08-31_Burkhart_Charlie_Kirk_Legal_Documents_docket.txt
+              https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+
+----------------------------------------------------------------------------------------------------
+[items 9,10,14]  charliefiles/case-files/   (77 files, 65,602,148 bytes)
+    CharlieFiles case-file PDFs (full set of 77)
+----------------------------------------------------------------------------------------------------
+      86,928  2025-09-12_charging_probable-cause-affidavit.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09-12_charging_probable-cause-affidavit.pdf
+     725,082  2025-09-12_court_order-hold-without-bail.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09-12_court_order-hold-without-bail.pdf
+     737,186  2025-09-12_intake_public-safety-assessment.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09-12_intake_public-safety-assessment.pdf
+     280,690  2025-09_charging_information-charges.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09_charging_information-charges.pdf
+   8,703,749  2025-09_charging_police-affidavit-full.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09_charging_police-affidavit-full.pdf
+     116,895  2025-09_charging_search-warrant-affidavit.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-09_charging_search-warrant-affidavit.pdf
+   3,460,751  2025-10-27_court_ruling-civilian-clothing-and-restraints.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-10-27_court_ruling-civilian-clothing-and-restraints.pdf
+   3,087,935  2025-10-27_court_standing-decorum-order.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-10-27_court_standing-decorum-order.pdf
+     160,002  2025-10-27_stipulated-motion-extend-time.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-10-27_stipulated-motion-extend-time.pdf
+     763,515  2025-10-28_court_order-granting-extend-time.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-10-28_court_order-granting-extend-time.pdf
+     144,379  2025-10-30_media_request-for-notice.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-10-30_media_request-for-notice.pdf
+     760,548  2025-11-04_court_order-re-evidence.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-04_court_order-re-evidence.pdf
+      12,221  2025-11-06_docket.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-06_docket.pdf
+     214,446  2025-11-06_state_motion-amend-publicity-order.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-06_state_motion-amend-publicity-order.pdf
+     260,997  2025-11-10_court_order-requiring-service-on-media.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-10_court_order-requiring-service-on-media.pdf
+     196,997  2025-11-10_defense_response-media-request-notice.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-10_defense_response-media-request-notice.pdf
+      21,640  2025-11-20_court_notice-in-person-review-hearing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-20_court_notice-in-person-review-hearing.pdf
+      13,226  2025-11-20_docket.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11-20_docket.pdf
+     207,579  2025-11_joint_status-report-transcript-redactions-oct24-sealed-hearing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-11_joint_status-report-transcript-redactions-oct24-sealed-hearing.pdf
+      50,913  2025-12-04_victim_restitution-subrogation-notice.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-12-04_victim_restitution-subrogation-notice.pdf
+     540,237  2025-12-22_state_notice-intent-nondestructive-testing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2025-12-22_state_notice-intent-nondestructive-testing.pdf
+   1,369,739  2026-01-09_defense_motion-prohibit-alteration-bullet-jacket-fragment.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-01-09_defense_motion-prohibit-alteration-bullet-jacket-fragment.pdf
+     182,000  2026-01-27_defense_notice-objection-exhibit-4.1.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-01-27_defense_notice-objection-exhibit-4.1.pdf
+      19,872  2026-02-03_court_exhibit-list-disqualification-hearing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-02-03_court_exhibit-list-disqualification-hearing.pdf
+     174,911  2026-04-03_defense_supplemental-discovery-request.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-04-03_defense_supplemental-discovery-request.pdf
+   3,601,562  2026-04-10_defense_motion-osc-contempt-and-compel-discovery.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-04-10_defense_motion-osc-contempt-and-compel-discovery.pdf
+     266,457  2026-04-10_defense_reply-support-motion-vacate-continue-prelim.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-04-10_defense_reply-support-motion-vacate-continue-prelim.pdf
+     516,362  2026-04-10_state_objection-supplemental-discovery-request.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-04-10_state_objection-supplemental-discovery-request.pdf
+   5,492,425  2026-04-16_defense_declaration-counsel-support-osc.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-04-16_defense_declaration-counsel-support-osc.pdf
+     195,116  2026-05-01_defense_motion-in-limine-close-hearing-exclude-exhibits.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-01_defense_motion-in-limine-close-hearing-exclude-exhibits.pdf
+     149,350  2026-05-01_state_supplemental-notice-evidence-at-prelim.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-01_state_supplemental-notice-evidence-at-prelim.pdf
+     267,619  2026-05-06_defense_motion-in-limine-preclude-1102-hearsay.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-06_defense_motion-in-limine-preclude-1102-hearsay.pdf
+     372,832  2026-05-06_state_prelim-witness-and-exhibit-list.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-06_state_prelim-witness-and-exhibit-list.pdf
+     495,303  2026-05-07_defense_reply-osc-contempt-compel-discovery.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-07_defense_reply-osc-contempt-compel-discovery.pdf
+   4,029,500  2026-05-08_court_ruling-deny-exclude-cameras-standing-media-order.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-08_court_ruling-deny-exclude-cameras-standing-media-order.pdf
+     729,810  2026-05-12_court_minute-entry-rulings-continue-and-exclude.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-12_court_minute-entry-rulings-continue-and-exclude.pdf
+     309,560  2026-05-15_state_response-motion-in-limine-close-hearing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-15_state_response-motion-in-limine-close-hearing.pdf
+     233,490  2026-05-18_defense_reply-support-motion-close-seal-hearing.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-05-18_defense_reply-support-motion-close-seal-hearing.pdf
+     268,404  2026-06-01_court_ruling-grant-osc-deny-compel-discovery.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-01_court_ruling-grant-osc-deny-compel-discovery.pdf
+     157,690  2026-06-03_defense_request-submit-motion-in-limine-1102.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-03_defense_request-submit-motion-in-limine-1102.pdf
+     170,167  2026-06-03_defense_request-submit-overlength-reply-motion-in-limine.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-03_defense_request-submit-overlength-reply-motion-in-limine.pdf
+     148,727  2026-06-09_defense_request-submit-motion-stay-pending-interlocutory.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-09_defense_request-submit-motion-stay-pending-interlocutory.pdf
+   5,935,938  2026-06-11_defense_petition-permission-appeal-interlocutory.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-11_defense_petition-permission-appeal-interlocutory.pdf
+      51,219  2026-06-11_victim_restitution-subrogation-notice-coltrin.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-11_victim_restitution-subrogation-notice-coltrin.pdf
+     108,063  2026-06-12_ag_notice-not-respond-constitutional-challenge.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-12_ag_notice-not-respond-constitutional-challenge.pdf
+     617,981  2026-06-12_court_ruling-deny-stay-pending-interlocutory-appeal.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-12_court_ruling-deny-stay-pending-interlocutory-appeal.pdf
+     353,931  2026-06-17_state_objection-request-remove-death-penalty-sanction.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-17_state_objection-request-remove-death-penalty-sanction.pdf
+     173,823  2026-06-19_defense_second-supplemental-discovery-request.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-19_defense_second-supplemental-discovery-request.pdf
+     380,001  2026-06-23_court_ruling-deny-preclude-1102-hearsay-prelim.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-23_court_ruling-deny-preclude-1102-hearsay-prelim.pdf
+     918,590  2026-06-26_court_ruling-contempt-order-to-show-cause.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-06-26_court_ruling-contempt-order-to-show-cause.pdf
+     148,897  2026-07-02_state_response-second-supplemental-discovery-request.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-07-02_state_response-second-supplemental-discovery-request.pdf
+     180,781  2026-07-03_defense_standing-objections-hearing-exhibits.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-07-03_defense_standing-objections-hearing-exhibits.pdf
+     190,605  2026-07-08_victim_supplemental-notice-access-to-evidence.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-07-08_victim_supplemental-notice-access-to-evidence.pdf
+      93,068  2026-07-11_victim_family-statement-speedy-bindover.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/2026-07-11_victim_family-statement-speedy-bindover.pdf
+     246,427  charging_affidavit-redacted.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/charging_affidavit-redacted.pdf
+     220,652  defense_memo-opposing-classify-transcript-private.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_memo-opposing-classify-transcript-private.pdf
+   2,739,676  defense_motion-disqualify-county-attorney.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_motion-disqualify-county-attorney.pdf
+     244,433  defense_motion-exclude-still-photographers.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_motion-exclude-still-photographers.pdf
+   1,551,455  defense_motion-to-vacate-or-continue-prelim.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_motion-to-vacate-or-continue-prelim.pdf
+     211,672  defense_objection-to-state-motion-amend-clarify.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_objection-to-state-motion-amend-clarify.pdf
+     170,617  defense_reply-motion-disqualify-request-take-evidence.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_reply-motion-disqualify-request-take-evidence.pdf
+     196,466  defense_response-to-media-intervenors.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_response-to-media-intervenors.pdf
+     434,546  defense_response-to-motion-to-appear-at-hearings.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/defense_response-to-motion-to-appear-at-hearings.pdf
+      11,002  docket_full-printout.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/docket_full-printout.pdf
+     174,069  media_memo-opposing-motion-to-classify.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/media_memo-opposing-motion-to-classify.pdf
+     292,142  media_memo-opposing-stipulated-motion-classify-transcript.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/media_memo-opposing-stipulated-motion-classify-transcript.pdf
+     268,326  media_motion-for-limited-intervention.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/media_motion-for-limited-intervention.pdf
+     226,712  media_reply-support-motion-limited-intervention.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/media_reply-support-motion-limited-intervention.pdf
+     149,527  media_request-submit-motion-limited-intervention.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/media_request-submit-motion-limited-intervention.pdf
+   4,501,329  state_opposition-motion-disqualify-county-attorney.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_opposition-motion-disqualify-county-attorney.pdf
+   3,236,600  state_opposition-to-motion-to-show-cause.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_opposition-to-motion-to-show-cause.pdf
+     216,048  state_reply-support-motion-amend-clarify-order.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_reply-support-motion-amend-clarify-order.pdf
+     170,035  state_reply-support-stipulated-motion-classify-transcript.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_reply-support-stipulated-motion-classify-transcript.pdf
+     123,589  state_request-submit-motion-amend-clarify-order.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_request-submit-motion-amend-clarify-order.pdf
+     199,613  state_response-to-media-intervenors.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/state_response-to-media-intervenors.pdf
+   1,060,521  transcript_sealed-motion-hearing-redacted.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/transcript_sealed-motion-hearing-redacted.pdf
+     106,982  victim_invocation-of-speedy-trial-rights.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/case-files/victim_invocation-of-speedy-trial-rights.pdf
+
+----------------------------------------------------------------------------------------------------
+[items 15]  charliefiles/uvu-grama-records/   (4 files, 61,143,778 bytes)
+    UVU Charlie Kirk GRAMA records productions 1 and 2
+----------------------------------------------------------------------------------------------------
+  12,084,034  2026-06_-_UVU_Charlie_Kirk_Records_-_Production_1_cleanup_texts_.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/records/2026-06%20-%20UVU%20Charlie%20Kirk%20Records%20-%20Production%201%20%28cleanup%20texts%29.pdf
+  47,681,866  2026-07_-_UVU_Charlie_Kirk_Records_-_Production_2_GRAMA_appeal_declarations_emergency_payment_.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/records/2026-07%20-%20UVU%20Charlie%20Kirk%20Records%20-%20Production%202%20%28GRAMA%20appeal%2C%20declarations%2C%20emergency%20payment%29.pdf
+     735,446  2026-07_-_UVU_Records_Prod_2_pg_49_-_Emergency_Payment_cleanup_for_shooting_incident_.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/records/2026-07%20-%20UVU%20Records%20Prod%202%20pg%2049%20-%20Emergency%20Payment%20%28cleanup%20for%20shooting%20incident%29.pdf
+     642,432  2026-07_-_UVU_Records_Prod_2_pgs_3-10_-_AG_Statement_of_Facts.pdf
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/documents/records/2026-07%20-%20UVU%20Records%20Prod%202%20pgs%203-10%20-%20AG%20Statement%20of%20Facts.pdf
+
+----------------------------------------------------------------------------------------------------
+[items 11,12]  charliefiles/transcripts/   (13 files, 2,707,446 bytes)
+    Hearing transcripts (machine-generated, speaker-labelled)
+----------------------------------------------------------------------------------------------------
+      25,071  2025-09-16_-_Initial_Appearance_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2025-09-16%20-%20Initial%20Appearance%20Transcript.md
+     134,050  2025-12-11_-_December_11_Hearing_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2025-12-11%20-%20December%2011%20Hearing%20Transcript.md
+     157,038  2026-01-16_-_Disqualification_Hearing_Part_One_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-01-16%20-%20Disqualification%20Hearing%2C%20Part%20One%20Transcript.md
+     196,089  2026-02-03_-_Disqualification_Hearing_Part_Two_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-02-03%20-%20Disqualification%20Hearing%2C%20Part%20Two%20Transcript.md
+      10,725  2026-06-01_-_Camera_Access_Ruling_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-06-01%20-%20Camera%20Access%20Ruling%20Transcript.md
+     220,792  2026-06-12_-_Contempt_Evidentiary_Hearing_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-06-12%20-%20Contempt%20Evidentiary%20Hearing%20Transcript.md
+      41,258  2026-06-22_-_Twiggs_Subpoena_Hearing_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-06-22%20-%20Twiggs%20Subpoena%20Hearing%20Transcript.md
+     353,120  2026-07-06_-_Preliminary_Hearing_Day_1_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-07-06%20-%20Preliminary%20Hearing%20Day%201%20Transcript.md
+     380,437  2026-07-07_-_Preliminary_Hearing_Day_2_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-07-07%20-%20Preliminary%20Hearing%20Day%202%20Transcript.md
+     295,788  2026-07-08_-_Preliminary_Hearing_Day_3_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-07-08%20-%20Preliminary%20Hearing%20Day%203%20Transcript.md
+     648,045  2026-07-09_-_Preliminary_Hearing_Day_4_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-07-09%20-%20Preliminary%20Hearing%20Day%204%20Transcript.md
+     238,209  2026-07-10_-_Preliminary_Hearing_Day_5_Transcript.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/2026-07-10%20-%20Preliminary%20Hearing%20Day%205%20Transcript.md
+       6,824  Hearing_Transcripts.md
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/transcripts/court/Hearing%20Transcripts.md
+
+----------------------------------------------------------------------------------------------------
+[items 13]  charliefiles/exhibits/   (59 files, 113,771,015 bytes)
+    Preliminary hearing exhibit images, Days 1-4 (59 PNG)
+----------------------------------------------------------------------------------------------------
+   1,314,594  day1/brenda_wright_phone_footage_affirmation.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/brenda%20wright%20phone%20footage%20affirmation.png
+   1,713,648  day1/cincia_d_noble_nest_doorbell_videos.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/cincia%20d%20noble%20nest%20doorbell%20videos.png
+   1,781,929  day1/kurtis_olsen_voluntary_statement_page_1.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/kurtis%20olsen%20voluntary%20statement%20page%201.png
+   2,371,216  day1/kurtis_olsen_voluntary_statement_page_2.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/kurtis%20olsen%20voluntary%20statement%20page%202.png
+   2,534,431  day1/kurtis_olsen_voluntary_statement_page_3.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/kurtis%20olsen%20voluntary%20statement%20page%203.png
+   1,881,044  day1/nest_doorbell_video_screenshot.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/nest%20doorbell%20video%20screenshot.png
+   1,673,235  day1/officer_testifying_line_of_sight.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/officer%20testifying%20line%20of%20sight.png
+   2,349,728  day1/terryl_farnsworth_camera_statement_of_incident.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%201%20ph/terryl%20farnsworth%20camera%20statement%20of%20incident.png
+   1,403,590  day2/dan_evidence_lab_report_likelihood_ration_tyler_robinson.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/dan%20evidence%20lab%20report%20likelihood%20ration%20tyler%20robinson.png
+   2,132,698  day2/robinson_exit_garage_shorts_and_shirt.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20exit%20garage%20shorts%20and%20shirt.png
+   2,402,335  day2/robinson_maroon_shirt_shorts_garage.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20maroon%20shirt%20shorts%20garage.png
+   2,760,432  day2/robinson_maroon_shirt_shorts_stairwell.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20maroon%20shirt%20shorts%20stairwell.png
+   2,656,949  day2/robinson_pants_and_long_sleeve_stiarwell_bottom.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20pants%20and%20long%20sleeve%20stiarwell%20bottom.png
+   2,223,759  day2/robinson_pants_and_long_sleeve_turning_corner.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20pants%20and%20long%20sleeve%20turning%20corner.png
+   1,301,155  day2/robinson_pants_and_long_sleeve_up_stairs_limp.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20pants%20and%20long%20sleeve%20up%20stairs%20limp.png
+   1,983,902  day2/robinson_pants_long_sleeves_limping_down_stairs.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20pants%20long%20sleeves%20limping%20down%20stairs.png
+   2,376,248  day2/robinson_rooftop_camera_at_corner_of_roof.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20rooftop%20camera%20at%20corner%20of%20roof.png
+   2,614,599  day2/robinson_shirt_and_shorts_stairwell_bottom.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20shirt%20and%20shorts%20stairwell%20bottom.png
+   2,185,673  day2/robinson_shirt_and_shorts_stairwell_descend.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20shirt%20and%20shorts%20stairwell%20descend.png
+   2,279,530  day2/robinson_shirt_and_shorts_turning_corner.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20shirt%20and%20shorts%20turning%20corner.png
+   1,314,207  day2/robinson_shirt_and_shorts_up_stairs.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20shirt%20and%20shorts%20up%20stairs.png
+   2,346,075  day2/robinson_vehicle_exit_garage.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20vehicle%20exit%20garage.png
+   2,569,714  day2/robinson_vehicle_garage_entry.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20vehicle%20garage%20entry.png
+   2,709,705  day2/robinson_vehicle_side_garage.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/robinson%20vehicle%20side%20garage.png
+   1,341,803  day2/state_exhibit_31_dna_evidence_items_reviewed.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/state%20exhibit%2031%20dna%20evidence%20items%20reviewed.png
+   1,257,083  day2/state_exhibit_dna_evidence_level_of_support_robinson_and_twiggs.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%202%20ph/state%20exhibit%20dna%20evidence%20level%20of%20support%20robinson%20and%20twiggs.png
+   1,830,722  day3/tyler_robinson_in_custody_after_surrender_maroon_shirt.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%203%20ph/tyler%20robinson%20in%20custody%20after%20surrender%20maroon%20shirt.png
+   1,306,208  day4/bullet_analysis_30_caliber_class_identification.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20analysis%2030%20caliber%20class%20identification.png
+   2,400,606  day4/bullet_analysis_inconclusive_explanation.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20analysis%20inconclusive%20explanation.png
+   3,221,396  day4/bullet_analysis_markings_close-up.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20analysis%20markings%20close-up.png
+     796,721  day4/bullet_cartridge_back_30-06_rp.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20back%2030-06%20rp.png
+     995,245  day4/bullet_cartridge_case_exhibit_notices_bulge.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20exhibit%20notices%20bulge.png
+     824,403  day4/bullet_cartridge_case_game_arrows.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20game%20arrows.png
+     751,197  day4/bullet_cartridge_case_hey_facist.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20hey%20facist.png
+     856,861  day4/bullet_cartridge_case_if_you_read_this.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20if%20you%20read%20this.png
+     700,231  day4/bullet_cartridge_case_lmao.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20lmao.png
+     994,277  day4/bullet_cartridge_case_o_bella_ciao.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20o%20bella%20ciao.png
+     905,866  day4/bullet_cartridge_case_owo_whats_that.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20owo%20whats%20that.png
+     847,346  day4/bullet_cartridge_case_this.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20cartridge%20case%20this.png
+   2,378,455  day4/bullet_rounds_test_shot.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/bullet%20rounds%20test%20shot.png
+   2,578,308  day4/burnt_note_exhibit_24_robinson_confession_handwritten_destroyed.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/burnt%20note%20exhibit%2024%20robinson%20confession%20handwritten%20destroyed.png
+   1,157,556  day4/dna_analysis_known_sample_from_tyler_robinson_exhibit_30.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/dna%20analysis%20known%20sample%20from%20tyler%20robinson%20exhibit%2030.png
+   1,133,986  day4/exhibit_32_dan_examination_results.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/exhibit%2032%20dan%20examination%20results.png
+   1,688,134  day4/exhibit_6a_bullet_analysis.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/exhibit%206a%20bullet%20analysis.png
+   1,735,141  day4/gun_found_in_bushes_in_wooded_area.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/gun%20found%20in%20bushes%20in%20wooded%20area.png
+   2,969,548  day4/gun_found_in_wooded_area_in_towel.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/gun%20found%20in%20wooded%20area%20in%20towel.png
+   1,330,871  day4/lance_twiggs_testimony_screenshot.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/lance%20twiggs%20testimony%20screenshot.png
+   5,013,001  day4/robinson_gun_photo_in_field.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20gun%20photo%20in%20field.png
+   2,008,659  day4/robinson_text_checking_spot_again_now_for_gun.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20checking%20spot%20again%20now%20for%20gun.png
+   1,953,485  day4/robinson_text_drop_what_you_are_doing.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20drop%20what%20you%20are%20doing.png
+   1,588,284  day4/robinson_text_grandpas_gun_does_fine.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20grandpas%20gun%20does%20fine.png
+   1,996,997  day4/robinson_text_i_am_im_sorry.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20i%20am%20im%20sorry.png
+   1,729,456  day4/robinson_text_i_had_enough_of_his_hatred.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20i%20had%20enough%20of%20his%20hatred.png
+   2,044,239  day4/robinson_text_planning_over_a_week.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20planning%20over%20a%20week.png
+   2,231,190  day4/robinson_text_re_finding_gun_getting_worried.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20re%20finding%20gun%20getting%20worried.png
+   2,174,820  day4/robinson_text_sorry_for_roping_you_into_this.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20sorry%20for%20roping%20you%20into%20this.png
+   1,919,163  day4/robinson_text_worried_about_returning_dads_gun.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/robinson%20text%20worried%20about%20returning%20dads%20gun.png
+   4,404,889  day4/target_sheet_with_bullet_holes.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/target%20sheet%20with%20bullet%20holes.png
+   1,824,472  day4/tyler_robinson_handwritten_letter_note_to_lance_twiggs.png
+              https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/exhibits/court-docs/day%204%20ph/tyler%20robinson%20handwritten%20letter%20note%20to%20lance%20twiggs.png
+
+----------------------------------------------------------------------------------------------------
+[items 16]  grabien/   (38 files, 21,270,681 bytes)
+    Grabien News archive page (hand-cleaned transcripts + exhibit ledger)
+----------------------------------------------------------------------------------------------------
+     333,678  2026-08-31_Grabien_Robinson_Preliminary_Hearing_Archive.html
+              https://news.grabien.com/robinson-prelim-archive/
+     212,415  2026-08-31_Grabien_Robinson_Preliminary_Hearing_Archive.txt
+              https://news.grabien.com/robinson-prelim-archive/
+      99,805  filings/2025-09-10-da-press-release-after-shooting.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-10-da-press-release-after-shooting.pdf
+     724,809  filings/2025-09-16-bail-order-dkt4.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-bail-order-dkt4.pdf
+      79,188  filings/2025-09-16-pc-affidavit-davis.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-pc-affidavit-davis.pdf
+     788,468  filings/2025-09-16-pretrial-protective-order-dkt14.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-pretrial-protective-order-dkt14.pdf
+     387,626  filings/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf
+     736,696  filings/2025-09-16-public-safety-assessment-dkt3.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-public-safety-assessment-dkt3.pdf
+      97,061  filings/2025-09-16-request-victim-representative-dkt12.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-request-victim-representative-dkt12.pdf
+     787,184  filings/2025-09-22-da-press-release-trial-team.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-22-da-press-release-trial-team.pdf
+     131,323  filings/2025-09-24-order-to-transport-dkt24.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-24-order-to-transport-dkt24.pdf
+     117,781  filings/2025-10-08-audio-record-copy-dkt74.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-audio-record-copy-dkt74.pdf
+     121,345  filings/2025-10-08-motion-to-preserve-evidence-dkt75.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-motion-to-preserve-evidence-dkt75.pdf
+     136,552  filings/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf
+     173,189  filings/2025-10-13-stipulated-discovery-protective-order-dkt91.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-13-stipulated-discovery-protective-order-dkt91.pdf
+     450,104  filings/2025-10-21-motion-to-strike-sheriff-response-dkt111.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-21-motion-to-strike-sheriff-response-dkt111.pdf
+     171,037  filings/2025-10-22-motion-to-set-aside-preserve-order-dkt116.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-22-motion-to-set-aside-preserve-order-dkt116.pdf
+     178,925  filings/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf
+     166,142  filings/2025-10-27-notice-open-file-policy-dkt135.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-27-notice-open-file-policy-dkt135.pdf
+   3,489,587  filings/2025-10-27-ruling-strike-clothing-restraints-dkt137.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-27-ruling-strike-clothing-restraints-dkt137.pdf
+     138,369  filings/2025-11-03-stipulated-motion-classify-transcript-dkt152.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-03-stipulated-motion-classify-transcript-dkt152.pdf
+     759,924  filings/2025-11-04-stipulated-order-preserve-evidence-dkt161.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-04-stipulated-order-preserve-evidence-dkt161.pdf
+     189,995  filings/2025-11-10-response-media-coalition-notice-dkt169.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-10-response-media-coalition-notice-dkt169.pdf
+      50,460  filings/2025-12-05-uovc-restitution-notice-1113665-dkt211.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-05-uovc-restitution-notice-1113665-dkt211.pdf
+     222,074  filings/2025-12-08-response-media-intervention-dkt213.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-08-response-media-intervention-dkt213.pdf
+     233,601  filings/2025-12-15-ruling-clarify-publicity-order-dkt242.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-15-ruling-clarify-publicity-order-dkt242.pdf
+   2,744,947  filings/2025-12-17-motion-to-disqualify-ucao-dkt250.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-17-motion-to-disqualify-ucao-dkt250.pdf
+      55,890  filings/2026-01-02-utsc-order-denying-interlocutory-dkt406.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-02-utsc-order-denying-interlocutory-dkt406.pdf
+   4,522,827  filings/2026-01-05-state-opposition-disqualify-dkt289.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-05-state-opposition-disqualify-dkt289.pdf
+     144,347  filings/2026-01-08-defense-partial-reply-disqualify-dkt293.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-08-defense-partial-reply-disqualify-dkt293.pdf
+     168,747  filings/2026-01-12-subpoena-sgt-hull-dkt291.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-12-subpoena-sgt-hull-dkt291.pdf
+     889,686  filings/2026-01-30-attachment-a-media-statements-guidance-dkt355.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-attachment-a-media-statements-guidance-dkt355.pdf
+     216,926  filings/2026-01-30-renewed-request-refer-ag-dkt348.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-renewed-request-refer-ag-dkt348.pdf
+     144,938  filings/2026-01-30-state-opposition-classify-cameras-private-dkt346.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-state-opposition-classify-cameras-private-dkt346.pdf
+     171,224  filings/2026-02-02-proffer-closure-evidentiary-hearing-dkt368.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-02-proffer-closure-evidentiary-hearing-dkt368.pdf
+     223,559  filings/2026-02-02-state-opposition-ag-referral-dkt366.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-02-state-opposition-ag-referral-dkt366.pdf
+     729,537  filings/2026-02-03-minute-order-disqualification-hearing-dkt413.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-03-minute-order-disqualification-hearing-dkt413.pdf
+     280,715  filings/tjr-information.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/tjr-information.pdf
+
+----------------------------------------------------------------------------------------------------
+[items 17,18,19]  grabien/filings/   (36 files, 20,724,588 bytes)
+    Grabien filings set - DOCKET NUMBERS in filenames (36 PDF)
+----------------------------------------------------------------------------------------------------
+      99,805  2025-09-10-da-press-release-after-shooting.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-10-da-press-release-after-shooting.pdf
+     724,809  2025-09-16-bail-order-dkt4.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-bail-order-dkt4.pdf
+      79,188  2025-09-16-pc-affidavit-davis.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-pc-affidavit-davis.pdf
+     788,468  2025-09-16-pretrial-protective-order-dkt14.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-pretrial-protective-order-dkt14.pdf
+     387,626  2025-09-16-proposed-pretrial-protective-order-dkt7.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-proposed-pretrial-protective-order-dkt7.pdf
+     736,696  2025-09-16-public-safety-assessment-dkt3.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-public-safety-assessment-dkt3.pdf
+      97,061  2025-09-16-request-victim-representative-dkt12.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-16-request-victim-representative-dkt12.pdf
+     787,184  2025-09-22-da-press-release-trial-team.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-22-da-press-release-trial-team.pdf
+     131,323  2025-09-24-order-to-transport-dkt24.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-09-24-order-to-transport-dkt24.pdf
+     117,781  2025-10-08-audio-record-copy-dkt74.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-audio-record-copy-dkt74.pdf
+     121,345  2025-10-08-motion-to-preserve-evidence-dkt75.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-motion-to-preserve-evidence-dkt75.pdf
+     136,552  2025-10-08-proposed-order-preserve-evidence-dkt76.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-08-proposed-order-preserve-evidence-dkt76.pdf
+     173,189  2025-10-13-stipulated-discovery-protective-order-dkt91.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-13-stipulated-discovery-protective-order-dkt91.pdf
+     450,104  2025-10-21-motion-to-strike-sheriff-response-dkt111.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-21-motion-to-strike-sheriff-response-dkt111.pdf
+     171,037  2025-10-22-motion-to-set-aside-preserve-order-dkt116.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-22-motion-to-set-aside-preserve-order-dkt116.pdf
+     178,925  2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf
+     166,142  2025-10-27-notice-open-file-policy-dkt135.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-27-notice-open-file-policy-dkt135.pdf
+   3,489,587  2025-10-27-ruling-strike-clothing-restraints-dkt137.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-10-27-ruling-strike-clothing-restraints-dkt137.pdf
+     138,369  2025-11-03-stipulated-motion-classify-transcript-dkt152.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-03-stipulated-motion-classify-transcript-dkt152.pdf
+     759,924  2025-11-04-stipulated-order-preserve-evidence-dkt161.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-04-stipulated-order-preserve-evidence-dkt161.pdf
+     189,995  2025-11-10-response-media-coalition-notice-dkt169.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-11-10-response-media-coalition-notice-dkt169.pdf
+      50,460  2025-12-05-uovc-restitution-notice-1113665-dkt211.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-05-uovc-restitution-notice-1113665-dkt211.pdf
+     222,074  2025-12-08-response-media-intervention-dkt213.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-08-response-media-intervention-dkt213.pdf
+     233,601  2025-12-15-ruling-clarify-publicity-order-dkt242.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-15-ruling-clarify-publicity-order-dkt242.pdf
+   2,744,947  2025-12-17-motion-to-disqualify-ucao-dkt250.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2025-12-17-motion-to-disqualify-ucao-dkt250.pdf
+      55,890  2026-01-02-utsc-order-denying-interlocutory-dkt406.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-02-utsc-order-denying-interlocutory-dkt406.pdf
+   4,522,827  2026-01-05-state-opposition-disqualify-dkt289.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-05-state-opposition-disqualify-dkt289.pdf
+     144,347  2026-01-08-defense-partial-reply-disqualify-dkt293.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-08-defense-partial-reply-disqualify-dkt293.pdf
+     168,747  2026-01-12-subpoena-sgt-hull-dkt291.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-12-subpoena-sgt-hull-dkt291.pdf
+     889,686  2026-01-30-attachment-a-media-statements-guidance-dkt355.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-attachment-a-media-statements-guidance-dkt355.pdf
+     216,926  2026-01-30-renewed-request-refer-ag-dkt348.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-renewed-request-refer-ag-dkt348.pdf
+     144,938  2026-01-30-state-opposition-classify-cameras-private-dkt346.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-01-30-state-opposition-classify-cameras-private-dkt346.pdf
+     171,224  2026-02-02-proffer-closure-evidentiary-hearing-dkt368.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-02-proffer-closure-evidentiary-hearing-dkt368.pdf
+     223,559  2026-02-02-state-opposition-ag-referral-dkt366.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-02-state-opposition-ag-referral-dkt366.pdf
+     729,537  2026-02-03-minute-order-disqualification-hearing-dkt413.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/2026-02-03-minute-order-disqualification-hearing-dkt413.pdf
+     280,715  tjr-information.pdf
+              https://news.grabien.com/robinson-prelim-archive/filings/tjr-information.pdf
+
+====================================================================================================
+FAILURES
+====================================================================================================
+(none - all 19 listed documents/document sets downloaded and verified)
+
+NOTE ON THE FIRST PASS: an internal bug in the fetch harness (a curl argument
+inserted between -A and its value) corrupted every request that sent a Referer,
+which made the 6 Burkhart PDFs and all 36 Grabien PDFs appear to fail. The bug was
+fixed and those 42 files were re-fetched successfully. This was never a
+server-side block - no host in this lane refused or rate-limited us.
+
+ROUTES THAT NEED A HUMAN: none in this lane.
+Burkhart lists 525 further docket entries as 'Not obtained' - those exist only
+behind Utah XChange (paid) and were not attempted, per the no-payment rule.

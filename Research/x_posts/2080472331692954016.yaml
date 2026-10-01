@@ -1,0 +1,30 @@
+id: '2080472331692954016'
+url: 'https://x.com/RickyTheGuido/status/2080472331692954016'
+author:
+  username: 'RickyTheGuido'
+  name: 'Ricky Zaccaglino'
+  id: '1720623671364956160'
+text: |
+  Iran dropped a new LEGO music video about Charlie Kirk’s RODE mic.
+created_at: '2026-07-24T01:57:11.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 66
+  reply_count: 9
+  like_count: 244
+  quote_count: 4
+  bookmark_count: 57
+  impression_count: 4345
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2080472166940762113'
+      duration_ms: 118466
+      width: 1080
+      height: 1350
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2080472166940762113/img/W2kNAgY_MU2SMK4d.jpg'
+      ipfs_cid: 'Qmd6zPTaBkhDSqCA9nEVrx1e7JsgAEUV7qSDu1pGELiPZJ'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-24'
+temp_file: false

@@ -1,0 +1,50 @@
+id: '2088391927763009657'
+url: 'https://x.com/DiligentDenizen/status/2088391927763009657'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen 🇺🇸'
+  id: '1585809424135995392'
+text: |
+  Herself the server saying it was 100% Tyler Robinson.
+created_at: '2026-08-14T22:26:50.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 10
+  reply_count: 2
+  like_count: 88
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 1144
+thread:
+  conversation_id: '2088391649923645555'
+  note: 'Middle post of a 3-post thread. The full thread record, including the other two posts, is in Research/x_posts/2088392608540504575.yaml'
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079273467845742592'
+      duration_ms: 226001
+      source_tweet: '2079273906506965009'
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079273467845742592/img/7SnU6CHRFnhhTt99.jpg'
+      downloaded_as: '2079273906506965009.mp4'
+      downloaded_variant: '1280x720 h264 (2176 kbps)'
+      ipfs_cid: 'QmT3wxEWv5LQsxih65s6XhvTwchUfU3sU6xW27FNt9y5Q7'
+      sha256: 'aae9965de76956c6b7c064d3b96d3e40dc4da4ed68527ac80204bdc256426932'
+      already_downloaded_by_run: '2026-08-14_15-42-54'
+  images:
+    - type: photo
+      media_key: '3_2079273901683560448'
+      url: 'https://pbs.twimg.com/media/HNsQmNyW0AAN1LL.jpg'
+      width: 1145
+      height: 2048
+      downloaded_as: '2079273906506965009_1.jpg'
+      ipfs_cid: 'Qmcp4K9pBHHQHJMx5RLZG2NNbBGzXhiSjuoxpcNpopY9Me'
+      sha256: 'da301be5826adc357c357f5e78bb484f3422afec607aa8f146b5f4cc13320c82'
+      already_downloaded_by_run: '2026-08-14_15-42-54'
+transcription_file: 'videos_transcription/2079273906506965009.md'
+site_pages:
+  - 'site/docs/Tyler_Robinson_Not_Assassin/panguitch-breaks-the-timeline.mdx'
+  - 'site/docs/Videos/Vid_Tyler_Robinson/Vid_Receipt_Timeline/Vid_DiligentDenizen_Full_Raw_Interview_2079273.mdx'
+videos_yaml_node: 'Vid_Tyler_Robinson > Vid_Receipt_Timeline'
+investigation: 'charlie_kirk'
+added_date: '2026-08-14'
+temp_file: false

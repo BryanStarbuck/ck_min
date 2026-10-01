@@ -1,0 +1,35 @@
+id: '2046380775579209982'
+url: 'https://x.com/FurkanGozukara/status/2046380775579209982?s=20'
+author:
+  username: 'FurkanGozukara'
+  name: 'Furkan Gözükara'
+  id: '2965822391'
+text: |
+  Buckley Carlson completely dismantles FBI Director Kash Patel over the bizarre coverup of Charlie Kirk's assassination. The Trump administration deliberately used pagan references like Valhalla to mock a devout Christian while hiding the true culprits behind the murder.
+created_at: '2026-04-21T00:09:31.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 279
+  reply_count: 26
+  like_count: 1779
+  quote_count: 3
+  bookmark_count: 265
+  impression_count: 41106
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2046379814689644544'
+      duration_ms: 197029
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2046379814689644544/img/xKHSsZLyG7dfSuec.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2046379814689644544/vid/avc1/1920x1080/IOv_HnAPyxC2ICnP.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-04-21'
+ipfs_cid: 'QmPqpX8PjTgsPJvdUVn8MmPFBiZ75XxUPfXr8YjWDwjtFq'
+video_file: 'videos/2046380775579209982.mp4'
+transcription_file: 'videos_transcription/2046380775579209982.md'
+site_page: 'site/docs/Videos/buckley-carlson-kash-patel-valhalla.mdx'
+temp_file: false

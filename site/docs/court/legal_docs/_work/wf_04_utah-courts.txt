@@ -1,0 +1,41 @@
+UTAH-COURTS LANE — FETCH COMPLETE
+
+Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/utah-courts/
+Log: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_utah-courts.txt (14,506 bytes)
+
+10 of 11 items obtained. 0 failures, 0 blocks. Every URL returned HTTP 200 with a real body on the first attempt with a browser User-Agent — no 403, no Cloudflare, no login wall, no rate limiting anywhere in this lane. Nothing paid for, no account created, no form submitted, no video downloaded.
+
+FILES KEPT (18 files, byte counts exactly as `ls -l` reported)
+
+PDFs — all verified `%PDF-` magic bytes and real page counts:
+* 2015-10-19_Media_Guide_to_Utah_State_Courts.pdf — 1,715,553 bytes. PDF v1.4, 60 pages. Embedded title "Utah State Court Media Guide - October 2015". The Judiciary's own guide to what press and public can obtain. CAVEAT: it is the 2015 edition — do not cite as the 2026 state of the rules.
+* 2016-02-09_Utah_Courts_Media_Protocol_Cameras.pdf — 109,076 bytes. PDF v1.5, 1 page. Embedded title "Media Protocol for Cameras in the Courtroom - 2/16". The standing camera protocol behind the 2026 camera/publicity fight.
+* 2021-11-16_Request_for_Court_Record_Form.pdf — 116,597 bytes. PDF v1.5, 2 pages. Title "Request for a Record". The form to file with the Provo clerk for copies in 251403576.
+(All three were renamed from 0000-00-00_ to their real embedded document dates once readable.)
+
+Robinson press notifications — the Utah Judiciary speaking on the record about this case. Both verified real article bodies, "Robinson" appearing 10× each:
+* 2026-08-28_Utah_Courts_Public_Attendance_Robinson_Preliminary_Hearing.html — 42,873 bytes; .txt — 4,724 bytes. Confirms final hearing day 10:00 a.m. at Provo Courthouse, 12 public seats, wristbands from 9:00 a.m., no electronic devices in the courtroom, and carries the court's own verbatim livestream link https://youtube.com/live/3f3EMabrrFQ.
+* 2026-07-06_Utah_Courts_Public_Information_Robinson_Preliminary_Hearing.html — 43,188 bytes; .txt — 5,246 bytes. Confirms hearing week of July 6–10 at the Fourth District Courthouse Provo, 14 public seats first-come first-served, and recites the Decorum Order verbatim ("Electronic devices, including cell phones, cameras, recording devices … are prohibited in the courtroom unless specifically authorized by the Court").
+
+Rules, archive, contacts:
+* 2025-11-01_UCJA_Rule_4-202.08_Fees_for_Records.html — 22,768 bytes; .txt — 7,236 bytes. Full fee-schedule rule text; page prints its own provenance ("Rule printed on August 31, 2026 at 5:36 pm", "Effective: 11/1/2025").
+* 0000-00-00_Utah_Courts_Press_Notification_Archive_Index.html — 66,034 bytes; .txt — 18,043 bytes. Monthly archives back to December 2022.
+* 0000-00-00_Utah_Courts_Press_Notifications_RSS_Feed.xml — 13,288 bytes. Supplementary capture of the RSS stream named in item 4. 10 items; head of feed is the 28 Aug Robinson notice. Cheapest thing to poll for future Robinson notices.
+* 0000-00-00_Utah_Judiciary_Media_Page.html — 95,043 bytes; .txt — 5,824 bytes. Confirms media contact Tania Mashburn, taniam@utcourts.gov — the byline on both Robinson notifications.
+* 0000-00-00_Provo_District_Court_Public_Body_Record_PMN.html — 18,335 bytes; .txt — 3,586 bytes. Confirms Debbie Jacobsen, debbiej@utcourts.gov, (801) 429-1000, 137 N Freedom Blvd, Provo UT 84601. Also confirms the caveat: the only PDFs this page publishes for Provo District Court are probate/conservatorship notices (the two upcoming are AGUADO and DUCKWORTH conservatorship petitions, both 2026/09/28) — nothing criminal.
+
+Partial / placeholder:
+* 0000-00-00_Request_and_Order_Electronic_Media_Coverage_AdobeSign_Form.html — 51,714 bytes. LIMITATION STATED PLAINLY: live and 200, but it is a JavaScript widget shell. The actual form fields render client-side and are NOT in the fetched bytes. The file proves the form exists and is reachable; it is not a copy of the form's content. No form was submitted.
+* 2026-09-01_Tyler_Robinson_Trial_Pool_Feed_NOT_YET_AIRED.txt — 1,736 bytes. See below.
+
+FAILURES / ITEMS NOT OBTAINED
+
+* Item 3 — Tyler Robinson Trial Pool Feed (https://www.youtube.com/live/3f3EMabrrFQ). NOT DOWNLOADABLE, and this is a genuine negative rather than a fetch failure. The page returned HTTP 200 / 1,167,188 bytes but that is a JavaScript shell with no media stream. Parsed metadata on this run: `isLiveContent: true`, `liveBroadcastDetails.isLiveNow: false`, `startTimestamp: 2026-09-01T14:30:00+00:00` (08:30 MDT, 1 Sep 2026), `publishDate: 2026-08-28T06:48:51-07:00`, `ownerChannelName: "KUTV 2 News Salt Lake City"`, `lengthSeconds: 0`, meta title "Tyler Robinson Trial Pool Feed". It is a scheduled broadcast that has not aired — there was nothing to download. A placeholder .txt records the URL, probe result, full metadata, and the follow-up: re-check after 2026-09-01 08:30 MDT and capture promptly, since a livestream may not be left up as a VOD.
+
+DELETED AS JUNK (1)
+* The .txt extraction of the Adobe Sign widget (866 bytes) contained only a language picker and the word "Loading..." — no substance. Removed rather than left to poison the archive. The .html capture was kept.
+
+ROUTES THAT NEED A HUMAN (recorded, not attempted)
+* Filing the Adobe Sign electronic-media-coverage form — requires a browser and identifies the requesting organization.
+* Getting actual filings in 251403576 — file the Request for Court Record form with the Fourth District clerk in Provo; fees governed by UCJA 4-202.08. Contact Debbie Jacobsen, debbiej@utcourts.gov, (801) 429-1000.
+* Utah XChange public case search is a paid subscription route — not attempted, per the no-payment rule.

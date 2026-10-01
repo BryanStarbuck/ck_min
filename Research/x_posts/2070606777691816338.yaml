@@ -1,0 +1,54 @@
+id: '2070606777691816338'
+url: 'https://x.com/alleytopfiles/status/2070606777691816338'
+author:
+  username: 'alleytopfiles'
+  name: 'Alley Files'
+  id: '1993892913957490692'
+text: |
+  New released Candace pics from SUV
+quoted_post:
+  id: '2070601845697888339'
+  url: 'https://x.com/iluminomoly/status/2070601845697888339'
+  author:
+    username: 'iluminomoly'
+    name: 'illuminomoly'
+    id: '2001437632065343488'
+  text: |
+    New photos released by Candace Owens
+    Charlie Kirks SUV
+
+    #charliekirk #fyp #candaceowens #erikakirk #tpusa #charliekirkinvestigation
+created_at: '2026-06-26T20:35:00.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 45
+  reply_count: 18
+  like_count: 225
+  quote_count: 1
+  bookmark_count: 14
+  impression_count: 3732
+attachments:
+  images:
+    - filename: '2070606777691816338_1.jpg'
+      ipfs_cid: 'QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU'
+      width: 2048
+      height: 1146
+      description: 'Rear cabin of SUV, dark stain on rear seat'
+    - filename: '2070606777691816338_2.jpg'
+      ipfs_cid: 'QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf'
+      width: 2048
+      height: 1142
+      description: 'Floor sill, pale fragment + small black object (mic-style)'
+    - filename: '2070606777691816338_3.jpg'
+      ipfs_cid: 'QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts'
+      width: 2048
+      height: 1535
+      description: 'Seat rail/track, fragment and debris'
+    - filename: '2070606777691816338_4.jpg'
+      ipfs_cid: 'QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ'
+      width: 2048
+      height: 1144
+      description: 'Floor beside seat, scattered debris and water bottle'
+investigation: 'charlie_kirk'
+added_date: '2026-06-26'
+temp_file: false

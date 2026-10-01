@@ -1,0 +1,372 @@
+[
+ {
+  "slug": "all-85",
+  "title": "Every claimed overlap, all 85 rows",
+  "cell_text": "Overlaps with an Egyptian-registered jet, all told",
+  "rows": 85,
+  "url": "/Planes/following/cuts/all-85",
+  "distinct_dates": 70
+ },
+ {
+  "slug": "dated-80",
+  "title": "The 80 rows that carry a date",
+  "cell_text": "of which carry a date at all",
+  "rows": 80,
+  "url": "/Planes/following/cuts/dated-80",
+  "distinct_dates": 70
+ },
+ {
+  "slug": "never-published-5",
+  "title": "The five rows that were never published",
+  "cell_text": "of which were never published — no date, city, airport or tail",
+  "rows": 5,
+  "url": "/Planes/following/cuts/never-published-5",
+  "distinct_dates": 0
+ },
+ {
+  "slug": "charlie-only-9",
+  "title": "The nine rows claiming Charlie Kirk without Erika",
+  "cell_text": "Overlaps with Charlie Kirk where Erika is not claimed with him",
+  "rows": 9,
+  "url": "/Planes/following/cuts/charlie-only-9",
+  "distinct_dates": 8
+ },
+ {
+  "slug": "charlie-and-erika-9",
+  "title": "The nine rows claiming both Kirks together",
+  "cell_text": "Overlaps claiming Charlie and Erika together",
+  "rows": 9,
+  "url": "/Planes/following/cuts/charlie-and-erika-9",
+  "distinct_dates": 5
+ },
+ {
+  "slug": "charlie-any-18",
+  "title": "Every row that involves Charlie Kirk at all",
+  "cell_text": "Overlaps involving Charlie at all",
+  "rows": 18,
+  "url": "/Planes/following/cuts/charlie-any-18",
+  "distinct_dates": 12
+ },
+ {
+  "slug": "erika-any-70",
+  "title": "Every row that involves Erika Kirk at all",
+  "cell_text": "Overlaps involving Erika at all",
+  "rows": 70,
+  "url": "/Planes/following/cuts/erika-any-70",
+  "distinct_dates": 57
+ },
+ {
+  "slug": "erika-only-61",
+  "title": "The 61 rows resting on Erika Kirk alone",
+  "cell_text": "Overlaps where Erika is claimed and Charlie is not",
+  "rows": 61,
+  "url": "/Planes/following/cuts/erika-only-61",
+  "distinct_dates": 53
+ },
+ {
+  "slug": "tpusa-no-kirk-6",
+  "title": "The six rows matched to a Turning Point event with neither Kirk",
+  "cell_text": "Overlaps at a Turning Point event where neither Kirk is claimed present",
+  "rows": 6,
+  "url": "/Planes/following/cuts/tpusa-no-kirk-6",
+  "distinct_dates": 6
+ },
+ {
+  "slug": "tail-su-btt-57",
+  "title": "Every row naming SU-BTT, the yellow plane",
+  "cell_text": "Overlaps where the aircraft was SU-BTT, the yellow plane",
+  "rows": 57,
+  "url": "/Planes/following/cuts/tail-su-btt-57",
+  "distinct_dates": 52
+ },
+ {
+  "slug": "tail-su-bnd-16",
+  "title": "Every row naming SU-BND, the blue plane",
+  "cell_text": "Overlaps where the aircraft was SU-BND, the blue plane",
+  "rows": 16,
+  "url": "/Planes/following/cuts/tail-su-bnd-16",
+  "distinct_dates": 14
+ },
+ {
+  "slug": "tail-both-3",
+  "title": "The three rows naming both tails at once",
+  "cell_text": "Overlaps naming both tails on the one row",
+  "rows": 3,
+  "url": "/Planes/following/cuts/tail-both-3",
+  "distinct_dates": 3
+ },
+ {
+  "slug": "tail-unresolved-9",
+  "title": "The nine rows that cannot name the aircraft",
+  "cell_text": "Overlaps where even the tail number is unresolved",
+  "rows": 9,
+  "url": "/Planes/following/cuts/tail-unresolved-9",
+  "distinct_dates": 4
+ },
+ {
+  "slug": "erika-established-0",
+  "title": "The rows where Erika Kirk's presence is actually established",
+  "cell_text": "Overlaps where Erika Kirk's presence is established",
+  "rows": 0,
+  "url": "/Planes/following/cuts/erika-established-0",
+  "distinct_dates": 0
+ },
+ {
+  "slug": "no-kirk-placeable-61",
+  "title": "The 61 rows where no Kirk can be placed at all",
+  "cell_text": "Rows where no Kirk can be placed at all",
+  "rows": 61,
+  "url": "/Planes/following/cuts/no-kirk-placeable-61",
+  "distinct_dates": 53
+ },
+ {
+  "slug": "adsb-at-claimed-airport-25",
+  "title": "The 25 rows corroborated by recovered position data",
+  "cell_text": "At the claimed airport",
+  "rows": 25,
+  "url": "/Planes/following/cuts/adsb-at-claimed-airport-25",
+  "distinct_dates": 18
+ },
+ {
+  "slug": "adsb-elsewhere-3",
+  "title": "The three rows refuted by recovered position data",
+  "cell_text": "Elsewhere",
+  "rows": 3,
+  "url": "/Planes/following/cuts/adsb-elsewhere-3",
+  "distinct_dates": 3
+ },
+ {
+  "slug": "adsb-same-metro-1",
+  "title": "The one row that is right area, wrong field",
+  "cell_text": "Right area, wrong field",
+  "rows": 1,
+  "url": "/Planes/following/cuts/adsb-same-metro-1",
+  "distinct_dates": 1
+ },
+ {
+  "slug": "adsb-not-heard-37",
+  "title": "The 37 rows the archives cover but do not hear",
+  "cell_text": "Not heard",
+  "rows": 37,
+  "url": "/Planes/following/cuts/adsb-not-heard-37",
+  "distinct_dates": 34
+ },
+ {
+  "slug": "adsb-no-archive-coverage-10",
+  "title": "The ten rows no free archive reaches",
+  "cell_text": "No archive coverage",
+  "rows": 10,
+  "url": "/Planes/following/cuts/adsb-no-archive-coverage-10",
+  "distinct_dates": 10
+ },
+ {
+  "slug": "adsb-no-tail-4",
+  "title": "The four rows that name no aircraft",
+  "cell_text": "No aircraft named",
+  "rows": 4,
+  "url": "/Planes/following/cuts/adsb-no-tail-4",
+  "distinct_dates": 4
+ },
+ {
+  "slug": "adsb-no-date-5",
+  "title": "The five rows that name no date",
+  "cell_text": "No date named",
+  "rows": 5,
+  "url": "/Planes/following/cuts/adsb-no-date-5",
+  "distinct_dates": 0
+ },
+ {
+  "slug": "ledger-charlie-tpusa-24",
+  "title": "The Charlie Kirk and TPUSA ledger — all 24 rows",
+  "cell_text": "Charlie Kirk + TPUSA — claimed",
+  "rows": 24,
+  "url": "/Planes/following/cuts/ledger-charlie-tpusa-24",
+  "distinct_dates": 18
+ },
+ {
+  "slug": "ledger-charlie-corroborated-13",
+  "title": "The 13 Charlie/TPUSA rows position data corroborates",
+  "cell_text": "Charlie Kirk + TPUSA — corroborated",
+  "rows": 13,
+  "url": "/Planes/following/cuts/ledger-charlie-corroborated-13",
+  "distinct_dates": 8
+ },
+ {
+  "slug": "ledger-charlie-refuted-0",
+  "title": "The Charlie/TPUSA rows position data refutes — there are none",
+  "cell_text": "Charlie Kirk + TPUSA — refuted",
+  "rows": 0,
+  "url": "/Planes/following/cuts/ledger-charlie-refuted-0",
+  "distinct_dates": 0
+ },
+ {
+  "slug": "ledger-charlie-undecided-11",
+  "title": "The Charlie/TPUSA rows the archives cannot decide",
+  "cell_text": "Charlie Kirk + TPUSA — archives cannot answer",
+  "rows": 11,
+  "url": "/Planes/following/cuts/ledger-charlie-undecided-11",
+  "distinct_dates": 10
+ },
+ {
+  "slug": "ledger-erika-56",
+  "title": "The Erika Kirk ledger — all 56 dated rows",
+  "cell_text": "Erika Kirk — claimed",
+  "rows": 56,
+  "url": "/Planes/following/cuts/ledger-erika-56",
+  "distinct_dates": 53
+ },
+ {
+  "slug": "ledger-erika-corroborated-12",
+  "title": "The 12 Erika rows position data corroborates",
+  "cell_text": "Erika Kirk — corroborated",
+  "rows": 12,
+  "url": "/Planes/following/cuts/ledger-erika-corroborated-12",
+  "distinct_dates": 11
+ },
+ {
+  "slug": "ledger-erika-refuted-3",
+  "title": "The three Erika rows position data refutes",
+  "cell_text": "Erika Kirk — refuted",
+  "rows": 3,
+  "url": "/Planes/following/cuts/ledger-erika-refuted-3",
+  "distinct_dates": 3
+ },
+ {
+  "slug": "ledger-erika-undecided-41",
+  "title": "The Erika rows the archives cannot decide",
+  "cell_text": "Erika Kirk — archives cannot answer",
+  "rows": 41,
+  "url": "/Planes/following/cuts/ledger-erika-undecided-41",
+  "distinct_dates": 39
+ },
+ {
+  "slug": "audit-accurate",
+  "title": "Rows the tracking-site audit called accurate",
+  "cell_text": "Accurate — the jet really was there that day",
+  "rows": 21,
+  "url": "/Planes/following/cuts/audit-accurate",
+  "distinct_dates": 18
+ },
+ {
+  "slug": "audit-inaccurate",
+  "title": "Rows the tracking-site audit called inaccurate",
+  "cell_text": "Inaccurate — the jet was somewhere else",
+  "rows": 44,
+  "url": "/Planes/following/cuts/audit-inaccurate",
+  "distinct_dates": 41
+ },
+ {
+  "slug": "audit-partial",
+  "title": "Rows the tracking-site audit called partially accurate",
+  "cell_text": "Partially accurate — right aircraft and date, wrong route or duration",
+  "rows": 8,
+  "url": "/Planes/following/cuts/audit-partial",
+  "distinct_dates": 7
+ },
+ {
+  "slug": "audit-archive-gap",
+  "title": "Rows the audit could not assess",
+  "cell_text": "Not assessable — the flight archive does not reach back that far",
+  "rows": 2,
+  "url": "/Planes/following/cuts/audit-archive-gap",
+  "distinct_dates": 2
+ },
+ {
+  "slug": "audit-not-reached",
+  "title": "Rows the audit never reached",
+  "cell_text": "Not reached by the audit",
+  "rows": 5,
+  "url": "/Planes/following/cuts/audit-not-reached",
+  "distinct_dates": 5
+ },
+ {
+  "slug": "tail-either-btt-or-bnd-5",
+  "title": "The five rows logged as “SU-BTT or SU-BND”",
+  "cell_text": "“SU-BTT or SU-BND” — the source could not tell which",
+  "rows": 5,
+  "url": "/Planes/following/cuts/tail-either-btt-or-bnd-5",
+  "distinct_dates": 0
+ },
+ {
+  "slug": "tail-none-4",
+  "title": "The four rows with no tail number at all",
+  "cell_text": "No tail number recorded at all",
+  "rows": 4,
+  "url": "/Planes/following/cuts/tail-none-4",
+  "distinct_dates": 4
+ },
+ {
+  "slug": "ground-confirmed-10",
+  "title": "The ten ground-position confirmations",
+  "cell_text": "the aircraft transmitting positions with the on-ground flag set",
+  "rows": 10,
+  "url": "/Planes/following/cuts/ground-confirmed-10",
+  "distinct_dates": 6
+ },
+ {
+  "slug": "same-day-sourced-event-10",
+  "title": "Rows that land on a day this site independently sources a Kirk or TPUSA appearance",
+  "cell_text": "rows that survive a same-day test at a shared field",
+  "rows": 10,
+  "url": "/Planes/following/cuts/same-day-sourced-event-10",
+  "distinct_dates": 7
+ },
+ {
+  "slug": "within-three-days-17",
+  "title": "Rows within three days of a sourced Kirk or TPUSA appearance in the same state",
+  "cell_text": "fall within three days of a Turning Point or Charlie Kirk appearance this site can independently source in the same state",
+  "rows": 17,
+  "url": "/Planes/following/cuts/within-three-days-17",
+  "distinct_dates": 12
+ },
+ {
+  "slug": "state-nebraska",
+  "title": "Nebraska — every overlap, every landing, every event",
+  "cell_text": "Nebraska",
+  "rows": 19,
+  "url": "/Planes/following/cuts/state-nebraska",
+  "distinct_dates": 18,
+  "flights": 15,
+  "events": 3
+ },
+ {
+  "slug": "state-kansas",
+  "title": "Kansas — every overlap, every landing, every event",
+  "cell_text": "Kansas",
+  "rows": 18,
+  "url": "/Planes/following/cuts/state-kansas",
+  "distinct_dates": 15,
+  "flights": 5,
+  "events": 3
+ },
+ {
+  "slug": "state-delaware",
+  "title": "Delaware — every overlap, every landing, every event",
+  "cell_text": "Delaware",
+  "rows": 11,
+  "url": "/Planes/following/cuts/state-delaware",
+  "distinct_dates": 11,
+  "flights": 16,
+  "events": 1
+ },
+ {
+  "slug": "state-missouri",
+  "title": "Missouri — every overlap, every landing, every event",
+  "cell_text": "Missouri",
+  "rows": 9,
+  "url": "/Planes/following/cuts/state-missouri",
+  "distinct_dates": 9,
+  "flights": 1,
+  "events": 4
+ },
+ {
+  "slug": "state-utah",
+  "title": "Utah — every overlap, every landing, every event",
+  "cell_text": "Utah",
+  "rows": 15,
+  "url": "/Planes/following/cuts/state-utah",
+  "distinct_dates": 10,
+  "flights": 8,
+  "events": 3
+ }
+]

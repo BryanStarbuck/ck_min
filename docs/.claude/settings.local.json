@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(test:*)",
+      "Bash(for file in Fix/overview.md Proof_Not_Tyler/overview.md Proof_Intel_Services/overview.md CoverUp/overview.md Your_Actions_Fix_It/overview.md)",
+      "Bash(do if [ -f \"/Users/bryan/BGit/act3/charlie-kirk/docs/$file\" ])",
+      "Bash(then echo \"✓ $file\")",
+      "Bash(else echo \"✗ MISSING: $file\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(for path in \"Timeline/overview.md\" \"Witnesses/overview.md\" \"Before/overview.md\" \"intelligence/overview.md\" \"security_law_enforcement/overview.md\" \"conspiracy_theories/overview.md\" \"Media/overview.md\" \"legal_investigation/overview.md\" \"Planes/overview.md\" \"Drones/overview.md\" \"government_organizations/overview.md\" \"Censorship/overview.md\" \"Fix/Politicans.md\" \"Vote/overview.md\")",
+      "Bash(do if [ -f \"$path\" ])",
+      "Bash(then echo \"✓ $path\")",
+      "Bash(else echo \"✗ MISSING: $path\")",
+      "Bash(npm run build:*)",
+      "Bash(tee:*)",
+      "Bash(npx docusaurus build:*)",
+      "Bash(for path in \"Before/overview.md\" \"conspiracy_theories/overview.md\" \"CoverUp/overview.md\" \"intelligence/overview.md\" \"legal_investigation/overview.md\" \"Media/overview.md\" \"People/Witnesses_Security_And_CitizenInvestigators.md\" \"Proof_Not_Tyler/overview.md\" \"security_law_enforcement/overview.md\" \"Timeline/overview.md\" \"Censorship/overview.md\" \"Drones/overview.md\" \"government_organizations/overview.md\" \"Planes/overview.md\" \"Proof_Intel_Services/overview.md\" \"Fix/overview.md\" \"Fix/Politicans.md\" \"Vote/overview.md\" \"Your_Actions_Fix_It/overview.md\")"
+    ]
+  }
+}

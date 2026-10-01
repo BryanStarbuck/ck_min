@@ -1,0 +1,463 @@
+# AUDIT JOB 2 — COMPLETENESS CRITIC
+State of Utah v. Tyler James Robinson, No. 251403576, 4th Jud. Dist., Provo, Hon. Tony F. Graf Jr.
+Audit date 2026-08-31. Ground truth for "what exists" = the 720-row reconstructed docket at
+/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/burkhart_docket_full_867.txt
+Ground truth for "what we hold" = inventory_existing.txt (173 pre-run) + 1,155 PDFs now under
+/Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/
+
+================================================================================
+1. DOCKET GAPS
+================================================================================
+
+FIRST, A CORRECTION TO THE PREMISE. The May-2026-onward hole is now largely CLOSED, not open.
+Pre-run, our newest filing was 4_8_26_Notice_Of_Appearance.pdf. Post-run we hold essentially every
+docket entry Andrea Burkhart published, through 8-31-26 — 258-264 PDFs, mirrored four separate
+times (incoming/burkhart/, incoming/github-community-mirrors/, incoming/related-dockets-foia/
+burkhart_docket_pdfs/, incoming/wayback-archive/burkhart_docket_pdfs/). Specifically we NOW hold,
+and did not before: the 5-6-26 State's Preliminary Hearing Witness and Exhibit List; the 5-8-26 and
+6-1-26 camera/closure rulings; the 6-1-26 and 6-26-26 contempt rulings; the 6-22-26 Twiggs
+certificate/quash order; the 6-23-26 Rule 1102 hearsay ruling; the 7-8-26 and 7-21-26 preliminary
+hearing minute entries; all three bind-over briefs (State 7-28-26, defense 8-11-26, State reply
+8-18-26); the 8-27/8-28-26 decorum orders; and the 8-28-26 defense discovery status report.
+Do not re-scope work around a gap that has been filled.
+
+DOCKET ENTRY COUNTS BY MONTH (720 rows; "no PDF" = Burkhart never purchased it, or it is sealed):
+
+  2025-09   64 entries   36 with PDF   28 without
+  2025-10   85            31            54
+  2025-11   49            23            26
+  2025-12   61            15            46
+  2026-01   92            33            59
+  2026-02   59            19            40
+  2026-03   40            13            27
+  2026-04   41            13            28
+  2026-05   46            20            26
+  2026-06   90            29            61
+  2026-07   32            12            20
+  2026-08   29            12            17
+  undated   32             2            30
+
+462 rows have no PDF. Strip out the pure noise (Return of Electronic Notification, Request/Notice
+to Submit, and "Omitted from docket" placeholders) and 119 SUBSTANTIVE docket entries remain that
+nobody outside the court has. That 119 is the real gap number, not 462.
+
+THE REAL REMAINING DATE GAPS, in order of significance:
+
+A. 2026-09-01 FORWARD — everything. Oral argument on probable cause / bind-over is 1 Sept 2026,
+   10:00 a.m. MDT, i.e. tomorrow relative to this audit. There is NO bind-over ruling, NO
+   trial-setting order, NO arraignment on bind-over, NO 9-1-26 minute entry, NO 9-1-26 transcript.
+   Newest thing in existence is docket 720, Order to Transport, 8-31-26 (itself not obtained).
+   This is not a collection failure; it is the future. Re-run in September.
+
+B. THE ENTIRE DISQUALIFICATION FIGHT, UNREDACTED — 12-10-25 through 2-24-26. We hold the public
+   47-page Motion to Disqualify (docket 250, 12-17-25) but NOT docket 236, "Non-Public Information
+   Motion to Disqualify and Exhibits, 12-10-25", NOT docket 276 (State's non-public opposition,
+   1-5-26), NOT docket 278 (non-public partial reply / request to take evidence, 1-8-26). The
+   exhibits to the disqualification motion have never been public. This is the single largest
+   substantive body of sealed material on the docket.
+
+C. THE JANUARY 9, 2026 MOTION CLUSTER, UNREDACTED — dockets 282, 284, 292. We now hold the
+   1-9-26 defense motion (bullet-jacket-fragment preservation, 29pp, with the State's 12-22-25
+   non-destructive testing notice, firearms report 2025-W-000401, and the email thread as
+   exhibits). We do NOT hold the private classification motion or the 1-12-26 order on it.
+
+D. THE CAMERAS MOTION, UNREDACTED — docket 302, "Non-Public Information Motion to Exclude
+   Cameras, 1-16-26", and docket 396, the private Reply in support (2-20-26). We hold only the
+   3-30-26 REDACTED version (258 pp). The redactions are the point: Dr. Ruva's declaration and CV
+   are Exhibits 1 and 2 to docket 305, and the survey data underneath is what was withheld.
+
+E. EIGHT HEARING TRANSCRIPTS, none of which exist in certified form outside the court:
+   - 12-11-25 (docket 253 TRANSADMIN, PRIVATE; docket 388 redacted version, SEALED)
+   - 1-16-26 (docket 329, not obtained)
+   - 2-03-26 (docket 416, not obtained)
+   - 2-24-26 (docket 489, not obtained)
+   - 3-13-26 (docket 488, not obtained)
+   - 4-17-26 motion hearing (docket 509, marked "***Unavailable***" on the docket itself)
+   - Preliminary hearing DAYS 1, 2 and 3 (6, 7, 8 July 2026). We hold certified Moorhead
+     transcripts for Day 4 (278 pp) and Day 5 (97 pp) only. Days 1-3 exist ONLY as Rev.com
+     machine/broadcast transcripts and CharlieFiles .md files — not the record, not citable.
+     The 8-28-26 discovery status report itself cites "Preliminary Hearing Transcript, July 7,
+     2026 at 172" for the State's objection to DNA reliability questioning. We cannot verify
+     that page cite because we do not have the Day 2 certified transcript.
+   - 9-1-26 (does not exist yet)
+
+F. ALL AUDIO. Judge Graf ORDERED the 24 Oct 2025 sealed-hearing audio released in redacted form
+   roughly two weeks after the transcript (so ~mid-January 2026). No published copy exists
+   anywhere — nine lanes searched and found only descriptions of the order. Dockets 596, 622,
+   649, 664 and 684 are audio requests filed by media; the recordings themselves were never
+   posted. This is the highest-value never-collected artifact in the whole case file.
+
+G. SEARCH WARRANTS. We hold 25 affidavits, warrant numbers 3212261 through 3229461. Structural
+   holes inside that set:
+   - NOTHING between 3217131 (9-17-25) and 3229461 (10-6-25) — a 19-day, ~12,000-number gap.
+   - NOTHING after 10-6-25 at all, yet the 8-28-26 discovery status report says a second Apple
+     return of ~170 GB arrived on 18 Aug 2026. A 2026 warrant to Apple therefore exists and we
+     do not have it.
+   - NO warrant for the UVU crime scene itself — the Losee Center roof, the rifle recovery point
+     in the wooded area, the towel, the screwdriver. 3212261 covers only Kirk's body and effects
+     at Timpanogos Regional Hospital.
+   - NO warrant for the person or residence of Lance Twiggs (only his iCloud, 3217131).
+   - THREE warrants marked "Return not included": 3216271 (Lumen/Quantum Fiber), 3217031 (Apple,
+     cratfin247@gmail.com), 3217131 (Apple, lancetwiggs@icloud.com).
+   - The RETURNS/inventories for the rest are summarized in Burkhart's index but the return
+     documents themselves are not in the set.
+
+H. ORDERS TO TRANSPORT / ORDERS TO APPEAR, ~12 missing (dockets 52, 296, 298, 430, 470, 541,
+   574, 639, 658, 720). Individually trivial, collectively they are the cleanest independent
+   record of WHEN Robinson was physically moved and on what dates hearings actually occurred.
+   Worth $12 on Xchange for the timeline alone.
+
+I. THREE ELECTRONIC MEDIA COVERAGE ORDERS from 6-23-26 naming specific outlets — Salt Lake
+   Tribune (626), Deseret News (627), Associated Press (634) — all not obtained. These identify
+   exactly which outlets were in the room for the preliminary hearing.
+
+J. UOVC RESTITUTION NOTICES, four of them: Claim #1113630 (4-27-26), #1113637 (6-11-26),
+   #1113669 (8-10-26) and its 8-12-26 update. We hold the 12-5-25 and 3-11-26 notices only.
+
+================================================================================
+2. DOCUMENTS THAT MUST EXIST, INFERRED FROM WHAT WE HOLD
+================================================================================
+
+Read for this section: 3_18_29_Notice_Of_Expert_Dr.pdf, 4_6_26_Amended_Notice_Of_Expert_Dr.pdf,
+4_6_26_Notice_Of_Expert_Bryan_Edelman.pdf, 2_23_26_Exhibit_List.pdf,
+incoming/news-mirrors-utah/2026-05-06_State_Preliminary_Hearing_Witness_And_Exhibit_List.pdf,
+incoming/news-mirrors-national/2026-08-28_Defendants_Discovery_Status_Report.pdf,
+incoming/news-mirrors-national/2026-08-11_Defendant_Preliminary_Hearing_Briefing.pdf.
+
+EXPERT NOTICES IMPLY REPORTS. Named, dated, and absent:
+  * Dr. Christine L. Ruva — SUPPLEMENTAL EXPERT REPORT dated 6 April 2026, plus an updated CV.
+    The Amended Notice says both were "provided to the State concurrent with the filing" — i.e.
+    served, never filed. Not on the docket. Discovery only.
+  * Dr. Ruva — DECLARATION and CV, filed as Exhibits 1 and 2 to docket 305 (Motion to Exclude
+    Cameras, 1-16-26). Docket 305 is public only in its 3-30-26 REDACTED form.
+  * Dr. Bryan Edelman — report dated 13 March 2026, "Telephone Survey Results: Descriptive
+    Statistics", plus his CV. Served, not filed.
+  * Dr. Bryan Edelman — declaration of 17 November 2025 filed in UNITED STATES v. PAYTON GENDRON,
+    No. 22-CR-109-LJV (W.D.N.Y.). THIS ONE IS FREELY OBTAINABLE — it is a federal filing and
+    therefore in RECAP/PACER. See section 4.
+  * NO STATE EXPERT NOTICE EXISTS ON THE DOCKET. Grep of all 720 rows for "expert" returns
+    exactly two hits, both defense (dockets 459 and 478). The State called an FBI DNA expert at
+    the preliminary hearing (per the 8-28-26 status report) with no Utah Code 77-17-13 notice
+    on the public docket. Either a State notice is missing from the reconstruction, or the State
+    relied on the statutory carve-out for preliminary hearings. Worth confirming on Xchange.
+
+THE 5-6-26 STATE'S EXHIBIT LIST IMPLIES 34 EXHIBITS. We hold ZERO of them as documents. The
+named forensic reports, with the State's own Bates numbers, are:
+  Ex. 11  Medical Examiner report ................................ Bates 1682, disclosed 11/13/2025
+  Ex. 30  ATF DNA report (rifle and cartridges) .................. Bates 74,    10/24/2025
+  Ex. 31  FBI DNA report (towel, screwdriver) .................... Bates 75,    10/24/2025
+  Ex. 32  ATF Ballistics report ................................... Bates 11543, 12/18/2025
+  Ex. 33  ATF DNA report (Dremel and cartridges) .................. Bates 14952, 1/21/2025 [sic]
+  Ex. 34  ATF Toolmarks report .................................... Bates 17741, 3/12/2026
+  Ex. 24  Photo of burnt note from apartment ..................... Bates 14613, 1/9/2026
+  Ex. 16  Recorded statement (1102) of Lance Twiggs .............. Bates 3996-R1
+  Ex. 16.1/16.2 Text messages TR-LT; Discord chats ............... Bates 23148 / 54
+  Ex. 12  UVU Surveillance from 9/10/2025 ........................ Bates 1448-1463
+  Ex. 13  Doorbell camera surveillance 9/10/2025 ................. Bates 15215-15226
+  Ex. 15  Video at WCSO on 9/11/2025 (Washington County custody) . Bates 20853; 51
+  Written Rule 1102 statements of A. Wright (6.1), T. Phillips (7.1), TPUSA (8.1),
+    C. Noble (13), Mike Mitchell (14) — five separate sworn statements, none public.
+  NOTE A NUMBERING ANOMALY: the list runs 1-16.4, then jumps to 19, 20-25, then 30-34.
+  EXHIBITS 17, 18, 26, 27, 28 AND 29 ARE ABSENT FROM THE STATE'S OWN LIST. Either withdrawn,
+  renumbered, or held back. That is a specific, checkable question for the certified Day 1-5
+  transcripts and the 7-3-26 Defendant's Standing Objections to State's Exhibits.
+  What we DO have is 59 PNG SCREENSHOTS of exhibits as displayed on the courtroom feed
+  (incoming/github-community-mirrors/charliefiles/exhibits/). Screenshots of a projected exhibit
+  are not the exhibit.
+
+THE 8-28-26 DISCOVERY STATUS REPORT NAMES DOCUMENTS THAT MUST EXIST:
+  * "Second Request for DNA and Other Forensic Discovery", dated 25 March 2026, attached to the
+    motion to continue (docket 466). Should be inside the 69-page "with Addenda" version we hold
+    — verify; if not present it is a discrete missing filing.
+  * "Declaration of Richard G. Novak, with exhibits", docket 466 Addendum 1, including Exhibit B,
+    the discovery production log as of 18 March 2026 (25 productions, 19,612 files). Same check.
+  * COVER LETTERS AND MATERIALS FROM THE FBI AND THE ATF responding to that second request.
+    Quoted in the status report; served in discovery; never filed.
+  * A FORTHCOMING DEFENSE MOTION TO COMPEL FORENSIC DISCOVERY from the FBI and ATF, supported by
+    EXPERT DECLARATIONS. The defense says at page 11 it will ask Judge Graf on 1 Sept 2026 to set
+    a briefing schedule for it. This does not exist yet and is the next major filing to watch for.
+  * Exhibit A to the status report: the Defense Discovery Processing/Coding Status Chart — 45
+    productions through 18 Aug 2026, 29,237 files, plus a 12.1 TB hard drive (6,425 folders /
+    613,023 files; six mobile extractions, fourteen computer images, seven third-party returns),
+    ~183 GB of Apple/Google/Discord/AT&T/Verizon returns plus another ~170 GB Apple return on
+    18 Aug 2026, over 1,000,000 Discord communications, at least 25,253 CSLI location records,
+    and 660 GB of raw FARO 3D scene-scan data received 20 July 2026. 40 law enforcement or other
+    government agencies identified. NONE of this will ever be public — it is governed by the
+    10-15-25 Order For Discovery Protection.
+
+MOTION/OPPOSITION/ORDER CHAINS WHERE A LINK IS MISSING:
+  * "Defendant's Request to Remove the Death Penalty as a Sanction in the Event the Court Grants
+    the Contempt Motion" — we hold the State's Objection (docket 601, 6-17-26) and the defense
+    Opposition to that Objection (docket 609, 6-18-26). THE UNDERLYING REQUEST IS NOWHERE ON THE
+    DOCKET LIST. It was almost certainly embedded in a private filing.
+  * "Application for Certificate of Attendance of Out-of-State Witness" (the Lance Twiggs
+    subpoena) — we hold the State's Opposition (598), the defense Reply (606), Judge Graf's Order
+    (618), the News Media's Opposition to classifying it (640), and the Reply in Support of
+    Motion to Classify (667). THE APPLICATION ITSELF WAS CLASSIFIED PRIVATE AND IS ABSENT. So is
+    THE STATE'S MOTION TO QUASH SUBPOENA, which the 6-22-26 order resolves by name.
+  * "Motion for Permission to File Over-Length Reply (re Hearsay)" chain, 6-3-26 to 6-5-26 —
+    motion (565), proposed order (568) and signed order (570) all not obtained; only the Reply
+    itself (567) is public.
+  * Docket 468 / 495, Notice of Subpoena Duces Tecum to the UTAH COUNTY SHERIFF'S DEPARTMENT
+    (4-1-26, corrected 4-13-26) — neither the notice nor any RETURN on that subpoena is held.
+    We do hold the defense Reply to the Sheriff's Response, which proves a Sheriff's Response
+    exists; it is not in the docket list either.
+  * Docket 288, Subpoena for Sgt. David Hull (1-12-26) — no return of service held.
+  * The 2-23-26 Exhibit List (Feb 3 disqualification hearing) lists exhibits 1-5+ (drone images,
+    "person on roof", "Courtyard FBI video", videos) all marked offered and received. None held.
+  * Roughly a dozen "(Proposed) Order" / signed-order pairs on overlength and classification
+    motions, dockets 37-39, 76, 81, 86, 92, 103, 124, 127, 139, 143, 154, 158, 218, 225, 240,
+    245, 249, 266, 274, 284, 294, 306, 309, 323, 325, 379, 380, 400, 407, 435, 453, 486.
+
+================================================================================
+3. HUMAN ROUTES, RANKED MOST VALUABLE FIRST
+================================================================================
+
+1. CAPTURE THE 1 SEPTEMBER 2026 BIND-OVER ORAL ARGUMENT. Free. Highest value per unit effort,
+   and it is time-critical — pool feeds are frequently pulled afterwards.
+   TWO stream URLs surfaced with DIFFERENT start times; record both.
+     KUTV pool feed  https://www.youtube.com/live/3f3EMabrrFQ   startTimestamp 2026-09-01T14:30Z
+     KSL feed        https://www.youtube.com/watch?v=K-G7UZ-Fmfo startTimestamp 2026-09-01T16:00Z
+   In person: Provo Courthouse, 137 North Freedom Blvd, Provo UT 84601, 10:00 a.m. MDT. 12 public
+   seats, wristbands from 9:00 a.m., be in the queue by 9:00. NO electronic devices of any kind in
+   the courtroom. Court TV playlist https://www.youtube.com/playlist?list=PLH_gQUPWcJYA mirrors it.
+   Cost: $0.
+
+2. UTAH XCHANGE — buy the 119 substantive missing filings. This is the only route that reaches
+   every non-sealed gap in section 1 at once.
+   Subscribe: https://www.utcourts.gov/en/court-records-publications/records/xchange/subscribe.html
+   Sign the Xchange Subscription Agreement and email it to xchange@utcourts.gov. Approval ~48
+   business hours. Then https://xchange.utcourts.gov/XchangeWEB/ (also apps.utcourts.gov/XchangeWEB).
+   PRICE: One-Time Use account $10.00 initial + $0.35/search + $1.00 PER DOCUMENT (unused credit
+   retained). Guest account, same rates but unused credit FORFEITED. Monthly $25.00 setup +
+   $40.00/month, 500 searches included then $0.35 each, $1.00/document.
+   BUDGET: 119 documents ≈ $119 in document fees. With a One-Time account and searches, call it
+   $150. Buying the whole 462-row not-obtained set is ~$480 and is not worth it — most are Returns
+   of Electronic Notification.
+   SHOPPING LIST, in priority order: dockets 651/660/669 verified held, so skip; buy 236, 276,
+   278 (disqualification, unredacted); 302 and 396 (cameras, unredacted); 509 and 488/489/416/329/
+   253 (transcripts, if Xchange renders them); the Application for Certificate + Motion to Quash;
+   the Request to Remove the Death Penalty as a Sanction; 468/495 (Sheriff SDT) and its return;
+   626/627/634 (EMC orders naming Tribune/Deseret/AP); 505/586/692/696 (UOVC); all Orders to
+   Transport/Appear. Working shopping list already parsed at
+   _work/burkhart_docket_720.tsv and _work/burkhart_docket_full_867.txt (filter on NOT OBTAINED).
+
+3. ORDER THE REDACTED AUDIO OF THE 24 OCTOBER 2025 SEALED HEARING. Judge Graf ordered it released
+   redacted; nobody has ever published it. Same route reaches audio for the July prelim days, the
+   12 June 2026 contempt evidentiary hearing, and 1 Sept 2026.
+   Complete Utah Courts form 1100GE, "Request for Copy of Audio Recording", linked from
+   https://www.utcourts.gov/en/court-records-publications/records/transcripts.html
+   EMAIL IT TO recordingrequest4th@utcourts.gov. Cite case 251403576 and each hearing date, and
+   for 24 Oct 2025 EXPLICITLY request the court-approved REDACTED version.
+   PRICE: $15.00 per half-day of testimony + $10.00 per recording via FTR Cloud, or $15.00 per
+   USB/disc, plus postage. UCJA Rule 4-202.08. Cheapest primary-source route in this entire audit.
+   Backstop contact: Provo District Court, Debbie Jacobsen, debbiej@utcourts.gov, (801) 429-1000.
+
+4. ORDER CERTIFIED TRANSCRIPTS FOR PRELIMINARY HEARING DAYS 1, 2 AND 3 (6, 7, 8 July 2026).
+   Go direct to the reporter — she already has the notes and it is faster than the portal:
+     NOTEWORTHY REPORTING, LLC — contact Katie Harmon
+     586 East 4800 South, Murray, Utah 84107
+     (801) 634-5549 · noteworthyreporting@gmail.com
+     Reporter of record: Phoebe S. Moorhead, RDR, CRR, UT CCR
+     Alternate listing for the same reporter: Ticon Reporting LLC, (480) 265-0404, Phoebe4774@gmail.com
+   Or the statewide portal: https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp
+   PRICE: $6.00/page at regular 30-day service, roughly $250.00 per court hour. $7.50/page at 14
+   days, $9.00 at 7 days, $10.50 at 1-3 days, $12.00 at 24 hours. Day 4 alone ran 278 pages, so
+   Days 1-3 will run well into four figures. If money is tight, buy the AUDIO (route 3) instead —
+   $15 per half-day versus ~$250 per hour.
+
+5. GRAMA REQUEST TO THE UTAH COUNTY ATTORNEY'S OFFICE, and re-probe their dead CMS.
+   The prosecutor's own Charlie Kirk case-update page atty.utahcounty.gov/media/ckpr is 404 and
+   the entire Strapi backend at atty.utahcounty.gov/cms/ returns nginx 503 — a site-wide outage,
+   NOT a takedown (the /cms/ root itself 503s; that is the control). Re-probe /cms/ periodically;
+   when it stops 503-ing, re-scrape /media/ckpr and harvest /cms/uploads/*.pdf.
+   GRAMA: https://atty.utahcounty.gov/administration/grama · ucao@utahcounty.gov · 801-851-8026.
+   Expect denial under Utah Code 63G-2-305(10) (ongoing prosecution). Appeal to the State Records
+   Committee at https://archives.utah.gov/transparency-services/government-records-access/ — that
+   is the lever that actually moves an active-investigation refusal, and the Government Records
+   Office has already issued nine written Decision and Orders on Kirk records.
+   PRICE: free to file.
+
+6. WAYBACK REPLAY, RETRIED. web.archive.org's PLAYBACK layer was globally 503/429 for the whole
+   run — confirmed against controls (example.com mementos failed identically), so this is an
+   archive outage, not suppression, and must never be published as a removal. The INDEX layer
+   (CDX, timemap, availability) stayed up and proves the captures exist.
+   Retry, largest-first:
+     https://web.archive.org/web/20260409104229id_/https://atty.utahcounty.gov/media/ckpr  (21,016 B, largest)
+     https://web.archive.org/web/20260613223424id_/https://atty.utahcounty.gov/media/ckpr  (newest)
+     https://web.archive.org/web/20260106220625id_/https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf
+     https://web.archive.org/web/20251114001520id_/https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf
+   Use curl, not WebFetch — WebFetch is hard-blocked from web.archive.org. Note 20260613223424
+   and 20260512101753 share digest PUHMX3…, so the page did not change 12 May – 13 Jun 2026.
+   PRICE: free.
+
+7. THE TWO UTAH SUPREME COURT ORDERS OF EARLY JULY 2026 denying permission to appeal from
+   interlocutory orders (one on cameras, one on recorded out-of-state testimony), both signed by
+   Associate Chief Justice Jill Pohlman, motions to stay deemed moot. Both UNPUBLISHED — they are
+   not in the appellate opinions index. Get the appellate case numbers from the docket search,
+   which is CAPTCHA-gated and cannot be scripted:
+     https://pubapps.utcourts.gov/CourtsPublicWEB/index.jsp?option=DOCKET
+     → "Search Appellate Case Dockets" → party name Robinson, Tyler
+   Then the petitions, motions to stay, and responses from the clerk:
+     Utah Supreme Court, 450 South State Street, 5th Floor, Salt Lake City
+     PO Box 140210, Salt Lake City UT 84114-0210 · (801) 578-3900 · supremecourt@utcourts.gov
+     Hours 8:00-5:00 M-F. Free to inspect in person; $0.25/sheet to copy.
+   Our docket references are 556 (Notice of Filing Petition, 5-29-26) and 652 (Notice of Filing
+   Petition from Two Interlocutory Orders, 6-26-26).
+
+8. DOCUMENTCLOUD PROJECT 224251 IN A REAL BROWSER. Cloudflare 403s every scripted client on
+   every documentcloud.org host including the API — this is a TLS-fingerprint block, not a
+   paywall and not a removal. Its unique value is now narrow but real: its 46 filings carry
+   COURT DOCKET NUMBERS, which Burkhart's titles do not.
+     https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+   Take specifically doc 27880533 ("all docket entries as of 3-15-2026", 13 pp) and doc 27880531
+   ("list of all filings and hearings as of 3-15-2026", 31 pp) — these are the official docket
+   numbers for the first six months, which lets you name filings correctly on Xchange.
+   PRICE: free.
+
+9. FOURTH DISTRICT CLERK — Request for a Court Record, for anything Xchange will not render and
+   for a written denial you can cite. A denial under UCJA Rule 4-202.05 is itself a citable record.
+     Form: https://www.utcourts.gov/content/dam/media/docs/Request_for_Record.pdf (already held
+     locally at incoming/utah-courts/2021-11-16_Request_for_Court_Record_Form.pdf)
+     Deliver to: Fourth Judicial District Court, 137 N Freedom Blvd, Provo UT 84601
+     debbiej@utcourts.gov · (801) 429-1000
+   PRICE: $0.25/sheet paper; email delivery $5.00 for ≤10 pages then $0.50/page; $15 per USB;
+   staff time first 15 minutes free then $15-$100/hour. Response usually ~10 business days.
+
+10. UTAH JUDICIARY MEDIA OFFICER — fastest informal route to being told which filings are
+    classified private, so you stop paying $1 apiece for documents Xchange will refuse.
+      Tania Mashburn, Administrative Office of the Courts, taniam@utcourts.gov
+    She authored both Robinson press notifications. Free.
+
+11. POLL THE UTAH COURTS PRESS RSS FEED for future Robinson notices — cheapest possible monitor:
+      https://legacy.utcourts.gov/utc/news/ (archive, absent from the sitemap)
+      RSS already captured at incoming/utah-courts/0000-00-00_Utah_Courts_Press_Notifications_RSS_Feed.xml
+    Free. WARNING for whoever automates this: legacy.utcourts.gov returns HTTP 200 for MISSING
+    pages. A 200 from that host proves nothing — read the body.
+
+12. Low priority, deadline-driven: the UTAH GOVERNMENTAL IMMUNITY ACT notice deadline for any
+    wrongful-death or negligence claim against UVU or Orem City is 10 SEPTEMBER 2026 (one year
+    from the claim, Utah Code 63G-7-402). Nothing has been filed as of today. If a civil case is
+    going to exist, it must appear within ten days or be barred. Watch Utah civil dockets on and
+    immediately after that date.
+
+================================================================================
+4. SOURCE LANES WE DID NOT RUN THAT WOULD LIKELY HOLD DOCUMENTS
+================================================================================
+
+A. RECAP / PACER FOR UNITED STATES v. PAYTON GENDRON, No. 22-CR-109-LJV (W.D.N.Y.).
+   Dr. Bryan Edelman's 17 November 2025 declaration is filed there, and the defense's own
+   4-6-26 expert notice says Edelman will testify to "pages 1, 4-10, and 39-50" of it. That is a
+   FEDERAL docket, so it is in CourtListener/RECAP and is free.
+   Start: https://www.courtlistener.com/?q=%22Payton+Gendron%22&type=r
+   The related-dockets-foia lane searched RECAP for "Tyler Robinson" and correctly found nothing —
+   it never thought to search the OTHER case whose document our filings cite. This is the single
+   clearest gettable document nobody went after.
+
+B. THE GEORGE ZINN CRIMINAL DOCKET — a separate Utah state case, never searched by any lane.
+   Zinn was released and charged with obstruction by UVU police on 10 Sept 2025 (confirmed in the
+   Utah DPS advisory now held at incoming/utah-county-attorney/2025-09-10_UtahDPS_...html), and
+   search warrant 3215171 (15 Sept 2025, 24 pp) was for CSAM on his phone. That prosecution has
+   its own case number, its own docket, its own affidavit, and it is not sealed. Search
+   party name Zinn on Xchange. Likely also true of Zachariah Qureshi if he was ever charged.
+
+C. THE 25 SEARCH-WARRANT CASES AS SEPARATE DOCKETS. Each warrant number (3212261 … 3229461) is
+   its own Fourth District matter. The RETURNS — the inventories of what was actually seized —
+   are filed in those matters, not in 251403576, and three of our affidavits say "Return not
+   included". Search each warrant number on Xchange. This is also how you find the warrants in
+   the 9-17-25 to 10-6-25 gap and any 2026 warrant.
+
+D. AN X / TWITTER LANE. This repo has an X API MCP server configured and it was never used.
+   Citizen investigators (Chris Friel, and the accounts already cited throughout Charlie_Kirk.txt)
+   post filing screenshots and occasionally whole PDFs within hours, sometimes for documents that
+   never reach any mirror. Search x.com for "251403576", warrant numbers, and Bates numbers.
+
+E. JUDICIAL WATCH'S OWN PUBLICATION PAGE. The related-dockets-foia lane pulled TWO UVU GRAMA
+   productions (11 pp and 53 pp, 10 July 2026) from a third party. Judicial Watch publishes its
+   full productions on its own site and typically posts more than gets picked up. Go to the source.
+
+F. THE UTAH GOVERNMENT RECORDS OFFICE DECISIONS INDEX, only partially mined. Nine Kirk-related
+   Decision and Orders were found, two of them from August 2026. Each one names the requester,
+   the agency, and — critically — the RECORDS AT ISSUE, which is a free map of what records
+   exist at UVU, Orem PD, Washington County and Utah DPS. Walk the whole index, not just the nine.
+   Do NOT use the archives.utah.gov site search — it returns "Nothing to Show Right Now" for these;
+   the decisions must be parsed out of the decisions-and-orders page HTML.
+
+G. WASHINGTON COUNTY SHERIFF'S OFFICE. State's Exhibit 15 is "Video at WCSO on 9/11/2025" —
+   Robinson's custody video, Bates 20853. GRO Decision 2025-150 (Gliha/Scripps v. Washington
+   County) already denied a bodycam appeal, so the agency and the record are both confirmed to
+   exist. Nobody filed a fresh GRAMA on the 9/11/2025 custody video specifically. Directly
+   relevant to the Mirandize line of inquiry already running in this repo.
+
+H. ABC4/KTVX AND AXIOS SALT LAKE CITY, in a real browser. Both hard-403 every scripted client
+   (identical 6,516-byte and 6,067-byte block pages). ABC4's "Timeline: Court proceedings for
+   Tyler Robinson" at
+   https://www.abc4.com/news/charlie-kirk-shooting/timeline-court-proceedings-tyler-robinson/
+   is the most complete public per-hearing chronology found in any lane and was never read.
+
+================================================================================
+5. GENUINELY UNOBTAINABLE — DO NOT SPEND TIME
+================================================================================
+
+* THE PRELIMINARY HEARING EXHIBITS THEMSELVES. Judge Graf declined to allow the admitted exhibits
+  to be inspected or copied. Sourced in the Andrea Burkhart post of 17 July 2026, now held at
+  incoming/news-mirrors-national/2026-07-17_Burkhart_Completing_the_Record_of_the_Prelim_Hearing.txt.
+  The State's exhibit LIST is public (obtained). The exhibits are not. No amount of money on
+  Xchange changes this; it takes a motion to the court.
+
+* THE AUTOPSY REPORT (State's Exhibit 11, Bates 1682). Utah Office of the Medical Examiner records
+  are confidential by statute — release is limited to next of kin, law enforcement, a legal
+  representative, and the attending physician. It was admitted as an exhibit but deliberately never
+  published or read into open court; the testimony gave only manner = homicide and immediate cause
+  = gunshot wound of the neck. DO NOT FILE A GRAMA REQUEST — it will be denied. The only routes are
+  a request by next of kin (Erika Kirk) or a court order in the criminal case.
+
+* THE 29,237-FILE / 12.1-TERABYTE DISCOVERY PRODUCTION. Governed by the Discovery Protective Order
+  entered 15 October 2025 (docket 92/held as 10_15_25_Order_For_Discovery_Protection.pdf). The
+  device extractions, the 1,000,000+ Discord communications, the 25,253 CSLI records, the 660 GB of
+  FARO 3D scans, the FBI/ATF cover letters, and the Ruva and Edelman reports are all discovery
+  material served but never filed. They will not become public unless and until they are filed as
+  exhibits at a hearing or at trial.
+
+* THE SEALED AND PRIVATE DOCKET ENTRIES — 30 of them, listed in full above at section 1B-1D. In
+  particular: docket 236 (unredacted Motion to Disqualify and Exhibits), 276, 278, 282, 284,
+  302, 396-400, 448, 515, 703-705, and docket 388 (**** SEALED **** redacted 12-11-2025 hearing
+  transcript). Xchange will refuse these; the clerk will refuse these. They require a motion to
+  unseal or to intervene, filed before Judge Graf. The news-media intervenors have done exactly
+  that repeatedly and their filings are on the docket as a template.
+
+* DOCKET 509, "***Unavailable*** Transcript of: Motion Hearing (4/17/26)". The docket itself marks
+  this unavailable. Order the AUDIO for that date instead.
+
+* ANY FBI OR ATF INVESTIGATIVE FILE, for as long as the prosecution is pending. FOIA exemption
+  (b)(7)(A) covers records whose release would interfere with a live enforcement proceeding. The
+  FBI has already issued a determination letter rejecting MuckRock request 193500 (Tyler Robinson
+  arrest footage) — held at incoming/documentcloud-scribd/2026-08-31_FBI_FOIA_Determination_Letter_
+  1683022-000_Tyler_Robinson_Arrest_2_REJECTED.pdf. A separate ATF FOIA on the engraved-ammunition
+  bulletin (MuckRock 194040, filed 2 Oct 2025) has sat "Awaiting Acknowledgement" for eleven
+  months. File them if you want the eleven-month non-response as a documentable fact; do not file
+  them expecting records.
+
+* ANY FEDERAL CRIMINAL CASE AGAINST ROBINSON. There is none. RECAP returns count 0 for
+  "251403576" and the only "Tyler James Robinson" hit is an unrelated attorney in a D.D.C. FCC
+  case. The prosecution is purely state. Stop looking.
+
+* ANY GITHUB MIRROR OF THIS DOCKET. There is none. Eight distinct `gh search repos` queries
+  returned zero, sanity-checked against a working query. Also no archive.org uploaded item
+  collection (numFound=0 for "251403576") and no IPFS pinned set. The community mirrors are
+  Substack (Burkhart), Obsidian Publish (CharlieFiles), and Grabien — all three already harvested.
+
+* ANY PROBATE OR ESTATE FILING FOR CHARLIE KIRK, and any wrongful-death or UVU-negligence suit.
+  None exists anywhere as of today. The viral "Charlie cut Erika out of his will" claim traces to
+  a self-declared parody account and was debunked by Snopes and Lead Stories — do not publish it.
+
+* THE BIND-OVER RULING. It does not exist. Oral argument is tomorrow.
+
+TWO METHODOLOGY WARNINGS FOR WHOEVER WORKS THIS NEXT, both of which already produced wrong answers
+in this run: (1) WebFetch silently summarized a truncated slice of the 788 KB Burkhart page and
+reported "no documents after February 2026" when the page runs to 8-31-26 — long pages must be
+downloaded and parsed as bytes. (2) A 403/503/429 from curl is not the public's experience and is
+not evidence of removal; documentcloud.org, abc4.com, lawandcrime.com, scribd.com, muckrock.com,
+fbi.gov and atf.gov all hard-block scripts and serve fine in a browser, and both the Utah County
+Attorney CMS outage and the Wayback replay outage were confirmed against controls to be
+publisher-side/archive-side failures, NOT suppression. Neither may be published as a removal.

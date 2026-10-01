@@ -1,0 +1,243 @@
+# LANE: Internet Archive / web archives
+# case: State of Utah v. Tyler James Robinson, No. 251403576
+# started 2026-08-31
+
+== STEP 1: archive.org uploaded collections ==
+archive.org/advancedsearch.php q=("Tyler Robinson" OR "Charlie Kirk") AND (court OR docket...) -> HTTP 200, numFound=168, NONE are case filings (all TV/radio/youtube captures + unrelated bankruptcy dockets gov.uscourts.almb.229380 etc.)
+archive.org/advancedsearch.php q=mediatype:texts AND ("Tyler Robinson" OR "Charlie Kirk") -> 200, numFound=68, no court-filing sets
+archive.org/advancedsearch.php q="251403576" -> 200, numFound=0
+CONCLUSION: nobody has uploaded a Robinson court-document collection to archive.org as an item.
+
+== STEP 2: CDX atty.utahcounty.gov ==
+https://web.archive.org/cdx/search/cdx?url=atty.utahcounty.gov*&output=json&... -> 200, 1229 rows, 43 unique PDFs.
+Case-relevant PDFs archived there:
+  https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf  (ALREADY HELD)
+  https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf  (NOT held - press release)
+  https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf (NOT held - press release)
+No docket filings served from atty.utahcounty.gov. No /media/ckpr* path exists in CDX.
+
+== STEP 3: CDX utcourts.gov ==
+url=www.utcourts.gov* filter robinson -> 200, EMPTY
+url=legacy.utcourts.gov* filter robinson -> 200, EMPTY
+url=utcourts.gov matchType=domain filter urlkey ~ 251403576 -> 200, []
+Utah Courts never published case PDFs on a crawlable path.
+
+== STEP 4: THE BIG FIND (live, not archive, but it is the recovery source) ==
+https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents -> HTTP 200, 788,478 bytes
+Andrea Burkhart (defense attorney / "Boiling Frogs") has RECREATED THE ENTIRE DOCKET,
+867 entries, docket #1 (Information 9-16-25) through #718-equivalent (Order to Transport 8-31-26).
+258 of them have a downloadable PDF hosted at andreaburkhart.substack.com/api/v1/file/<uuid>.pdf
+73 of those 258 are dated MAY 2026 or later == exactly the gap in our inventory.
+Verified bytes: 3 sampled URLs returned HTTP 200 content-type application/pdf starting %PDF-
+  1fea5c3c-9ed6-43fb-b179-5b196740591d.pdf  200 application/pdf 120,849 B  %PDF
+  f0671aeb-00df-4c18-b263-05f45bc33599.pdf  200 application/pdf 157,525 B  %PDF
+  bdc3d47d-c108-4dde-baa8-089f8de0f747.pdf  200 application/pdf 175,790 B  %PDF
+  4th request in a row -> HTTP 429 "Too Many Requests" -> MUST PACE (~1 req / 5-10 s)
+Full mapping written to:
+  _work/burkhart_docket_258_pdfs.tsv     (title -> url, 258 rows)
+  _work/burkhart_docket_full_867.txt     (whole recreated docket incl. "Not obtained" gaps)
+
+== STEP 5: Wayback coverage of the Burkhart PDFs ==
+CDX url=andreaburkhart.substack.com/api/v1/file* -> 200, many rows, BUT every row statuscode=302 mimetype=text/plain.
+Wayback archived the REDIRECT, not the PDF body. Playback attempt:
+  https://web.archive.org/web/20260709185335id_/https://andreaburkhart.substack.com/api/v1/file/057ecd8c-...pdf -> HTTP 503 (IA rate-limit)
+  same without id_ -> HTTP 503
+CDX for the post page itself -> HTTP 504 gateway timeout (IA overloaded); retry later.
+
+== STEP 6: Wayback captures of the Burkhart docket page (the backup for the big find) ==
+CDX url=andreaburkhart.substack.com/p/charlie-kirk-legal-documents -> HTTP 200, 13 captures:
+ 20251026224251 200 30523 | 20251027134338 200 30553 | 20251102144403 200 33956
+ 20251104163326 200 45624 | 20251128111041 200 50164 | 20260107162111 200 38291
+ 20260211202227 200 61892 | 20260331074249 200 65382 | 20260411090105 200 69283
+ 20260421080426 200 68489 | 20260601174511 200 71110 | 20260709185314 200 78646  <- LATEST
+The page grows monotonically -> the archive holds successive states of the docket.
+Playback URL pattern (for a human or a paced fetcher):
+ https://web.archive.org/web/20260709185314/https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+NOTE: Wayback archived the PDF links only as 302 redirects, NOT the PDF bytes.
+So the PDFs must come from the LIVE substack URLs (they work today); Wayback is the fallback
+for the LIST, not for the documents.
+
+== STEP 7: rev.com court transcripts - FREE, FULL TEXT, HTTP 200 (target (c)) ==
+Found via CDX (rev.com/transcripts* filter robinson) then confirmed against rev's own sitemap.xml
+(https://www.rev.com/sitemap.xml -> 200, gzip, 4,212 locs; 17 Kirk/Robinson entries).
+All six court transcripts probed live with browser UA:
+ https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1                      200  863,451 B  328,254 chars verbatim
+ https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2    200  812,482 B  324,024 chars
+ https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3    200  388,655 B  134,348 chars
+ https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4    200  794,260 B  313,607 chars
+ https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5    200  351,772 B  108,979 chars
+ https://www.rev.com/transcripts/tyler-robinson-comtempt-hearing                  200  210,301 B   44,326 chars  (sic: "comtempt")
+Verified real testimony text, e.g. day 1 opens "All rise. ... Judge Tony F. Graf, Jr., presiding
+... Calling case 251-40[3576]"; contempt transcript has Judge Graf on the order-to-show-cause.
+NOT paywalled. No login. These are the July 2026 preliminary hearing (5 days) transcripts we do not hold.
+Wayback also holds two of them:
+ https://web.archive.org/web/20260824111816/https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2
+ https://web.archive.org/web/20260715055719/https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5
+ https://web.archive.org/web/20260724040041/https://www.rev.com/transcripts/tyler-robinson-comtempt-hearing
+Related non-court rev transcripts (context only): fbi-captures-kirk-shooter, fbi-press-conference-on-kirk-shooting,
+press-conference-on-charlie-kirk-shooting, update-on-charlie-kirk-shooter, erika-kirk-speaks-at-memorial.
+
+== STEP 8: archive.today / archive.ph / archive.is ==
+https://archive.ph/https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents -> HTTP 429
+https://archive.ph/newest/https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1 -> HTTP 429
+https://archive.is/... -> HTTP 429 (both)
+https://archive.today/... -> 301 then 404
+INCONCLUSIVE, rate-limited, not ruled out. Worth a human retry in a browser.
+
+== STEP 9: OTHER BURKHART POSTS carrying documents (found via her archive API) ==
+https://andreaburkhart.substack.com/api/v1/archive?sort=new&limit=50&offset=0 (and offset=50) -> HTTP 200, 73 posts.
+Robinson-related posts with real PDF attachments, ALL VERIFIED %PDF:
+
+ (a) OFFICIAL COURT-REPORTER TRANSCRIPTS of preliminary hearing days 4 & 5 - the two days the
+     court MUTED the public livestream. She ordered them precisely to recover what was cut.
+     post: https://andreaburkhart.substack.com/p/completing-the-record-of-the-tyler  (2026-07-17)
+     "070926 State Vs Robinson" 7-9-26 transcript:
+       https://andreaburkhart.substack.com/api/v1/file/4414a046-37e3-4bec-8284-319788c13cbe.pdf
+       -> HTTP 200 application/pdf 2,095,616 B  %PDF
+     "071026 State Vs Robinson" 7-10-26 transcript:
+       https://andreaburkhart.substack.com/api/v1/file/e151680b-97d4-40b3-831d-1ce29ee9e43f.pdf
+       -> HTTP 200 application/pdf 1,001,766 B  %PDF
+
+ (b) 25 SEARCH WARRANT AFFIDAVITS (we hold ONE). Warrant numbers 3212261..3229461, 9/10/25-10/6/25,
+     each with the item searched and the return date.
+     post: https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits (2026-07-13)
+     Full list with descriptions written to _work/search_warrant_affidavits_25.tsv
+     spot check 3212261 (Charlie Kirk's body and effects, Timpanogos Regional Hospital):
+       https://andreaburkhart.substack.com/api/v1/file/2d8ee534-c65f-49ac-9e72-58a2a18ecb57.pdf
+       -> HTTP 200 application/pdf 103,454 B  %PDF
+     Includes warrants for: Kirk's body/effects, hospital surveillance, Google geofence, cell-tower
+     dump (T-Mobile/AT&T/Verizon), Omar Najera's device, George Zinn's phone, the Discord servers
+     "Craftopia"/"Gamin"/"The Corruption" and "Dufuss & Doobers", Lance Twiggs' iCloud, the Dodge
+     Challenger, 894 Cimarron Dr, 3419 S River Rd Unit 73 St George, a VANTRUE dash camera.
+
+ (c) Discovery updates compiled (2026-07-06):
+       https://andreaburkhart.substack.com/api/v1/file/1d45d424-5f3d-4f09-8fa5-21a943e6ac4b.pdf
+       -> HTTP 200 application/pdf 1,060,521 B  %PDF
+     post: https://andreaburkhart.substack.com/p/tyler-robinson-discovery-updates
+
+ (d) INTERLOCUTORY APPEAL BRIEFS (Utah Court of Appeals; we hold only the two 1-page appellate orders)
+     post: https://andreaburkhart.substack.com/p/tyler-robinsons-secret-appeal (2026-03-14)
+     11-17-25 Brief on Petition for Interlocutory Appeal:
+       https://andreaburkhart.substack.com/api/v1/file/9294b1ed-bdcc-437d-a040-9ee78a34ce81.pdf  (4.96MB)
+     12-12-25 Brief Opposing Interlocutory Review:
+       https://andreaburkhart.substack.com/api/v1/file/9e53ef1f-2458-43c0-bbde-06aa0ba01e46.pdf
+       -> HTTP 200 application/pdf 15,279,467 B  %PDF
+
+ (e) https://andreaburkhart.substack.com/p/why-are-the-fbi-and-atf-withholding (2026-04-20) - 2 PDFs
+       .../file/26bc3b24-7536-403d-9a99-f4c48cf2a373.pdf
+       .../file/068f64e9-aae3-4e36-a358-9e542302e47d.pdf
+
+ Posts with NO attachments (text commentary only): read-the-tyler-robinson-gag-order,
+ cameras-out-of-the-tyler-robinson, surprise-hearing-set-in-charlie-kirk,
+ the-missing-evidence-in-tyler-robinsons, tyler-robinsons-prosecutors-and-defense,
+ tyler-robinsons-prosecutors-dont.
+
+PACING WARNING for whoever downloads: substack returns HTTP 429 after ~3 rapid requests.
+Verified working cadence: one request every 8-10 seconds.
+
+== STEP 10: Internet Archive OUTAGE ==
+2026-08-31 ~23:30 UTC every web.archive.org CDX/playback call started returning the
+"Internet Archive: Temporarily Offline" HTML page (and earlier 503/504/429).
+This is an IA-side outage, NOT a sign anything was removed. Retry the CDX queries later.
+
+== STEP 11: static.foxnews.com case PDFs, enumerated via Wayback CDX (prefix per month) ==
+CDX pattern that works (a bare url=static.foxnews.com* wildcard 504s; a month PREFIX does not):
+ https://web.archive.org/cdx/search/cdx?url=static.foxnews.com/foxnews.com/content/uploads/YYYY/MM/&matchType=prefix&output=json&fl=original&collapse=urlkey&filter=urlkey:.*\.pdf&limit=600
+Case PDFs found and then PROBED LIVE (all HTTP 200, content-type application/pdf, %PDF bytes):
+ 2025/09 tyler-robinson-affidavit-redacted.pdf                                      (dupe of held PC affidavit)
+ 2025/09 tyler-robinson-charging-document-assassination-charlie-kirk.pdf  200  290,634 B
+ 2025/10 tyler-robinson-street-clothes-filing.pdf                         200  526,894 B
+ 2025/10 utah-v.-robinson-defendants-reply-to-sheriffs-response-to-motion.pdf 200 434,546 B  <-- NOT in inventory
+ 2025/12 tyler-robinson-redacted-hearing-transcript.pdf                   200 1,060,521 B  <-- TRANSCRIPT, see below
+ 2026/01 robinson-objection-to-exhibit.pdf                                200  182,000 B
+ 2026/01 erika-kirk-motion-to-invoke-speedy-trial.pdf                     (CDX statuscode "-", revisit record)
+ 2026/04 tyler-robinson-ballistics-motion.pdf                             200 1,369,739 B
+ 2026/08 robinson-prelim-filing.pdf                                       200  389,135 B  <-- HIGH VALUE
+Identified by reading page 1 of each:
+ * 2026/08/robinson-prelim-filing.pdf = "DEFENDANT TYLER JAMES ROBINSON'S PRELIMINARY HEARING BRIEFING",
+   41 pages, Nester/Novak/Burt/Visser, Case No. 251403576, Hon. Tony F. Graf Jr.  = docket 8-11-26.
+ * 2025/12/tyler-robinson-redacted-hearing-transcript.pdf =
+   "REDACTED TRANSCRIPT OF: SEALED MOTION HEARING, BEFORE THE HONORABLE TONY GRAF, OCTOBER 24, 2025",
+   97 pages, court reporter Phoebe S. Moorhead RDR CRR (Noteworthy Reporting LLC).
+   IMPORTANT: sha256 7a891b006d5c7128a5e120a469461855d9121239189ca3011625036949e16dc6 is
+   BYTE-IDENTICAL to the PDF embedded on Burkhart's "Tyler Robinson discovery updates compiled" post
+   (.../api/v1/file/1d45d424-5f3d-4f09-8fa5-21a943e6ac4b.pdf). Two independent hosts, same file.
+   So that Burkhart embed is really the 10-24-25 sealed-hearing transcript, not a discovery summary.
+Full 2025/09-2026/08 sweep done; no other case PDFs on that host. 2026/02, 2026/05, 2026/07 had none.
+
+== STEP 12: government pages that ARE gone (documented link-rot, body NOT recoverable) ==
+CDX url=utahcounty.gov matchType=domain filter (robinson|kirk|ckpr) -> 200. Two case URLs appear:
+ https://www.utahcounty.gov/Dept/Attorney/PressReleases/2025/0916_Robinson_Charging.pdf
+   archived captures: 20250929211835 statuscode 301 (redirect only, NO body)
+   live today: HTTP 404 (4,970 B text/html)
+ https://www.utahcounty.gov/sheriff/press/2025-09-12-kirk-briefing.pdf
+   archived captures: 20250921051150 = 302, 20250921072229 = 301 (redirect only, NO body)
+   live today: HTTP 404
+HONEST READING: IA only ever captured a REDIRECT at both URLs, so there is no evidence the PDF
+body was ever served from those exact paths. This is link-rot on a county site mid-CMS-migration,
+NOT proof of a removal, and it must not be published as suppression. The charging document itself
+survives at atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf (already held).
+
+== STEP 13: kirkarchive.com ==
+CDX url=kirkarchive.com* -> 200, 22 rows, one crawl 2026-07-22. It is a curated evidence/narrative
+site (/evidence/atf-ballistics-report, /evidence/dna-evidence, /evidence/engraved-casings,
+/evidence/mauser-98-rifle, /evidence/sniper-pad, /press, /wire, /tip). NO PDFs, no filings.
+Live https://www.kirkarchive.com/ -> HTTP 200 49,466 B, no PDF hrefs. Secondary source, not primary.
+
+== STEP 14: did any Burkhart PDF DISAPPEAR from the live page? (the real archive question) ==
+CDX url=andreaburkhart.substack.com/api/v1/file* -> 200, 149 distinct PDF uuids ever archived.
+Live pages I fetched carry 294 distinct uuids. Set difference archived-minus-live = 3:
+  b755de70-a5c0-4ee7-afc5-f92839714078 (archived 20260108210301)
+  bbd839e3-5aee-462e-8506-1c2f4e5bdd3a (archived 20260108210146) -> probed live HTTP 200 %PDF:
+      it is Macron v. Candace Owens, Del. Super. N25C-07-194 SKR -- a DIFFERENT case, not Robinson.
+  d4f67a82-dc87-44b6-94e6-f98b82722b79 (archived 20260109005321) -> 429, unprobed
+CONCLUSION: no Robinson document has been pulled from that page. The page only grows.
+
+== STEP 15: DocumentCloud - blocked, needs a human ==
+https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+ -> HTTP 403 to curl even with a browser UA (Cloudflare "Attention Required")
+https://api.www.documentcloud.org/api/documents/search/?q=... -> HTTP 403 Cloudflare
+CDX url=documentcloud.org matchType=domain filter 224251|robinson -> HTTP 504 (IA timeout on a
+ domain that large). Retry with a narrower prefix later.
+ROUTE: a human opens that project URL in a real browser. Free, no account, no payment.
+
+== STEP 16: INTERNET ARCHIVE STATE DURING THIS RUN (be honest about it) ==
+CDX index queries: WORKING (all the enumerations above came from it).
+Playback (web.archive.org/web/<ts>/... and .../<ts>id_/...): HARD DOWN.
+ Every attempt returned HTTP 503 (108-byte body) or 429, across ~6 attempts spread over ~30 min,
+ including the plain "Internet Archive: Temporarily Offline" splash page at ~23:30 UTC.
+https://archive.org/wayback/available?url=... returned {"archived_snapshots": {}} for URLs that
+ CDX proves are archived -> that API is degraded too, do not read its empty answer as "not archived".
+NET EFFECT ON THIS LANE: I could ENUMERATE what the archive holds but could NOT DOWNLOAD any
+archived body. ZERO archived PDFs were byte-verified from web.archive.org in this run.
+Every %PDF verification reported here came from the LIVE host, not from the archive.
+The archived URLs listed are real (CDX-confirmed) and should be re-fetched when IA recovers.
+
+== STEP 17: byte-verification of the top MAY-2026-AND-LATER targets (all LIVE hosts) ==
+ Memorandum in Support of Preliminary Hearing Bindover, 7-28-26 (State)
+   https://andreaburkhart.substack.com/api/v1/file/b751fcf7-c7dd-447b-bfd8-59b76408afc0.pdf
+   HTTP 200 application/pdf 319,679 B %PDF, 28 pages  <- matches KSL's "28-page memorandum"
+ State's Reply Supporting Preliminary Hearing Bindover, 8-18-26
+   https://andreaburkhart.substack.com/api/v1/file/6ed59130-62a7-479a-853c-621cde405142.pdf
+   HTTP 200 application/pdf 277,548 B %PDF, 19 pages
+ Defendant Tyler James Robinson's Discovery Status Report, 8-28-26
+   https://andreaburkhart.substack.com/api/v1/file/cd14df85-2717-490d-b335-9cf408d937d2.pdf
+   HTTP 200 application/pdf 572,857 B %PDF, 17 pages
+ Defendant's Preliminary Hearing Briefing, 8-11-26 (two independent hosts)
+   https://andreaburkhart.substack.com/api/v1/file/1d3ce795-67cd-4dcb-bb72-a78e64551a42.pdf
+   https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robinson-prelim-filing.pdf
+     HTTP 200 application/pdf 389,135 B %PDF, 41 pages (verified this one)
+Other May-Aug 2026 PDFs available (24 rows for Jul+Aug alone) are listed in
+_work/burkhart_docket_258_pdfs.tsv - includes the contempt/OSC motion + opposition + reply,
+the motions in limine on hearsay and on closing the prelim, the State's Preliminary Hearing
+Witness and Exhibit List (5-6-26), Defendant's Standing Objections to State's Exhibits (7-3-26),
+Request for Speedy Disposition and Prompt Bindover (7-10-26), and the three PRELIMINARY HEARING
+minute entries (7-8-26, 7-21-26 x2, plus "DAY 2").
+
+== SUMMARY OF WHAT THIS LANE PRODUCED ==
+The Internet Archive did NOT itself hold any recoverable case PDF (it archived Burkhart's file
+links only as 302s, and its playback layer was down for the whole run). Its VALUE here was as a
+DISCOVERY INDEX: CDX enumeration is what surfaced (1) the rev.com contempt-hearing transcript,
+(2) the complete static.foxnews.com case-PDF set month by month, (3) proof that no Burkhart
+Robinson document has ever been taken down, and (4) proof that utahcounty.gov's two dead PDF
+paths were only ever captured as redirects and so are link-rot, not suppression.

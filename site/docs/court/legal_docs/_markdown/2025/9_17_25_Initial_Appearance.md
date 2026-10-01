@@ -1,0 +1,109 @@
+<!-- Converted from 2025/9_17_25_Initial_Appearance.pdf -->
+# 9 17 25 Initial Appearance
+
+> **Source PDF:** `court/filings/2025/9_17_25_Initial_Appearance.pdf` — served at `/court/filings/2025/9_17_25_Initial_Appearance.pdf`  
+> **Pages:** 3  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+**The Order of the Court is stated below: Dated:** September 22, **At the direction of:** 2025 08:26:55 AM /s/ TONY F GRAF JR District Court Judge 
+
+**by** 
+
+/s/ VERONICA SNIDER District Court Clerk 
+
+FOURTH JUDICIAL DISTRICT - PROVO DISTRICT COURT 
+
+UTAH COUNTY, STATE OF UTAH 
+
+STATE OF UTAH, MINUTES Plaintiff, INITIAL APPEARANCE vs. Case No: 251403576 FS TYLER JAMES ROBINSON, Judge: TONY F GRAF JR Defendant. Date: September 16, 2025 
+
+<u>Custody: Utah County Jail</u> 
+
+# **PRESENT** 
+
+Clerk: veronics Prosecutor: GRUNANDER, CHAD Defendant Present 
+
+The defendant is in the custody of the Utah County Jail 
+
+# **DEFENDANT INFORMATION** 
+
+Date of birth: April 16, 2003 
+
+Audio 
+
+Tape Number: 4B FTR/WBX Tape Count: 3:01-3:14 
+
+# **CHARGES** 
+
+1. AGGRAVATED MURDER - 1st Degree Felony 
+
+2. FELONY DISCHARGE OF FIREARM - CAUSING SERIOUS BODILY INJURY - 1st Degree Felony 
+
+3. OBSTRUCTION OF JUSTICE - CAPITAL/FIRST DEGREE FELONY CONDUCT - 2nd Degree Felony 
+
+4. OBSTRUCTION OF JUSTICE - CAPITAL/FIRST DEGREE FELONY CONDUCT - 2nd Degree Felony 
+
+5. TAMPERING WITH A WITNESS - 3rd Degree Felony 
+
+6. TAMPERING WITH A WITNESS - 3rd Degree Felony 
+
+7. VIOLENT OFFENSE COMMITTED IN PRESENCE OF A CHILD - Class A Misdemeanor 
+
+# **INITIAL APPEARANCE** 
+
+Page 1 of 3 
+
+09-22-2025 08:26 AM 
+
+CASE NUMBER: 251403576 State Felony 
+
+A copy of the Information is given to the defendant. The Information is read. Advised of charges and penalties. The defendant is advised of right to counsel. 
+
+# **HEARING** 
+
+This matter comes before the court for an initial appearance. 
+
+Mr. Greg Skordas appear on behalf of the county, but does not enter an appearance in this case. Mr. Skordas addresses the court regarding the appointment of Rule 8 qualified counsel. The court appoints the public defender's office and orders the Rule 8 qualifications of the appointed attorney(s) be filed prior to the next hearing. 
+
+Mr. Grunander appears for the State and notifies the court that a notice of intent has now been filed with the court. 
+
+Mr. Grunander also addresses the pretrial protective order and request that the court grant the protective order. 
+
+The court grants the request and will sign the order. 
+
+# **APPOINTMENT OF COUNSEL** 
+
+Court finds the defendant indigent and appoints DEFENDER PUBLIC to represent the defendant. Appointed Counsel: 
+
+Name: DEFENDER PUBLIC Address: 51 S UNIVERSITY AVE STE 206 City: PROVO UT 84601 Phone: (801)852-1070 
+
+# **Remote Appearance** 
+
+# **WEBEX WAIVER HEARING is scheduled.** 
+
+Date: 09/29/2025 Time: 10:00 a.m. Before Judge: TONY F GRAF JR _Courts Website: https://legacy.utcourts.gov/cal/_ 
+
+# **CUSTODY** 
+
+The defendant is remanded to the custody of the Utah County Jail. 
+
+This hearing will not take place at the courthouse. It will be conducted remotely. Contact the court to provide your current email address. If you do not have access to a phone or other electronic device to appear remotely, notify the court. 
+
+Page 2 of 3 
+
+09-22-2025 08:26 AM 
+
+CASE NUMBER: 251403576 State Felony 
+
+UCJA Rule 4-401.02: court proceedings, including electronic proceedings, may NOT be recorded, photographed, or transmitted. Failure to comply with this prohibition may be treated as contempt of court, punishable by fine and time in jail. 
+
+**Individuals needing special accommodations (including auxiliary communicative aids and services) should call VIVIANA at (801)429-1037 three days prior to the hearing.  For TTY service call Utah Relay at 800-346-4128. The general information phone number is (801)429-1000.** 
+
+# **End Of Order - Signature at the Top of the First Page** 
+
+Page 3 of 3 
+
+09-22-2025 08:26 AM

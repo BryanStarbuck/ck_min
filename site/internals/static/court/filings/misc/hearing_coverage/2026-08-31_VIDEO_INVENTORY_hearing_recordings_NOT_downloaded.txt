@@ -1,0 +1,205 @@
+VIDEO INVENTORY — State of Utah v. Tyler James Robinson, Case No. 251403576
+Hearing recordings and news video. Compiled 2026-08-31.
+==============================================================================
+
+WHY NOTHING HERE WAS DOWNLOADED
+The download job that produced this directory was told: do NOT download videos,
+note them instead, unless a file is under 200 MB AND is a hearing recording.
+Every gavel-to-gavel recording below runs 3 to 8 hours. At any watchable bitrate
+each one is multiple gigabytes, so none qualified. They are catalogued here with
+their verified IDs, durations and upload dates so a later job can pull whichever
+ones are actually wanted.
+
+VERIFICATION METHOD
+Every URL below was probed on 2026-08-31 and returned HTTP 200. The 11 primary
+KSL/Court TV recordings were verified by fetching the watch page itself and
+reading "approxDurationMs" and the title out of the page; the remaining 32 were
+verified via https://www.youtube.com/oembed (HTTP 200 each). Nothing here is a
+guessed URL.
+
+
+==============================================================================
+1. KSL NEWS UTAH — THE COURT-AUTHORIZED POOL CAMERA
+==============================================================================
+KSL held the pool camera. The Day 1 transcript names the operator as
+"John Wilson, KSL News". This channel is the master video archive for the case.
+Channel handle is @KSLNews (NOT @KSLNewsUtah, which 404s).
+
+Durations below were read from the live watch pages on 2026-08-31.
+
+  Day 1  6 Jul 2026   7h39m04s (27,544,716 ms)
+         https://www.youtube.com/watch?v=6Z76La2OYKQ
+         title "Tyler Robinson Preliminary Hearing - Day 1"
+
+  Day 2  7 Jul 2026   8h05m43s (29,143,544 ms)
+         https://www.youtube.com/watch?v=nHSOGFiAI28
+
+  Day 3  8 Jul 2026   3h26m00s (12,360,580 ms)
+         https://www.youtube.com/watch?v=uZSYb3o1e_o
+
+  Day 4  9 Jul 2026   7h55m41s (28,541,619 ms)
+         https://www.youtube.com/watch?v=G5csxeUf9ts
+         Pairs with the 278-page official certified Day 4 transcript in this dir.
+
+  Day 5  10 Jul 2026  3h04m10s (11,050,105 ms)
+         https://www.youtube.com/watch?v=XzHdjfX3SNE
+         Pairs with the 97-page official certified Day 5 transcript in this dir.
+
+  Contempt EVIDENTIARY hearing   12 Jun 2026   4h34m49s (16,489,673 ms)
+         https://www.youtube.com/watch?v=Ws3jBiVuh5U
+         HIGHEST-VALUE GAP. A 4h35m evidentiary hearing on contempt against the
+         Utah County Attorney's Office. No full transcript of it exists anywhere
+         we could find — the Rev.com file in this directory is only a ~55-minute
+         slice of it.
+
+  Contempt RULING from the bench  26 Jun 2026  50m44s (3,044,941 ms)
+         https://www.youtube.com/watch?v=Dw2y1BTwE_o
+
+  Public access arguments        13 Mar 2026  2h42m23s (9,743,466 ms)
+         https://www.youtube.com/watch?v=2vo3zm_F-4A
+         Pairs with 3_13_26_Order_On_Classification_Motions.pdf in the inventory.
+
+  Court hearing                  16 Jan 2026  2h06m18s (7,578,102 ms)
+         https://www.youtube.com/watch?v=15zfFiuPWAc
+
+  Robinson appears virtually     29 Dec 2025  20m33s (1,233,832 ms)
+         https://www.youtube.com/watch?v=waMASNaRWPI
+         The hearing at which Judge Graf ordered the 24 Oct 2025 transcript
+         (and audio) released.
+
+KSL news packages (short, not full hearings), all HTTP 200:
+  https://www.youtube.com/watch?v=ZGSjqY6m6Xw  26 Jun 2026, 4m52s — "Utah County
+      Attorney's Office found in contempt ... but death penalty still on table"
+  https://www.youtube.com/watch?v=TUm83WZUddo  near-duplicate upload of the above
+  https://www.youtube.com/watch?v=vvRKAEkPyOM  12 Aug 2026, 1m41s — coverage of
+      the DEFENSE post-hearing brief filed 11 Aug 2026 arguing the State has not
+      proven the elements needed for aggravated murder. The brief itself belongs
+      to the filings lane.
+  https://www.youtube.com/watch?v=R49mZVDfvbU  13 Apr 2026, 8m50s — "'Tyler
+      killed Charlie!' Unsealed evidence reveals new details"
+
+
+==============================================================================
+2. THE CLOSING-ARGUMENTS HEARING — CORRECTION TO THE INTAKE NOTE
+==============================================================================
+  https://www.youtube.com/watch?v=K-G7UZ-Fmfo
+  "LIVE: Closing arguments on charges and death penalty against Tyler Robinson"
+
+THE INTAKE NOTE FOR THIS JOB TREATED THIS AS A 31 AUGUST 2026 EVENT. IT IS NOT.
+As of 2026-08-31 the watch page reports:
+
+    "liveBroadcastDetails":{"isLiveNow":false,
+                            "startTimestamp":"2026-09-01T16:00:00+00:00"}
+    "isUpcoming":true
+    scheduledStartTime 1788278400  =  2026-09-01T16:00:00Z
+
+yt-dlp on the same day said plainly: "This live event will begin in 16 hours."
+
+2026-09-01T16:00:00Z is 10:00 a.m. MDT on 1 SEPTEMBER 2026. That agrees with the
+press reporting ("final arguments set for Sept. 1", Daily Herald, saved in this
+directory) and with the Utah Courts press notice of 28 Aug 2026 saying the final
+day begins "at 10:00 a.m. local time at the Provo Courthouse". The video was
+merely PUBLISHED (as a scheduled premiere) on 31 Aug 2026; it had not happened.
+
+ACTION: this is the highest-priority capture in the whole case right now. It is
+the final-day closing argument on probable cause and the death penalty, the
+proceeding immediately before Judge Graf's bind-over ruling. Capture it on or
+after 1 Sep 2026 16:00 UTC.
+
+
+==============================================================================
+3. MIRRORS OF THE SAME FIVE HEARING DAYS
+==============================================================================
+Useful because a mirror survives if the pool upload is taken down, and because a
+second copy lets a disputed timestamp be checked against an independent encode.
+
+COURT TV — playlist "Utah v. Tyler Robinson", 20 videos
+  https://www.youtube.com/playlist?list=PLH_gQUPWcJYA   (HTTP 200, 1,062,002 B)
+  Full days: 6fq2kCMVMXI (D1, 28,045,000 ms) · y6ofpz6ReuE (D2) ·
+             szsmK2Ul9XY (D3) · 89ZKQIHaJpM (D4) · bFwe5CwDudk (D5)
+  Notable clips, each HTTP 200:
+    JQrUgpWBrPg  "Full Interview: Tyler Robinson's Lover SPILLS Alleged
+                  Confession"  — the Lance Twiggs recorded interview
+    C1jl4sdqQTs  "Missing Shell Casings in Charlie Kirk Killing Stun Courtroom"
+    2oUgh4phkyo  "Defense Rips Into FBI Analyst Over DNA Evidence"
+    8s_ZkFSp7Iw  "The Towel, Rifle & Disturbing DNA"
+    i72CybGg4Qg  "Judge Appears Stunned, Flinches Watching Charlie Kirk
+                  Shooting Footage"
+    vBP9J3MS5N8  "Charlie Kirk's Family Demands No Redactions to Evidence"
+
+ASSOCIATED PRESS — all HTTP 200
+  09VAaZ4kYvc (generic "Hearing in the case of Tyler Robinson")
+  UPU-9unCKus (Day 3) · 956YAos_AIY (Day 4) · MW0rwcmFO6E (Day 5)
+
+THE SALT LAKE TRIBUNE — all HTTP 200
+  QLuVTgrUfo0 (full day 2) · uhPKFG9sw6U (full day 4) · FLHRu0aZ19U (full day 5)
+  Days 1 and 3 were not found on this channel.
+
+CHARLIE KIRK / TPUSA OFFICIAL CHANNEL — both HTTP 200
+  DtqdnNste5I  "Tyler Robinson Preliminary Hearing: Day 3 | 7.8.2026"
+  geI1zeTb0m4  "Tyler Robinson Preliminary Hearing: Day 4 | 7.9.2026"
+
+OTHER CONFIRMED FULL-DAY REBROADCASTS — all HTTP 200
+  i-bSd9D8dnk  KUTV 2 News Salt Lake City
+  kG8PI_xFCRA  Forbes Breaking News
+  Eqo3-4YpCWg  The Christian Post — "Day 5 (Final Day) ... July 10, 2026",
+               3h24m45s (12,285 s), uploaded 2026-07-11
+  cnn6tiIrK7Q  ABC 7 News WJLA, Day 4
+  VnGiYAQ28pc  East Idaho News, Day 4
+  s4DFoNsscxk  Recovery Addict, Day 1
+  jiAZFJbzIZU  Recovery Addict, Day 4
+  nhkK1CNIsew  Courtroom Confidential: Live Trials, Day 3
+
+
+==============================================================================
+4. AUTO-GENERATED CAPTIONS EXIST ON EVERY HEARING VIDEO — AND ARE THE CHEAPEST
+   ROUTE TO THE ONE PROCEEDING WITH NO TRANSCRIPT
+==============================================================================
+An earlier note in this investigation recorded that yt-dlp reported "has no
+automatic captions" for these videos and that the only track was live_chat.
+THAT IS WRONG, and it matters, because it closed off a route that is open.
+
+Fetching the watch page directly on 2026-08-31 and reading the
+playerCaptionsTracklistRenderer shows a real ASR track on every one of the 11
+primary recordings, for example on Ws3jBiVuh5U (the 4h35m contempt evidentiary
+hearing, the proceeding we have no transcript of):
+
+    "captionTracks":[{"baseUrl":"https://www.youtube.com/api/timedtext?v=
+      Ws3jBiVuh5U&...&kind=asr&lang=en",
+      "name":{"simpleText":"English (auto-generated)"},
+      "vssId":"a.en","languageCode":"en","kind":"asr","isTranslatable":true}]
+
+The same structure is present on 6Z76La2OYKQ and on the other nine. yt-dlp's
+denial was a symptom of it being blocked ("The page needs to be reloaded"), not
+a statement about the video.
+
+WHY THE CAPTIONS ARE NOT IN THIS DIRECTORY: on 2026-08-31 the
+https://www.youtube.com/api/timedtext endpoint returned HTTP 429 to this machine
+on every attempt, across every format (default, &fmt=json3, &fmt=srv3, &fmt=vtt),
+and was still 429 after a 90-second pause. That is per-IP rate limiting, almost
+certainly earned by the yt-dlp probing done minutes earlier in the same run. It
+is a temporary block on this address, NOT a removal and NOT an absence.
+
+HOW TO GET THEM ON A LATER RUN, from a cold IP:
+  1. curl the watch page with a real browser User-Agent.
+  2. Regex out  "captionTracks":(\[.*?\])  and JSON-decode it (the blob is
+     unicode-escaped, so .encode().decode('unicode_escape') first).
+  3. Take the en track's baseUrl and append &fmt=json3.
+  4. curl that URL. Each cue is events[].segs[].utf8 with tStartMs.
+  Do ONE video at a time and leave minutes between them. Do not run yt-dlp
+  against the same channel first — that is what triggered the 429.
+
+WHAT THE CAPTIONS ARE AND ARE NOT: machine ASR. No speaker labels, and names and
+legal terms are routinely misheard. They are a SEARCH INDEX for locating a
+passage in the video. Never quote them as the record — quote the video itself or
+a certified transcript.
+
+
+==============================================================================
+5. RUMBLE
+==============================================================================
+  https://rumble.com/v7ceaa8-inside-the-courtroom-with-graham-allen-and-jobob-tyler-robinson-hearing-rec.html
+  HTTP 200, but the page states "Premium Only Content — This video is only
+  available to Rumble Premium subscribers." It is also commentary/recap by The
+  Charlie Kirk Show, not a raw feed. NEEDS A HUMAN WITH A SUBSCRIPTION, and is
+  low value: no Rumble mirror of the gavel-to-gavel pool feed was found.

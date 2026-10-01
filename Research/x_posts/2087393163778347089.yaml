@@ -1,0 +1,42 @@
+id: '2087393163778347089'
+url: 'https://x.com/DiligentDenizen/status/2087393163778347089'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen'
+  id: '1585809424135995392'
+text: |
+  ‼️🇺🇸: Morning of 9/10/25 before Charlie Kirk's assassination, a WHITE KIA SOUL ODDLY turned around EXACTLY WHERE THE MVRD3R weapon was found.
+
+  On 11/4/25 I went to Lance TWIGGS' HOUSE to try and interview them and there was a WHITE KIA SOUL parked there.
+
+  Hat tip @baroncoleman
+created_at: '2026-08-12T04:18:06.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 510
+  reply_count: 43
+  like_count: 2145
+  quote_count: 15
+  bookmark_count: 158
+  impression_count: 53887
+attachments:
+  videos:
+    - type: video
+      media_key: '7_1985811896839389188'
+      duration_ms: 16094
+      ipfs_cid: 'QmZ5NmiWH9Hy3v1RJXiJxG19aT94wGvTviV4qWjBDp5sWh'
+  images:
+    - type: photo
+      media_key: '3_2087393160519372800'
+      url: 'https://pbs.twimg.com/media/HPfpBR9WUAAvQHX.jpg'
+      width: 986
+      height: 738
+      sha256: '7b4c728e80bbaf643e200e73ec79c0cdd6dcdd5be0a4109dcfbd207a008b1ee8'
+      ipfs_cid: 'QmS9woKH5V77rrLxSbJU81AWsXxGofhvLfMRrRkCXsvMgo'
+media_from_quoted_status:
+  quoted_status_id: '1985812431126372644'
+  quoted_status_url: 'https://x.com/DiligentDenizen/status/1985812431126372644'
+  quoted_author: '@DiligentDenizen'
+investigation: 'charlie_kirk'
+added_date: '2026-08-12'
+temp_file: false

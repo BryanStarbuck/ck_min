@@ -1,0 +1,32 @@
+id: '2079054276320440416'
+url: 'https://x.com/Wendy7839570959/status/2079054276320440416'
+author:
+  username: 'Wendy7839570959'
+  name: 'Wendy'
+  id: '1954645537799430144'
+text: |
+  I recorded this off Tik tok in November 2025z interesting 🧐 https://t.co/TM9HF5dmqq
+created_at: '2026-07-20T04:02:21.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 151
+  reply_count: 24
+  like_count: 472
+  quote_count: 8
+  bookmark_count: 127
+  impression_count: 7144
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079054245244923904'
+      duration_ms: 88121
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079054245244923904/img/GEa42wtnmkoVcfnP.jpg'
+      width: 576
+      height: 1024
+  images: []
+ipfs:
+  video_cid: 'QmcfNxXtoaU8bnaK9tR17n3hDdbMBcwrbZNBXV72aS9UZo'
+site_page: 'site/docs/Israel/threat-to-western-politicians-iran-war.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-20'
+temp_file: false

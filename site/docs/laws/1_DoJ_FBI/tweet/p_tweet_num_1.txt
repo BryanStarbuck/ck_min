@@ -1,0 +1,173 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/laws
+
+LAW_1_DIR dir is {ROOT_DIR}/1_DoJ_FBI
+
+LAW_1_FILE is file {LAW_1_DIR}/Law_1_DoJ_FBI.md
+
+THIS_DIR dir is {LAW_1_DIR}/tweet
+
+BACKGROUND_FILE is file {ROOT_DIR}/4_Trusted_Investigations/tweet/background.txt
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_num_1.txt
+
+FOCUS_LAW is Law 1 = "Force the FBI to Open Its Files"
+   (the DoJ/FBI Forced Disclosure Act)
+
+THE_FOUR_LAWS are:
+        Law 1 = Force the FBI to Open Its Files (DoJ/FBI Forced Disclosure Act)
+        Law 2 = Force the Spies to Open Their Files (Intelligence Services Disclosure Act)
+        Law 3 = Force Real Investigations (Mandatory Investigation Act)
+        Law 4 = Embed Citizen Investigators Inside the Agencies (Trusted Investigators Act)
+
+==========================================================
+STAGE 1 -- READ LAW 1 IN FULL
+==========================================================
+
+* Read {LAW_1_FILE} in full and recursively read every file under
+  {LAW_1_DIR}/ into the context window. This is the law the tweet is about.
+* Read {BACKGROUND_FILE} ONLY for one-sentence framing context that Law 1
+  is part of a four-law cluster. Do not pull body content from the other
+  three laws into the tweet.
+* Read {ROOT_DIR}/README.md and {ROOT_DIR}/CLAUDE.md for project context.
+* Assume the reader has already seen the other three tweets in this series
+  and already understands the bigger picture. Their reason for opening
+  this tweet is to learn about Law 1 specifically.
+* Understand deeply:
+  * Exactly what Law 1 forces -- DoJ, FBI, ATF, CBP, TSA, DHS, FinCEN,
+    and all federal/state/local law enforcement to disclose every record
+    tied to the Charlie Kirk investigation within 30 days.
+  * The dual-track design: broad catch-all mandate plus the 175 Schedule A
+    items, so agencies cannot hide behind narrow enumeration.
+  * Law 1's enforcement teeth -- criminal penalties, automatic budget
+    cuts, private right of action, no presidential override, anti-
+    embarrassment clause, whistleblower protections, records preservation
+    triggered at bill introduction -- and why these are the structural
+    answer to the JFK Records Act and Epstein Files Act compliance failures.
+  * The thesis: Tyler Robinson did not act alone. Law 1 forces the records
+    out of the agencies that hold the proof.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is a single piece of writing about Law 1 -- not a generic
+  four-law summary.
+
+----------- THE FIRST 40 WORDS (CRITICAL) -----------
+
+* The first 40 words must perfectly catch attention and explain the stakes
+  of LAW 1 specifically.
+* Start with Charlie Kirk and pivot straight into what Law 1 forces.
+* Do NOT introduce all four laws here. This is not a generic intro post.
+* The 40 words must:
+  * Anchor the reader in the Charlie Kirk case.
+  * Name Law 1 -- the DoJ/FBI Forced Disclosure Act -- and what it forces.
+  * Make clear the purpose is forced legal disclosure by DoJ, FBI, and
+    every law enforcement agency holding records.
+  * Pull the reader straight into the Law 1 body. No detour into Laws 2-4.
+
+----------- ONE-SENTENCE FOUR-LAW REFERENCE -----------
+
+* Between the 40-word hook and the 200-word body, include exactly ONE
+  sentence noting that Law 1 is the first of four laws in this series.
+* That one sentence is the entire scope of the four-law framing in this
+  tweet. Do not describe Laws 2, 3, or 4 anywhere else in the tweet.
+* The reader has already read the other tweets in this series. They do
+  not need a recap.
+
+----------- THE NEXT 200 WORDS (NEXT CRITICAL) -----------
+
+* The next ~200 words must deliver what the reader expects after the hook.
+* 100% focused on Law 1. Do not describe what Laws 2, 3, or 4 do.
+* Educate a reader who wants to understand THIS law:
+  * What Law 1 actually does (forces DoJ, FBI, and every law enforcement
+    agency to release every record tied to the Charlie Kirk investigation
+    within 30 days, covering all 175 Schedule A items plus a broad catch-all).
+  * Why this model works where prior disclosure laws (JFK, Epstein) failed --
+    real criminal penalties, automatic budget cuts, no presidential override,
+    private right of action for citizens, anti-embarrassment clause, records
+    preservation triggered at bill introduction.
+  * Which agencies are covered (DoJ, FBI, ATF, CBP, TSA, DHS, FinCEN, plus
+    every federal, state, and local law enforcement agency holding records).
+  * Why a disclosure-only law is structurally necessary as the foundation --
+    you cannot investigate, prosecute, or expose anything if the records
+    stay locked inside the agencies that may be implicated.
+* Quality bar: every sentence earns its place. No fluff. No throat-clearing.
+* No comparisons to or descriptions of the other three laws in this section.
+
+----------- THE BULLET LIST (AFTER THE BODY) -----------
+
+* After the 200-word body, the tweet continues with an asterisk bullet list
+  of LAW 1's key points only.
+* Every bullet is about Law 1. Do not include bullets describing Laws 2,
+  3, or 4.
+* Sort the bullets by what the reader will want to learn about Law 1
+  FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack multiple
+  points into one bullet.
+* TWELVE BULLETS OR LESS. Aim for the strongest 8-12.
+* Suggested point categories to draw from (pick the strongest, in
+  audience-priority order):
+  * Forces DoJ, FBI, ATF, CBP, TSA, DHS, FinCEN to disclose
+  * 30-day deadline from enactment
+  * Covers all 175 Schedule A items plus broad catch-all
+  * No presidential override allowed
+  * Criminal penalties -- 10 years for withholding
+  * 15 years for destruction of records
+  * Automatic 25% budget cut for non-compliance
+  * Private right of action for citizens
+  * Permanent congressional review board
+  * Whistleblower protections with treble damages
+  * Records preservation triggered at bill introduction
+  * Anti-embarrassment clause -- no reputational-harm withholding
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that these four laws are at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback -- and call out
+  attorneys in particular as the audience whose feedback is most wanted.
+* Place this draft/feedback framing somewhere in the body or near the
+  closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute the laws to their author:
+  the laws were drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by @HolonCitizen
+  and that these laws live at the URL below as part of the website's
+  bigger investigation into the Charlie Kirk assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+
+----------- TONE AND VOICE -----------
+
+* Plain, direct, no jargon. Written for citizens, not lawyers.
+* Defamation-safe language throughout: never state as fact that any living
+  person committed a crime. Use "allegedly", "reportedly", "evidence
+  suggests" where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it is
+  designed for a thread or a long-form X post. Write it as one continuous
+  piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_1_FILE}, {BACKGROUND_FILE}, or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the body
+  * the bullet list
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE}"
+Output to stdout "============================================="

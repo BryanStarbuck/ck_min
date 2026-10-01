@@ -1,0 +1,109 @@
+========================================================================================
+D1  CALENDAR COVERAGE  -- % of all UTC days 2022-01-01..2025-12-31 we hold a trace for
+========================================================================================
+tail                 days held     of     D1 %   asked  D2 asked-hit
+-- FOREIGN FLEET
+SU-BTT                      88   1461    6.02%    1012         8.70%
+SU-BND                      93   1461    6.37%     977         9.52%
+SU-BTU                      82   1461    5.61%     970         8.45%
+SU-BTV                      80   1461    5.48%     969         8.26%
+SU-BGM                      46   1461    3.15%     970         4.74%
+T7-ELL                     120   1461    8.21%     972        12.35%
+  GROUP TOTAL              509   8766    5.81%    5870         8.67%
+-- US / KIRK-ASSOCIATED FLEET
+N102DZ                     146   1461    9.99%     566        25.80%
+N1098L                      34   1461    2.33%      34       100.00%
+N2100L                      24   1461    1.64%      24       100.00%
+N40JD                       96   1461    6.57%     562        17.08%
+N560TW                     181   1461   12.39%     569        31.81%
+N582MM                     323   1461   22.11%     573        56.37%
+N59906                      30   1461    2.05%      30       100.00%
+N55906                       0   1461    0.00%       0           n/a
+N872RA                     187   1461   12.80%     564        33.16%
+N888KG                      91   1461    6.23%     562        16.19%
+  GROUP TOTAL             1112  14610    7.61%    3484        31.92%
+-- CONTROLS
+CONTROL-LUFTHANSA          202   1461   13.83%     258        78.29%
+CONTROL-RYANAIR            202   1461   13.83%     258        78.29%
+  GROUP TOTAL              404   2922   13.83%     516        78.29%
+
+========================================================================================
+D3  EVENT-WINDOW COVERAGE -- the days that actually bear on the following claim
+    363 distinct UTC days = every sourced event date +/-1, inside the claim span
+========================================================================================
+tail                  held in window     of     D3 %   asked  never asked
+-- FOREIGN FLEET
+SU-BTT                            32    363    8.82%     363            0
+SU-BND                            37    363   10.19%     363            0
+SU-BTU                            26    363    7.16%     363            0
+SU-BTV                            27    363    7.44%     363            0
+SU-BGM                            19    363    5.23%     363            0
+T7-ELL                            54    363   14.88%     363            0
+  GROUP TOTAL                    195   2178    8.95%    2178            0
+-- US / KIRK-ASSOCIATED FLEET
+N102DZ                           104    363   28.65%     363            0
+N1098L                            17    363    4.68%      17          346
+N2100L                            10    363    2.75%      10          353
+N40JD                             66    363   18.18%     363            0
+N560TW                           106    363   29.20%     363            0
+N582MM                           207    363   57.02%     363            0
+N59906                            12    363    3.31%      12          351
+N55906                             0    363    0.00%       0          363
+N872RA                           121    363   33.33%     363            0
+N888KG                            51    363   14.05%     363            0
+  GROUP TOTAL                    694   3630   19.12%    2217         1413
+-- CONTROLS
+CONTROL-LUFTHANSA                 75    363   20.66%      98          265
+CONTROL-RYANAIR                   74    363   20.39%      98          265
+  GROUP TOTAL                    149    726   20.52%     196          530
+
+========================================================================================
+D3 BY YEAR -- foreign fleet only (SU-* and T7-ELL), the fleet the claim is about
+========================================================================================
+year      window days  fleet-days needed   held        %   asked  never asked
+2022               78                468      2    0.43%     468            0
+2023               81                486     45    9.26%     486            0
+2024              101                606     67   11.06%     606            0
+2025              103                618     81   13.11%     618            0
+
+========================================================================================
+WHICH LANE PRODUCED THE DATA -- aircraft-days held, by source
+========================================================================================
+source family             aircraft-days  share of all held
+open_source                        2235            100.00%
+  TOTAL HELD                       2235
+
+individual source             aircraft-days     share  UNIQUE (only source)
+airplanes-live                         2072    92.71%                   371
+adsb-lol                               1702    76.15%                    10
+adsbexchange-samples                    207     9.26%                   153
+adsblol-github-backup                     2     0.09%                     0
+
+PAGE-ARCHIVE LANE -- web page snapshots, counted in PAGES not aircraft-days
+  wayback/flightaware             28 captures held
+  wayback/flightradar24           22 captures held
+  flightaware-activity-log        16 captures held
+  TOTAL                           66
+  These preserve WHAT A TRACKING SITE SAID. They are the only lane that can
+  document a page-level removal, and the only lane that reaches before 2022.
+
+PROPRIETARY / PAID LANES (FR24 API, FlightAware AeroAPI, ADSBX historical,
+OpenSky OAuth): 0 aircraft-days. No credential is held, so none was queried.
+100% of the trace data in this investigation came from FREE, OPEN-SOURCE
+archives or from the Internet Archive's copy of a public web page.
+
+========================================================================================
+D4  GEOGRAPHIC-SWEEP COVERAGE -- the lane that needs no tail number
+========================================================================================
+day-directories on disk            278
+  SWEPT                            233
+  TRUNCATED                         28
+  NO_RELEASE_FOR_THIS_DATE           9
+  PROBE_UNRESOLVED                   8
+UTC days usefully swept            261
+event-window days in span          363
+D4 sweep coverage of the window  71.90%
+   2022    0.00%   (0 of 78 window days)
+   2023   82.72%   (67 of 81 window days)
+   2024   98.02%   (99 of 101 window days)
+   2025   92.23%   (95 of 103 window days)

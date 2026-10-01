@@ -1,0 +1,45 @@
+# This is when run from the CLI. In CURSOR-AGENT.
+
+
+###########  INSTRUCTIONS   ##############################
+Carry out the instructions in:
+~/BGit/act3/charlie-kirk/Prompt/Download_Transcript/p_Level_2.txt
+
+
+########### INPUT MP3 or MP4 to Transcribe FILE ##############################
+This is the INPUT_TO_TRANSCRIBE:
+~/BGit/act3/charlie-kirk/Download_Transcript/to_transcribe/
+
+
+########### OUTPUT MP3 or MP4 to Output Transcript FILE ##############################
+This is the OUTPUT_TRANSCRIPTION:
+~/BGit/act3/charlie-kirk/Download_Transcript/transcribed_out/
+
+
+
+
+########### OUTPUT FILES ##############################
+This is the OUTPUT_SCRIPT:
+~/BGit/act3/charlie-kirk/Download_Transcript/script/transcribe.js
+
+
+
+
+########### INPUT FILES ##############################
+Import the file contents from all files in this directory. Understanding them will be required when doing everything else.
+~/BGit/act3/charlie-kirk/knowledge/
+
+SPEC_FILE on what to do: 
+~/BGit/act3/charlie-kirk/Download_Transcript/Spec_Transcription.md
+
+
+
+
+
+
+
+
+* Don't use directories with "/bryan/Library/CloudStorage/BGit/" in it.
+* For example, Don't use "/Users/bryan/Library/CloudStorage/BGit/"
+   * Instead use "/Users/bryan/BGit"
+

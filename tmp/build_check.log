@@ -1,0 +1,640 @@
+
+> charlie-kirk@0.0.0 build
+> docusaurus build
+
+
+ ------------------------------------------------------------------------------                                                                                                         Update available 3.10.1 → 3.10.2                                                                                                                To upgrade Docusaurus packages with the latest version, run the                                       following command:                                            `npm i @docusaurus/core@latest @docusaurus/faster@latest                               @docusaurus/plugin-client-redirects@latest                       @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest                 @docusaurus/tsconfig@latest @docusaurus/types@latest`                                                                                               ------------------------------------------------------------------------------ 
+
+[INFO] [en] Creating an optimized production build...
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:95833) ExperimentalWarning: localStorage is not available because --localstorage-file was not provided.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[WARNING] Docusaurus static site generation process emitted warnings for 2 paths
+This is non-critical and can be disabled with DOCUSAURUS_IGNORE_SSG_WARNINGS=true
+Troubleshooting guide: https://github.com/facebook/docusaurus/discussions/10580
+
+- "/Proof_Intel_Services/State_Actors_Professional_Hit":
+  - [HTML minifier diagnostic - error] No "p" element in scope but a "p" end tag seen - {"primary_spans":[{"end":25682,"start":25678}],"span_labels":[]}
+
+- "/Tent/Daniel_Merrell_Hardscape_Utah":
+  - [HTML minifier diagnostic - error] No "p" element in scope but a "p" end tag seen - {"primary_spans":[{"end":25637,"start":25633}],"span_labels":[]}
+
+[WARNING] @docusaurus/plugin-client-redirects: some redirects would override existing paths, and will be ignored:
+- {"from":"/TPUSA","to":"/TPUSA/overview"}
+[WARNING] Docusaurus found broken links!
+
+Please check the pages of your site in the list below, and make sure you don't reference any path that does not exist.
+Note: it's possible to ignore broken links with the 'onBrokenLinks' Docusaurus configuration, and let the build pass.
+
+It looks like some of the broken links we found appear in many pages of your site.
+Maybe those broken links appear on all pages through your site layout?
+We recommend that you check your theme configuration for such links (particularly, theme navbar and footer).
+Frequent broken links are linking to:
+- /court/mirandize/overview
+- /IPFS/ipfs.txt
+- /FBI
+- ./mirandize/overview
+- ./Law1
+- ./Law2
+- ./Law3
+- /laws/explain/all
+- ../../README.md
+- ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md
+- ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md
+- ../1_DoJ_FBI/Human_Requirements.md
+- /CIA/overview
+
+Exhaustive list of all broken links found:
+- Broken link on source page path = /After/Investigation_Index:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /After/Legal_Process_Gag_Orders_And_Secrecy:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /After/Sept_11_Surrender_And_Custody:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /cameras/Eyewitness_Mobile_Video:
+   -> linking to /IPFS/ipfs.txt
+   -> linking to /Planes/N1098L
+- Broken link on source page path = /cameras/UVU_Surveillance:
+   -> linking to /court/mirandize
+- Broken link on source page path = /campus_university/overview:
+   -> linking to /security/overview
+- Broken link on source page path = /Censorship/Censorship_Investigation_Index:
+   -> linking to /IPFS/ipfs.txt
+- Broken link on source page path = /Censorship/overview:
+   -> linking to /FBI
+- Broken link on source page path = /Censorship/Platform_YouTube_Meta:
+   -> linking to /IPFS/ipfs.txt
+- Broken link on source page path = /Censorship/Witness_Footage_Pressure:
+   -> linking to /FBI
+- Broken link on source page path = /Censorship/X_Candace_Engagement_Bans:
+   -> linking to /IPFS/ipfs.txt
+- Broken link on source page path = /court/case-overview:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+- Broken link on source page path = /court/discord-evidence-court:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+   -> linking to /court/mirandize
+- Broken link on source page path = /court/investigation-index:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+   -> linking to ./mirandize (resolved as: /court/mirandize)
+- Broken link on source page path = /court/overview:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+- Broken link on source page path = /court/preliminary-hearing-motions:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+- Broken link on source page path = /court/prosecution-team:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+- Broken link on source page path = /court/utah-county-jail-custody:
+   -> linking to ./mirandize/overview (resolved as: /court/mirandize/overview)
+- Broken link on source page path = /Fix/Churches:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Fix/Conclusion_Logic:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+   -> linking to ./Law4 (resolved as: /Fix/Law4)
+- Broken link on source page path = /Fix/Digital_Evidence:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+- Broken link on source page path = /Fix/disabled/Law1:
+   -> linking to ./Politicans (resolved as: /Fix/disabled/Politicans)
+   -> linking to ./overview (resolved as: /Fix/disabled/overview)
+- Broken link on source page path = /Fix/disabled/Law2:
+   -> linking to /FBI
+   -> linking to ./Medical_Transparency (resolved as: /Fix/disabled/Medical_Transparency)
+   -> linking to ./overview (resolved as: /Fix/disabled/overview)
+- Broken link on source page path = /Fix/disabled/Law3:
+   -> linking to /FBI
+   -> linking to ./Discovery_Rights (resolved as: /Fix/disabled/Discovery_Rights)
+   -> linking to ./overview (resolved as: /Fix/disabled/overview)
+- Broken link on source page path = /Fix/disabled/Law4:
+   -> linking to ./Whistleblower (resolved as: /Fix/disabled/Whistleblower)
+   -> linking to ./overview (resolved as: /Fix/disabled/overview)
+- Broken link on source page path = /Fix/Discovery_Rights:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+- Broken link on source page path = /Fix/Event_Security:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Fix/Foreign_Influence:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+- Broken link on source page path = /Fix/Media_Reform:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Fix/Medical_Transparency:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Fix/overview:
+   -> linking to /FBI
+- Broken link on source page path = /Fix/Politicans:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Fix/Victim_Family_Rights:
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+- Broken link on source page path = /Fix/Whistleblower:
+   -> linking to ./Law4 (resolved as: /Fix/Law4)
+   -> linking to ./Law1 (resolved as: /Fix/Law1)
+   -> linking to ./Law2 (resolved as: /Fix/Law2)
+   -> linking to ./Law3 (resolved as: /Fix/Law3)
+- Broken link on source page path = /Influencers/Censorship_of_Investigators:
+   -> linking to /IPFS/ipfs.txt
+- Broken link on source page path = /Influencers/x/paramounttactcl:
+   -> linking to /security/overview
+- Broken link on source page path = /Israel_Main_Suspect/control-podcast:
+   -> linking to /People/thomas-massie
+- Broken link on source page path = /key_individuals/Medical_Legal_Periphery:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /laws:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/Discovery:
+   -> linking to NAME_MAPPING.json (resolved as: /laws/NAME_MAPPING.json)
+   -> linking to /Israel
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/DoJ_FBI/Law_1_DoJ_FBI:
+   -> linking to ../../README.md (resolved as: /README.md)
+   -> linking to Human_Requirements.md (resolved as: /laws/DoJ_FBI/Human_Requirements.md)
+   -> linking to Notes_1_DoJ_FBI.md (resolved as: /laws/DoJ_FBI/Notes_1_DoJ_FBI.md)
+   -> linking to Output_Analysis.md (resolved as: /laws/DoJ_FBI/Output_Analysis.md)
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md (resolved as: /Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+- Broken link on source page path = /laws/DoJ_FBI/more/Human_Requirements:
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /laws/Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to Law_1_DoJ_FBI.md (resolved as: /laws/DoJ_FBI/more/Law_1_DoJ_FBI.md)
+- Broken link on source page path = /laws/explain/all/overview:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Any_more_to_Add:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Any_Problems:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Before_Any_Problems:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Challenges:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Fixed/Any_more_to_Add:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Fixed/Any_Problems:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Fixed/Challenges:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Fixed/Improve:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Fixed/Laws_Not_Complying:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Improve:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/analysis/Laws_Not_Complying:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/List_Of_Laws:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI:
+   -> linking to ../../README.md (resolved as: /laws/other/README.md)
+   -> linking to Human_Requirements.md (resolved as: /laws/other/old/DoJ_FBI/Human_Requirements.md)
+   -> linking to Notes_1_DoJ_FBI.md (resolved as: /laws/other/old/DoJ_FBI/Notes_1_DoJ_FBI.md)
+   -> linking to Output_Analysis.md (resolved as: /laws/other/old/DoJ_FBI/Output_Analysis.md)
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /laws/other/Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md (resolved as: /laws/other/Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+- Broken link on source page path = /laws/other/old/DoJ_FBI/more/Human_Requirements:
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /laws/other/old/Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../README.md (resolved as: /laws/other/old/README.md)
+   -> linking to Law_1_DoJ_FBI.md (resolved as: /laws/other/old/DoJ_FBI/more/Law_1_DoJ_FBI.md)
+- Broken link on source page path = /laws/other/old/Require_to_Investigate/more/Human_Requirements:
+   -> linking to ../../README.md (resolved as: /laws/other/old/README.md)
+   -> linking to Law_3_Require_to_Investigate.md (resolved as: /laws/other/old/Require_to_Investigate/more/Law_3_Require_to_Investigate.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/other/old/Require_to_Investigate/1_DoJ_FBI/Human_Requirements.md)
+   -> linking to ../2_US_Intel/Human_Requirements.md (resolved as: /laws/other/old/Require_to_Investigate/2_US_Intel/Human_Requirements.md)
+   -> linking to ../4_Trusted_Investigations/Human_Requirements.md (resolved as: /laws/other/old/Require_to_Investigate/4_Trusted_Investigations/Human_Requirements.md)
+- Broken link on source page path = /laws/other/old/Trusted_Investigations/more/Human_Requirements:
+   -> linking to ../../README.md (resolved as: /laws/other/old/README.md)
+   -> linking to Law_4_Trusted_Investigations.md (resolved as: /laws/other/old/Trusted_Investigations/more/Law_4_Trusted_Investigations.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/other/old/Trusted_Investigations/1_DoJ_FBI/Human_Requirements.md)
+   -> linking to ../2_US_Intel/Human_Requirements.md (resolved as: /laws/other/old/Trusted_Investigations/2_US_Intel/Human_Requirements.md)
+   -> linking to ../3_Require_to_Investigate/Human_Requirements.md (resolved as: /laws/other/old/Trusted_Investigations/3_Require_to_Investigate/Human_Requirements.md)
+- Broken link on source page path = /laws/other/old/US_Intel/more/Human_Requirements:
+   -> linking to ../../README.md (resolved as: /laws/other/old/README.md)
+   -> linking to Law_2_US_Intel.md (resolved as: /laws/other/old/US_Intel/more/Law_2_US_Intel.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/other/old/US_Intel/1_DoJ_FBI/Human_Requirements.md)
+- Broken link on source page path = /laws/other/original:
+   -> linking to NAME_MAPPING.json (resolved as: /laws/other/NAME_MAPPING.json)
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/people:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/other/Worries_By_Each_4_Laws:
+   -> linking to /laws/explain/all
+- Broken link on source page path = /laws/Require_to_Investigate/Law_3_Require_to_Investigate:
+   -> linking to ../../README.md (resolved as: /README.md)
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md (resolved as: /Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+- Broken link on source page path = /laws/Require_to_Investigate/more/Human_Requirements:
+   -> linking to Law_3_Require_to_Investigate.md (resolved as: /laws/Require_to_Investigate/more/Law_3_Require_to_Investigate.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/Require_to_Investigate/1_DoJ_FBI/Human_Requirements.md)
+   -> linking to ../2_US_Intel/Human_Requirements.md (resolved as: /laws/Require_to_Investigate/2_US_Intel/Human_Requirements.md)
+   -> linking to ../4_Trusted_Investigations/Human_Requirements.md (resolved as: /laws/Require_to_Investigate/4_Trusted_Investigations/Human_Requirements.md)
+- Broken link on source page path = /laws/Trusted_Investigations/Law_4_Trusted_Investigations:
+   -> linking to ../../README.md (resolved as: /README.md)
+   -> linking to Human_Requirements.md (resolved as: /laws/Trusted_Investigations/Human_Requirements.md)
+   -> linking to Notes_4_Trusted_Investigations.md (resolved as: /laws/Trusted_Investigations/Notes_4_Trusted_Investigations.md)
+   -> linking to Output_Analysis.md (resolved as: /laws/Trusted_Investigations/Output_Analysis.md)
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md (resolved as: /Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+- Broken link on source page path = /laws/Trusted_Investigations/more/Human_Requirements:
+   -> linking to Law_4_Trusted_Investigations.md (resolved as: /laws/Trusted_Investigations/more/Law_4_Trusted_Investigations.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/Trusted_Investigations/1_DoJ_FBI/Human_Requirements.md)
+   -> linking to ../2_US_Intel/Human_Requirements.md (resolved as: /laws/Trusted_Investigations/2_US_Intel/Human_Requirements.md)
+   -> linking to ../3_Require_to_Investigate/Human_Requirements.md (resolved as: /laws/Trusted_Investigations/3_Require_to_Investigate/Human_Requirements.md)
+- Broken link on source page path = /laws/US_Intel/Law_2_US_Intel:
+   -> linking to ../../README.md (resolved as: /README.md)
+   -> linking to Human_Requirements.md (resolved as: /laws/US_Intel/Human_Requirements.md)
+   -> linking to Notes_2_US_Intel.md (resolved as: /laws/US_Intel/Notes_2_US_Intel.md)
+   -> linking to Output_Analysis.md (resolved as: /laws/US_Intel/Output_Analysis.md)
+   -> linking to ../../Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md (resolved as: /Existing_Laws/Massie_Epstein_Disclosure/Law_Massie_Epstein_Disclosure.md)
+   -> linking to ../../Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md (resolved as: /Existing_Laws/JFK_Records_Act/Law_JFK_Records_Act.md)
+- Broken link on source page path = /laws/US_Intel/more/Human_Requirements:
+   -> linking to Law_2_US_Intel.md (resolved as: /laws/US_Intel/more/Law_2_US_Intel.md)
+   -> linking to ../1_DoJ_FBI/Human_Requirements.md (resolved as: /laws/US_Intel/1_DoJ_FBI/Human_Requirements.md)
+- Broken link on source page path = /legal_investigation/overview:
+   -> linking to /laws/Discovery/README
+- Broken link on source page path = /Locations/Fourth_District_Court_Provo:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Locations/Utah_County_Jail:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Locations/Washington_County_Sheriff:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Media/Censorship:
+   -> linking to ../Fix/Law1 (resolved as: /Fix/Law1)
+   -> linking to ../Fix/Law2 (resolved as: /Fix/Law2)
+- Broken link on source page path = /Media/fbi-press-conference-media:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Media/september-10-breaking-news:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Media/tyler-robinson-trial-press:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /Medical/construction_and_site_changes:
+   -> linking to /Locations
+- Broken link on source page path = /other_topics/overview:
+   -> linking to /FBI
+- Broken link on source page path = /People/charlie-kirk-girlfriend-claims:
+   -> linking to /laws/1_DoJ_FBI/Law_1_DoJ_FBI
+- Broken link on source page path = /People/dan-bongino:
+   -> linking to /People/kash-patel
+- Broken link on source page path = /People/mike-glover:
+   -> linking to /CIA/overview
+- Broken link on source page path = /People/mitch-snow:
+   -> linking to /CIA/overview
+- Broken link on source page path = /People/rick-cutler:
+   -> linking to /security/overview
+- Broken link on source page path = /People/william-pugh:
+   -> linking to /Charlie/autopsy
+- Broken link on source page path = /Planes/N102DZ:
+   -> linking to /Maps/overview
+- Broken link on source page path = /Planes/N40JD:
+   -> linking to /Maps/overview
+- Broken link on source page path = /Planes/N872RA:
+   -> linking to /Maps/overview
+- Broken link on source page path = /Proof_Not_Tyler/Alternative_Kill_Mechanisms:
+   -> linking to /Planes/N1098L
+- Broken link on source page path = /Security_Team/dan-flood:
+   -> linking to /Charlie/Day_Of
+- Broken link on source page path = /technology_surveillance/overview:
+   -> linking to /social_media_analysis
+- Broken link on source page path = /Theories/Government_Agencies_Claims:
+   -> linking to /knowledge/FULL_WRITE_UP.md
+   -> linking to /CIA/overview
+- Broken link on source page path = /Timeline/roof-jumping-timeline:
+   -> linking to /trash/analysis_documentation/comprehensive_examination
+- Broken link on source page path = /Timeline/witness-testimony-discrepancies:
+   -> linking to /trash/other_topics/witness_reliability
+- Broken link on source page path = /Topic-Analyses:
+   -> linking to /FBI
+   -> linking to /UVU
+   -> linking to /Israel
+- Broken link on source page path = /Topics:
+   -> linking to /After
+   -> linking to /Before
+   -> linking to /FBI
+   -> linking to /Israel
+   -> linking to /Drones
+   -> linking to /technology_surveillance
+   -> linking to /Witnesses
+   -> linking to /Suspects
+   -> linking to /UVU
+- Broken link on source page path = /Topics3/CIA/overview:
+   -> linking to /CIA/overview
+- Broken link on source page path = /Topics3/overview:
+   -> linking to /Topics3/US_Intelligence/cia
+- Broken link on source page path = /TPUSA/DOGE-TPUSA-Connection:
+   -> linking to /laws/1_DoJ_FBI/Law_1_DoJ_FBI
+- Broken link on source page path = /TPUSA/overview:
+   -> linking to ./TPUSA (resolved as: /TPUSA/TPUSA)
+   -> linking to /Israel/Mossad_TPUSA
+- Broken link on source page path = /TPUSA/TPUSA_Replacement_Timeline:
+   -> linking to /knowledge/FULL_WRITE_UP.md
+- Broken link on source page path = /Tyler_Robinson/Trial/overview:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /UVU/CIA-UVU-Profiles:
+   -> linking to /CIA/overview
+- Broken link on source page path = /UVU/Losee_Center:
+   -> linking to /court/mirandize/overview
+- Broken link on source page path = /UVU/UVU_Investigation_Index:
+   -> linking to /Gun_Bullet/ATF_Inconclusive
+- Broken link on source page path = /Videos/buckley-carlson-kash-patel-valhalla:
+   -> linking to /FBI
+- Broken link on source page path = /Videos/overview:
+   -> linking to Media/Censorship (resolved as: /Videos/Media/Censorship)
+   -> linking to cameras/overview (resolved as: /Videos/cameras/overview)
+   -> linking to cameras/UVU_Surveillance (resolved as: /Videos/cameras/UVU_Surveillance)
+   -> linking to Media/overview (resolved as: /Videos/Media/overview)
+   -> linking to CoverUp/overview (resolved as: /Videos/CoverUp/overview)
+- Broken link on source page path = /Vote/overview:
+   -> linking to Fix/Law1 (resolved as: /Vote/Fix/Law1)
+   -> linking to Fix/Law2 (resolved as: /Vote/Fix/Law2)
+
+[WARNING] Docusaurus found broken anchors!
+
+Please check the pages of your site in the list below, and make sure you don't reference any anchor that does not exist.
+Note: it's possible to ignore broken anchors with the 'onBrokenAnchors' Docusaurus configuration, and let the build pass.
+
+Exhaustive list of all broken anchors found:
+- Broken anchor on source page path = /laws:
+   -> linking to /laws/Discovery#law-for-charlie-kirk-file-disclosure
+   -> linking to /laws/Discovery#exploding-microphone-theory---discovery-request-items
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#intelligence-service-discovery-156
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#fbi-302-reports-5761
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#fbi-counterintelligence-6266
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#cell-phone-data-6773
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#airport--cbp-records-7480
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#egyptian-planes-8186
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#israeli-cell-phones-8791
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#provo-airport-9297
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#financial-records-98104
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#chain-of-custody-105112
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#threat-assessments-113117
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#surveillance-footage-118123
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#rental-car-records-124129
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#hotel-records-130134
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#digital-forensics-135140
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#ballistics-141147
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#distraction-people-148154
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#drones-155159
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#tpusa-intel-160165
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#autopsy--medical-166170
+   -> linking to /laws/DoJ_FBI/Law_1_DoJ_FBI#international-liaison-171175
+   -> linking to /laws/Discovery#appendix-a
+- Broken anchor on source page path = /laws/Discovery:
+   -> linking to #law-for-charlie-kirk-file-disclosure (resolved as: /laws/Discovery#law-for-charlie-kirk-file-disclosure)
+   -> linking to #exploding-microphone-theory---discovery-request-items (resolved as: /laws/Discovery#exploding-microphone-theory---discovery-request-items)
+   -> linking to #intelligence-service-discovery (resolved as: /laws/Discovery#intelligence-service-discovery)
+   -> linking to #fbi-302-reports (resolved as: /laws/Discovery#fbi-302-reports)
+   -> linking to #fbi-counterintelligence (resolved as: /laws/Discovery#fbi-counterintelligence)
+   -> linking to #cell-phone-data (resolved as: /laws/Discovery#cell-phone-data)
+   -> linking to #airport-cbp-records (resolved as: /laws/Discovery#airport-cbp-records)
+   -> linking to #egyptian-planes (resolved as: /laws/Discovery#egyptian-planes)
+   -> linking to #israeli-cell-phones (resolved as: /laws/Discovery#israeli-cell-phones)
+   -> linking to #provo-airport (resolved as: /laws/Discovery#provo-airport)
+   -> linking to #financial-records (resolved as: /laws/Discovery#financial-records)
+   -> linking to #chain-of-custody (resolved as: /laws/Discovery#chain-of-custody)
+   -> linking to #threat-assessments (resolved as: /laws/Discovery#threat-assessments)
+   -> linking to #surveillance-footage (resolved as: /laws/Discovery#surveillance-footage)
+   -> linking to #rental-car-records (resolved as: /laws/Discovery#rental-car-records)
+   -> linking to #hotel-records (resolved as: /laws/Discovery#hotel-records)
+   -> linking to #digital-forensics (resolved as: /laws/Discovery#digital-forensics)
+   -> linking to #ballistics (resolved as: /laws/Discovery#ballistics)
+   -> linking to #distraction-people (resolved as: /laws/Discovery#distraction-people)
+   -> linking to #drones (resolved as: /laws/Discovery#drones)
+   -> linking to #tpusa-intel (resolved as: /laws/Discovery#tpusa-intel)
+   -> linking to #autopsy-medical (resolved as: /laws/Discovery#autopsy-medical)
+   -> linking to #international-liaison (resolved as: /laws/Discovery#international-liaison)
+   -> linking to #appendix-a (resolved as: /laws/Discovery#appendix-a)
+- Broken anchor on source page path = /laws/DoJ_FBI/Law_1_DoJ_FBI:
+   -> linking to #intelligence-service-discovery-1-56 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#intelligence-service-discovery-1-56)
+   -> linking to #fbi-302-reports-57-61 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#fbi-302-reports-57-61)
+   -> linking to #fbi-counterintelligence-62-66 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#fbi-counterintelligence-62-66)
+   -> linking to #cell-phone-data-67-73 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#cell-phone-data-67-73)
+   -> linking to #airport--cbp-records-74-80 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#airport--cbp-records-74-80)
+   -> linking to #egyptian-planes-81-86 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#egyptian-planes-81-86)
+   -> linking to #israeli-cell-phones-87-91 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#israeli-cell-phones-87-91)
+   -> linking to #provo-airport-92-97 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#provo-airport-92-97)
+   -> linking to #financial-records-98-104 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#financial-records-98-104)
+   -> linking to #chain-of-custody-105-112 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#chain-of-custody-105-112)
+   -> linking to #threat-assessments-113-117 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#threat-assessments-113-117)
+   -> linking to #surveillance-footage-118-123 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#surveillance-footage-118-123)
+   -> linking to #rental-car-records-124-129 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#rental-car-records-124-129)
+   -> linking to #hotel-records-131-135 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#hotel-records-131-135)
+   -> linking to #digital-forensics-136-141 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#digital-forensics-136-141)
+   -> linking to #ballistics-142-148 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#ballistics-142-148)
+   -> linking to #distraction-people-149-155 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#distraction-people-149-155)
+   -> linking to #drones-156-160 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#drones-156-160)
+   -> linking to #tpusa-intel-161-166 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tpusa-intel-161-166)
+   -> linking to #autopsy--medical-167-171 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#autopsy--medical-167-171)
+   -> linking to #international-liaison-172-176 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#international-liaison-172-176)
+   -> linking to #tyler-robinson-defense--family-177-179 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tyler-robinson-defense--family-177-179)
+   -> linking to #witness-intimidation-180-181 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#witness-intimidation-180-181)
+   -> linking to #security-detail--foreign-connections-182 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#security-detail--foreign-connections-182)
+   -> linking to #medical--hospital-records-183-185 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#medical--hospital-records-183-185)
+   -> linking to #tpusa-financial-irregularities-or-possible-fraud-187-188 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tpusa-financial-irregularities-or-possible-fraud-187-188)
+   -> linking to #tpusa-employee-and-contractor-unusual-payments-188 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tpusa-employee-and-contractor-unusual-payments-188)
+   -> linking to #mosaic-pro-events--av-equipment-189-191 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#mosaic-pro-events--av-equipment-189-191)
+   -> linking to #butch-hibbs--exploding-microphone-192-193 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#butch-hibbs--exploding-microphone-192-193)
+   -> linking to #fbi-conduct-at-scene-194-195 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#fbi-conduct-at-scene-194-195)
+   -> linking to #fort-huachuca-meeting-196 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#fort-huachuca-meeting-196)
+   -> linking to #event-live-streams-197 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#event-live-streams-197)
+   -> linking to #kirks-personal-statements--relationships-198-200 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#kirks-personal-statements--relationships-198-200)
+   -> linking to #bullet-engravings--planted-evidence-201 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#bullet-engravings--planted-evidence-201)
+   -> linking to #crime-scene-paving-202 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#crime-scene-paving-202)
+   -> linking to #aes-factory-explosion-203 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#aes-factory-explosion-203)
+   -> linking to #tyler-robinson-movement--identity-204-207 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tyler-robinson-movement--identity-204-207)
+   -> linking to #venue-access--non-traditional-weapons-208-209 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#venue-access--non-traditional-weapons-208-209)
+   -> linking to #israeli-ip-surveillance-targeting-210 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#israeli-ip-surveillance-targeting-210)
+   -> linking to #autopsy-failure-211 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#autopsy-failure-211)
+   -> linking to #corner-shot-weapon-analysis-212 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#corner-shot-weapon-analysis-212)
+   -> linking to #state-official-communications-213 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#state-official-communications-213)
+   -> linking to #hospital-compromise-214 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#hospital-compromise-214)
+   -> linking to #hospital-bomb-threat-and-diversion-215 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#hospital-bomb-threat-and-diversion-215)
+   -> linking to #carbyne-911-system-data-216 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#carbyne-911-system-data-216)
+   -> linking to #independent-ballistics-and-forensic-testing-authority-217 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#independent-ballistics-and-forensic-testing-authority-217)
+   -> linking to #tpusa-insider-aircraft-n582mm-219 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#tpusa-insider-aircraft-n582mm-219)
+   -> linking to #egyptian-aircraft-return-to-provo-220 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#egyptian-aircraft-return-to-provo-220)
+   -> linking to #vancekirk2028com-domain-registration-221 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#vancekirk2028com-domain-registration-221)
+   -> linking to #bilt-inc-dod-contracts-222-226 (resolved as: /laws/DoJ_FBI/Law_1_DoJ_FBI#bilt-inc-dod-contracts-222-226)
+- Broken anchor on source page path = /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI:
+   -> linking to #intelligence-service-discovery-1-56 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#intelligence-service-discovery-1-56)
+   -> linking to #fbi-302-reports-57-61 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#fbi-302-reports-57-61)
+   -> linking to #fbi-counterintelligence-62-66 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#fbi-counterintelligence-62-66)
+   -> linking to #cell-phone-data-67-73 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#cell-phone-data-67-73)
+   -> linking to #airport--cbp-records-74-80 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#airport--cbp-records-74-80)
+   -> linking to #egyptian-planes-81-86 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#egyptian-planes-81-86)
+   -> linking to #israeli-cell-phones-87-91 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#israeli-cell-phones-87-91)
+   -> linking to #provo-airport-92-97 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#provo-airport-92-97)
+   -> linking to #financial-records-98-104 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#financial-records-98-104)
+   -> linking to #chain-of-custody-105-112 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#chain-of-custody-105-112)
+   -> linking to #threat-assessments-113-117 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#threat-assessments-113-117)
+   -> linking to #surveillance-footage-118-123 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#surveillance-footage-118-123)
+   -> linking to #rental-car-records-124-129 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#rental-car-records-124-129)
+   -> linking to #hotel-records-130-134 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#hotel-records-130-134)
+   -> linking to #digital-forensics-135-140 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#digital-forensics-135-140)
+   -> linking to #ballistics-141-147 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#ballistics-141-147)
+   -> linking to #distraction-people-148-154 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#distraction-people-148-154)
+   -> linking to #drones-155-159 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#drones-155-159)
+   -> linking to #tpusa-intel-160-165 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#tpusa-intel-160-165)
+   -> linking to #autopsy--medical-166-170 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#autopsy--medical-166-170)
+   -> linking to #international-liaison-171-175 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#international-liaison-171-175)
+   -> linking to #tyler-robinson-defense--family-176-178 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#tyler-robinson-defense--family-176-178)
+   -> linking to #witness-intimidation-179-180 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#witness-intimidation-179-180)
+   -> linking to #medical--hospital-records-182-184 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#medical--hospital-records-182-184)
+   -> linking to #tpusa-financial-fraud-185-186 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#tpusa-financial-fraud-185-186)
+   -> linking to #mosaic-pro-events--av-equipment-187-189 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#mosaic-pro-events--av-equipment-187-189)
+   -> linking to #butch-hibbs--exploding-microphone-190-191 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#butch-hibbs--exploding-microphone-190-191)
+   -> linking to #fbi-conduct-at-scene-192-193 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#fbi-conduct-at-scene-192-193)
+   -> linking to #kirks-personal-statements--relationships-196-198 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#kirks-personal-statements--relationships-196-198)
+   -> linking to #tyler-robinson-movement--identity-202-205 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#tyler-robinson-movement--identity-202-205)
+   -> linking to #venue-access--non-traditional-weapons-206-207 (resolved as: /laws/other/old/DoJ_FBI/Law_1_DoJ_FBI#venue-access--non-traditional-weapons-206-207)
+- Broken anchor on source page path = /laws/other/original:
+   -> linking to #law-for-charlie-kirk-file-disclosure (resolved as: /laws/other/original#law-for-charlie-kirk-file-disclosure)
+   -> linking to #exploding-microphone-theory---discovery-request-items (resolved as: /laws/other/original#exploding-microphone-theory---discovery-request-items)
+   -> linking to #intelligence-service-discovery (resolved as: /laws/other/original#intelligence-service-discovery)
+   -> linking to #fbi-302-reports (resolved as: /laws/other/original#fbi-302-reports)
+   -> linking to #fbi-counterintelligence (resolved as: /laws/other/original#fbi-counterintelligence)
+   -> linking to #cell-phone-data (resolved as: /laws/other/original#cell-phone-data)
+   -> linking to #airport-cbp-records (resolved as: /laws/other/original#airport-cbp-records)
+   -> linking to #egyptian-planes (resolved as: /laws/other/original#egyptian-planes)
+   -> linking to #israeli-cell-phones (resolved as: /laws/other/original#israeli-cell-phones)
+   -> linking to #provo-airport (resolved as: /laws/other/original#provo-airport)
+   -> linking to #financial-records (resolved as: /laws/other/original#financial-records)
+   -> linking to #chain-of-custody (resolved as: /laws/other/original#chain-of-custody)
+   -> linking to #threat-assessments (resolved as: /laws/other/original#threat-assessments)
+   -> linking to #surveillance-footage (resolved as: /laws/other/original#surveillance-footage)
+   -> linking to #rental-car-records (resolved as: /laws/other/original#rental-car-records)
+   -> linking to #hotel-records (resolved as: /laws/other/original#hotel-records)
+   -> linking to #digital-forensics (resolved as: /laws/other/original#digital-forensics)
+   -> linking to #ballistics (resolved as: /laws/other/original#ballistics)
+   -> linking to #distraction-people (resolved as: /laws/other/original#distraction-people)
+   -> linking to #drones (resolved as: /laws/other/original#drones)
+   -> linking to #tpusa-intel (resolved as: /laws/other/original#tpusa-intel)
+   -> linking to #autopsy-medical (resolved as: /laws/other/original#autopsy-medical)
+   -> linking to #international-liaison (resolved as: /laws/other/original#international-liaison)
+   -> linking to #appendix-a (resolved as: /laws/other/original#appendix-a)
+- Broken anchor on source page path = /laws/Require_to_Investigate/Law_3_Require_to_Investigate:
+   -> linking to #intelligence-service-discovery-1-57 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#intelligence-service-discovery-1-57)
+   -> linking to #fbi-302-reports-58-62 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#fbi-302-reports-58-62)
+   -> linking to #fbi-counterintelligence-63-67 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#fbi-counterintelligence-63-67)
+   -> linking to #cell-phone-data-68-74 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#cell-phone-data-68-74)
+   -> linking to #airport--cbp-records-75-81 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#airport--cbp-records-75-81)
+   -> linking to #egyptian-planes-82-87 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#egyptian-planes-82-87)
+   -> linking to #israeli-cell-phones-88-92 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#israeli-cell-phones-88-92)
+   -> linking to #provo-airport-93-98 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#provo-airport-93-98)
+   -> linking to #financial-records-99-105 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#financial-records-99-105)
+   -> linking to #chain-of-custody-106-113 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#chain-of-custody-106-113)
+   -> linking to #threat-assessments-114-118 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#threat-assessments-114-118)
+   -> linking to #surveillance-footage-119-124 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#surveillance-footage-119-124)
+   -> linking to #rental-car-records-125-130 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#rental-car-records-125-130)
+   -> linking to #hotel-records-132-136 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#hotel-records-132-136)
+   -> linking to #digital-forensics-137-142 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#digital-forensics-137-142)
+   -> linking to #ballistics-143-149 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#ballistics-143-149)
+   -> linking to #distraction-people-150-156 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#distraction-people-150-156)
+   -> linking to #drones-157-161 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#drones-157-161)
+   -> linking to #tpusa-intel-162-167 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#tpusa-intel-162-167)
+   -> linking to #autopsy--medical-168-172 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#autopsy--medical-168-172)
+   -> linking to #international-liaison-173-177 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#international-liaison-173-177)
+   -> linking to #tyler-robinson-defense--family-178-180 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#tyler-robinson-defense--family-178-180)
+   -> linking to #witness-intimidation-181-182 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#witness-intimidation-181-182)
+   -> linking to #medical--hospital-records-184-186 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#medical--hospital-records-184-186)
+   -> linking to #tpusa-financial-irregularities-or-possible-fraud-187-188 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#tpusa-financial-irregularities-or-possible-fraud-187-188)
+   -> linking to #mosaic-pro-events--av-equipment-189-191 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#mosaic-pro-events--av-equipment-189-191)
+   -> linking to #butch-hibbs--exploding-microphone-192-193 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#butch-hibbs--exploding-microphone-192-193)
+   -> linking to #fbi-conduct-at-scene-194-195 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#fbi-conduct-at-scene-194-195)
+   -> linking to #kirks-personal-statements--relationships-198-200 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#kirks-personal-statements--relationships-198-200)
+   -> linking to #tyler-robinson-movement--identity-204-207 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#tyler-robinson-movement--identity-204-207)
+   -> linking to #venue-access--non-traditional-weapons-208-209 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#venue-access--non-traditional-weapons-208-209)
+   -> linking to #bilt-inc-dod-contracts-223-227 (resolved as: /laws/Require_to_Investigate/Law_3_Require_to_Investigate#bilt-inc-dod-contracts-223-227)
+- Broken anchor on source page path = /laws/Trusted_Investigations/Law_4_Trusted_Investigations:
+   -> linking to #intelligence-service-discovery-1-57 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#intelligence-service-discovery-1-57)
+   -> linking to #fbi-302-reports-58-62 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#fbi-302-reports-58-62)
+   -> linking to #fbi-counterintelligence-63-67 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#fbi-counterintelligence-63-67)
+   -> linking to #cell-phone-data-68-74 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#cell-phone-data-68-74)
+   -> linking to #airport--cbp-records-75-81 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#airport--cbp-records-75-81)
+   -> linking to #egyptian-planes-82-87 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#egyptian-planes-82-87)
+   -> linking to #israeli-cell-phones-88-92 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#israeli-cell-phones-88-92)
+   -> linking to #provo-airport-93-98 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#provo-airport-93-98)
+   -> linking to #financial-records-99-105 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#financial-records-99-105)
+   -> linking to #chain-of-custody-106-113 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#chain-of-custody-106-113)
+   -> linking to #threat-assessments-114-118 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#threat-assessments-114-118)
+   -> linking to #surveillance-footage-119-124 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#surveillance-footage-119-124)
+   -> linking to #rental-car-records-125-130 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#rental-car-records-125-130)
+   -> linking to #hotel-records-132-136 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#hotel-records-132-136)
+   -> linking to #digital-forensics-137-142 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#digital-forensics-137-142)
+   -> linking to #ballistics-143-149 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#ballistics-143-149)
+   -> linking to #distraction-people-150-156 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#distraction-people-150-156)
+   -> linking to #drones-157-161 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#drones-157-161)
+   -> linking to #tpusa-intel-162-167 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#tpusa-intel-162-167)
+   -> linking to #autopsy--medical-168-172 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#autopsy--medical-168-172)
+   -> linking to #international-liaison-173-177 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#international-liaison-173-177)
+   -> linking to #tyler-robinson-defense--family-178-180 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#tyler-robinson-defense--family-178-180)
+   -> linking to #witness-intimidation-181-182 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#witness-intimidation-181-182)
+   -> linking to #medical--hospital-records-184-186 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#medical--hospital-records-184-186)
+   -> linking to #tpusa-financial-irregularities-or-possible-fraud-187-188 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#tpusa-financial-irregularities-or-possible-fraud-187-188)
+   -> linking to #mosaic-pro-events--av-equipment-189-191 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#mosaic-pro-events--av-equipment-189-191)
+   -> linking to #butch-hibbs--exploding-microphone-192-193 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#butch-hibbs--exploding-microphone-192-193)
+   -> linking to #fbi-conduct-at-scene-194-195 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#fbi-conduct-at-scene-194-195)
+   -> linking to #kirks-personal-statements--relationships-198-200 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#kirks-personal-statements--relationships-198-200)
+   -> linking to #tyler-robinson-movement--identity-204-207 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#tyler-robinson-movement--identity-204-207)
+   -> linking to #venue-access--non-traditional-weapons-208-209 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#venue-access--non-traditional-weapons-208-209)
+   -> linking to #bilt-inc-dod-contracts-223-227 (resolved as: /laws/Trusted_Investigations/Law_4_Trusted_Investigations#bilt-inc-dod-contracts-223-227)
+- Broken anchor on source page path = /laws/US_Intel/Law_2_US_Intel:
+   -> linking to #intelligence-service-discovery-1-57 (resolved as: /laws/US_Intel/Law_2_US_Intel#intelligence-service-discovery-1-57)
+   -> linking to #fbi-302-reports-58-62 (resolved as: /laws/US_Intel/Law_2_US_Intel#fbi-302-reports-58-62)
+   -> linking to #fbi-counterintelligence-63-67 (resolved as: /laws/US_Intel/Law_2_US_Intel#fbi-counterintelligence-63-67)
+   -> linking to #cell-phone-data-68-74 (resolved as: /laws/US_Intel/Law_2_US_Intel#cell-phone-data-68-74)
+   -> linking to #airport--cbp-records-75-81 (resolved as: /laws/US_Intel/Law_2_US_Intel#airport--cbp-records-75-81)
+   -> linking to #egyptian-planes-82-87 (resolved as: /laws/US_Intel/Law_2_US_Intel#egyptian-planes-82-87)
+   -> linking to #israeli-cell-phones-88-92 (resolved as: /laws/US_Intel/Law_2_US_Intel#israeli-cell-phones-88-92)
+   -> linking to #provo-airport-93-98 (resolved as: /laws/US_Intel/Law_2_US_Intel#provo-airport-93-98)
+   -> linking to #financial-records-99-105 (resolved as: /laws/US_Intel/Law_2_US_Intel#financial-records-99-105)
+   -> linking to #chain-of-custody-106-113 (resolved as: /laws/US_Intel/Law_2_US_Intel#chain-of-custody-106-113)
+   -> linking to #threat-assessments-114-118 (resolved as: /laws/US_Intel/Law_2_US_Intel#threat-assessments-114-118)
+   -> linking to #surveillance-footage-119-124 (resolved as: /laws/US_Intel/Law_2_US_Intel#surveillance-footage-119-124)
+   -> linking to #rental-car-records-125-130 (resolved as: /laws/US_Intel/Law_2_US_Intel#rental-car-records-125-130)
+   -> linking to #hotel-records-132-136 (resolved as: /laws/US_Intel/Law_2_US_Intel#hotel-records-132-136)
+   -> linking to #digital-forensics-137-142 (resolved as: /laws/US_Intel/Law_2_US_Intel#digital-forensics-137-142)
+   -> linking to #ballistics-143-149 (resolved as: /laws/US_Intel/Law_2_US_Intel#ballistics-143-149)
+   -> linking to #distraction-people-150-156 (resolved as: /laws/US_Intel/Law_2_US_Intel#distraction-people-150-156)
+   -> linking to #drones-157-161 (resolved as: /laws/US_Intel/Law_2_US_Intel#drones-157-161)
+   -> linking to #tpusa-intel-162-167 (resolved as: /laws/US_Intel/Law_2_US_Intel#tpusa-intel-162-167)
+   -> linking to #autopsy--medical-168-172 (resolved as: /laws/US_Intel/Law_2_US_Intel#autopsy--medical-168-172)
+   -> linking to #international-liaison-173-177 (resolved as: /laws/US_Intel/Law_2_US_Intel#international-liaison-173-177)
+   -> linking to #tyler-robinson-defense--family-178-180 (resolved as: /laws/US_Intel/Law_2_US_Intel#tyler-robinson-defense--family-178-180)
+   -> linking to #witness-intimidation-181-182 (resolved as: /laws/US_Intel/Law_2_US_Intel#witness-intimidation-181-182)
+   -> linking to #medical--hospital-records-184-186 (resolved as: /laws/US_Intel/Law_2_US_Intel#medical--hospital-records-184-186)
+   -> linking to #tpusa-financial-irregularities-or-possible-fraud-187-188 (resolved as: /laws/US_Intel/Law_2_US_Intel#tpusa-financial-irregularities-or-possible-fraud-187-188)
+   -> linking to #mosaic-pro-events--av-equipment-189-191 (resolved as: /laws/US_Intel/Law_2_US_Intel#mosaic-pro-events--av-equipment-189-191)
+   -> linking to #butch-hibbs--exploding-microphone-192-193 (resolved as: /laws/US_Intel/Law_2_US_Intel#butch-hibbs--exploding-microphone-192-193)
+   -> linking to #fbi-conduct-at-scene-194-195 (resolved as: /laws/US_Intel/Law_2_US_Intel#fbi-conduct-at-scene-194-195)
+   -> linking to #kirks-personal-statements--relationships-198-200 (resolved as: /laws/US_Intel/Law_2_US_Intel#kirks-personal-statements--relationships-198-200)
+   -> linking to #tyler-robinson-movement--identity-204-207 (resolved as: /laws/US_Intel/Law_2_US_Intel#tyler-robinson-movement--identity-204-207)
+   -> linking to #venue-access--non-traditional-weapons-208-209 (resolved as: /laws/US_Intel/Law_2_US_Intel#venue-access--non-traditional-weapons-208-209)
+   -> linking to #masint--satellite-intelligence-210-211 (resolved as: /laws/US_Intel/Law_2_US_Intel#masint--satellite-intelligence-210-211)
+   -> linking to #bilt-inc-dod-contracts-223-227 (resolved as: /laws/US_Intel/Law_2_US_Intel#bilt-inc-dod-contracts-223-227)
+
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.

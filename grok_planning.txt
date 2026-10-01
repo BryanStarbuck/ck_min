@@ -1,0 +1,386 @@
+Timeline Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Timeline — chronological hub; 21 Level 3 pages + 3 Level 4 Tyler sub-pages.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/timeglyph (10 files)
+
+NEW LEVEL 3 (1): Investigation_Index
+
+PAGES_CSV: +10 rows (Investigation_Index + 9 previously unindexed Level 3 pages)
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (8-7-7); removed embedded summary/full-detail blocks (content lives on Level 3 pages + Investigation_Index)
+
+FIXED: all root Level 3 back buttons href="./overview" → href="/Timeline/overview"
+
+EXPANDED: roof-jumping-timeline + 2026 grok linkage tables
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Investigation_Index
+- 2_results.txt → Sept_10_2025 + 12-23-shooting-time
+- 3_results.txt → Sept_8_to_13 + roof-jumping-timeline
+- 4_results.txt → Tyler_Robinson + Level 4 sub-pages
+- 5_results.txt → july-18-decision + July 20 meeting cluster
+- 6_results.txt → hamptons + high-pressure-sept-9 + kill-me text
+- 7_results.txt → Year hubs (2024/2025/2026/years/2025)
+- 8_results.txt → Charlie_Kirk
+- 9_results.txt → witness-discrepancies + post-assassination-investigations
+- 10_results.txt → october-15-2025 + Planes
+
+UI: Timeline/overview in sidebars.ts — no missing entry warning.
+
+TOTAL: 1 Level 2 + 22 Level 3 + 3 Level 4 = 26 Timeline pages.
+
+---
+
+CoverUp Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = CoverUp — navbar section; physical scene, foreign-lead shutdown, digital evidence, custody timeline, censorship (17 existing claim pages).
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/coverglyph (10 files)
+
+NEW LEVEL 3 (1): Investigation_Index
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (6-6-6); removed numbered indicator list, Baron Coleman video block, duplicate Related sections; three body paragraphs
+
+FIXED: all 17 Level 3 back buttons href="./overview" → href="/CoverUp/overview"
+
+EXPANDED: WhiteHouse_Halt_IC + Distraction_People grok linkage tables; existing pages already substantive (146–427 lines)
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Investigation_Index
+- 2_results.txt → Dirt_Removed
+- 3_results.txt → Mic_Explosive
+- 4_results.txt → AES_Tennessee_Explosion
+- 5_results.txt → Joe_Kent_Halt + WhiteHouse_Halt_IC
+- 6_results.txt → Google_Censorship + Censorship_Investigators + YouTube/X HolonCitizen
+- 7_results.txt → Israelis_At_UVU
+- 8_results.txt → Videos_Deleted_Remotely + FBI_Asked_Delete_Video
+- 9_results.txt → Utah_Autopsy_Law + Sheriff_Video_Withheld + Custody_Confession_Timeline
+- 10_results.txt → Narrative_Psyop + Distraction_People
+
+UI: CoverUp/overview in sidebars.ts navbar — no missing entry warning.
+
+TOTAL: 1 Level 2 overview + 18 Level 3 = 19 CoverUp pages (~4496 lines).
+
+---
+
+After Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = After — any event after 9/10/2025 12:23 PM MT (surrender, paving, gag orders, media, resignations, trial, memorial, visa).
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/afterglyph (10 files)
+
+NEW LEVEL 3 (4): Investigation_Index, Sept_11_Surrender_And_Custody, Institutional_Resignations, Memorial_And_TPUSA_Succession
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (4-4-3); removed duplicate bottom TOC blocks
+
+EXPANDED: all 8 Level 3 pages from grok fan-out; back buttons → /After/overview
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Investigation_Index
+- 2_results.txt → Sept_11_Surrender_And_Custody
+- 3_results.txt → Site_Changes_And_Crime_Scene_Handling
+- 4_results.txt → Legal_Process_Gag_Orders_And_Secrecy
+- 5_results.txt → Media_Narratives_And_Censorship_After
+- 6_results.txt → Media_Narratives_And_Censorship_After
+- 7_results.txt → Institutional_Resignations
+- 8_results.txt → Legal_Process (discovery/ATF/Ballard)
+- 9_results.txt → Memorial_And_TPUSA_Succession
+- 10_results.txt → Visa-Revocation-Celebrations
+
+UI: After/overview in sidebars.ts — no missing entry warning.
+
+---
+
+UVU Level 2 expansion (second pass) — 2026-07-04
+
+INPUT: Level 2 = UVU — campus site, GRAMA failures, people at UVU event, Tyler trial evidence, motive/suppression warnings.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/uvuglyph (10 files)
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (6-6-4) with People + Witnesses cross-links and three body paragraphs.
+
+EXPANDED: All 16 Level 3 pages from uvuglyph fan-out. Investigation_Index — People at UVU table (19 profiles), grok-query slots Q1–Q10, trial row.
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + UVU_Investigation_Index
+- 2_results.txt → pre-shooting-warnings
+- 3_results.txt → Campus_Security_Gaps
+- 4_results.txt → Courtyward, Tent, maps
+- 5_results.txt → Losee_Center
+- 6_results.txt → Pavers, Hardscape-Specialties
+- 7_results.txt → UVU-Administration-Response, Institutional, Faculty, Student, Social
+- 8_results.txt → People/ cross-links (courtyard, security, maps, index)
+- 9_results.txt → Stingray-Device, CIA-UVU-Profiles
+- 10_results.txt → Losee trial section, Investigation_Index trial block, Social trial
+
+People profiles linked: Hunter Kozak, Rick Cutler, Brian Harpole, Jeff Long, Dan Flood, Caleb Chilcutt, Jeb Jacobi, Charles McClintock Wilson, Andrew Feraci, etc.
+
+UI: UVU/overview in sidebars.ts — no missing entry warning.
+
+---
+
+People Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = People — anyone interesting related to Charlie Kirk killing, UVU 9/10/2025, motive to suppress Kirk, Tyler Robinson, trial.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/peopleglyph (10 files)
+
+NEW LEVEL 3: People/Investigation_Index — roster hub with grok-query routing tables
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (22-22-21), three body paragraphs, Investigation_Index first bullet
+
+EXPANDED: 50+ Level 3 profiles from grok fan-out — security (Harpole, Flood, Long), TPUSA staff (Mikey, Blake, Kolvet), witnesses (22), Hamptons circle (16), central figures (tyler-robinson trial addendum)
+
+BACK BUTTONS: all People Level 3 → href="/People/overview"
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Investigation_Index
+- 2_results.txt → charlie-kirk, ben-shapiro, josh-hammer
+- 3_results.txt → tyler-robinson, lance-twiggs, Lance_Twiggs_Family, nate-brooksby
+- 4_results.txt → erika-kirk, rob-mccoy, mikey-mccoy, blake-neff
+- 5_results.txt → brian-harpole, dan-flood, rick-cutler, jeff-long, SUV crew
+- 6_results.txt → 22 witness/videographer/AV pages
+- 7_results.txt → 9 Hamptons donor meeting profiles
+- 8_results.txt → candace-owens, ian-carroll, tucker-carlson
+- 9_results.txt → andrew-kolvet, andrew-sypher, caleb-chilcutt, danny-phillip
+- 10_results.txt → Officials_And_Institutions, nate-brooksby, jeff-long
+
+UI: People/overview in sidebars.ts — no missing entry warning.
+
+---
+
+Before Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Before — pre-UVU events, Twitter/X interesting context for Charlie Kirk killing.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/beforeglyph (10 files)
+
+NEW: Before_Investigation_Index — chronology table, grok routing memo
+
+EXPANDED: Political_Pressure (meeting chronology, Sept 9, Epstein July 12), PreEvent_Searches (Timpanogos surgeons, July 18, political hits), Heightened (aircraft table, Bowyer/insurance), Political-Violence (Hammer/Levin rhetoric), State-Department (pre-event diplomatic travel)
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC 3-3-3, three body paragraphs; removed duplicate long Overview blocks
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Before_Investigation_Index
+- 2_results.txt → Political_Pressure_And_Meetings_2025
+- 3_results.txt → Political_Pressure + Woke-Right + MAGA
+- 4_results.txt → Political_Pressure + Heightened
+- 5_results.txt → Heightened + Planes
+- 6_results.txt → PreEvent_Searches_And_Recon
+- 7_results.txt → PreEvent + Political_Pressure
+- 8_results.txt → Political-Violence-Debate
+- 9_results.txt → Free-Speech-Campus-Issues
+- 10_results.txt → Heightened + State-Department + Epstein/Bowyer
+
+UI: Before/overview in sidebars.ts — no warning.
+
+---
+
+UVU Level 2 verification pass — 2026-07-04
+
+INPUT: Level 2 = UVU — campus kill zone, GRAMA, people, trial evidence.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/uvuglyph (10 files — prior expansion 1900, gaps filled 1613)
+
+16 LEVEL 3 PAGES — all mapped. Gap fill: Q8 AV crew on Courtyard; Q4 night-before Flood texts on pre-shooting-warnings; Q10 Ballard/Grunander on Index + Losee.
+
+GROK → PAGE MAPPING: see changes.txt 2026_07_04_1613 entry.
+
+UI: UVU in sidebars.ts — no warning.
+
+---
+
+Motive Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Motive — anything about why Charlie Kirk was killed.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/motiveglyph (10 files)
+
+NEW LEVEL 3: Motive_Investigation_Index — memo hub, lane tables, death-warning index
+
+EXPANDED: Donors_Israel_ForeignPolicy, Geopolitical_Intel_Service_Theories, Institutional_Media_Organizational_Dynamics, Tyler_Robinson_Alleged_Motive
+
+RESTRUCTURED: overview — Assess_Manual 3-column TOC (2-2-1), three body paragraphs, removed duplicate TOC blocks
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Motive_Investigation_Index
+- 2_results.txt → Donors_Israel_ForeignPolicy (donor texts, Tucker)
+- 3_results.txt → Donors_Israel_ForeignPolicy (Netanyahu, Pierre, Hamptons)
+- 4_results.txt → Donors_Israel_ForeignPolicy + Investigation_Index (death warnings, Dan Flood)
+- 5_results.txt → Donors_Israel_ForeignPolicy (Iran, AIPAC, Gaza)
+- 6_results.txt → Geopolitical_Intel_Service_Theories
+- 7_results.txt → Institutional_Media_Organizational_Dynamics
+- 8_results.txt → Tyler_Robinson_Alleged_Motive
+- 9_results.txt → Institutional_Media_Organizational_Dynamics
+- 10_results.txt → Geopolitical_Intel + Donors (ADL, geofencing, arms trafficking)
+
+UI: Motive/overview in sidebars.ts — no missing entry warning.
+
+---
+
+Suspects Level 2 expansion — 2026-07-04 (verification pass)
+
+INPUT: Level 2 = Suspects — anything about alternative suspects, POIs, shooter locations beyond Tyler Robinson.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/suspectwave (10 files — prior run 1136, mapping verified 1531)
+
+LEVEL 3 PAGES (6 total):
+- Suspects_Investigation_Index — memo hub, POI table, FBI pivot, crowd checklist
+- Black_Clothing_Suspect — dispatch, Dylan Hope, K9, sheriff/FBI photo mismatch
+- Shooting_Locations — Losee affidavit, ballistics angle, grey van acoustics, ran-before-shot timing
+- Grey_Van_Shooter — laser POI, hatch timing, 4940 Hz
+- Rick_Cutler_POI — SUV witness
+- Van_Man_Bednarz — CumbyWilliam grey-van allegations
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Suspects_Investigation_Index
+- 2_results.txt → Black_Clothing_Suspect
+- 3_results.txt → Shooting_Locations
+- 4_results.txt → Grey_Van_Shooter
+- 5_results.txt → Rick_Cutler_POI
+- 6_results.txt → Van_Man_Bednarz
+- 7_results.txt → Black_Clothing_Suspect supplement (Fox map, Dairy Queen, press conference)
+- 8_results.txt → Shooting_Locations (affidavit timeline, ran-before-shot, Google Trends scout)
+- 9_results.txt → Rick_Cutler_POI + Investigation_Index (Lyman, Barker, pistol crowd)
+- 10_results.txt → Investigation_Index + Black_Clothing (FBI pivot, Kash Patel discovery)
+
+UPDATED THIS PASS: overview (3-column TOC), Shooting_Locations (ran-before-shot), Suspects_Investigation_Index (query 9/10 gaps).
+
+UI WARNING: Suspects on home panel (index.mdx) but NOT in sidebars.ts.
+
+---
+
+cameras Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = cameras — anything about cameras, photos, video, mobile, TPUSA footage, surveillance, Tyler Robinson.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/lensglyph (10 files)
+
+NEW LEVEL 3 PAGES (6):
+- Investigation_Index — memo hub + peer pointers
+- Eyewitness_Mobile_Video — Ryne Simmons, Jon Bray, Blake Bednarz
+- Canon_XA55_Broadcast — professional broadcast audio
+- TPUSA_Production_Footage — withheld vs birthday release, drone contradiction
+- Merchant_And_Travel_CCTV — Dairy Queen, Maverik, Washington County lobby
+- Crime_Scene_Camera_Actions — SD cards, camera takedown, badge-man threads
+
+UPDATED: overview (4-4-3 TOC, three body paragraphs), Ring, WYZE, UVU_Surveillance, Tyler_On_Cameras, Tyler_Placeholder — absolute back buttons, grok-mapped expansion.
+
+GROK → PAGE MAPPING:
+- 1_results.txt → overview + Investigation_Index
+- 2_results.txt → UVU_Surveillance
+- 3_results.txt → Ring
+- 4_results.txt → WYZE
+- 5_results.txt → Tyler_On_Cameras + Tyler_Placeholder
+- 6_results.txt → Eyewitness_Mobile_Video
+- 7_results.txt → Canon_XA55_Broadcast
+- 8_results.txt → TPUSA_Production_Footage
+- 9_results.txt → Merchant_And_Travel_CCTV
+- 10_results.txt → Crime_Scene_Camera_Actions
+
+PAGES.CSV: +6 rows, 6 updated line counts/descriptions.
+
+UI: cameras/overview in sidebars.ts — no missing entry warning.
+
+TOTAL: 1 Level 2 + 11 Level 3 = 12 cameras pages.
+
+Media Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Media — newspapers, articles, TV, platforms, court case, Tyler Robinson.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/mediasurge (10 files)
+
+NEW LEVEL 3 PAGES (10):
+- investigation-index, september-10-breaking-news, fox-news-coverage, utah-local-press, social-media-platforms, broadcast-tv-networks, tyler-robinson-trial-press, tabloid-digital-press, fbi-press-conference-media, tpusa-replacement-fox-interview
+
+UPDATED: overview.mdx — Assess_Manual three-column TOC (9-8-8), three body paragraphs; 14 existing pages back-button fix to /Media/overview; pages.csv +18 rows (10 new + 8 previously missing from CSV).
+
+UI: Media/overview exists — verify sidebars.ts / home TOC entry.
+
+TOTAL: 1 Level 2 + 25 Level 3 Media pages.
+
+court Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Court — anything about court, judge, trial, prosecutors, defense, prison, discovery, Tyler Robinson trial.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/courtglyph (10 files)
+
+NEW LEVEL 2: court/overview.mdx — Assess_Manual three-column TOC (5-5-4), three body paragraphs, Related Areas.
+
+NEW LEVEL 3 PAGES (13):
+- investigation-index — memo hub + case roster
+- case-overview — State v. Robinson 251403576
+- judge-tony-graf — presiding judge, gag order, contempt
+- judge-robert-lunnen — vacancy before case
+- defense-team — Nester, Burt, Novak, Visser
+- prosecution-team — Gray, Ballard, deputies
+- utah-county-jail-custody — Booking 460956
+- discovery-brady-disputes — FBI/ATF withholding, 600k files
+- gag-orders-sealing — Dec 2025 gag, March 2026 seal fight
+- preliminary-hearing-motions — July 2026 scheduling
+- ballistics-atf-cbla — inconclusive ATF, CBLA, VCM
+- jaxson-fox-informant-order — transport order
+- discord-evidence-court — Miranda vs Discord timeline
+
+UPDATED: mirandize/overview.mdx — back button to /court/overview, Court cross-links.
+
+PAGES.CSV: +14 rows (Court L2 + 13 L3); court_mirandize parent_key Home → Court.
+
+UI WARNING: court not in sidebars.ts or home TOC — needs inbound nav entry.
+
+TOTAL: 1 Level 2 + 13 new Level 3 + 1 mirandize update + 4 existing mirandize Level 4 = 19 court-area pages.
+
+Law_Enforcement Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = Law_Enforcement — non-FBI police sheriffs DPS prosecutors.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/lebadgefox (10 files)
+
+NEW LEVEL 3 PAGES (3):
+- Investigation_Index, utah-county-sheriff, utah-dps-beau-mason
+
+UPDATED: overview (4-4-3 TOC non-FBI), orem-police-response, court-proceedings, fbi-role + nctc-shutdown → pointer stubs
+
+TOTAL: 1 Level 2 + 13 Level 3 = 14 Law_Enforcement pages (11 in main TOC).
+
+key_individuals Level 2 expansion — 2026-07-04
+
+INPUT: Level 2 = key_individuals — anyone peripheral to Charlie Kirk killing.
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/keyrosterfox (10 files)
+
+NEW LEVEL 3 PAGES (10):
+- Investigation_Index, Central_Figures, Security_And_Protection, Officials_And_Law_Enforcement, TPUSA_Staff_Sept_10, Eyewitnesses_And_Workers, Distraction_And_Early_Suspects, Donor_Meeting_Circle, Investigators_And_Media, Medical_Legal_Periphery
+
+TOTAL: 1 Level 2 + 10 Level 3 = 11 key_individuals pages.
+
+GoogleSearches Level 2 expansion — 2026-07-04
+
+INPUT: Build out GoogleSearches — Israel/DC/Virginia Google Trends before 9/10/2025 for case-related people, places, things
+
+GROK_QUERY_DIR: ~/T/_ck/grok_query/trendglyph (10 files)
+
+NEW LEVEL 3 PAGES (14):
+- investigation-index — hub + methodology
+- july-20-2025-anchor — AMFEST/SU-BTT/surgeon window
+- israel-ip-search-patterns — Israel geography cluster
+- dc-metro-search-patterns — DC + Virginia/DMV context
+- tyler-robinson-lance-twiggs-searches — suspect + partner address + Precision Marble
+- kathryn-nester-searches — Dec 2024 Israel spike
+- uvu-campus-location-searches — campus + N888KG Sept 9
+- timpanogos-medical-searches — hospital, Amaro, surgeons, Gunn, Merrell
+- judges-graf-lunnen-searches — Israeli pre-search bench scouting claim
+- planes-search-patterns — N1098L Aug 8, N888KG
+- fbi-dps-law-enforcement-searches — Syed, Bohls, Beau Mason, Mitchell
+- tpusa-political-figures-searches — insiders + Lyman, Kozak, Cutler
+- misc-figures-searches — Fox, Zinn, Vasquez scatter list
+- trends-deletion-suppression — live scrub allegations
+
+UPDATED:
+- overview.mdx — Assess_Manual three-column TOC (5-5-4), three paragraphs, YAML frontmatter
+
+UI: GoogleSearches/overview in sidebars.ts — no missing entry warning.
+
+TOTAL: 1 Level 2 + 14 Level 3 = 15 GoogleSearches pages.

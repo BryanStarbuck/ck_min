@@ -1,0 +1,37 @@
+id: '2084026940860596330'
+url: 'https://x.com/CharlotteLee_88/status/2084026940860596330'
+author:
+  username: 'CharlotteLee_88'
+  name: 'Charliesangels47'
+  id: '2006195421312401409'
+text: |
+  🚨🚨 New footage obtained from a witness in the crowd ‼️‼️
+
+  Gives us a glimpse into the Set up.   Chrissy and Angel were responsible for setting up the tent.   Making his tea too? https://t.co/V6ttMHbSGm
+created_at: '2026-08-02T21:21:56.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 14
+  reply_count: 5
+  like_count: 62
+  quote_count: 0
+  bookmark_count: 18
+  impression_count: 3828
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2084026859029688320'
+      duration_ms: 12071
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2084026859029688320/img/t5pSyypKB7tNA-U6.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2084026859029688320/vid/avc1/1080x1920/1yoZrlmqc8ySp-t1.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-02'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

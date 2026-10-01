@@ -1,0 +1,828 @@
+{
+ "2068463186668605858": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx"
+ ],
+ "2089076950174158960": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx"
+ ],
+ "2079560806690324910": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/joe-kent.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/intelligence/Joe_Kent_Dorey_Interview.mdx"
+ ],
+ "2080472331692954016": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Cause_of_Death/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/AES_Tennessee_Explosion.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/Mic_Explosive.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/FBI/Rigged_Mic_Explains_Anomalies.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Iran/mossad-files-exploding-mic.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/Coverup_Indicators.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/Patsies_Distraction_Actors.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/israel-mossad.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/more-theories.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/tyler-robinson.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/us-intelligence.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/ballistics_and_wound_analysis.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/lapel_mic_and_audio_theories.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/AES.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/AV_Team_Mic_Setup.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Canon_XA55_Audio.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Chest_Shot_Witnesses.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Demo_of_shape_charge.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/DoD_Contract.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Investigation_Index.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Mic_vs_Pendant.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Stew_Peters_Broke_AES_Mic.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Table_Jumpers_Device.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/aes-explosion-factory.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/aes-heber-nashville-flight.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/burnt-object-rode-transmitter.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/exploding-pendant-shaped-charge.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/mic-explosion-video-analysis.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/rob-oneill-navy-seal-testimony.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/rode-wireless-mic.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/suv-transporting-charlie.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/Acoustic_Two_Event_Split.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/Alternative_Kill_Mechanisms.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/acoustics-south.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/atf-fragment-class-only.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/burnt-object-transmitter.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/canon-audio-detonation.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/electrocution-trigger.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/energy-mismatch.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/entrance-or-exit.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/mic-under-shirt.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/necklace-and-residue.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/shirt-before-blood.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tent/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/intelligence/overview.mdx"
+ ],
+ "yt/1RbDMiEReys": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Fix/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx"
+ ],
+ "2085075638449307892": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Cause_of_Death/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/hebrew-searches-erika-kirk-egyptian-jets.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Following-Charlie-Erika.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Intel_Services/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/intelligence/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/maps/overview.mdx"
+ ],
+ "2084745267962585553": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/critical/google_search_in_hebrew.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx"
+ ],
+ "2087612450229072023": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/twenty-five-hour-driving-timeline.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx"
+ ],
+ "2083353205736390930": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx"
+ ],
+ "2084426970964877724": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Media/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/marjorie-taylor-greene.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Theories/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/overview.mdx"
+ ],
+ "site/bafybeicbicphcfju7xabn5ghc7xrtdsne3nuxt4443z6iau2gfacw7mntq": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Cause_of_Death/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/Navy_SEAL_ONeill_Questions.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Theories/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/intelligence/overview.mdx"
+ ],
+ "site/bafybeigxnwvt2zzsuij3xpzzubtqhkm76b2waxxs26caz4vx3r7ui5dcxy": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/Confession_Fabrication.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gov_Mind_Control/discord-confession-timing.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/chains/did-not-turn-himself-in.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/chains/miranda-discord-impossible.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/fed_narrative/discord-confession.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/fed_narrative/turned-himself-in.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/Discord_Custody_Timeline.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Defense_Attorneys/miranda-defense-filing.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Law_Enforcement/arrest-time-discrepancy.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Law_Enforcement/miranda-vs-brooksby-account.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Law_Enforcement/robinson-did-not-surrender.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Tyler_Robinson/Mirandizing.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/custody-surrender-mirandizing-timeline.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/custody-vs-discord-confession-timeline.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Surrender.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/discord/bates-003996-miranda-vs-discord.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/discord/september-11-turn-in-testimony.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/faked-confession.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/faked-confession.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/discord-evidence-court.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/baron-coleman-early-turn-in.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/bodycam-grama-no-footage.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/custody-timeline-fake-confession.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/grok-analysis.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/investigative-hold-counterpoint.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/mirandized-sept-11-image.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/probable-cause-affidavit.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/sept-11-grok-image.mdx"
+ ],
+ "2071736376215920842": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Intel_Services/State_Actors_Professional_Hit.mdx"
+ ],
+ "site/bafybeid4rhwk5tlupl3x6t2xn3x3a43uuhi54jxnjw5h7hvfv4ch4zsdvi": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Phone_Calls/security-detail-call-chain.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/dan-flood-security-texts.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Defamation/Brian_Harpole_Candace_Defemation.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Fix/Event_Security.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-candace-owens.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/x/brianharpole.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Messages/message-to-dan-flood.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/candace-owens.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/dan-flood.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/following/speaking/20250911_woodland_park.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/bobby-harpole.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/brian-harpole.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/charis-bible-college-no-plan-video.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/dan-flood.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/integrity-security.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/next-event-no-plan.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/no-counter-snipers.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/perimeter-rooftop-failures.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/screening-credentials.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/TPUSA_Peripheral/flood-scrubbed-from-site.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/LLCs/rockhouse-integrity-group-llc.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/no-security-plan-sept-11.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Sept_8_to_13.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Campus_Security_Gaps.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/key_individuals/Security_And_Protection.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/security_law_enforcement/overview.mdx"
+ ],
+ "site/bafybeicqggzxlz3e7xlocjysympkkwa6dtgex3vs64tllgruybqwymnliy": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/overview.mdx"
+ ],
+ "2002152440435781712": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/bobby-harpole.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/brian-harpole.mdx"
+ ],
+ "site/bafybeie4fgxeu2qi4ujttcz5n2t2lzasg6t2ffztamthw6t5eewetui33y": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/tpusa-fired-for-questioning-narrative.mdx"
+ ],
+ "_QwGo0LyZ3I": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/justin-streiff.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/stacy-sheridan.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/charlie-replace-coo.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/doge-audit.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/people-related-to-tpusa.mdx"
+ ],
+ "2080879127033430307": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/mikey-mccoy.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/tyler-bowyer.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/charlie-kirk-handler-remark.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/overview.mdx"
+ ],
+ "site/QmQu4bLUV17fGV6D2aynbKmNiAj4qgBnFmCBHrypw3BVwU": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/overview.mdx"
+ ],
+ "2078917940993311136": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/tpusa-tyler-robinson-chat.mdx"
+ ],
+ "2075290171105288315": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/Cellebrite.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/Phone_Extraction.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/Twiggs_Phone.mdx"
+ ],
+ "2076295071326929264": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/overview.mdx"
+ ],
+ "2076019571127935010": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/court/mirandize/baron-coleman-early-turn-in.mdx"
+ ],
+ "2089032178990780892": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTT/overview.mdx"
+ ],
+ "2001535869736435737": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTT/overview.mdx"
+ ],
+ "2079661605332062718_2": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Erika-Flight-Logs-Erased.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "2094377089679995086_1": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Contract-Survey-Aircraft.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N59906/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "2094377089679995086_2": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Contract-Survey-Aircraft.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Plane_Piper_N59906/Project Constitution - \ud83d\udea8ALERT\uff1a BREAKING Down The MYSTERY FLIGHT BEFORE CHARLIE KIRK SHOOTING... #2 [1986565434716381185]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Plane_Piper_N59906/Project Constitution - \ud83d\udea8ALERT\uff1a BREAKING Down The MYSTERY FLIGHT BEFORE CHARLIE KIRK SHOOTING... #1 [1986847154694930433]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/video/MJTruthUltra - UPDATE\uff1a Charlie Kirk  Candace Owens latest finding about the \u201cRental ... #2 [1990575224459350017]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/video/MJTruthUltra - UPDATE\uff1a Charlie Kirk  Candace Owens latest finding about the \u201cRental ... #1 [1990936479170695168]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/SU-BTT/SU_BBT": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "2089012149041463592": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTT/overview.mdx"
+ ],
+ "site/bafybeibmsy3p7im5g4r56qqck6trc3gahd6fzotsrv6p6cfazafr3n4z4i": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/Hades_Spy_Plane": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/John Cullen \ud83d\udc13 - @BenSwann_ I thought the HADES spy plane and the four UAVs were what ... [1969719868892291072]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/More/John Cullen \ud83d\udc13 - Friday night, October 10th, I broke the story of an Egyptian governme... #1 [1977319734136758272]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/John Cullen \ud83d\udc13 - @SharylAttkisson 4 of them onsite, plus a CIA spyplane. The HADES G65... [1969372782472658944]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/Oliver Janich - \ud83d\udd25The mysterious spy plane spottet above the Utah lake during the assa... [1969702949996855296]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Spy_Plane/Spy_Plane_Analysis": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/conman - \u203c\ufe0fPlease Share\u203c\ufe0f  - Video and pictures of the drone suspected of assa... #1 [1977286647084470272]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/conman - \u203c\ufe0fPlease Share\u203c\ufe0f  - Video and pictures of the drone suspected of assa... #2 [1977286647092789248]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Project Constitution - \ud83d\udea8 BREAKING\uff1a  High-Altitude Military Drones at UVU Prove Charlie Kirk ... #2 [1970986606845710336]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Project Constitution - \ud83d\udea8 BREAKING\uff1a  High-Altitude Military Drones at UVU Prove Charlie Kirk ... #1 [2003371770103963648]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Project Constitution - TPUSA's Tyler Bowyer DOUBLY EXPOSED \u2013 Birthday Vid DROPS DRONE FOOTAG... #2 [1978940399126294528]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/conman - \u203c\ufe0fPlease Share\u203c\ufe0f  - Video and pictures of the drone suspected of assa... #3 [1977286647105421312]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/thomas perera - @I_Am_JohnCullen Bullet casing falling from above tent \uff1f  Bullet comi... #2 [1977744772254064640]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/thomas perera - @I_Am_JohnCullen Bullet casing falling from above tent \uff1f  Bullet comi... #1 [1977744772262457344]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/thomas perera - @I_Am_JohnCullen Bullet casing falling from above tent \uff1f  Bullet comi... #3 [1977744772254048256]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Crowdsource The Truth - These unknown flying objects were recorded by @lifeisdriving at @UVU ... [1967477764857962496]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/11_Drones": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/12_Short_Drone_Video": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/3_Drones": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/5_No_Drones": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Crowdsource The Truth - Do any UAS or UAV experts know who was flying a drone on Utah Valley ... [1966510462167605248]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Crowdsource The Truth - These might be the best images of a UAV on site yet.  Doesn't look li... [1979961060376432642]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Drone_Shot_South": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/GTG Trinity - \ud83d\udea8 Fast-moving drones ignored in official reports \ud83d\udea8 Do you believe the... [1986786367859539968]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/HustleBitch - \ud83d\udea8 THEY WERE MUCH CLOSER THAN YOU THINK - WATCH AND PAY ATTENTION \ud83d\udea8   ... [1970679028697710592]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/John Cullen \ud83d\udc13 - Is this a bug\uff1f If so, what kind of bug\uff1f  h\u29f8t\uff1a  @LMBubba [1977161668284063744]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "mirror/Drone/Project Constitution - \ud83d\udea8 BREAKING\uff1a NEW DRONE FOOTAGE  From The TPUSA Event At UVU Where Char... #2 [1978960844735070208]": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Plane-Videos.mdx"
+ ],
+ "2079661605332062718_1": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Erika-Flight-Logs-Erased.mdx"
+ ],
+ "Frank_Kirk_9_9_2025": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_13_Break_Away/break-away-quote.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/leave-pro-israel-cause-line.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/kill-me-03-break-away-pro-israel.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/leave-pro-israel-whatsapp.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/Charlie_Israel_Friction.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/sept-9-zoom-israeli-officials.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Messages/frank-turek-messages.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Messages/if-i-go-against-israel.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Messages/sept-8-donor-group-chat.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/rabbi-pesach-wolicki.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Israel/donor-texts-48-hours.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/high-pressure-meeting-sept-9.mdx"
+ ],
+ "2072814926133866634": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Cause_of_Death/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/AES.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/DoD_Contract.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Stew_Peters_Broke_AES_Mic.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/aes-explosion-factory.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/rode-wireless-mic.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/explosive-mic-killed-charlie.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/aes-factory-explosion.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/rode-mic.mdx"
+ ],
+ "site/bafybeib7p7rllumsl4zzgeywn46lsu7r5fmjabbdk4gkk7d5srfoxh3loi": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/people_analysis/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/people_analysis/pb-onpoint.mdx"
+ ],
+ "QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/israel-mossad.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Motive/overview.mdx"
+ ],
+ "site/bafybeib5zog72ii76nbfxohz5hzo7ejy2o2v6mt6apxgsqgakhuzprctre": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Killer/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Motive/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/john-kiriakou.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/intelligence/overview.mdx"
+ ],
+ "2085794603819544692": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/Black_Clad_Fugitive_Escape_Path.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/Escape_Path_Video_Transcript.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/eyewitness-black-clad-fugitive.mdx"
+ ],
+ "2078967048521036149": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/cowboys-smokehouse-full-visit.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/panguitch-breaks-the-timeline.mdx"
+ ],
+ "site/bafybeictf7nql7co5y6uc7vntirvtnwxwfhfrjm7rtbxxvm3wk25oq7avm": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/suvs-and-tyler-robinson.mdx"
+ ],
+ "site/bafybeienn4qi7o2lq4u6xk3qbiyoifqrtkhl7kvhj7udxvnuk4znz3fh7a": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/suvs-and-tyler-robinson.mdx"
+ ],
+ "2076585079015391653": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Risk_Of_Assassination.mdx"
+ ],
+ "2078118925586338287": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/clothing-change-agent-david-hull.mdx"
+ ],
+ "2085533451730755639": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/baron-coleman-family-denial.mdx"
+ ],
+ "site/bafybeih7zvim3cjxk3wmtm4qctat3qgx3ididvugrfjetlyppvaisalr3a": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/garage-car-exhaust-tips.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/tyler-dodge-challenger.mdx"
+ ],
+ "2077951056697331723": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/cowboys-smokehouse-receipt.mdx"
+ ],
+ "site/bafybeihuuqfirlf7c5biq32hclvwwxztmxg4ofewf7evouz7e4jngeixe4": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/discord/september-11-turn-in-testimony.mdx"
+ ],
+ "site/bafybeifpuhmmiieonoga6la5evjvmktxlrxj36oloml2b6qbk5r2gkldfe": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/Screwdriver_Near_Rifle_To_Roof.mdx"
+ ],
+ "site/bafybeih7dyjrdm5rhqgy2xqz2pqt47ok3tlr76omo2tt3r5yhpa5sixpo4": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/Screwdriver_Near_Rifle_To_Roof.mdx"
+ ],
+ "2083776278008893587": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/Scope_Zero_And_Concealment.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gun_Bullet/overview.mdx"
+ ],
+ "2077277163053564059": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Electrocution/overview.mdx"
+ ],
+ "2084007515218493721": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/organizations_groups/belo.mdx"
+ ],
+ "2045871393611395289_00001": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU_House_Report.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Black_Clothing_Figure.mdx"
+ ],
+ "2045871393611395289_00002": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Black_Clothing_Figure.mdx"
+ ],
+ "2075191642366054733": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Andrew_Piskadlo.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Zachariah_Qureshi.mdx"
+ ],
+ "2087954262651273461": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Outer_TikTok_Streamer.mdx"
+ ],
+ "2083322821271232810": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Russell_Kennington.mdx"
+ ],
+ "1975970593259610515": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Russell_Kennington.mdx"
+ ],
+ "2084405554785505716": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/Russell_Kennington.mdx"
+ ],
+ "2078878337867354512": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/distraction_people/George_Zinn.mdx"
+ ],
+ "2075531573907071094": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Defamation/Brian_Harpole_Candace_Defemation.mdx"
+ ],
+ "2069566053353463951": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/Shot_in_Chest_Reversal.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/overview.mdx"
+ ],
+ "site/QmWjUuiVWDwThM7DCkPAyAoEYx6LfoF9CpFBk7fTQnTvJw": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/smiling-witness-compilation.mdx"
+ ],
+ "site/bafybeid4w3c7pkrlhknmkge7ek4lce3ofqjzv4rxxjzjfmo6x3tqk5z7iq": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/smiling-witness-compilation.mdx"
+ ],
+ "2053805778952417528": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/Nick.mdx"
+ ],
+ "2069350461573046382": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/shot-to-the-heart.mdx"
+ ],
+ "2076465128329846991": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_1.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/shot-to-the-heart.mdx"
+ ],
+ "2086599006965379504": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/hit-his-chest-blood-squirt.mdx"
+ ],
+ "site/bafybeihidtest72jb6mumoxmpbjog3iywgmzeqi7peksg5rmnr327oszpy": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/hit-his-chest-blood-squirt.mdx"
+ ],
+ "2069185145555255370": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/wrong_witnesses.mdx"
+ ],
+ "2069185145555255370_source": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/wrong_witnesses.mdx"
+ ],
+ "site/bafybeicwgvvtiyefk37eijbegjbho45d2hkbvz4lfpk52wujrusmo5aova": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Witnesses/911-calls-rooftop-witness.mdx"
+ ],
+ "1965890646746513821": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_2.mdx"
+ ],
+ "1965871960702828885": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_3.mdx"
+ ],
+ "1966235480732873149": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_4.mdx"
+ ],
+ "1965869689755812061": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_5.mdx"
+ ],
+ "1966293765158560167": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_6.mdx"
+ ],
+ "1965913654840406034": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_7.mdx"
+ ],
+ "1965884012565766172": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_8.mdx"
+ ],
+ "1969832388823003519": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Narrative/Shot_in_the_heart.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Photos/Official_Narrative/Narrative_Shot_in_the_Heart/Img_Photo_Narrative_Shot_in_the_Heart_9.mdx"
+ ],
+ "2077921727888138329_1": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx"
+ ],
+ "2084239546867130638": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx"
+ ],
+ "2081877698306048459": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/get-that-off-of-him-911-call.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx"
+ ],
+ "2090891396265791653": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/oneill-looked-like-an-explosion.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/overview.mdx"
+ ],
+ "site/bafybeiffmiwywvvshkw2iyimhdchephnnizs5zlhv4fbqlchxrdg5b5ueu": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/neck-fragment-charred-plastic.mdx"
+ ],
+ "2070615710003589174": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/suv-transporting-charlie.mdx"
+ ],
+ "QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/suv-transporting-charlie.mdx"
+ ],
+ "2071072788132118610": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Demo_of_shape_charge.mdx"
+ ],
+ "2047113133903495513": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/rob-oneill-navy-seal-testimony.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/tyler-robinson.mdx"
+ ],
+ "2069997980002726099": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Stew_Peters_Broke_AES_Mic.mdx"
+ ],
+ "2086589506967265670": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Explosive_Residue_Coverup/dirt-replaced-with-cement.mdx"
+ ],
+ "2082978765991293333": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Explosive_Residue_Coverup/fbi-seized-security-team-clothing.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Mic/Explosive_Residue_Coverup/overview.mdx"
+ ],
+ "2074257725697970542": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Law_Enforcement/officer-bagley-bodycam.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Law_Enforcement/overview.mdx"
+ ],
+ "site/bafybeie6nbytpgjdpt7dyxu6jbs34necoxwb2npdb24p3vem4t6ugzkom4": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/butch-hibbs.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/overview.mdx"
+ ],
+ "2038721750431846877": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Iran/joe-kent-cartel.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Iran/truman-show-bubble.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/joe-kent.mdx"
+ ],
+ "2011947043674034660": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence/Fort_Huachuca/Cabot_alibi.mdx"
+ ],
+ "site/QmRep38JyvpsSEa8Hxq8utNgZw8dc9u3ckGnza825gZAQz": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/cameras/UVU_Surveillance.mdx"
+ ],
+ "site/QmTFprBjLNkUV6w3JM1aK4A6LU5Bn4vCHZW5GFp4B8vHHr": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/cameras/UVU_Surveillance.mdx"
+ ],
+ "site/bafybeih3mk65doojns4tyx7xks7gq2cqzuexapmw4plhjzjlik6bimupeq": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/Panguitch_Told_Not_To_Talk.mdx"
+ ],
+ "site/bafybeic2zfmp6nwvwjex4mqso7zzawgrgflyiihad77h7p7enwhf2sqaju": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/Trends_Wiped_Live_On_Air.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/butch-hibbs.mdx"
+ ],
+ "2079042475130323448": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/FBI_Asked_Delete_Video.mdx"
+ ],
+ "2057560145379708956": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tent/Daniel_Merrell_Hardscape_Utah.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Pavers.mdx"
+ ],
+ "2081179762265919683": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/Cause_of_Death/shot-through-heart-narrative.mdx"
+ ],
+ "site/QmR3iEdnCZsFpfP1cbPWSg8U1sx9mx3ajPmuz97h4JEHc4": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Maycee_Crofts_Questions.mdx"
+ ],
+ "site/QmaHqNqy3CdhtQZ6pYeVnZP3pQaPHHPKs8GGitx2zoVSfE": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/EMP-Device-Tip.mdx"
+ ],
+ "2067372027623715212": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Tent.mdx"
+ ],
+ "2086519443971318155": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/After/house/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU_House_Report.mdx"
+ ],
+ "2046414464447287296": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Goat_Island.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Valhalla.mdx"
+ ],
+ "2046416264567140352": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Goat_Island.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Valhalla.mdx"
+ ],
+ "2046416264562921472": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Goat_Island.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Valhalla.mdx"
+ ],
+ "2083095317038215206": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/patients_moved_to_another_hospital.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/timpanogos_er_cleared_before_shooting.mdx"
+ ],
+ "2081874128009924956": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/who_was_the_medical_examiner_for_charlie_kirk.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/deirdre-amaro.mdx"
+ ],
+ "2083454143046226110": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/military_backgrounds_hospital_staff.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/who_was_the_medical_examiner_for_charlie_kirk.mdx"
+ ],
+ "2082975397311033354": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/overview.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/timpanogos_er_cleared_before_shooting.mdx"
+ ],
+ "2084692935254188187": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Medical/surgeon_warned_before_surgery.mdx"
+ ],
+ "2077994177216827578_1": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/hunter-kozak.mdx"
+ ],
+ "2077994177216827578_2": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/hunter-kozak.mdx"
+ ],
+ "2045116771431321829": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/After/Institutional_Resignations.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/After/Sept_11_Surrender_And_Custody.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/nate-brooksby.mdx"
+ ],
+ "2045200557531435037": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/candace-owens.mdx"
+ ],
+ "2090466320869458085": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/candace-owens.mdx"
+ ],
+ "site/Qmf73VuTpkMeiHWvyKvQrxFZFtu8mzehfVC8u2E8mWEmAR": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/caleb-chilcutt.mdx"
+ ],
+ "2084417955824062950": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/alan-robertson.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/chris-bagley.mdx"
+ ],
+ "2076529988237767086": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/ian-carroll-israel-assassination-history.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/ian-carroll.mdx"
+ ],
+ "yt/X8UKjN5cjvw": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-ian-carroll.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/ian-carroll.mdx"
+ ],
+ "2081878115635139013": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/andrew-kolvet.mdx"
+ ],
+ "2079275082648809861": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/andrew-kolvet.mdx"
+ ],
+ "2038934507307343872": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/tyler-robinson.mdx"
+ ],
+ "kirk-parents-hearing-3006": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/tyler-robinson.mdx"
+ ],
+ "2026310419405504514": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/People/tyler-robinson.mdx"
+ ],
+ "yt/v6yrnyo": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-steve-bannon.mdx"
+ ],
+ "yt/0pvEGO4W85k": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-charlie-kirk-show.mdx"
+ ],
+ "2083667058571493703": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/holon-citizen.mdx"
+ ],
+ "yt/v705uyi": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-jimmy-dore.mdx"
+ ],
+ "yt/2exo7iJ-qdc": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-project-constitution.mdx"
+ ],
+ "yt/1xTpQ9RHkvk": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-tucker-carlson.mdx"
+ ],
+ "yt/0ykbt_WGOZE": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-dave-smith.mdx"
+ ],
+ "yt/ccRNaLGavf8": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-megyn-kelly.mdx"
+ ],
+ "2072021982296551765": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-baron.mdx"
+ ],
+ "yt/wcD2khO3rOA": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-candace-owens.mdx"
+ ],
+ "yt/J2DKRfwSt94": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Influencers/podcasts-hodgetwins.mdx"
+ ],
+ "site/bafybeigybmg3v4p5qve56m6zzfapdgimc7pwvee2dyzxptevjo3sqkayqe": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/After/Sept_10_Travel_Routes_And_Timing.mdx"
+ ],
+ "2086670412730277896": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/After/house/comms-antenna-mast.mdx"
+ ],
+ "2089980659745894732": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/UVU_Library_Backpack_Testimony.mdx"
+ ],
+ "2084986993063166461": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/Construction_Site_Gunman_Contact.mdx"
+ ],
+ "2089043647207793118": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Suspects/Black_Clad_Figure_Transport_SUV.mdx"
+ ],
+ "2082805142668050569": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Consciousness_Control/cia-darpa-havana-mind-control.mdx"
+ ],
+ "2082425147990925722": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Consciousness_Control/havana-syndrome.mdx"
+ ],
+ "2079273906506965009": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/panguitch-breaks-the-timeline.mdx"
+ ],
+ "2055025567255191600": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/overview.mdx"
+ ],
+ "2079054276320440416": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/threat-to-western-politicians-iran-war.mdx"
+ ],
+ "2070467635578294609": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/Mossad_TPUSA/Joshua_Peterson.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Israel/Mossad_TPUSA/overview.mdx"
+ ],
+ "2071074071404798401": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/Gov_Mind_Control/frey-effect-v2k.mdx"
+ ],
+ "2077840998583935465": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/centcom-search-patterns.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/crane-search-patterns.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/dia-search-patterns.mdx",
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/fort-huachuca-image-searches.mdx"
+ ],
+ "2079684519762993659": [
+  "~/BGit/Bryan_git/charlie-kirk/site/docs/GoogleSearches/fort-huachuca-sept-9-searches.mdx"
+ ]
+}

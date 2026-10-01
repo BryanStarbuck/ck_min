@@ -1,0 +1,245 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/laws
+
+LAW_4_DIR dir is {ROOT_DIR}/4_Trusted_Investigations
+
+LAW_4_FILE is file {LAW_4_DIR}/Law_4_Trusted_Investigations.md
+
+THIS_DIR dir is {LAW_4_DIR}/email
+
+BACKGROUND_FILE is file {LAW_4_DIR}/tweet/background.txt
+
+TWEET_ABOUT_FILE is file {LAW_4_DIR}/tweet/tweet_about.txt
+
+OUTPUT_FILE is file {THIS_DIR}/email.txt
+
+TARGET_PERSON is the person this private message is addressed to.
+        Plug their full public name into every {TARGET_PERSON} placeholder
+        in the final output. If a first-name-only address feels more
+        natural in a personal note, use the first name after the opening.
+
+FOCUS_LAW is Law 4 = "Embed Citizen Investigators Inside the Agencies"
+        (the Charlie Kirk Trusted Investigators Act)
+
+THE_FOUR_LAWS are:
+        Law 1 = Force the FBI to Open Its Files (DoJ/FBI Forced Disclosure Act)
+        Law 2 = Force the Spies to Open Their Files (Intelligence Services Disclosure Act)
+        Law 3 = Force Real Investigations (Mandatory Investigation Act)
+        Law 4 = Embed Citizen Investigators Inside the Agencies (Trusted Investigators Act)
+
+==========================================================
+PURPOSE OF THIS MESSAGE
+==========================================================
+
+* This is a PRIVATE message to {TARGET_PERSON} -- sent over email or as a
+  Twitter / X direct message. It is NOT a public post. No one else will
+  read it unless {TARGET_PERSON} chooses to share it.
+* The message is from one citizen (Bryan Starbuck, @HolonCitizen) to
+  another. Keep it personal. No press-release voice. No hashtags. No
+  audience-facing framing. Write it like a real note to a real person.
+* The single most important ask is this: BEFORE {TARGET_PERSON} decides
+  "no," would they be willing to have a short conversation with me --
+  either publicly (livestream, podcast, X Spaces) or privately (phone,
+  Signal, whatever they prefer) -- so I can answer questions and they
+  can decide with full context.
+  * If their answer is going to be "yes," no conversation is needed
+    -- just a yes is enough. Make this explicit and easy.
+  * Only a "no" needs a conversation first.
+* This is about being included by name in Law 4 as one of the proposed
+  Trusted Investigators.
+* Be honest: what is currently public is a very early draft. The legal
+  text is what is open for feedback. The list of named investigators
+  is NOT something being workshopped in public -- it is a private ask,
+  and anyone who declines is removed quietly.
+
+==========================================================
+STAGE 1 -- READ CONTEXT
+==========================================================
+
+* Read {LAW_4_FILE} in full so the message accurately reflects what
+  Law 4 actually does.
+* Read {BACKGROUND_FILE} for the short framing of all four laws.
+* Read {TWEET_ABOUT_FILE} for the existing public Law 4 explainer
+  -- the bullet list at the bottom of this message should be faithful
+  to those points, but tightened for a personal note.
+* Read {ROOT_DIR}/README.md and {ROOT_DIR}/CLAUDE.md for project
+  context if needed.
+
+==========================================================
+STAGE 2 -- WRITE THE MESSAGE TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}.
+* The message is one continuous piece of writing addressed to
+  {TARGET_PERSON} personally.
+
+----------- SUBJECT LINE (FOR EMAIL USE) -----------
+
+* Begin the file with a short subject line on its own, suitable for
+  email. Something direct and personal, not promotional.
+* Example pattern (do not copy verbatim):
+        Subject: A private ask about the Charlie Kirk investigation
+* If the message will be sent as an X DM, the subject line can be
+  ignored by the sender. Keep it there anyway.
+
+----------- OPENING (PERSONAL, DIRECT) -----------
+
+* Open by greeting {TARGET_PERSON} by name -- "Hi {first name}," or
+  "{First name} --" feels right. No "Dear Mr./Ms." formality.
+* In the first short paragraph, tell them plainly:
+  * Who I am (Bryan Starbuck, @HolonCitizen on X).
+  * That I am writing privately, not publicly.
+  * That I have drafted four proposed federal laws aimed at forcing
+    full disclosure and a real investigation into the death of
+    Charlie Kirk.
+  * That I have identified them as one of a small number of people
+    I would like to name in Law 4 as a Trusted Investigator -- and
+    I want to ask them about it before anything is made public with
+    their name attached.
+
+----------- WHY THEM (SHORT, CONCRETE) -----------
+
+* A short section -- one or two paragraphs -- on why {TARGET_PERSON}
+  specifically. Keep it grounded, not flattering. Three pillars:
+  1. KNOWLEDGE -- their demonstrated knowledge of the Charlie Kirk
+     case and the agencies involved. Cite their specific public work
+     where it is known (interviews, podcasts, articles, X posts).
+  2. DEDICATION TO THE TRUTH -- their track record of pursuing the
+     truth even when it is costly. They do not back down.
+  3. PUBLIC TRUST -- citizens trust them to read classified files
+     and report honestly without filtering through agency talking
+     points. That trust is the entire foundation of Law 4.
+* No fluff. They will read this. Every sentence should earn its place.
+
+----------- THE ASK (CLEAR, EASY) -----------
+
+* State the ask directly:
+  * "Would you be willing to be named as one of the Trusted
+    Investigators in Law 4?"
+* Then make the path easy:
+  * If their answer is YES, a simple "yes" reply is enough. No
+    conversation required.
+  * If their answer is leaning NO or UNSURE, I am kindly asking
+    for a short conversation first -- public OR private, their
+    choice -- so I can answer questions and they can decide with
+    full information.
+  * Make clear there is no pressure either way, and that anyone
+    who declines is quietly removed from the list. No public
+    naming-and-shaming. No follow-up campaign.
+
+----------- DRAFT STAGE AND WHAT FEEDBACK IS WANTED -----------
+
+* Be transparent that the public version of these laws is a very
+  initial draft. The legal text and structure is what is open for
+  public feedback (especially from attorneys).
+* Make clear: the list of proposed Trusted Investigators is NOT
+  being workshopped in public. It is a private ask. Their name
+  is not on anything public yet, and will not be without their
+  consent.
+
+----------- BRIDGE TO THE LAW 4 SUMMARY -----------
+
+* One short transition sentence. Something like: "So you have
+  the full picture before you decide, here is what Law 4 actually
+  does."
+
+----------- WHAT LAW 4 DOES (TIGHT) -----------
+
+* 2 to 3 short paragraphs covering:
+  * What Law 4 does -- embeds named citizen investigators inside
+    the FBI and the U.S. Intelligence Community with full access.
+  * Why this model is different from prior disclosure laws (JFK
+    Records Act, Epstein Files Act) that failed to actually pry
+    information out of the agencies.
+  * Why 32 independent teams (16 FBI + 16 IC) embedded inside the
+    agencies makes it structurally hard to bury findings.
+* Keep it tight. The bullets below carry the detail.
+
+----------- BULLET LIST OF KEY POINTS -----------
+
+* Asterisk bullet list. Strict length rules:
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = too much, avoid
+* One distinct point per bullet. Do not pack multiple points.
+* Sort highest-impact first.
+* Draw from these point categories (pick the strongest):
+  * Named citizen investigators with full access
+  * Embedded inside FBI + U.S. Intelligence
+  * 32 independent teams (16 FBI, 16 IC)
+  * Immediate TOP SECRET / SCI clearances
+  * Independent budgets, independent counsel
+  * Authority to publicly release findings
+  * Whistleblower bounty -- minimum $1,000,000 for foreign intel leads
+  * No presidential override allowed
+  * Cannot be terminated by any government official
+  * 90-day public reports on each disclosure item
+  * Up to 15 years prison for interference
+  * Government employees can volunteer secretly, bypassing chain of command
+
+----------- THE OTHER PROPOSED NAMES -----------
+
+* Tell {TARGET_PERSON} who else has been identified as a candidate
+  for Law 4 -- so they can see the company they would be in. Make
+  clear:
+  * None of these people have confirmed yet. They are proposed
+    candidates, just like {TARGET_PERSON}.
+  * Anyone who does not want to be included will be removed,
+    quietly, no questions asked.
+* If {TARGET_PERSON} is already on this list, mention them
+  naturally within the list rather than separately.
+* The proposed names:
+  * Candace Owens
+  * Dave Smith
+  * Joe Kent
+  * Tulsi Gabbard
+  * Tucker Carlson
+  * Steve Bannon
+  * Marjorie Taylor Greene
+  * Jon Bray
+  * Ian Carroll
+  * Thomas Massie
+  * Matt Gaetz
+  * Glenn Greenwald
+  * Collin Campbell
+  * Baron Coleman
+  * Ryan Matta
+  * Megyn Kelly
+
+----------- CLOSING -----------
+
+* Restate the ask in one or two short sentences:
+  * Yes is easy -- just reply yes.
+  * Leaning no or unsure -- I would be grateful for a short
+    conversation before you decide. Public or private, your call.
+* Thank them for their time.
+* Sign off as Bryan Starbuck. Include:
+  * X / Twitter: @HolonCitizen
+  * Link to the full set of four laws:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+* No hashtags. This is private.
+
+----------- TONE AND VOICE -----------
+
+* Personal, direct, respectful. One citizen writing to another.
+* Plain English. No jargon. No legalese. No press-release voice.
+* Defamation-safe throughout: never state as fact that any living
+  person committed a crime. Use "allegedly", "reportedly", "evidence
+  suggests" where claims about individuals are made.
+* Length: long enough to be complete, short enough that a busy
+  person will actually read it. Aim for a message that reads
+  comfortably in two to three minutes.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished message to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_4_FILE}, {BACKGROUND_FILE}, {TWEET_ABOUT_FILE},
+  or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written.
+
+Output to stdout "============================================="
+Output to stdout "Wrote private message to {OUTPUT_FILE} for {TARGET_PERSON}"
+Output to stdout "============================================="

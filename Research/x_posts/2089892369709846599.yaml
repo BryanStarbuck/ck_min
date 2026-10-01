@@ -1,0 +1,38 @@
+id: '2089892369709846599'
+url: 'https://x.com/Trillion0x/status/2089892369709846599'
+author:
+  username: 'Trillion0x'
+  name: 'TRILLION'
+  id: '1402121359141097473'
+text: |
+  Joe Kent explains the 'Foreign Nexus' involvement in the Charlie Kirk assassination.
+created_at: '2026-08-19T01:49:03.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 44
+  reply_count: 1
+  like_count: 129
+  quote_count: 2
+  bookmark_count: 18
+  impression_count: 3019
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2089881027585916928'
+      duration_ms: 171475
+      width: 1080
+      height: 1920
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2089881027585916928/img/JGEhBUJC2WYtl8JU.jpg'
+      downloaded_as: '2089892369709846599.mp4'
+      sha256: '26e0415636a1ccdfd2bacb0612ecd69ab93042df08760ea2406bbfa184ed87f3'
+      ipfs_cid: 'QmQnJpKt9S8vJNh4rq4KvumbdLQDxgKk13nFLJ3nzyDb8z'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2089881319505285240'
+  quoted_status_url: 'https://x.com/joekent16jan19/status/2089881319505285240'
+  quoted_author: '@joekent16jan19'
+site_page: 'site/docs/Videos/Vid_Intelligence_Services/Vid_Joe_Kent_Interview/Vid_Trillion0x_Joe_Kent_Foreign_2089892.mdx'
+transcription_file: 'videos_transcription/2089892369709846599.md'
+investigation: 'charlie_kirk'
+added_date: '2026-08-19'
+temp_file: false

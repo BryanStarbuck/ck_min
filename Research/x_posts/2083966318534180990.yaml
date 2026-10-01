@@ -1,0 +1,51 @@
+id: '2083966318534180990'
+url: 'https://x.com/SwordTruth/status/2083966318534180990'
+author:
+  username: 'SwordTruth'
+  name: 'Sword Truth'
+  id: '1585763035016097792'
+text: |
+  X will not allow this to be created as a poll as they protect the fedslop narrative on the Charlie Kirk murder. Try it for yourself it just posts and does not make a poll
+created_at: '2026-08-02T17:21:03.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 1
+  like_count: 4
+  quote_count: 3
+  bookmark_count: 0
+  impression_count: 457
+quoted_tweet:
+  id: '2083965318108754269'
+  url: 'https://x.com/SwordTruth/status/2083965318108754269'
+  author: 'SwordTruth'
+  text: |
+    🗳️: Given where we are now, do you still believe the Charlie Kirk 30.06 narrative and what was stated initially? Or do you believe there's more to it? Maybe..you dont know what to think? Please share and vote. Thank you.
+    (Feel free to leave YOUR personal ideas in the comments.) 🇺🇸 @QueenOfRespawn poll
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2083966185453043713'
+      url: 'https://pbs.twimg.com/media/HOu8NE_awAEvSqS.jpg'
+      width: 922
+      height: 2048
+      local_file: 'images/2083966318534180990_1.jpg'
+      sha256: 'a8313f6da78ae9f5bea44fde02a5c06a5018e85f8c0232c42d3e240e56239c66'
+      ipfs_cid: 'Qmd3UBx5JFVfxqKWw9bjVQReDWRbytYcF4qaxEnnM8HnAT'
+ocr_text: |
+  [Screenshot of X post by "Savage" @QueenOfRespawn]
+  "Theyre blocking my poll about Charlie. Just says failed to send and goes to drafts."
+  [Nested phone screenshot of the X poll composer, "Everyone" audience, Update button]
+  🗳️: Given where we are now, do you still believe the Charlie Kirk 30.06 narrative and what
+  was stated initially? Or do you believe there's more to it? Maybe..you dont know what to
+  think? Please share and vote. Thank you.
+  (Feel free to leave YOUR personal ideas in the comments.) 🇺🇸
+  [Poll choice fields visible] "I believe it." / "Unsure."
+investigation: 'charlie_kirk'
+added_date: '2026-08-02'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

@@ -1,0 +1,49 @@
+id: '2089043647207793118'
+url: 'https://x.com/danksterintel/status/2089043647207793118'
+author:
+  username: 'danksterintel'
+  name: 'Danks'
+  id: '1940810777566629888'
+text: |
+  Black tactical gear dressed person gets into the back of Charlie Kirk transport vehicle 👇
+created_at: '2026-08-16T17:36:32.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 123
+  reply_count: 35
+  like_count: 596
+  quote_count: 4
+  bookmark_count: 37
+  impression_count: 13478
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2088860136785989633'
+      duration_ms: 210256
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2088860136785989633/img/M9ngyjbWIKpqkPa1.jpg'
+      downloaded_as: '2089043647207793118.mp4'
+      sha256: '3980c34381f74fe9cdf8f0df841fc13e7b29f14a24e6807dca7948989d4d0c60'
+      ipfs_cid: 'QmXLsuPumydoCLD1twXjKBEQsmHM917UWDeU3hHT8v7Yek'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2089019378507608553'
+  quoted_status_url: 'https://x.com/Ryanmatta/status/2089019378507608553'
+  quoted_author: '@Ryanmatta'
+  quoted_author_name: 'RyanMatta'
+  quoted_text: |
+    This is one of the most interesting takes on the Charlie Kirk assassinations I've seen yet.
+    Can anyone explain why a man dresses in all black wearing a ski mask was filmed jumping into
+    the back of the SUV they used to transport Charlie Kirk's body to the hospital?
+  quoted_public_metrics:
+    like_count: 3714
+    retweet_count: 966
+    impression_count: 103162
+  media_source_tweet_id: '2088861370083426814'
+  media_source_author: '@AdmetosL'
+transcription_file: 'videos_transcription/2089043647207793118.md'
+site_page: 'site/docs/Suspects/Black_Clad_Figure_Transport_SUV.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-17'
+temp_file: false

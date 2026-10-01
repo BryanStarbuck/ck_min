@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(for dir in maps Tyler Other cameras intelligence gov government_organizations legal_investigation security_law_enforcement organizations_groups property_locations)",
+      "Bash(do if [ -f \"/Users/bryan/BGit/act3/charlie-kirk/docs/$dir/overview.md\" ])",
+      "Bash(then echo \"$dir: has overview.md\")",
+      "Bash(else echo \"$dir: NO overview.md\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(xargs:*)",
+      "Bash(for dir in cameras aircraft_flight_analysis analysis_documentation campus_university conspiracy_theories key_individuals media_response other_topics Plane political_context social_media_analysis technology_surveillance timeline_events)",
+      "Bash(for dir in People Media Israel Tyler_Robinson TPUSA Motive Timeline Charlie Killer Vote Fix Censorship FBI CIA Drones Videos Photos UVU Locations Medical Before After CoverUp Theories Influencers Planes Gun_Bullet Tent Shooting_Locations Patsys GoogleSearches)",
+      "Bash(do if [ -d \"/Users/bryan/BGit/act3/charlie-kirk/docs/$dir\" ])",
+      "Bash(then echo \"=== $dir ===\" find \"/Users/bryan/BGit/act3/charlie-kirk/docs/$dir\" -name \"*.md\" -type f)"
+    ]
+  }
+}

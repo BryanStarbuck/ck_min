@@ -1,0 +1,54 @@
+id: '2095665263563653527'
+url: 'https://x.com/idontgiveadom/status/2095665263563653527'
+author:
+  username: 'idontgiveadom'
+  name: 'idontgiveadom'
+  id: '1498368865436372999'
+text: |
+  Not only did Charlie send those texts during the 9/10/2025 Zoom call…Josh Hammers' famous "based" retweet happened just 5 minutes into the meeting.
+
+  That's according to the timestamps on the text messages Smokeboy released.
+
+  The timeline is getting VERY interesting. 👀
+created_at: '2026-09-04T00:08:29.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 9
+  reply_count: 5
+  like_count: 49
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 738
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2095665253769936901'
+      url: 'https://pbs.twimg.com/media/HRVMcesWAAUM7se.jpg'
+      width: 1447
+      height: 854
+      sha256: '142ac632698f6088e8bad623264befb4abbde35dfe036accee1a7e4dce41a4f5'
+      ipfs_cid: 'QmW11bo6WHJdwwteGbyM37avJTFtEfDNR5Vb1ztXPtBXhV'
+ocr_text: |
+  12:00PM - 1:00PM - Erika woke Charlie up for his Fox News hit (per Andrew Kolvet).
+  1:00PM - Charlie Kirk appears on the Will Cain show from his TPUSA office studio.
+  Before 2:20PM - Charlie has a 40-minute interview on Mark Halperin's show.
+  3:00PM - Erika told me she was getting her nails done around this time.
+  3:54PM - Charlie sends out a text regarding leaving the pro-Israel cause.
+  6:00PM - Charlie, Josh Hammer, Frank Turek, a Rabbi, and 2 Israeli officials are on a Zoom call.
+  6:48PM - Charlie Kirk allegedly texts his security that the left is trying to kill him (per Andrew Wilson & Andrew Kolvet).
+  After 7:00PM - Charlie will have dinner with the Priest, Erika, and his children. He will also send out a text message to Andrew Kolvet indicating that "they are going to kill me".
+bryan_correction: |
+  This was September 9th, 2025, not September 10th. The graphic is labeled 9/10/2025.
+  Charlie Kirk was killed at approximately 12:20 PM Mountain Time on September 10, 2025,
+  so the 3:54 PM, 6:00 PM, 6:48 PM and post-7:00 PM entries cannot describe that date.
+  They belong to September 9, 2025.
+media_from_quoted_status:
+  quoted_status_id: '2095664496165491181'
+  quoted_status_url: 'https://x.com/idontgiveadom/status/2095664496165491181'
+  quoted_author: '@idontgiveadom'
+  note: 'Quoted post carries a second image (3_2095664490855456769) not used on the page.'
+site_page: 'site/docs/Charlie/Text_Messages/final-day-timeline-sept-9.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-09-03'
+temp_file: false

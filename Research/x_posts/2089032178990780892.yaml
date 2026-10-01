@@ -1,0 +1,74 @@
+id: '2089032178990780892'
+url: 'https://x.com/MysticMuse1o1/status/2089032178990780892'
+author:
+  username: 'MysticMuse1o1'
+  id: '1158129717515472896'
+created_at: '2026-08-16T16:50:58.000Z'
+lang: 'en'
+conversation_id: '2089012149041463592'
+replied_to: '2089022113319432281'
+text: |
+  @ProjectConstitu @RealCandaceO @baroncoleman I don't have a direct link, TerryTut shared the video
+  @GlamHamRadio is also the one who found the google search of the reserved parking spot at UVU that was searched by the license plate # for the pres.
+public_metrics:
+  retweet_count: 4
+  reply_count: 1
+  like_count: 8
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 135
+attachments:
+  videos: []
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2088830135583563860'
+  quoted_status_url: 'https://x.com/Tut21125150/status/2088830135583563860'
+  quoted_author: '@Tut21125150'
+  quoted_author_name: 'Terry Tut'
+  quoted_created_at: '2026-08-16T03:28:07.000Z'
+  quoted_text: 'About those Egyptian  🇪🇬 planes ✈️'
+  quoted_public_metrics:
+    retweet_count: 336
+    reply_count: 71
+    like_count: 1475
+    quote_count: 42
+    bookmark_count: 554
+    impression_count: 21962
+  videos:
+    - type: video
+      media_key: '13_2088829417451614208'
+      duration_ms: 385195
+      width: 480
+      height: 852
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2088829417451614208/img/gAYuYSTahaRfHNIb.jpg'
+      local_file: 'videos/2089032178990780892.mp4'
+      sha256: '57740e36f7b07610e25ea8ee978a9258ab0c5fe0a3c30dd3a18b63742f0fb4c9'
+      file_size_bytes: 20448872
+      ipfs_cid: 'QmcwsSCCiymU4UdpGpnwcECvLKf9PQRdCghY6C2GyQa5X9'
+      public_verified: true
+mentions_credited:
+  - username: 'GlamHamRadio'
+    note: 'Credited by @MysticMuse1o1 with finding a Google search of a reserved UVU parking spot searched by license plate number. Separate claim, not covered by the video; not yet verified or published.'
+  - username: 'baroncoleman'
+  - username: 'RealCandaceO'
+  - username: 'ProjectConstitu'
+transcriptions:
+  - video: '2089032178990780892.mp4'
+    file: 'videos_transcription/2089032178990780892.md'
+    words: 982
+key_claims:
+  - 'Utah was UTC-6 on Sept 10 2025, not UTC-7 — corrects the presenter on Candace Owens show'
+  - 'SU-BTT and SU-BND each arrived via Minot Air Force Base with Provo as the next stop'
+  - 'SU-BND at Provo May 23 2025 to September 14 2025, then departed for Goose Bay, Newfoundland'
+  - 'SU-BND Sept 5 out-and-back corridor flight north of Provo with no landing'
+  - 'SU-BND departure Sept 14 delayed roughly 19 hours past its slot'
+  - 'AXL10, a Bombardier Global 6500 tied to Leidos and the US Army HADES program, made two passes near 210 ft AGL within ~3 miles of UVU at 9:15 AM and 12:48 PM on Sept 10'
+  - 'AXL10 wheels-on-ground at El Paso at the same minute SU-BTT began its Provo departure, 7:08 AM local'
+author_stated_caveats:
+  - 'Statistically unusual, which does not mean coordinated. I want to make that point'
+  - 'None of this proves a cause, a perpetrator, coordination, but this is real flight data verifiable, and irregular'
+site_page: 'site/docs/Planes/SU-BTT/overview.mdx'
+site_section: 'The Terry Tut flight-data analysis (August 2026)'
+investigation: 'charlie_kirk'
+added_date: '2026-08-16'
+temp_file: false

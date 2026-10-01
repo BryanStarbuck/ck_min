@@ -1,0 +1,2420 @@
+State of Utah v. Tyler James Robinson — Case No. 251403576
+Preliminary Hearing Day 5
+Hearing date: 2026-07-21
+Source: Rev.com machine/human transcript of the broadcast (NOT the certified court reporter's record)
+Source URL: https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5
+Retrieved: 2026-08-31T23:39:40Z  HTTP 200
+==============================================================================
+
+Megan Thackery (00:00):
+
+... in accordance with the court decorum order.
+
+Judge (00:02):
+
+And I apologize, would you mind putting your names on the record?
+
+Tess Crowley (00:05):
+
+Tess Crowley.
+
+Megan Thackery (00:07):
+
+Megan Thackery with KSL.
+
+Judge (00:08):
+
+Thank you. Have you both reviewed the court's standing decorum order?
+
+Tess Crowley (00:13):
+
+Yes.
+
+Megan Thackery (00:13):
+
+Yes.
+
+Judge (00:14):
+
+Do you understand the requirements set forth in that order as it applies to your activities today?
+
+Tess Crowley (00:18):
+
+Yes.
+
+Megan Thackery (00:19):
+
+Yes.
+
+Judge (00:19):
+
+Do you require additional time to review the order or to adjust equipment to ensure compliance?
+
+Tess Crowley (00:25):
+
+No.
+
+Megan Thackery (00:25):
+
+No.
+
+Judge (00:26):
+
+Do you anticipate any difficulty complying with the order?
+
+Megan Thackery (00:30):
+
+No.
+
+Tess Crowley (00:30):
+
+No.
+
+Judge (00:31):
+
+All right. Thank you both. Before we begin this morning, and the court wishes to acknowledge the importance of the safety, dignity, and well-being of all those who are present or who may be present during these proceedings, including the parties, counsel, witnesses, court staff, and members of the public.
+
+(00:54)
+The court is also mindful of its solemn obligation to protect and uphold the constitutional rights of Mr. Robinson and Ms. Kirk. In furtherance of those important interests, all persons attending these proceedings are reminded that portable electronic devices are not permitted in the courtroom or on the fourth floor. Cell phones are not permitted in the courtroom unless expressly authorized. Any unauthorized possession or use of a cell phone or electronic device in the courtroom may be addressed by the court. For those individuals who have a cell phone, I invite you to join me as I silence my cell phone to ensure that the proceedings today can proceed without distraction.
+
+(01:43)
+The court also expects every person in attendance will be treated with the dignity and respect to which they are entitled. Consistent with this court's standing decorum order, all spectators shall remain quiet, civil, and orderly at all times. Spectators shall not engage in conduct that is distracting, disruptive, provocative, disrespectful, uncivil, or threatening in any manner. Spectators shall not make audible comments of any kind, shall not shake or nod their heads, and shall not make gestures or of other visible reactions during the hearing. Spectators shall also not wear or display pins, buttons, signs, clothing, photographs, or other items expressing support for or in opposition to any person connected with this case, or expressing any position concerning the status of this case as a capital offense.
+
+(02:38)
+The court appreciates the cooperation of all present in maintaining a courtroom environment that is safe, respectful and orderly and faithful to the rights and dignity of every person involved. All right. My understanding is the parties wish to address an issue before we get started. Is that correct?
+
+Mr. Novak (03:05):
+
+We may.
+
+Judge (03:05):
+
+Mr. Novak.
+
+Mr. Novak (03:09):
+
+Thank you, Your Honor. And good morning. I passed up to the court, after providing copies of it to counsel for the State and counsel for the media, a single piece of paper. Does the court have that?
+
+Judge (03:23):
+
+I do. Thank you, Mr. Novak.
+
+Mr. Novak (03:24):
+
+Thank you, Your Honor. So every morning this court has a colloquy with the camera operators about their ability to comply with this court's orders. And they acknowledge that they understand the order and that they can comply with it. And the court asks them if they have any problem with it, and they state to the court that they do not have a problem with it.
+
+(03:49)
+We also spent many, many, many hours of court time addressing which exhibits will and will not be published through the electronic media. And this exhibit the court ordered would not be published through the electronic media, and it was. And without belaboring the point, the court can imagine our concern that the media and the State, who control this exhibit and the publication of this exhibit in the courtroom as per the court's orders, failed to comply with this court's orders after all of the effort that we made, and the court made, to make sure that the court balanced everybody's rights, including the rights that we're concerned about, which are Mr. Robinson's.
+
+(04:49)
+No doubt the counsel for the media and counsel for the State will say that it was a very, very brief mistake, that it was corrected as soon as they realized the error, but it's done. It's out there. It's photographed. I'm informed secondhand that if I want to buy this image, and maybe even have it framed and put behind museum-quality glass, I can do so and put it up in my office. Obviously, I'm not going to do that. But my point is it doesn't matter how long the court's order was violated; when we live in an electronic world, it's done and it's permanent.
+
+(05:29)
+And we just wanted the record to be clear that we're concerned that the court's orders have been violated, and they've been violated with respect to an order that was specifically designed to protect Mr. Robinson's right to a fair trial. And I don't want to belabor the point any further. I'm also not going to refer to the exhibit with any more specificity because it's not necessary.
+
+Judge (05:51):
+
+Is there a requested remedy or potential sanction that you feel is warranted given the actions which you have outlined this morning?
+
+Mr. Novak (06:00):
+
+I think that we would like to think, when I say we, I mean Mr. Robinson's counsel, about that. We have, as the court knows, repeatedly asked this court, moved this court not to have electronic broadcast of this proceeding, of any of the proceedings, and specifically this proceeding. The court denied those motions and overruled our objections to the specific EMC requests. So I think it's a little premature, but I can represent to the court that we will suggest a remedy in advance of the next hearing.
+
+Judge (06:40):
+
+Well, Mr. Novak, I appreciate that, but I would ask that if it is something that is concerning, that it be addressed immediately. So I'm not going to wait until this... I recognize and appreciate what you have described and this was on my mind a lot last night as well.
+
+Mr. Novak (06:58):
+
+Okay.
+
+Judge (06:59):
+
+I don't want to sit on this. So I ask you respectfully to confer with your counsel and come up with that because I want to address it. I agree. It is concerning, and it warrants examination and to be addressed immediately, especially as we have a little bit left of our preliminary hearing. So I want to give it the weight it is needed, and I don't disagree with you.
+
+Mr. Novak (07:22):
+
+Then why don't we beg the court's indulgence? We don't need to empty the courtroom. We can go talk about what we think an appropriate, measured sanction would be, and we can bring that suggestion back to the court in a few minutes.
+
+Judge (07:35):
+
+All right. Well, before we do that, I want to turn to the State and to the media to address what you've addressed. And then obviously if there's a part two, then therefore-
+
+Mr. Novak (07:44):
+
+And I appreciate the invitation and I also appreciate the court's desire to address the consequences, if any, immediately.
+
+Judge (07:53):
+
+Thank you, Mr. Novak.
+
+Mr. Novak (07:54):
+
+I was not trying to delay it. I just think it's an issue which warrants some thought. The court has said it gave it some thought. We will have a suggestion very briefly.
+
+Judge (08:06):
+
+Thank you. Turning to the State.
+
+Mr. McBride (08:18):
+
+Thank you, Your Honor. I think at the outset, it's important to recognize that everyone's doing their best here. The court is, I know the clerks are, I think the media is, we certainly are, and the defense is.
+
+(08:34)
+This issue came up in the context of an examination of a witness. One exhibit was published before the exhibit at issue was also brought onto the screen. I explained what we were going to do, and then the exhibit was brought onto the screen. I reviewed the video last night. The camera captured this for approximately two seconds. The camera operator, I think, acting in diligence and appropriateness, immediately panned as soon as she realized that there was a new exhibit on the screen. The court took it down. As soon as they realized that an exhibit was on the screen, I immediately instructed my paralegal to take it down, and it was. Defense, I think everyone involved here made quick and appropriate efforts as soon as they realized a mistake had been made to remedy and mitigate that issue.
+
+(09:31)
+As I explained what we were going to do, defense counsel did not object as that happened. And the reason I bring that up is because of the requirement for timely objections. Moreover, I do want to say: this exhibit was read into the record. It was allowed to be read into the record earlier. It is also in an earlier pleading, which is the Information. This portion of that exhibit, I understand, is in the Information, and it is largely cumulative of Exhibits 16 and 16.1, which were previously admitted into evidence and published to the media.
+
+(10:16)
+Finally, we are going to be dealing with a lot of publicity when it comes to media coverage, and I think that's really where the remedy is going to be addressed. I understand there may be a remedy that can be fashioned today to prevent this kind of thing going forward or going on in the future in this hearing, but I think ultimately that's where this will be addressed. Any other questions for me, Your Honor?
+
+Judge (10:40):
+
+Well, not at this time. I will afford you the opportunity, obviously, to respond when defense comes back. I want to weigh this and taking in consideration, and I find your representations to be accurate as to what occurred.
+
+(10:54)
+I believe that I noticed it and asked for it to be taken down because I have a live stream on my screen for that very purpose. And the sequence, I believe I made note, and if I'm wrong, please correct me; it's been a long four past days, but that's the only addition that I find to the representation. And certainly, Mr. Novak, feel free to correct it if you believe the sequence was any different. I just want to make sure a clear record is being made of what happened in order for whatever happens next to be appropriate and proportional to the actions that occurred.
+
+Mr. McBride (11:31):
+
+No, and that's consistent with my memory. And I also reviewed the video, the live stream as well, in preparation for this issue today. So that's exactly what I think happened. From my perspective examining the witness, I did not have a view of what was being published to the public and the media. And so I think the court immediately, as soon as it recognized that, brought that to everyone's attention.
+
+Judge (11:53):
+
+Thank you, Mr. McBride. To the media.
+
+Mr. McBride (12:03):
+
+Good morning, Your Honor.
+
+Judge (12:04):
+
+Good morning.
+
+Mr. McBride (12:07):
+
+Appreciate the opportunity to be here to speak on behalf of the media. I think our understanding of what happened is consistent with what both the defense and the State have said here, so I don't want to belabor that point.
+
+(12:21)
+But here's how I understand them: there's two exhibits at issue. Those exhibits were used yesterday, in part because the juxtaposition of those two exhibits might have provided some sort of benefit to the court. The first of those exhibits was asked to be published through all three of the court's phases. The court said it'll be admitted into evidence, be shown in the courtroom, will not be shown on the cameras. That happened about three hours into the hearing. That all went smoothly and well. That operated exactly as it is intended to. That requires the participation of everyone, the court, the defense, the State, media, camera operator, all to do that well.
+
+(12:57)
+Later in the day, in the video I reviewed, this was about five hours into the runtime yesterday, the second exhibit that was going to be compared side by side was introduced. That also went through that three-step process. In that case, the court said that that could be admitted into evidence, shown to the court, and then also shown on the cameras. So it was, it was put on the courtroom cameras. At that point, there was what I think is a useful practice by the camera operator to wait a beat because sometimes mistakes do happen, right? In that case, though, that was authorized. So the camera then panned to the screen, which is set up specifically for the camera operator to be able to capture that.
+
+(13:40)
+Examination on that exhibit began. Then, because the examination seemed to call for that juxtaposition without much warning for anyone involved, the previous exhibit that was intended to be juxtaposed was placed on the screen, from, I think, an observer's view who didn't know where the testimony was going, without warning. The camera operator, I think quite astutely, within seconds recognized, "This is a different exhibit." And recalling the court's prior order recognized, "I should pan off," and did within seconds. I think at the time that was happening, the court also caught that and said, "Let's not do that." And that was the end of it.
+
+(14:21)
+I think the two seconds is about right. I don't want to minimize that. I understand the point that Mr. Novak is making. We are operating, in some ways, on a high wire, and we are trying to place as many nets as we can. And all the parties are working together to try to do that. But in the age in which we live, one of the challenges is that sometimes when something like that is placed on a live screen, someone can screenshot it. And like Mr. Novak said, if they want to put that for sale on the internet, then they can. That's why working together to ensure that even small mistakes like that don't happen is critical. And the media coalition that are given the opportunity and the benefit of being able to be here to run cameras and to take photographs have complete buy-in on that point. There are, of course, people out there watching a live stream that are not part of our coalition that we can't control, and that's why it's so important that we get these pieces right.
+
+(15:15)
+I do want, without going too far into the evidence, to note not only that several lines of this exhibit are available publicly in the Information, but that the full text, full text, every word of that exhibit, is contained in a search warrant in this case that was initially filed on September 17th. This is in the Fourth District, but in a different court, was held for six months, as search warrants often are. But then on March 17th, March 16th, March 17th was released in full. On page seven of that search warrant is the full text of this exhibit.
+
+(15:53)
+I don't want to suggest that anybody gets the right to say, "Well, I think it's public. The court has said don't show it on the screen, but since I think it is, we'll just come back later on and tell the court it's not a big deal because it's already public." That's not how it works. If we say we think it's in the public, the court says, "I understand that, but I'm going to make an order," that order should be adhered to. But I do, for the purposes of prejudice, for potential remedy, for the court's concern, and the court's sleepless nights, I do want the court to know that as well.
+
+(16:19)
+Then members of our coalition have pointed out to me as we've talked about this, while we take this very seriously, it is true in this case that the full text of that, not the image of the exhibit itself, but the full text, is already in the public sphere, has been reported on, and is out there.
+
+(16:33)
+I only want to reinforce, to close, the recognition that the media, our coalition, I, as an attorney for that coalition, have an obligation to make sure that mistakes don't get made. And in this case, even though I believe that the camera operator didn't act in violation of the court's decorum order, didn't do something that was forbidden by that, that there was an order that said, "Don't publish this exhibit." And because it flashed on the screen when the camera operator was filming that screen, that did happen.
+
+(17:07)
+The media is fully bought in. I, as one of the attorneys, and the other attorneys for the media coalition are fully bought in on a goal to make sure that this kind of thing doesn't happen. Of course, I understand Mr. Novak and the defense's need to make a record and make an objection. And I also recognize and appreciate and understand the court's role in trying to make sure it imposes whatever sort of direction, caution, sanction, response that it believes is needed to make sure that its orders are recognized and adhered to. And I want the court to know that we will understand that, and we'll comply with whatever it is that the court orders.
+
+Judge (17:42):
+
+Thank you. Anything further before we break, Mr. Novak?
+
+Mr. Novak (17:45):
+
+We don't need a break.
+
+Judge (17:47):
+
+Okay. Well-
+
+Mr. Novak (17:48):
+
+The court wants a break.
+
+Judge (17:50):
+
+I want to review this. I'm sure there's a stream out there. I want to look at it again in order to appreciate the full effect and exposure. I remember it, but given the nature of this and trying to weigh the constitutional rights of all parties, I want to be thorough and look at it exactly.
+
+(18:15)
+So as we move forward, as I evaluate what's being requested by the parties, that I am at the level of knowledge of... And because what it is, it was on-screen, I want to look at it how long, what exactly was on-screen in order to be at the point of saying, "Okay, I fully understand." I mean, I was here. I saw it. I noticed it on the screen. But again, I want to take that extra two minutes to review that.
+
+Mr. Novak (18:45):
+
+I'm not suggesting that we rush through this at all. I just wanted the court to understand that our request for the remedy and the sanction, we are prepared to share that with the court, but we can certainly wait until the court has had an opportunity to review whatever the court thinks it needs to review.
+
+(19:04)
+The permanence of this violation of the court order is a different issue from how long it took to correct the violation. It's a permanent consequence. In other words, that image is out there forever and ever in violation of the court's order, no matter what actions the court, the State, and the media took to remedy it, because that's the technological world we live in. So that's my response, if I may, to the arguments. But we can hold our suggestion until the court's ready for it.
+
+Judge (19:41):
+
+All right. And if the parties feel it'd be helpful to confer while the court is reviewing it, you may just so if you choose to, I encourage it. If you don't, I respect that. And court's going to take about five minutes. Again, I just want to review it to be brought up to full speed and just to have it freshly in my mind.
+
+Mr. Novak (20:01):
+
+I'm going to make one more point, if I may. And that is, this is not the first time that this has happened. We had earlier proceedings in this case where the cameras depicted images inside the courtroom that the court had prohibited and the court imposed certain consequences on the media as a result of that. And so that's just something to keep in mind, in my opinion.
+
+Judge (20:30):
+
+Thank you.
+
+Mr. Novak (20:31):
+
+Thank you.
+
+Judge (20:31):
+
+All right. Before the court takes a five-minute recess to review this, does any party need the benefit of the record based off the dialogue between me and Mr. Novak?
+
+(20:46)
+All right. Not seeing any party respond. The court's in recess. We'll come back at 9:45. Court is in a brief recess.
+
+Judge Graf (47:59):
+
+Please be seated. Court is back in session, noting the presence of counsel and all parties, and where we left off is the court took a recess to address to review the video. And I appreciate the patience of the parties, as well as everyone in attendance, when it comes to constitutional matters and balancing constitutional rights and transparency. This court will take the necessary time to make sure it's given the weight it deserves, and it is deserving of every moment that has been spent. Mr. Novak, turning to you. And perhaps before you begin, let me go ahead and make a record of what I noted that is at issue. And after I've put this on the record, certainly if either side wishes to be heard about the court's understanding, I welcome your comments.
+
+(48:51)
+Exhibit 24 was displayed on the monitor visible to the media camera. Exhibit 16 was displayed on all monitors and appeared on the live stream for approximately three and one-half seconds. The camera operator redirected the camera before any party called attention to the display of exhibit 16. Approximately 16 seconds later, the court observed the image and stated, "Let me stop you, Mr. McBride. I'm not sure. Is this being broadcast?" Mr. McBride responded, "Let's take that down." The full text of exhibit 16 had previously been made public through a search warrant that was publicly available on or before April 2026. The portion displayed on the monitors did not contain the full note, and consisted of approximately 78 words. Approximately 15 of those words were included in the information filed on September 16th, 2026.
+
+(49:49)
+In addition, the full note was read into the record during the preliminary hearing. The court previously ordered that exhibit 16 be admitted into evidence and permitted its display within the courtroom, but prohibited its publication through the camera used for the live stream. And that concludes the findings of the court as it relates to this issue. Do the parties wish to be heard before we go into what you're requesting about the record on what occurred?
+
+Mr. McBride (50:18):
+
+Your Honor, your recitation is accurate. My earlier comments were based on my memory of reviewing this last night. In the recess, I reviewed the feed again, and what you have said today is accurate.
+
+Judge Graf (50:30):
+
+Thank you. Mr. Novak, any...
+
+Mr. Novak (50:33):
+
+No. Your Honor, I don't take issue with the court's factual summary.
+
+Judge Graf (50:40):
+
+All right. Turning to you, Mr. Novak.
+
+Mr. Novak (50:42):
+
+Thank you, Your Honor. We're going to renew our request to exclude all electronic media coverage from all future proceedings. That was our motion docketed at number 305, and that included video cameras, still photography, and audio. This is the second time that the court's orders concerning the scope of electronic media coverage have been violated. I'm a baseball fan, and I just don't think the court needs to wait for the third strike. Two strikes is enough. If I may, the alternative remedy, which we think is not wholly adequate, which is why we think it's an alternative and a less desirable alternative, is for this court to both reverse its prior order authorizing electronic media coverage of today's hearing, which we had previously filed an objection to after the court, I would say, preliminarily granted the request for today. That was sort of the chain of events. And that the court proactively preclude electronic media coverage at the last day of the preliminary hearing, which will be September 1st.
+
+(52:08)
+Now, I understand that there has not yet been a request for electronic media coverage for September 1st, but there is no doubt that there will be. Just as this court previously observed that it wasn't prepared to preclude electronic media coverage at the preliminary hearing because there had not been any requests, there were requests, and those that were timely were all granted. The court denied one request because it was not timely for one particular day. So I guess the way it would be is any request for electronic media coverage of September 1st will be denied, because that's the appropriate sanction for what happened yesterday. The fact that the content of the exhibit was previously summarized by the state in certain documents which became public because the state didn't take any actions to seal them beyond the six-month period, the fact that the contents of the exhibit were read in open court is not the issue.
+
+(53:24)
+The issue is when the court issues an order, everybody must comply with it. And there are reasons for the order, and the reasons, as this court stated, are to protect Mr. Robinson's right to a fair trial. So no doubt that the court balanced those prior ways in which the content of this exhibit had already been disclosed when the court decided that there would not be electronic media coverage. That's a fact that we have all known of that exhibit. That's a fact that we've all been aware of as we've gone along. So to summarize, and then I will stop, because I know we still have a witness here, and of course the court needs to hear from the state and counsel for the media I suspect, is we would like the court to reconsider its order denying motion 305 and grant it for the balance of all of the proceedings in this matter, or as an alternative, the court prohibit any further electronic media coverage of the preliminary hearing, which includes September 1st.
+
+Judge Graf (54:35):
+
+Thank you, Mr. Novak.
+
+Mr. Novak (54:36):
+
+Thank you very much.
+
+Judge Graf (54:37):
+
+Turning to the state, and then to the media.
+
+Mr. McBride (54:45):
+
+Yes, Your Honor. As to the remedy, we've heard of instances where the media has been able to delay publication of the recordings of the proceedings. We've heard of instances where that has been a short delay of like 30 seconds. I've talked to the media attorney about this, and they do not have the capability to do that right now. My suggestion would be for future proceedings to here order the media to look into that capability, and that would be a remedy that perhaps could be used in the future. I think that would be a satisfactory remedy to avoid this type of thing in the future.
+
+(55:28)
+As to the other remedies requested, we have one witness, the final witness. Well, the defense has one witness. That witness is a ATF DNA forensic biologist, and I assume that the exhibits that will be admitted through her will be of that nature. We've already, in fact, admitted the report that she is going to be testifying to. The reports, I should say that's exhibits 30 and, I believe, 34. And so I don't think we have... And those have already been published. I don't think we have the same risks or... yeah, I'll just say risks with her testimony as we do with some of this other evidence that has already been admitted.
+
+Judge Graf (56:18):
+
+Thank you. To the media.
+
+Mr. McBride (56:29):
+
+In a proceeding like this, the parties in the court and the media are working together to learn and to refine their processes. I hear Mr. Novak's remarks about challenges that we've run into in the past. I recall, it hasn't been that long ago, a time when the camera was placed in a location in the courtroom that was causing challenges. The court moved it. When there were challenges with aspects of the court's ruling, the court reiterated those, and those processes improved. We are getting better at this. Media is on board and recognizes the court's obligation and its significant efforts to balancing the interests here. In light of the court's ruling, including its recognition that the media operator in this case beat almost all of us to the punch and saw what was happening on the screen and moved away as quickly as they could, we believe that the procedures that the court currently has in place, even if they don't every moment of every hearing deliver the result that we are intending to deliver, those processes are working.
+
+(57:36)
+I don't believe that a further adjustment, much less a sanction, much less a revisitation of something that says, "Let's keep every photographer, every camera out of this courtroom for every proceeding..." In light of the court's well reasoned and exhaustive rulings after a long briefing on all of this, the court is currently balancing these interests correctly, and we therefore ask the court to allow the parties to recognize that the time we're dedicating this morning represents a reiteration of the importance of these principles. The media and the parties all recognize that. We'll continue to endeavor at all times to do all that we can to ensure that those are adhered to and let the parties go forward under the current procedures without further order or sanction by the court.
+
+Judge Graf (58:20):
+
+Thank you. Any further arguments before the court issues its ruling?
+
+Mr. Novak (58:29):
+
+No, but thank you for the opportunity.
+
+Judge Graf (58:31):
+
+Thank you. And I'm just updating my notes, as I'm intending to issue this ruling right now. I'm just making sure that I'm capturing all the points made in the argument right now.
+
+(58:45)
+All right. I'm almost done. I appreciate the parties' patience. This issue rises to the level that necessitates great care, and as my practice, I don't like to rush or make snap decisions, and I want to give this the full analysis that it's due. So thank you again for your patience.
+
+Judge (01:04:27):
+
+All right. Court will issue its ruling on the request by defense. The constitutional rights of Mr. Robinson and Ms. Kirk are paramount. Although transparency in judicial proceedings is a fundamental interest, it must be balanced against the constitutional rights of all parties. Having considered the arguments presented by counsel and having reviewed the events that occurred yesterday, the court finds that its order prohibiting the publication or broadcast of Exhibit 16 by the media camera was violated. The court agrees with defense that this constituted a violation of the court's order. Compliance with court's orders, court orders is essential in all proceedings and is of particular importance given the nature of these proceedings. With respect to defense's request as a sanction that the court reverse its ruling on defense motion 305, motion to exclude cameras, the request is respectfully denied. The analysis underlying the court's prior ruling remains unchanged and the court adheres to its reasoning and conclusions.
+
+(01:05:36)
+With respects to the defense's alternative request as a sanction to prohibit all cameras and electronic equipment from today's proceedings, thereby preventing the electronic capture of the proceedings for those inside and outside of the courtroom, the request is granted in part and denied in part. Effective immediately, members of the media shall no longer capture or broadcast any exhibits displayed by the parties during today's proceedings. The court finds this sanction to be proportional and appropriate in light of the violation of the court's prior order. The court reserves this sanction as it relates to September 1st. It is not before the court. There has not been a request for electronic media coverage and the court won't issue a pre-ruling. When that request has been filed and all the deadlines which the court has imposed in regards to the MC filing are in place, if motions are filed, the court will entertain motions in brief argument ahead of the September 1st hearing and address it at that time. This is the ruling of the court. Thank you. Turning to the defense, if you wish, you may call your next witness.
+
+Chad Grunander (01:06:58):
+
+Judge, we would like the benefit of the record before we start taking evidence today.
+
+Judge (01:07:01):
+
+Yes, Mr. Grunander. And I'll allow all parties given the ruling of the court briefly.
+
+Chad Grunander (01:07:07):
+
+And I'll be brief, Judge. And this is in relation to the continued taking of evidence today. And I'll start my statement, Judge, with something that was very insightful that you said the other day. You mentioned, and I quote, "Sometimes you need to take time to save time." And so that's my purpose for standing up here this morning. We have spent the better part of a day, a little over five hours, I believe, hearing from witnesses that the defense has called at this preliminary hearing. And no doubt the defense is entitled to call witnesses at a preliminary hearing as allowed by the rules. But I think it's important that the court remind all parties about the purpose of this hearing. This is a probable cause hearing as Your Honor has repeatedly stated. The defense has invoked the term reliability many times. And the court frankly has found the evidence that's been admitted, the testimony.
+
+(01:08:08)
+As a gatekeeper, the court has found it reliable. It's been presented. The exhibits have been found reliable. So any questions of additional reliability are really questions of credibility of the witness and weighing of the evidence. And that is not really what this court engages in at the probable cause standard. And so this is all couched in the context of a likely forthcoming standing objection that the state may lodge. If the testimony is long and drawn out and exceeds the scope of the preliminary hearing, gets into areas of a 702 hearing, possibly even trial, we will lodge this objection, but I wanted to just simply state the authority, Judge, behind our objection if we do make that.
+
+(01:08:52)
+As your court is well aware, the magistrate at this stage of the case must view the evidence in the light most favorable to the prosecution. And that's cited to in a number of Utah cases to include State v. Schmidt. Schmidt continues, "This means that when reasonable inferences from the evidence cut both for and against the state's case, the magistrate lacks the discretion to choose between them and must leave such a determination to the fact finder at trial."
+
+(01:09:20)
+A few other cases I would like to refer the court to. State v. Pledger, which is a Utah 1995 Supreme Court case. Speaking of this standard, the court says the standard bars the magistrate from requiring the prosecution to address or even eliminate alternative inferences that could be drawn from the evidence in favor of the defense. So even assuming the defense scores points today in calling these witnesses, again, the court cannot really weigh those in favor of the defense. State v. Hester, which is a Utah Court of Appeals case, 2000, where there is conflicting evidence, quote, "The magistrate may not sift or weigh the evidence, but must leave those tasks to the fact finder at trial." Of course, we're not at trial yet.
+
+(01:10:07)
+State v. Virgin, a Utah 2006 Supreme Court case indicates that a magistrate may only disregard evidence at a preliminary hearing if it is, quote, "so contradictory, inconsistent, or unbelievable that it is unreasonable to base belief of an element of the prosecution's claim on that evidence." There's a State v. Droesbeke case, which is a Utah Court of Appeals case 2010. Magistrates may only disregard or discredit evidence that is wholly lacking and incapable of creating a reasonable inference regarding a portion of the prosecution's claim, but must leave all the wane of credible but conflicting evidence to the trier of fact. And finally, State v. Lopez, a Utah 2020 Supreme Court case. Speaking of this probable cause standard at a preliminary hearing, the court said, " Under this low bar, it may be difficult for the defense to overcome a prima facie showing of probable cause. Even an alleged victim's recantations may sometimes be insufficient given that the magistrate must view all evidence in the light most favorable to the prosecution and draw all reasonable inferences in favor of the prosecution."
+
+(01:11:22)
+Judge, Your Honor has heard four days of testimony now. The evidence is overwhelming. It's devastating. And the question needs to be asked the purpose of continuing with testimony if it's long and drawn out. Of course, the defense has the right to call witnesses, but it needs to be within the context of this preliminary hearing. So again, we may be lodging a standing objection of relevance and exceeding the scope of this hearing. That's my record.
+
+Judge (01:11:53):
+
+Thank you, Mr. Grunander. Do either party, other parties wish to be heard as it relates to Mr. Grunander's statement? To the defense?
+
+Michael Burt (01:12:10):
+
+I'm not sure what was being requested by Mr. Grunander. As I indicated to the court during the testimony of the last witness, we had discussion with the state prior to the start. We had a scheduled date for the court to rule on objections. And the purpose of that hearing was so that we wouldn't have to fly witnesses out from the East Coast if there was going to be a standing objection. Prior to that hearing taking place, the state contacted us after they had participated in interviews of Ms. Oliver and the other experts and indicated to us and we indicated to the court that there was going to be no standing objection to the testimony of these witnesses. So if he's lodging a standing objection now, I think he's waived it or he should be stopped from asserting it given the circumstances. I didn't hear that, that he was asserting that. And I intend to keep this next witness focused on the issue that I think is relevant, which is the state presented DNA reports through a non-expert. They selectively read into the record a portion of those reports, which left an extremely misleading impression of the significance of that evidence. So I have the author of the report here and I'm going to hopefully educate the court on what the limitations are of the report and that's it. I hope to be done with the witness by noon, direct and cross, and that will be the end of it.
+
+Judge (01:13:42):
+
+All right. Thank you, Mr. Burt. And before I have you call the witness, just want to make sure that the media had a... Well, I'm not sure if the media needs to be heard on Mr. Grunander's response.
+
+Speaker 1 (01:13:54):
+
+No, Your Honor.
+
+Judge (01:13:54):
+
+All right. Thank you. All right, Mr. Burt, you may call your next witness.
+
+Michael Burt (01:13:56):
+
+Thank You. Call Ms. Oliver.
+
+Judge (01:14:10):
+
+Ms. Oliver, if you'd like to come forward and be sworn in.
+
+Caitlin Oliver (01:14:17):
+
+Do you solemnly swear that the testimony you shall give in the case now pending before the court will be the truth, the whole truth, and nothing but the truth so help you God?
+
+Judge (01:14:25):
+
+All right, ma'am. You may be seated. And there's a water bottle to your left if you wish. Now, after you're seated, if you wouldn't mind adjusting that microphone, bringing it close to you to pick up your testimony from today. Mr. Burt, your witness.
+
+Michael Burt (01:14:44):
+
+Thank you. Could you tell us your name please?
+
+Caitlin Oliver (01:14:47):
+
+Caitlin Oliver, O-L-I-V-E-R.
+
+Michael Burt (01:14:50):
+
+And Ms. Oliver, could you bring that mic a little bit closer so I want to make sure your voice is projected. Thank you. What do you do for a living?
+
+Caitlin Oliver (01:14:59):
+
+I work for the Bureau of Alcohol, Tobacco, Firearms and Explosives as a DNA Section Chief.
+
+Michael Burt (01:15:05):
+
+And how long have you held that position?
+
+Caitlin Oliver (01:15:08):
+
+I've been a Section Chief since January and I've worked with the ATF for about nine years. Prior to that, I was a forensic biologist.
+
+Michael Burt (01:15:16):
+
+And where were you a forensic biologist before you started to work for the ATF?
+
+Caitlin Oliver (01:15:22):
+
+Prior to the ATF, I worked for Jefferson Parish Sheriff's Office in New Orleans, Louisiana as a DNA analyst and a DNA quality manager.
+
+Michael Burt (01:15:31):
+
+Back in September of 2025, what were your duties and responsibilities?
+
+Caitlin Oliver (01:15:37):
+
+I was a forensic biologist.
+
+Michael Burt (01:15:39):
+
+And do you recall that around September 11th, you received a request to do some DNA work at the request of the state of Utah?
+
+Caitlin Oliver (01:15:50):
+
+Yes.
+
+Michael Burt (01:15:51):
+
+Could we display State's Exhibit 30, which is in evidence? For instance, the next sample down, 1.2, where the state read paragraph D, admitted paragraph F, you state in F, based on this calculation, there is evidentiary support for the inclusion of Tyler Robinson, correct? As a possible contributor.
+
+Caitlin Oliver (01:19:42):
+
+Correct.
+
+Judge (01:19:43):
+
+Mr. Burt, I just want to interrupt.
+
+Michael Burt (01:19:45):
+
+Sure.
+
+Judge (01:19:46):
+
+I was made aware of a question about the media as it reflects this order. So the question was whether audio could be transmitted,, and my ruling covered the video display of any exhibits. And so I just want to make sure that's the understanding of all the parties that the audio of your portion discussing evidence, that you understand that that's going to be captured by the camera and displayed, but not any exhibits displayed. Is that your understanding?
+
+Michael Burt (01:20:20):
+
+That is my understanding of the court's ruling, yes.
+
+Judge (01:20:22):
+
+And to the state?
+
+Chad Grunander (01:20:23):
+
+Yes.
+
+Judge (01:20:24):
+
+And to the media?
+
+Speaker 1 (01:20:26):
+
+Yes, Your Honor. There might be concern about the actual monitors, the counsel table and the podium. [inaudible 01:20:33].
+
+Judge (01:20:36):
+
+Well, that's why I give my notation at the beginning of the morning that the parties are responsible to monitor their monitors and that's there because they're entitled to view it. But they're responsible to ensure that the monitors, as the camera's picking up the courtroom, it's directed not to focus on the monitors, but inevitable capture may occur. And that's why that instruction is given.
+
+Speaker 1 (01:20:59):
+
+Thank you.
+
+Jeff Dyer (01:21:01):
+
+Your Honor, Jeff Dyer on behalf of the victim, representing. We cannot see the court from where we are sitting, so I don't know if there's a way for us to view the monitor.
+
+Speaker 2 (01:21:09):
+
+Language.
+
+Judge (01:21:13):
+
+I don't understand what you're saying.
+
+Speaker 2 (01:21:15):
+
+It's not being published on this one.
+
+Jeff Dyer (01:21:17):
+
+It's not being published on the monitor to the court's right.
+
+Judge (01:21:22):
+
+Right. The order of the court based as a sanction is no exhibits will be displayed.
+
+Jeff Dyer (01:21:27):
+
+In the courtroom entirety?
+
+Judge (01:21:28):
+
+As it stands right now, yes, that's correct.
+
+Jeff Dyer (01:21:31):
+
+Well, I-
+
+Judge (01:21:33):
+
+Okay, please approach the electron.
+
+Jeff Dyer (01:21:40):
+
+Your Honor, it's just hard for the victim's family to be able to follow the evidence if everyone but the victim's family is able to view the exhibits here in court.
+
+Judge (01:21:52):
+
+Thank you. I appreciate your concern. This monitor is not on either. So it's only the attorneys. The attorneys have a right to view what exhibits are being displayed to make their motions, objections, and to see it. It is the court's discretion on what's displayed in the courtroom for publication, and the court issued a sanction given the events of yesterday, and that's the court's ruling.
+
+Jeff Dyer (01:22:20):
+
+Your Honor, I just ask the court to consider the victim has the right to be present obviously at the hearing and the presence without being able to see the exhibits, again, it's our position, is not meaningful.
+
+Judge (01:22:31):
+
+Thank you. I appreciate your concerns. Mr. Burt.
+
+Michael Burt (01:22:34):
+
+Thank you. Could you re-display Exhibit 30 please? And again, while he's doing that, that same conclusion where you include the language, go back to that page please, five. Used the term, "There is evidentiary support and possible contributor." I want to focus your attention on the words evidentiary support. We've had a prior witness testify that, from the FBI testified that they use a scale and they characterize the support along the lines of strong... Are you familiar with that type of a scale?
+
+Caitlin Oliver (01:23:27):
+
+Yes.
+
+Michael Burt (01:23:27):
+
+Does your agency employ that scale?
+
+Caitlin Oliver (01:23:31):
+
+We can come to five conclusions at our agency. So there can either be exclusion, limited support for exclusion, uninformative, limited support for inclusion, and support for inclusion.
+
+Michael Burt (01:23:45):
+
+And I take it from what you just said, you don't use these qualifiers strongly. The word strongly include things of that nature?
+
+Caitlin Oliver (01:23:54):
+
+Yes. We don't use a verbal scale at our laboratory.
+
+Michael Burt (01:23:57):
+
+Is that a scientific phrase when you talk about some... Instead of saying that there's support for an inclusion, you instead say there is strong support for the conclusion?
+
+Caitlin Oliver (01:24:09):
+
+So our laboratory doesn't use a verbal scale due to the fact that they add subjective words to the front of this word support. It is our stance that the likelihood ratio statistic, the number stands on its own. So we report the likelihood ratio and either support or support for inclusion or support for exclusion.
+
+Michael Burt (01:24:33):
+
+Thank you. Would you go to page eight of the report and highlight the very top of the first two sentences? You included this language in your report, correct?
+
+Caitlin Oliver (01:24:48):
+
+Correct.
+
+Michael Burt (01:24:49):
+
+And in fact, you included this language in all three of your reports referring to the conclusions conform with the relevant Department of Justice policy on uniform language.
+
+Caitlin Oliver (01:25:02):
+
+That's correct.
+
+Michael Burt (01:25:02):
+
+Right. And why do you include that language in all three of your reports?
+
+Caitlin Oliver (01:25:08):
+
+It's standard language for our reports. Our reports adhere to the DOJ ULTR statement.
+
+Michael Burt (01:25:15):
+
+Okay. And could you go now to Exhibit Oliver Four for the witness only? Not admitted yet. Are you familiar with this document, the Department of Justice Uniform Language for Testimony and Reports for Forensic Autosomal DNA Examination Using Probabilistic Genotyping Systems?
+
+Caitlin Oliver (01:25:41):
+
+Yes, I am.
+
+Michael Burt (01:25:42):
+
+Right. And would you go to page four of that document please? And the court has heard some prior testimony about this Department of Justice directive. What is your understanding of what the qualifications and limitations are that are required by this policy of the Department of Justice? What are you not supposed to be saying in connection with the reports that you wrote in this case?
+
+Caitlin Oliver (01:26:13):
+
+There's a few things that the ULTR document states. First, it states if you use a verbal scale, which we do not, then you need to use the one dictated in the document. This is in an effort to unify the language coming out of DOJ laboratories. It also says that we cannot state that our evidence is infallible, nor can we state that there is a inconclusive result.
+
+Michael Burt (01:26:50):
+
+Shall not state that it's infallible or have a zero error rate, correct?
+
+Caitlin Oliver (01:26:54):
+
+Correct.
+
+Michael Burt (01:26:57):
+
+It also states, does it not, that you shall not assert that a likelihood ratio of any magnitude provides an absolute identification or source attribution of an individual to an evidentiary sample?
+
+Caitlin Oliver (01:27:13):
+
+Correct.
+
+Michael Burt (01:27:13):
+
+And are your reports in conformity with that? You're not stating or implying that anything you did here is asserting an absolute identification of someone as the source of any of the evidence that you examined, correct?
+
+Caitlin Oliver (01:27:30):
+
+Correct. With forensic evidence, it's impossible to state with 100% certainty anything. That's why we report a likelihood ratio to speak to that uncertainty with a statistic.
+
+Michael Burt (01:27:41):
+
+All right. And would you go to the next page of that document? This policy requires that you not state or use the expressions reasonable degree of scientific certainty, reasonable scientific certainty, or similar assertions of reasonable certainty. You didn't do that in any of your reports, correct?
+
+Caitlin Oliver (01:28:00):
+
+Correct.
+
+Michael Burt (01:28:01):
+
+You're not asserting anything with respect to any reasonable degree of scientific certainty?
+
+Caitlin Oliver (01:28:07):
+
+Correct.
+
+Michael Burt (01:28:08):
+
+Correct? Now, you can take that down. When did you first receive the assignment in this case?
+
+Caitlin Oliver (01:28:16):
+
+I would have to refer to my case record to know the exact date.
+
+Michael Burt (01:28:20):
+
+Do you have those in front of you?
+
+Caitlin Oliver (01:28:23):
+
+I do not.
+
+Michael Burt (01:28:24):
+
+Okay. Let me pull up Oliver Three for the witness only, and go to the third page. Does that third page help refresh your memory on when you may have received this case?
+
+Caitlin Oliver (01:28:54):
+
+Yes, on September 12th, 2025.
+
+Michael Burt (01:28:57):
+
+Okay. Is that when you first started doing work on the case, do you think?
+
+Caitlin Oliver (01:29:01):
+
+Yes, it is.
+
+Michael Burt (01:29:02):
+
+Now, prior to doing work on the case, did you receive permission from someone to consume any samples in the case?
+
+Caitlin Oliver (01:29:11):
+
+Yes, I did.
+
+Michael Burt (01:29:12):
+
+And could you go to page 15 of those case notes please? Again, for the witness only. Do you recognize this email?
+
+Caitlin Oliver (01:29:27):
+
+Yes, I do.
+
+Michael Burt (01:29:28):
+
+And can you tell me what the email is and what information it conveyed to you in connection with your examination?
+
+Caitlin Oliver (01:29:36):
+
+Yeah. So it's standard procedure at our laboratory that when we receive a case, we request permission to consume from the agent. We request that they reach out to an attorney if one is assigned. And in this case, we will not begin any work on the case until we've received that permission to consume. So this email is us receiving permission to consume the samples and move forward with testing.
+
+Michael Burt (01:30:01):
+
+Now, does your lab have a policy for preserving samples for independent testing by the defense?
+
+Caitlin Oliver (01:30:10):
+
+Where possible, we will not consume samples where it's possible.
+
+Michael Burt (01:30:17):
+
+And that policy is a longstanding one, not only in your lab, but pretty much everywhere in forensic DNA analysis, right?
+
+Caitlin Oliver (01:30:25):
+
+That's correct.
+
+Michael Burt (01:30:26):
+
+Goes back to 1996, does it not, when the National NRC recommended a policy that samples be split wherever possible at the front end of the analysis to allow for independent examination?
+
+Caitlin Oliver (01:30:46):
+
+Where possible, yes, that's correct.
+
+Michael Burt (01:30:48):
+
+Right. And they did that because it was their conclusion, was it not, that a wrongfully accused person's best insurance against a possibility of being falsely incriminated is the opportunity to have the testing repeated, such an opportunity should be provided whenever feasible?
+
+Caitlin Oliver (01:31:07):
+
+Correct.
+
+Michael Burt (01:31:08):
+
+Okay. Could you now go back to Exhibit 30, page eight? Were certain DNA samples consumed in your analysis?
+
+Caitlin Oliver (01:31:28):
+
+Yes, they were.
+
+Michael Burt (01:31:29):
+
+And for the record, are those listed on page eight of your report?
+
+Caitlin Oliver (01:31:34):
+
+Yes, they are.
+
+Michael Burt (01:31:35):
+
+Which samples were entirely consumed in your analysis?
+
+Caitlin Oliver (01:31:39):
+
+It would be exhibits 1.4, 1.6, 1.9, 1.10, 1.12, 2.1, 3.1, 4.1 and 5.1.
+
+Michael Burt (01:31:51):
+
+Okay. Then, are there a number of samples listed above there in the report where you say the DNA extracts will be retained? And then you list 1.1, 1.2, 1.3, 1.5, 1.7, 1.8, 1.13, 7.1 and 8.1?
+
+Caitlin Oliver (01:32:14):
+
+Correct.
+
+Michael Burt (01:32:15):
+
+Does that mean that these... Those are all swab samples, correct?
+
+Caitlin Oliver (01:32:20):
+
+They were swabs, yes.
+
+Michael Burt (01:32:21):
+
+All right. Does your report mean that you consume the swabs, but you have some liquid extract remaining as to those samples?
+
+Caitlin Oliver (01:32:32):
+
+Correct.
+
+Michael Burt (01:32:32):
+
+Now, are all of the samples... Let's talk about the samples in Plaintiff's Exhibit 30. Were all of the samples you looked at there mixed samples?
+
+Caitlin Oliver (01:32:51):
+
+Could I refer to my tables in my report?
+
+Michael Burt (01:32:54):
+
+Sure. Go to page two, please.
+
+Caitlin Oliver (01:33:00):
+
+And can we go to page three and four?
+
+Michael Burt (01:33:09):
+
+Three and four, please.
+
+Caitlin Oliver (01:33:18):
+
+With the exception of the known samples from the known individual, that was a single source sample. But otherwise, the evidence samples were all mixtures.
+
+Michael Burt (01:33:26):
+
+And in many cases, they were mixtures of sometimes four and five people, correct?
+
+Caitlin Oliver (01:33:32):
+
+Correct.
+
+Michael Burt (01:33:34):
+
+Now, when you look at mixtures such as the ones in this case, you use terms like major and minor contributor, right?
+
+Caitlin Oliver (01:33:46):
+
+Correct.
+
+Michael Burt (01:33:47):
+
+Is that language meant to convey that anything with respect to activity of anybody who might be assigned to that DNA weigh... In other words, are you saying the person you label as a major contributor was engaged in any sort of activity? Is there any connection between the use of that language and activity?
+
+Caitlin Oliver (01:34:09):
+
+None of the testing that I performed could speak to activity or what activity led to the deposition of the DNA.
+
+Michael Burt (01:34:16):
+
+So nothing in your report, if somebody reads that and says, "Oh, this one says this person is a major contributor," you're not commenting on anything about the person's activity, correct?
+
+Caitlin Oliver (01:34:30):
+
+Correct.
+
+Michael Burt (01:34:31):
+
+And is it true also that there are also several other limitations concerning the language of your report that it's important for courts and people who are reading the report to understand?
+
+Caitlin Oliver (01:34:53):
+
+I'm sorry, what was the question?
+
+Michael Burt (01:34:55):
+
+Are there other limitations in addition to the one we just reviewed that it's important to understand about the language you use in your report?
+
+Caitlin Oliver (01:35:08):
+
+Is there something specific that you're...
+
+Michael Burt (01:35:11):
+
+Yeah, there is. Could you go to Baker Exhibit 30, page one, for the witness only? Are you familiar with this publication?
+
+Caitlin Oliver (01:35:36):
+
+Yes.
+
+Michael Burt (01:35:37):
+
+This is a publication by the National Institute of Standards and Technology called Forensic DNA Interpretation and Human Factors.
+
+Caitlin Oliver (01:35:45):
+
+Correct.
+
+Michael Burt (01:35:46):
+
+This is put together as a guidance document for practitioners on what, to simplify, essentially what to say and what not to say.
+
+Caitlin Oliver (01:35:59):
+
+I don't know that I would call it a guidance document. NIST is not a regulatory body-
+
+Caitlin Oliver (01:36:00):
+
+... not that I would call it a guidance document. NIST is not a regulatory body for DNA testing. It was a report that looked into forensic DNA reporting and specific human factors that could affect our testing. So, they may have had recommendations, but as far as them being a regulatory body that's issuing guidelines, I wouldn't state that.
+
+Michael Burt (01:36:24):
+
+Okay. That's fine. Could you go to 136, please? 136.
+
+Judge (01:36:25):
+
+Can everyone see?
+
+Speaker X (01:36:25):
+
+[Inaudible 01:36:55].
+
+Michael Burt (01:36:25):
+
+Baker. This is Baker-30.
+
+Speaker X (01:36:25):
+
+This is the application it's on.
+
+(01:36:25)
+[Inaudible 01:37:03].
+
+(01:36:25)
+[inaudible 01:37:10].
+
+Michael Burt (01:36:25):
+
+Keep going.
+
+Speaker X (01:36:25):
+
+All right.
+
+Michael Burt (01:37:35):
+
+There we go, right there. Wait, 135. I'm sorry. And then scroll down to the next page. So, they're making recommendations here as to how the report should be worded. Correct?
+
+Caitlin Oliver (01:37:55):
+
+Correct.
+
+Michael Burt (01:37:57):
+
+Let me ask you whether you agree with some of these limitations, or they call them caveats. They talk about how you describe the number of contributors, and they say, "The true number of contributors of DNA to an item can never be known." Do you agree with that?
+
+Caitlin Oliver (01:38:15):
+
+Yes.
+
+Michael Burt (01:38:16):
+
+Okay. They also say... Let me ask one question before I ask this one, which is, do you use something called a reporting cap in all three of your reports?
+
+Caitlin Oliver (01:38:31):
+
+Yes. So, for our likelihood ratio statistics, we cap the statistic at one trillion. The actual number could be a lot higher. It could be quintillion, octillion. We chose a trillion because it has meaning to people that can understand what a trillion is. An octillion and a quintillion gets a little high, at that point, so we cap at one trillion.
+
+Michael Burt (01:38:55):
+
+And they talk here, do they not, about how you convey the idea of a reporting cap? And they say, "The LR reporting cap was chosen because of the limitation of biostatistical modeling and independence assumptions of STR loci." Do you agree that that's why the cap is chosen?
+
+Caitlin Oliver (01:39:21):
+
+I believe we chose our cap for the reason I stated.
+
+Michael Burt (01:39:26):
+
+Do you disagree with that statement in terms of why the cap is chosen?
+
+Caitlin Oliver (01:39:30):
+
+I'm not familiar with the paper that's referenced there, so I would have to familiarize myself before I said I-
+
+Michael Burt (01:39:36):
+
+Okay.
+
+Caitlin Oliver (01:39:36):
+
+... agreed or disagreed.
+
+Michael Burt (01:39:37):
+
+Fair enough. And then they also suggest that you alert, in your report, that profile descriptors cannot be applied to activity-level issues. Do you see? Do you agree with that?
+
+Caitlin Oliver (01:39:56):
+
+Yes. So, this is what you were stating about calling a major contributor. It doesn't speak to the activity that led to the DNA deposition.
+
+Michael Burt (01:40:03):
+
+Right. DNA profiles may be described as major or minor. However, these descriptors should not be interpreted in the context of a decision regarding the nature, or the mechanisms, actions, or timing that led to the deposition of the DNA. Yo agree with that?
+
+Caitlin Oliver (01:40:22):
+
+Correct. Yes.
+
+Michael Burt (01:40:23):
+
+All right. And then the other sort of limitation convey that the DNA results cannot be interpreted as the analyst providing an opinion regarding who the source of the DNA is.
+
+Caitlin Oliver (01:40:42):
+
+Yes. So, this is, once again, we don't make source attribution statements. We will say there's support for inclusion, and then we back up that with a statistic.
+
+Michael Burt (01:40:52):
+
+So, from a scientific standpoint, you couldn't read the paragraph that sets out the likelihood ratio in your report, whatever the number, and then blast a headline in the media, Mr. Robinson's DNA is found on this item. That's a source attribution, is it not?
+
+Caitlin Oliver (01:41:11):
+
+Correct. Yes.
+
+Michael Burt (01:41:12):
+
+And that would not be scientifically defensible, would it?
+
+Caitlin Oliver (01:41:15):
+
+Correct.
+
+Michael Burt (01:41:15):
+
+Okay. Another limitation, they talk about unlikelihood ratios on the next page, please, 137. Likelihood ratios cannot speak to the likelihood of a proposition, only to the probability of the results given a pair of propositions. Do you agree with that?
+
+Caitlin Oliver (01:41:38):
+
+Yes.
+
+Michael Burt (01:41:39):
+
+Explain that because that's a little above my pay grade in terms of understanding.
+
+Caitlin Oliver (01:41:45):
+
+So, a likelihood ratio of statistic compares the probability of the DNA profile of the evidence given two competing hypotheses or two competing scenarios. Typically, the first is that the person of interest is included and then the exclusionary hypothesis would be that the person of interest is excluded, so there's a random unknown unrelated individual contributing.
+
+Michael Burt (01:42:08):
+
+And when they're elaborating on that point, they say, "A likelihood ratio indicates if and to what extent the DNA analysis results support one proposition over another. It is not possible on this basis alone to determine which is the most probable proposition." Do you agree with that?
+
+Caitlin Oliver (01:42:32):
+
+Yes.
+
+Michael Burt (01:42:33):
+
+Okay. And then the next limitation they suggest you convey is that convey the DNA statistics cannot imply uniqueness within a population. Do you agree that that's a legitimate limitation?
+
+Caitlin Oliver (01:42:48):
+
+Yes.
+
+Michael Burt (01:42:49):
+
+And explain what that means. Does that go back to the issue of source? You can't assign a source to a DNA sample?
+
+Caitlin Oliver (01:42:58):
+
+Correct.
+
+Michael Burt (01:43:00):
+
+Okay. It says you should delineate the meaning of a verbal qualifier, but you didn't use one in this case. Right?
+
+Caitlin Oliver (01:43:08):
+
+Correct.
+
+Michael Burt (01:43:09):
+
+Okay. Now, you mentioned that your testing cannot... And correct me if I'm wrong. I don't want mischaracterize it. None of the testing in any of the three reports can answer the question of how and when DNA got deposited. Is that true?
+
+Caitlin Oliver (01:43:34):
+
+That is true. DNA can't speak to the activity that led to the deposition of the DNA.
+
+Michael Burt (01:43:40):
+
+And the report says, with regard to that issue, with the increased sensitivity of DNA techniques and sophisticated software, a DNA profile may be developed even when the contributor of that DNA never touched the item or area that was swabbed. Alternatively, a person's DNA may be present when they were not involved in the crime. Do you agree with that?
+
+Caitlin Oliver (01:44:05):
+
+Yes. Once again, I cannot speak to the activity.
+
+Michael Burt (01:44:09):
+
+Can you explain how it's possible that a DNA profile may be developed even when the contributor of that DNA never touched the item or area that was swabbed?
+
+Caitlin Oliver (01:44:22):
+
+So, it's possible if, say, the pen that you're sitting there using, for the week you, say, hand it off to the judge, and the judge then touches it for the period of time, and then I swab it. It doesn't speak to who handled it last. I could test that. I could get both of your profiles. I wouldn't know which person was the last person to handle that item.
+
+Michael Burt (01:44:46):
+
+All right. And similarly, if you had a lot of DNA on your hand, we shook hands, I then went to pick up an exhibit, a gun, I touched the trigger of it, your DNA could be on that trigger. Right?
+
+Caitlin Oliver (01:45:05):
+
+It is possible, yes.
+
+Michael Burt (01:45:06):
+
+Okay, even though you never touched the gun?
+
+Caitlin Oliver (01:45:08):
+
+Yes.
+
+Michael Burt (01:45:09):
+
+And that's why, because of those possibilities, you can't make any assessment of how or when DNA got deposited. Correct?
+
+Caitlin Oliver (01:45:17):
+
+Correct.
+
+Michael Burt (01:45:18):
+
+How long can DNA persist on an item?
+
+Caitlin Oliver (01:45:21):
+
+DNA is quite stable over time. It can be broken down due to environmental insults. So, things like heat and humidity are known to break down DNA over time, but I couldn't give you an exact number.
+
+Michael Burt (01:45:38):
+
+Were certain of the samples that you tested in this case degraded samples?
+
+Caitlin Oliver (01:45:43):
+
+There was degradation present in some of the samples.
+
+Michael Burt (01:45:46):
+
+And what can cause degradation?
+
+Caitlin Oliver (01:45:49):
+
+Like I said, there's environmental insults, heat, humidity.
+
+Michael Burt (01:45:54):
+
+Now, the second report that you wrote had to do with a Dremel item that was taken from Mr. Robinson's home?
+
+Caitlin Oliver (01:46:06):
+
+Correct.
+
+Michael Burt (01:46:11):
+
+Did you request certain what are called elimination samples in regard to items that were recovered from his home?
+
+Caitlin Oliver (01:46:22):
+
+Yes.
+
+Michael Burt (01:46:23):
+
+Tell the Court what an elimination sample is, as opposed to a sample that relates to what's called a POI, person of interest.
+
+Caitlin Oliver (01:46:32):
+
+So, an elimination sample is a sample taken from a known individual that it may be assumed that they could have come into contact with it. If I were to, say, swab your vehicle, then I would want your DNA sample as an elimination to eliminate you in order to look for any additional DNA that may be there.
+
+Michael Burt (01:46:53):
+
+And you say they're assumed contributors because depending upon the location, for instance, somebody's house, you would expect, if there were multiple people in that house, that perhaps everybody in the house could contribute to a certain DNA result?
+
+Caitlin Oliver (01:47:11):
+
+It's possible.
+
+Michael Burt (01:47:12):
+
+So, you'd want samples from all those folks to see if they contributed to an item that would be associated with a place where they congregated?
+
+Caitlin Oliver (01:47:22):
+
+Correct.
+
+Michael Burt (01:47:23):
+
+And I notice from your case file that you also requested, but I don't think you received, elimination samples from agents who were involved in this case.
+
+Caitlin Oliver (01:47:32):
+
+Correct.
+
+Michael Burt (01:47:33):
+
+Why do you request those samples?
+
+Caitlin Oliver (01:47:35):
+
+The type of testing we perform is quite sensitive. So, it is a standard practice that we request elimination samples from any of the investigators involved in order to potentially eliminate them, in case they could have contaminated the evidence.
+
+Michael Burt (01:47:53):
+
+Okay. Now, in report number 157, if you could bring that up, please? Oliver 157, which has been admitted. The elimination samples that you requested in connection with items seized from Mr. Robinson's apartment were from Amber Robinson, Matthew Robinson, and Lance Twiggs. Correct?
+
+Caitlin Oliver (01:48:24):
+
+Correct.
+
+Michael Burt (01:48:25):
+
+And that's because you had information that those people were associated with the house?
+
+Caitlin Oliver (01:48:29):
+
+Correct.
+
+Michael Burt (01:48:30):
+
+And when you tested or compared... First of all, you determined their DNA types. Right?
+
+Caitlin Oliver (01:48:37):
+
+Correct.
+
+Michael Burt (01:48:38):
+
+Then you compared their types to what you'd found on the evidence?
+
+Caitlin Oliver (01:48:42):
+
+Correct.
+
+Michael Burt (01:48:43):
+
+And for a certain number of those samples, you found the presence of DNA of your elimination samples, not because they were suspects, but because they were associated with the premises. Right?
+
+Caitlin Oliver (01:49:03):
+
+There was support for inclusion of some of these individuals. Yes.
+
+Michael Burt (01:49:06):
+
+Okay. And if you could scroll down to page four, which is the table. I just want to review briefly with you, for instance, item number 1.4, which was a swab from the rifle. You used the elimination sample of Mr. Robinson's father, and you found his DNA on that particular swab. Correct?
+
+Speaker X (01:49:40):
+
+[inaudible 01:49:42].
+
+Caitlin Oliver (01:49:41):
+
+I would say there was support for inclusion of Matthew Robinson on the sample obtained from the swabs of the bolts of the rifle.
+
+Michael Burt (01:49:49):
+
+I'm glad you pointed that out. That's, again, consistent with your other testimony. You're talking, again, about support for inclusion as a possible contributor.
+
+Caitlin Oliver (01:50:01):
+
+Correct, and the-
+
+Michael Burt (01:50:02):
+
+And again, not because he's a suspect, but because he's associated with that premise.
+
+Caitlin Oliver (01:50:08):
+
+Correct. And there would have been a likelihood ratio statistic calculated and to go along with that.
+
+Michael Burt (01:50:13):
+
+Okay. Could you go to the next page? Similarly, with respect to 1.6, you found, again, Matthew Robinson on swab number 1.6 or a profile that indicated he was a possible contributor?
+
+Caitlin Oliver (01:50:34):
+
+There is support for inclusion of Matthew Robinson.
+
+Michael Burt (01:50:37):
+
+Okay. And next page, actually go two page, to page seven. You found support for inclusion of Lance Twiggs on swabs of buttons of a Dremel tool. Correct?
+
+Caitlin Oliver (01:51:00):
+
+Correct.
+
+Michael Burt (01:51:02):
+
+And going back to what we were talking about before, if a person named Lance Twiggs lived in that residence, came into contact with Tyler Robinson, and then touched a button on a Dremel tool, you'd expect Mr. Robinson and Mr. Twiggs's DNA to be on there. Right? Or you could.
+
+Caitlin Oliver (01:51:25):
+
+It's reasonable to assume that anyone living in the household could have contributed to DNA on an object found in that household.
+
+Michael Burt (01:51:33):
+
+And similarly, you found profiles to suggest support for inclusion of Mr. Twiggs on other areas of the Dremel tool. Correct?
+
+Caitlin Oliver (01:51:44):
+
+Correct.
+
+Michael Burt (01:51:45):
+
+Okay. Now, the last area I want to ask you about is, you're familiar with something called NGS?
+
+Caitlin Oliver (01:52:00):
+
+Yes.
+
+Michael Burt (01:52:00):
+
+What is NGS?
+
+Caitlin Oliver (01:52:01):
+
+NGS stands for next-generation sequencing. It's a DNA technique that sequences your DNA, so it looks at the individual sequence of your DNA.
+
+Speaker X (01:52:10):
+
+[inaudible 01:52:11].
+
+Michael Burt (01:52:11):
+
+And is it true that, in your field, that whole area of NGS is something that's at the forefront of everybody's attention? For instance, when you go to seminars and you look at the presentations, there's a lot of talk about NGS. Right?
+
+Caitlin Oliver (01:52:27):
+
+That's correct. Yes, it's a newer technique. Yeah.
+
+Michael Burt (01:52:29):
+
+And is it being developed by ATF as a technique that's going to be used or has been used?
+
+Caitlin Oliver (01:52:36):
+
+Not at this time. No.
+
+Michael Burt (01:52:38):
+
+And is there plans to do that?
+
+Caitlin Oliver (01:52:41):
+
+Not at this time. No.
+
+Michael Burt (01:52:42):
+
+Okay. Do you know if other labs have implemented it?
+
+Caitlin Oliver (01:52:48):
+
+I believe there may be some laboratories in the United States that have it in use, but I wouldn't have direct knowledge of that.
+
+Michael Burt (01:52:54):
+
+Now, you used a program in this case called STRmix. Correct?
+
+Caitlin Oliver (01:52:58):
+
+Correct.
+
+Michael Burt (01:52:59):
+
+And that's sold by a company in New Zealand, that software?
+
+Caitlin Oliver (01:53:04):
+
+Correct.
+
+Michael Burt (01:53:05):
+
+Have they developed another program called STRmix NGS?
+
+Caitlin Oliver (01:53:12):
+
+I am not aware of NGS software.
+
+Michael Burt (01:53:14):
+
+Could you go to 156, Oliver 156? Let me know when you're there. Are you aware that the developers are selling a product called STRmix NGS?
+
+Caitlin Oliver (01:53:43):
+
+I was not aware. No.
+
+Michael Burt (01:53:44):
+
+Okay. Now, sequencing analysis is different than what you did in this case. Correct?
+
+Caitlin Oliver (01:53:52):
+
+Correct.
+
+Michael Burt (01:53:53):
+
+And how so?
+
+Caitlin Oliver (01:53:55):
+
+As I said, sequencing is looking at the individual sequence, the individual bases that make up your DNA, as opposed to the testing that I'm performing, which is looking at length variations. So, STR testing, which is the testing I perform, looks at areas of the DNA that are known to be highly variable between individuals. They're areas where the DNA sequence repeats itself over and over again. And depending on who you are as an individual, you may have a different number of repeats present at that location. So, the testing we're performing is looking at those length variations. There's a distinction between, say, if you have 10 repeats versus 12 repeats.
+
+Michael Burt (01:54:39):
+
+But you're not looking within those lengths to see what the sequence of the DNA is?
+
+Caitlin Oliver (01:54:46):
+
+Correct.
+
+Michael Burt (01:54:47):
+
+And that's what this new technology is designed to look at?
+
+Caitlin Oliver (01:54:50):
+
+Correct.
+
+Michael Burt (01:54:51):
+
+And the reason it's designed to look at that is because it has been found that there are DNA areas that are different in sequence, even though they're the same length. Is that true?
+
+Caitlin Oliver (01:55:03):
+
+I think the reason for developing NGS software is to add another tool to a forensic biologist's tool belt.
+
+Michael Burt (01:55:14):
+
+Okay. Now, could you go to 154, please, for the witness only? You're familiar with this chart?
+
+Caitlin Oliver (01:55:25):
+
+Yes.
+
+Michael Burt (01:55:26):
+
+Okay, this lists all the alleles that you found for all the testing in your three analyses. Correct?
+
+Caitlin Oliver (01:55:33):
+
+No, it looks like...
+
+Judge (01:55:33):
+
+[inaudible 01:55:38] the jury [inaudible 01:55:38].
+
+Michael Burt (01:55:39):
+
+No, you were right, 154.
+
+Judge (01:55:41):
+
+And then [inaudible 01:55:48].
+
+Michael Burt (01:55:49):
+
+Yeah, this is one... What's the exhibit on this?
+
+Judge (01:55:54):
+
+This is 154 in this application.
+
+Michael Burt (01:55:57):
+
+Okay.
+
+Speaker X (01:55:57):
+
+[inaudible 01:55:58].
+
+Michael Burt (01:55:58):
+
+You're familiar with this chart, right?
+
+Caitlin Oliver (01:56:01):
+
+I've reviewed the first page of this chart.
+
+Michael Burt (01:56:03):
+
+Sure.
+
+Caitlin Oliver (01:56:03):
+
+I have not reviewed the entirety.
+
+Michael Burt (01:56:04):
+
+Go to the first page. This lists the alleles that you found. Correct?
+
+Caitlin Oliver (01:56:11):
+
+For the known samples, yes.
+
+Michael Burt (01:56:12):
+
+Okay. Now, go to the second page. And is it true that for the alleles of interest in this case, one of the alleles of interest is at the D3 location, allele 17?
+
+Caitlin Oliver (01:56:26):
+
+One of the locations that we look at on the DNA strand is called D3. That's a location. Yes.
+
+Michael Burt (01:56:32):
+
+Right. And in this case, the 17 allele is important because Mr. Robinson had a 17 allele. Correct?
+
+Caitlin Oliver (01:56:40):
+
+Correct.
+
+Michael Burt (01:56:41):
+
+And some of the evidence had a 17 allele-
+
+Caitlin Oliver (01:56:44):
+
+Correct.
+
+Michael Burt (01:56:44):
+
+... at that location?
+
+Caitlin Oliver (01:56:46):
+
+Correct.
+
+Michael Burt (01:56:46):
+
+So, as I understand the way you do this, you look and compare whether those are the same number, basically.
+
+Caitlin Oliver (01:56:54):
+
+I wouldn't say that's how we do our comparison. So, it's not just number matching. We're using the STRmix software, in order to perform an analysis of the software that looks at the possibilities for a DNA profile and make comparison to the knowns that way. We aren't using a chart and just doing number matching.
+
+Michael Burt (01:57:18):
+
+Yeah. And I wasn't suggesting you did, but you're looking at the alleles and measuring the peaks. And it's a fairly sophisticated process. Correct?
+
+Caitlin Oliver (01:57:27):
+
+Correct.
+
+Michael Burt (01:57:28):
+
+But the bottom line is you're comparing alleles one against another.
+
+Caitlin Oliver (01:57:33):
+
+Correct.
+
+Michael Burt (01:57:33):
+
+So, if a person is a 1717 and the evidence sample is a 1717, you're looking at that comparison?
+
+Caitlin Oliver (01:57:42):
+
+Correct.
+
+Michael Burt (01:57:42):
+
+And again, measuring only length?
+
+Caitlin Oliver (01:57:45):
+
+Correct.
+
+Michael Burt (01:57:46):
+
+But it's true, is it not, that researchers have found at that particular allele, the D3 17 allele, that there are actually three different 17s, 17A, 17B, 17C?
+
+Caitlin Oliver (01:58:02):
+
+Yeah. So, there's something known as isoalleles. What that is is you may have, in this case, a 17 allele, but the sequence within that 17 allele is different. So, two people may have a 17, but they may have a different sequence within their 17 allele.
+
+Michael Burt (01:58:21):
+
+And it has been found that there is a 17A, a 17B, and a 17C. Correct?
+
+Mr. McBride (01:58:26):
+
+Objection. Relevance to the probable cause hearing. At this point, I think we've, once again, gone beyond probable cause. And based on Mr. Grunander's argument, I would invoke his argument here and the case law that he referenced, and I object to this question.
+
+Michael Burt (01:58:44):
+
+Let me withdraw the question, reframe it, and move beyond it.
+
+Judge (01:58:48):
+
+All right, so I'll sustain the objection. It will be reframed, and we'll go from there.
+
+Michael Burt (01:58:52):
+
+It's true, is it not, that at least, one, two, three, five of the locations of interest in this case, researchers have found that the alleles that you were looking at, these isoalleles have different sequences but the same length?
+
+Mr. McBride (01:59:10):
+
+Objection, relevance. The witness has testified she does not do sequencing analysis here, and that's what the question is asking, is about sequencing analysis.
+
+Judge (01:59:20):
+
+Counsel?
+
+Michael Burt (01:59:22):
+
+The point though is that her testing cannot distinguish between these isoalleles, and therefore, it goes to the weight of the comparisons.
+
+Judge (01:59:32):
+
+But if she didn't do that...
+
+Michael Burt (01:59:34):
+
+Yeah, that's the point is that she didn't do it, and therefore, she's not in a position to draw conclusions.
+
+Judge (01:59:42):
+
+Mr. McBride?
+
+Mr. McBride (01:59:47):
+
+That proffer is inaccurate that she's not able to draw conclusions because she did not do NGS or sequencing analysis. She has testified that her lab and the analysis she did here is not sequencing analysis. It's something different. Whether or not she could do sequencing analysis is irrelevant to the analysis that she did do.
+
+(02:00:08)
+If Mr. Burt wants to call an expert to say sequencing analysis is better or something like that, that's fine, but this expert does not do sequencing analysis. Therefore, the line of questioning that goes into sequencing analysis is irrelevant to her testimony.
+
+Michael Burt (02:00:20):
+
+Let me see if I could lay a further foundation.
+
+Judge (02:00:23):
+
+All right, so I'm going to sustain the objection.
+
+Michael Burt (02:00:25):
+
+Sure.
+
+Judge (02:00:26):
+
+And the question may be re-asked, if Counsel chooses.
+
+Michael Burt (02:00:29):
+
+When you do your analysis using length only, do you go by the rule that if any STR locus fails to match when comparing the genotypes between two or more samples, then the comparison of profiles between the question and reference sample is usually declared a non-match, regardless of how many other loci match?
+
+Caitlin Oliver (02:00:57):
+
+No, it's not quite that simple. What you're speaking of is an exclusion. Is that correct?
+
+Michael Burt (02:01:04):
+
+Yeah, right.
+
+Caitlin Oliver (02:01:06):
+
+So, it's possible for DNA evidence to... We spoke about it's possible that DNA evidence be degraded. In a case like that, there may be the potential that some of the profile has what we call dropped out, so it's not present. In that case, we wouldn't expect necessarily to have a inclusion or exclusion at that location because there's no information present there. So, it's not quite as simple as, is every allele in this chart present in the evidence? There's more to it than that.
+
+Michael Burt (02:01:40):
+
+If you had a difference in sequence between a known and a question across many loci, would you exclude the person?
+
+Caitlin Oliver (02:01:49):
+
+It depends on-
+
+Mr. McBride (02:01:50):
+
+Once again, objection, Your Honor. We're going back into sequencing, which is not the analysis that was done in this case.
+
+Judge (02:01:56):
+
+Mr. Burt?
+
+Michael Burt (02:01:58):
+
+Again, Your Honor, if there could be an exclusion based on this and the testing was not done, I think that that is relevant.
+
+Judge (02:02:08):
+
+But as it relates to this witness and her firsthand knowledge, I'm not seeing that tie in as it relates to her.
+
+Michael Burt (02:02:16):
+
+All right. Let me move on then.
+
+Judge (02:02:17):
+
+So, I'll sustain the objection.
+
+Michael Burt (02:02:20):
+
+Now, you said that all the samples you looked at in that one report were mixtures. Correct?
+
+Caitlin Oliver (02:02:26):
+
+Correct.
+
+Michael Burt (02:02:27):
+
+And the number you get in the likelihood ratio depends on how many contributors you estimate. Right? The number is going to vary if you say, "I think it's a mixture of two people," versus, "I think it's a mixture of five people."
+
+Caitlin Oliver (02:02:48):
+
+It's not necessarily the number of contributors. The likelihood ratio speaks to the weight of the evidence. So, it's comparing known individuals to the unknown sample. It could be a low number and be a single-source sample. It could be a high number and be a four-person mixture. It's not necessarily directly correlated with the number of contributors.
+
+Michael Burt (02:03:15):
+
+Let me ask you if you agree with this. This is from the NIST Mixture Study. "A likelihood ratio numeric value is not a measurement of the physical quantity." Do agree with that?
+
+Caitlin Oliver (02:03:30):
+
+Correct.
+
+Michael Burt (02:03:31):
+
+"Rather, it is a ratio of probabilities in the opinion of the expert assessing the likelihood ratio and is dependent on the specific propositions used to formulate it and also on the individual making the assessment."
+
+Caitlin Oliver (02:03:54):
+
+Correct. Yes, I agree.
+
+Michael Burt (02:03:55):
+
+And does the final likelihood ratio depend on the number of contributors you assume?
+
+Caitlin Oliver (02:04:04):
+
+No, it does not.
+
+Michael Burt (02:04:06):
+
+It has no effect, whatsoever?
+
+Caitlin Oliver (02:04:08):
+
+It can have an effect. It's possible. It's possible multiple other factors could contribute to the likelihood ratio.
+
+Michael Burt (02:04:15):
+
+Is it somehow difficult to figure out how many contributors there are in a sample?
+
+Caitlin Oliver (02:04:28):
+
+I guess I would say that I use my training, education, and experience in order to determine the number of contributors present in a profile.
+
+Michael Burt (02:04:37):
+
+But I noticed throughout your report you used the phrase, for instance, with regard to the 1.2 sample, "The profile consistent with at least five contributors, at least one of which is male," and for 1.1 you say, "The profile is consistent with at least four contributors." I assume by the word at least you're signaling that it could be more.
+
+Caitlin Oliver (02:05:08):
+
+Correct.
+
+Michael Burt (02:05:08):
+
+And as a number of people to a mixture increases, the difficulty in sorting out that mixture increase as well. Correct?
+
+Caitlin Oliver (02:05:19):
+
+Correct.
+
+Michael Burt (02:05:24):
+
+I noticed, in your standard operating procedure, there's some guidance on interpreting three-person mixtures. Familiar with that, right?
+
+Caitlin Oliver (02:05:35):
+
+Yes.
+
+Michael Burt (02:05:36):
+
+And it says, and correct me if I'm wrong, "Approximately 70% of four-person mixtures present as two- or three-person mixtures based solely on number of alleles present."
+
+Caitlin Oliver (02:05:55):
+
+It's possible for them to present. Yes.
+
+Michael Burt (02:06:00):
+
+Well, it doesn't say it's possible. It says, for example, "In all cases, assuming a mixture is a result of the combination of three people must be done with caution. For example, approximately 70% of four-person mixtures present as two- or three-person mixtures based solely on number of alleles present."
+
+Caitlin Oliver (02:06:21):
+
+You said you're referencing my SOP?
+
+Michael Burt (02:06:23):
+
+Yes.
+
+Caitlin Oliver (02:06:24):
+
+Is it possible for me to take a look at it?
+
+Michael Burt (02:06:26):
+
+Sure.
+
+Mr. McBride (02:06:26):
+
+Your Honor, I'm going to object at this point. The point that Defense Counsel is getting at is made in the last answer, which is that the difficulty of sorting out mixtures increases as the number of contributors increases. That's all understood, but that has nothing to do with probable cause determination. Even if it's difficult, the inferences and the evidence is weighed in the favor of the state. The Court cannot weigh the difficulty in determining this evidence. Is it fair for a trier of fact at jury? Sure it is. But we're now getting into weight issues that are relevant for a jury, but not for this Court.
+
+Judge (02:07:02):
+
+[inaudible 02:07:02], Mr. Burt?
+
+Michael Burt (02:07:03):
+
+Well, he's implying it's going to be an extended discussion. I have one question which she wants to look at her manual to make sure it's in there, and then I'm done.
+
+Judge (02:07:12):
+
+All right. I'll allow this question.
+
+Michael Burt (02:07:14):
+
+Thank you.
+
+Judge (02:07:14):
+
+So, I'll overrule the objection. She may review the material, and the-
+
+Michael Burt (02:07:17):
+
+So, could you bring up...
+
+Judge (02:07:18):
+
+... question can be rephrased.
+
+Michael Burt (02:07:20):
+
+... Exhibit Oliver 148? This is your SOP document. Correct?
+
+Caitlin Oliver (02:07:30):
+
+Correct.
+
+Michael Burt (02:07:31):
+
+And then go to page 83. All right. Did I read that correctly?
+
+Michael Burt (02:08:02):
+
+Did I read that correctly?
+
+Caitlin Oliver (02:08:04):
+
+Yes.
+
+Michael Burt (02:08:05):
+
+And so it's true, is it not, that approximately 70% of four person mixtures present as two or three person mixtures?
+
+Ms. Visser (02:08:12):
+
+It's possible.
+
+Michael Burt (02:08:14):
+
+Thank you. That's all I have.
+
+Judge Graf (02:08:16):
+
+Thank you. We've been going for a bit and depending on how much cross and trying to decide if a break is warranted, or if Mr. McBride, your cross is limited ... Again, not trying to say which way you should go. I'm just trying to weigh whether we should take a break.
+
+Mr. McBride (02:08:33):
+
+I will probably be... Oh, excuse me. I will probably be 20 minutes.
+
+Judge Graf (02:08:39):
+
+All right. Let's just keep going and then at that point we can take a break. Thank you, Mr. McBride.
+
+Mr. McBride (02:09:26):
+
+Good morning.
+
+Caitlin Oliver (02:09:27):
+
+Morning.
+
+Mr. McBride (02:09:28):
+
+Is your lab accredited?
+
+Caitlin Oliver (02:09:30):
+
+Yes, it is.
+
+Mr. McBride (02:09:31):
+
+What does that mean?
+
+Caitlin Oliver (02:09:33):
+
+So our laboratory goes through a voluntary accreditation process where a external third party comes in and audits our laboratory to a set of standards. Specifically the ATF laboratory is accredited, and specifically the DNA section of the ATF laboratory is accredited to two sets of standards. One is an international set of standards called ISO 17025 for testing laboratories, and additionally, a DNA specific set of standards put forth by the FBI.
+
+Mr. McBride (02:10:04):
+
+Does the accreditation require that the methodologies you use be validated?
+
+Caitlin Oliver (02:10:09):
+
+Yes.
+
+Mr. McBride (02:10:11):
+
+The methodologies used in this case have been accepted by courts across the country, correct?
+
+Caitlin Oliver (02:10:16):
+
+Correct.
+
+Mr. McBride (02:10:17):
+
+Does the accreditation require that forensic biologists like yourself satisfy certain qualification standards?
+
+Caitlin Oliver (02:10:23):
+
+Yes. We're required to perform competency testing prior to participating in casework. And additionally, we participate in twice a year proficiency testing.
+
+Mr. McBride (02:10:34):
+
+And do you satisfy the competency and qualification standards required by accreditation?
+
+Caitlin Oliver (02:10:40):
+
+Yes.
+
+Mr. McBride (02:10:41):
+
+And at the time you did the testing in this case, did you satisfy those standards?
+
+Caitlin Oliver (02:10:45):
+
+Yes.
+
+Mr. McBride (02:10:46):
+
+Moving to your opinions, where on the firearm did you find evidentiary support for the inclusion of Tyler Robinson?
+
+Caitlin Oliver (02:11:02):
+
+There were several locations. I'd have to refer to my report.
+
+Mr. McBride (02:11:06):
+
+Okay. Would you look at your report? And this is, it looks like, exhibit number 30. If we can pull that up just for the witness. Thank you, Kimberly. We had it for a minute here a minute ago. Okay. If we could go to page number two, please. Will you just list off the areas of that firearm where there was evidentiary support for inclusion of Tyler Robinson?
+
+Caitlin Oliver (02:12:21):
+
+The swabs of the stock and grips of rifle, the swabs of the butt plate of rifle, swabs of the trigger and trigger guard of rifle with possible ridge detail/smudging, the swabs of the bolt of the rifle with possible ridge detail/smudging, and the swabs of the fore-end of the rifle.
+
+Mr. McBride (02:12:40):
+
+If we go to page three.
+
+Caitlin Oliver (02:12:47):
+
+Swabs of the barrel of the rifle with possible ridge detail/smudging. The swabs of possible ridge detail/smudging on the optical accessory.
+
+Mr. McBride (02:12:59):
+
+And page four.
+
+Caitlin Oliver (02:13:04):
+
+The swabs of the protected underside of the receiver of the rifle after disassembly. The swabs of one 30-06 cartridge case, the swabs of one 30-06 cartridge and the swabs of one 30-06 six cartridge.
+
+Mr. McBride (02:13:23):
+
+I want to ask you about a couple of those conclusions. Let's look at page five, please. And calculation number three, Exhibit 1.3, do you know where that swab was taken from?
+
+Caitlin Oliver (02:13:49):
+
+I'd have to refer back to page two.
+
+Mr. McBride (02:13:51):
+
+Can we refer back to page two, please, Kimberly? Thank you.
+
+Caitlin Oliver (02:13:56):
+
+1.3 is the swabs of the trigger and trigger guard of the rifle.
+
+Mr. McBride (02:13:59):
+
+All right. Going back to page five. And we've had some testimony from you and some questions for you about the likelihood ratios. What was your conclusion as to the likelihood ratio that you analyzed in this question in calculation number three?
+
+Caitlin Oliver (02:14:27):
+
+For this exhibit, the DNA profile was at least one trillion times more likely if it originated from Tyler Robinson as the major component and three unknown unrelated individuals than if it originated from four unrelated individuals.
+
+Mr. McBride (02:14:45):
+
+You say at least one trillion times more likely. So it could be a much higher number than one trillion. Is that accurate?
+
+Caitlin Oliver (02:14:51):
+
+It's possible.
+
+Mr. McBride (02:14:54):
+
+But the protocols in your laboratory say you cap that at the number one trillion. Is that right?
+
+Caitlin Oliver (02:15:01):
+
+Correct. We would not report a number higher than one trillion.
+
+Mr. McBride (02:15:06):
+
+And it looks like you also did a probability statistic as well in paragraph E. Is that right?
+
+Caitlin Oliver (02:15:13):
+
+Correct. It's another way of stating the likelihood ratio statistic.
+
+Mr. McBride (02:15:17):
+
+And will you state your findings you made here in paragraph E? And that's on page six.
+
+Caitlin Oliver (02:15:27):
+
+The probability of an unrelated individual in the population who has not contributed DNA to the sample yielding this level of support is less than one in a trillion.
+
+Mr. McBride (02:15:44):
+
+And same question there. The trillion number, it could be far less than that, but you stop your calculations, or the statistics, at a trillion. Is that right?
+
+Caitlin Oliver (02:15:55):
+
+Correct.
+
+Mr. McBride (02:15:58):
+
+Let us move to page seven with regard to statistical analysis calculation number seven. Now do you remember what 1.13 and 2.1 are?
+
+Caitlin Oliver (02:16:12):
+
+I'd have to refer back to page three, I believe.
+
+Mr. McBride (02:16:16):
+
+If you could jump to page three. Thank you, Kimberly.
+
+Caitlin Oliver (02:16:18):
+
+Page four. I'm sorry.
+
+Mr. McBride (02:16:20):
+
+Page four.
+
+Caitlin Oliver (02:16:22):
+
+The 1.13 is the swabs of the protected underside of the receiver of the rifle after disassembly. And 2.1 is the swabs of one 30-06 cartridge case.
+
+Mr. McBride (02:16:33):
+
+Now, did you do the swabs themselves?
+
+Caitlin Oliver (02:16:35):
+
+I did not.
+
+Mr. McBride (02:16:36):
+
+And 2.1 is a cartridge case, is that right?
+
+Caitlin Oliver (02:16:45):
+
+Correct.
+
+Mr. McBride (02:16:46):
+
+And what's the difference between a cartridge case and a cartridge?
+
+Caitlin Oliver (02:16:50):
+
+A cartridge is unfired. Cartridge case has been fired.
+
+Mr. McBride (02:16:52):
+
+All right. Let's jump back to page seven. And what was your conclusion with regard to... Well, first of all, why do you group these two together, exhibits 1.13 and 2.1 in your conclusions here?
+
+Caitlin Oliver (02:17:08):
+
+They were both mixtures of two individuals and they both yielded a likelihood ratio of the same magnitude so they can be grouped together.
+
+Mr. McBride (02:17:16):
+
+Okay. It's not that they were tested together?
+
+Caitlin Oliver (02:17:23):
+
+Correct.
+
+Mr. McBride (02:17:24):
+
+It's just that the results were of the same magnitude, so they were reported together. Is that right?
+
+Caitlin Oliver (02:17:29):
+
+Correct.
+
+Mr. McBride (02:17:30):
+
+All right. What was your conclusion as it relates to both of these as to the likelihood ratio?
+
+Caitlin Oliver (02:17:35):
+
+The DNA profiles are at least one trillion times more likely if they originated from Tyler Robinson as the major contributor and an unknown unrelated individual than if they originated from two unknown unrelated individuals.
+
+Mr. McBride (02:17:49):
+
+And did you make a conclusion here as well about a probability statistic?
+
+Caitlin Oliver (02:17:56):
+
+Yes. So the probability of an unrelated individual in the population who has not contributed DNA to these samples yielding this level of support, so meaning yielding this likelihood ratio, is less than one in a trillion.
+
+Mr. McBride (02:18:20):
+
+Okay. Nothing else.
+
+Judge Graf (02:18:24):
+
+Mr. Burt.
+
+Michael Burt (02:18:30):
+
+The 1.3 sample is described as swabs of trigger and trigger guard, right?
+
+Caitlin Oliver (02:18:38):
+
+Correct.
+
+Michael Burt (02:18:39):
+
+You didn't do the swabs, but am I correct that you have no way of knowing which part was from the trigger and which part was from the trigger guard?
+
+Caitlin Oliver (02:18:53):
+
+Correct. So they were swabbed together, so I wouldn't be able to say where the DNA came from.
+
+Michael Burt (02:18:59):
+
+And that's one of the samples that was degraded, correct?
+
+Caitlin Oliver (02:19:04):
+
+There were signs of degradation present in that sample, yes.
+
+Michael Burt (02:19:07):
+
+And you said with regard to that sample that that was a sample consistent with at least four contributors, right?
+
+Caitlin Oliver (02:19:19):
+
+Correct. Correct.
+
+Michael Burt (02:19:21):
+
+And did what you termed the major profile have the largest amount of degradation in that sample?
+
+Caitlin Oliver (02:19:32):
+
+There was... Yes.
+
+Michael Burt (02:19:38):
+
+And you can't tell us anything about when the DNA was deposited on the trigger guard or the trigger, correct?
+
+Caitlin Oliver (02:19:46):
+
+Correct.
+
+Michael Burt (02:19:47):
+
+You can't tell us anything about whether when you say it's at least four, it could be five, six, or seven people with DNA on that trigger or trigger guard, correct?
+
+Caitlin Oliver (02:20:00):
+
+Correct. Which is why we have the major contributor that is suitable for comparison and the minor contributor is not suitable for comparison due to that complexity.
+
+Michael Burt (02:20:10):
+
+And again, major/minor just has to do with the levels of DNA you were seeing. It has nothing to do with someone being engaged in activity that is major in relation to the minor contributor.
+
+Caitlin Oliver (02:20:23):
+
+Yes. So the major contributor is the majority of the DNA contributed to that sample.
+
+Michael Burt (02:20:29):
+
+Okay. And some of these samples, you have major contributors of more than one person, right?
+
+Caitlin Oliver (02:20:38):
+
+Correct.
+
+Michael Burt (02:20:39):
+
+So for sample 1.1, swabs of stock, you have two major profiles and there are at least four contributors on that sample, right?
+
+Caitlin Oliver (02:20:54):
+
+Can I refer to my report?
+
+Michael Burt (02:20:55):
+
+Sure. It's Exhibit 30. Plaintiff's 30. Right?
+
+Caitlin Oliver (02:21:14):
+
+You said Exhibit 1.1?
+
+Michael Burt (02:21:16):
+
+Yes.
+
+Caitlin Oliver (02:21:18):
+
+Yes. It was a mixture of four individuals. There were two major contributors.
+
+Michael Burt (02:21:24):
+
+Okay. And again, with regard to all these samples, no way of knowing when or how the DNA got on those samples, correct?
+
+Caitlin Oliver (02:21:37):
+
+Correct.
+
+Michael Burt (02:21:38):
+
+You referenced another statistic in your report, which is the statistic related to Paragraph E, I guess?
+
+Caitlin Oliver (02:21:51):
+
+Correct.
+
+Michael Burt (02:21:51):
+
+Is it what's called a random match probability statistic, or is that something else?
+
+Caitlin Oliver (02:21:57):
+
+It itself is not a random match probability statistic. It is a way to represent the likelihood ratio similar to a random match probability.
+
+Michael Burt (02:22:08):
+
+But it's still a likelihood ratio computation, right?
+
+Caitlin Oliver (02:22:11):
+
+Correct. It's based off the likelihood ratio computation.
+
+Michael Burt (02:22:13):
+
+And it's still subject to all the limitations we've talked about?
+
+Caitlin Oliver (02:22:17):
+
+Correct.
+
+Michael Burt (02:22:17):
+
+Can't attribute it to any person, can't state it's infallible, can't state there's a zero error rate, and you can't state that it is a source connected with any one person, correct?
+
+Caitlin Oliver (02:22:32):
+
+Right. So part of not being able to state source attribution is ... The reason we report the likelihood ratio statistic, it speaks to the weight of the evidence. And so yes, we can't do a source attribution and we report that statistic and address that uncertainty that way.
+
+Michael Burt (02:22:53):
+
+And address the uncertainty along with the other limitations we talked about?
+
+Caitlin Oliver (02:22:58):
+
+Correct.
+
+Michael Burt (02:22:59):
+
+Thank you. That's all I have.
+
+Judge Graf (02:23:00):
+
+Thank you. Anything further for this witness?
+
+Mr. McBride (02:23:08):
+
+No.
+
+Judge Graf (02:23:10):
+
+All right. May this witness be excused?
+
+Mr. McBride (02:23:14):
+
+Yes.
+
+Michael Burt (02:23:14):
+
+Yes.
+
+Judge Graf (02:23:15):
+
+All right. Thank you, ma'am.
+
+Caitlin Oliver (02:23:15):
+
+Okay.
+
+Judge Graf (02:23:16):
+
+You may step down. Anything further from defense?
+
+Michael Burt (02:23:23):
+
+No, we have no further witnesses, Your Honor.
+
+Judge Graf (02:23:25):
+
+All right. Returning to prosecution. Anything further?
+
+Mr. McBride (02:23:31):
+
+No, Judge. We have no rebuttal evidence to present at this hearing. The state has no rebuttal evidence to present at this hearing. However, before we break, there is the matter that was discussed yesterday with respect to publishing in the courtroom Exhibit 12.1, so that the victim's family can observe that.
+
+Judge Graf (02:23:53):
+
+Thank you.
+
+(02:23:54)
+All right. Do the parties wish to be heard as it relates to this briefly and then the court will issue its ruling and ...
+
+Ms. Visser (02:24:05):
+
+Your Honor, I actually just want to make a quick record. We have advised Mr. Robinson of his right to testify at this hearing and he is choosing to take our advice and not testify.
+
+Judge Graf (02:24:17):
+
+Is that correct, Mr. Robinson? And I note that he's nodding in the affirmative. Thank you, Ms. Visser. All right. In regards to the outstanding issue about the publication of State's Exhibit 12.1 to the courtroom only to persons here, any further input from any of the parties before the court issues its ruling?
+
+Jeff Nyman (02:24:43):
+
+Your Honor, Jeff Nyman on behalf of the victim. My understanding is you ruled yesterday that you were going to play it, that you did grant our request. So I don't know if we ...
+
+Judge Graf (02:24:52):
+
+Thank you.
+
+Chad Grunander (02:25:02):
+
+Judge, I might simply add, given the court's ruling this morning with respect to displaying exhibits, we may want to make a record with the live-streaming folks here that it's not going to be published.
+
+Judge Graf (02:25:15):
+
+Thank you. All right. Nothing further from any of the parties? Okay. I'm just updating some notes.
+
+(02:25:30)
+All right. And the court wishes to readdress yesterday's ruling in light of this morning's sanction as it relates to exhibit 16, the court separately addressed that incident and imposed a sanction on the record. Having considered all applicable public access, fair trial, privacy and victim's rights interests, the court adheres to its prior ruling. Court finds that temporarily limiting livestream to audio only while Exhibit 12.1 is displayed necessary to prevent the inadvertent publication of the exhibit from being transmitted to outside the courtroom and is taking the least restrictive means to accomplish what is being requested. Accordingly, Exhibit 12.1 may be viewed by all persons physically present in the courtroom, including victim representative Ms. Kirk in her capacity as the victim representative. The same in court viewing rules applies to all parties and courtroom attendees. And that is the ruling of the court.
+
+(02:26:56)
+Let's go ahead and proceed to that, to the state. So could the camera operator let me know when we're switched to an audio only? We are? Okay. All right. And as it's switched to audio only, to the state, now am I understanding there's no audio on 12.1. Is that correct? All right. All right. So let's go ahead and play that. And I'm going to rule that this also applies to the still photographer. It cannot be captured the screen in any way. I noted video recording, but I intend as well as no still capture of any of the monitors during the publication of 12.1. All right.
+
+(02:27:51)
+And to the state, just let me know if you're ready. Let's go ahead and play it now.
+
+(02:27:55)
+All right. And that concludes the playing of State's Exhibit 12.1. Video transmission may resume. Just let me know when that is live. All right. Thank you. Does either party need the benefit of the record?
+
+Mr. McBride (02:38:18):
+
+The state does not, Judge.
+
+Speaker 3 (02:38:24):
+
+No, Your Honor.
+
+Judge Graf (02:38:26):
+
+All right. So this preliminary hearing is continued to September 1st at 10:00 AM for an in - person hearing. The court will allocate up to four hours total for argument. That's encompassing both parties. Does the defense request that Mr. Robinson be physically present for that hearing?
+
+Speaker 3 (02:38:45):
+
+Yes, Your Honor.
+
+Judge Graf (02:38:46):
+
+All right. We'll make the according... Thank you. The court appreciates the professionalism, civility and respect shown by counsel, the parties, and all persons in attendance throughout these proceedings. As there are no further matters before the court, this proceeding is adjourned until September 1st at 10:00 AM. Good afternoon to you all.
+
+Speaker 4 (02:39:06):
+
+All rise.

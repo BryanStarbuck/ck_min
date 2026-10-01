@@ -1,0 +1,43 @@
+id: '2085788561123549371'
+url: 'https://x.com/NihiloX/status/2085788561123549371'
+author:
+  username: 'NihiloX'
+  id: '1973351398453444608'
+text: |
+  Great video, Sam.
+
+  Israel was interested in the house located in front of the wooded area where the gun was discovered?
+
+  Weird.
+created_at: '2026-08-07T18:01:59.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 183
+  reply_count: 18
+  like_count: 504
+  quote_count: 5
+  bookmark_count: 26
+  impression_count: 7820
+quoted_status:
+  id: '2085774401988125026'
+  url: 'https://x.com/BasedSamParker/status/2085774401988125026'
+  author: 'BasedSamParker'
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2085788558430769153'
+      url: 'https://pbs.twimg.com/media/HPI1pJXXEAEOX5x.jpg'
+      width: 1206
+      height: 1520
+      sha256: '4eb7c20273532f8047faa83e27da57409b1cceca326d9e4d58449a2ec4c74664'
+      ipfs_cid: 'QmPi4U99UmsRKdNpwNZRLgfMBnoV1H9yNffJ4vEPZccHJR'
+ocr_text: |
+  "645 W 925 S" / Search term
+  COMPARE
+  Israel, Past 5 years
+  Interest over time
+  Apr 2022 - "645 W 925 S" 100
+  (x-axis: Aug 1, 2021 - Jun 1, 2023 - Apr 1, 2025; flat line with single spike to 100)
+investigation: 'charlie_kirk'
+added_date: '2026-08-12'
+temp_file: false

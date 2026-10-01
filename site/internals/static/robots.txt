@@ -1,0 +1,43 @@
+# robots.txt for https://whoassassinatedcharliekirk.com/
+# Public investigation archive — every doc page is intended to be indexed.
+# https://www.robotstxt.org/  ·  RFC 9309
+
+User-agent: *
+Allow: /
+
+# Search and pagination clutter — infinite thin variations, never indexable.
+Disallow: /search
+Disallow: /search/
+Disallow: /*?q=
+
+# ---------------------------------------------------------------------------
+# AI CRAWLERS AND ANSWER ENGINES ARE DELIBERATELY WELCOME.
+#
+# None of the agents below is blocked anywhere in this file, and none should
+# ever be. This archive exists to be read and cited; blocking the answer
+# engines would remove it from exactly the place people now ask their
+# questions.
+#
+#   GPTBot · OAI-SearchBot · ChatGPT-User · ClaudeBot · Claude-User
+#   Claude-SearchBot · PerplexityBot · Perplexity-User · Googlebot
+#   Googlebot-Image · Google-Extended · GoogleOther · Bingbot · DuckDuckBot
+#   Applebot · Applebot-Extended · Amazonbot · meta-externalagent · CCBot
+#   cohere-ai
+#
+# Note the asymmetry, which is routinely got wrong: blocking Google-Extended
+# does NOT affect Google Search, and blocking GPTBot does NOT block
+# OAI-SearchBot. Training opt-out and search/citation crawling are separate
+# controls.
+#
+# ⚠️ THE RFC 9309 GROUP TRAP — why the names above are a COMMENT, not groups.
+# Groups for different user-agent tokens are NEVER merged: the single most
+# specific matching group wins and REPLACES the "*" group entirely. This file
+# previously carried "User-agent: Googlebot / Allow: /" (and the same for
+# Googlebot-Image, Bingbot and DuckDuckBot). Those groups were not redundant —
+# they were silently cancelling the three Disallow lines above for exactly the
+# four crawlers that matter most. They have been removed. Do not add them, or
+# any AI-agent group, back: one "*" group is the only form of this rule that
+# cannot be got subtly wrong.
+# ---------------------------------------------------------------------------
+
+Sitemap: https://whoassassinatedcharliekirk.com/sitemap.xml

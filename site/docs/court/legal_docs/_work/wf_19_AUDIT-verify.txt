@@ -1,0 +1,189 @@
+Audit complete. Final report:
+
+```
+================================================================================
+AUDIT JOB 1 — COURT FILINGS ARCHIVE: VERIFY, DEDUP, PROMOTE
+Archive: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings
+================================================================================
+
+HEADLINE
+  1,542 files -> 580 files.  962 byte-identical redundant copies removed.
+  ZERO unique content lost (proved by sha256 set comparison: 580 unique content
+  hashes before, 580 after, 0 lost, 0 added).  ~1.1 GB -> 430 MB.
+  incoming/ is now GONE (fully emptied and its empty scaffolding removed).
+
+================================================================================
+STEP 1 — VERIFICATION OF incoming/  (1,365 files)   RESULT: 0 DELETIONS
+================================================================================
+Nothing in incoming/ was junk. Every check passed:
+
+  * MAGIC BYTES: all 1,155 .pdf files begin with "%PDF-". Zero exceptions.
+    Also checked the reverse - no non-.pdf file was secretly a PDF.
+  * PDF STRUCTURE: pdfinfo parsed all 1,155 successfully. 0 corrupt.
+  * PDF CONTENT: pdftotext over every PDF, grepped for cloudflare / "just a
+    moment" / "attention required" / 403 / 404 / "page not found" / access
+    denied / "sign in to download" / "subscribe to read". ZERO hits.
+  * ZERO-BYTE: none. Smallest file in the whole archive is 947 bytes
+    (2025-09-13_UtahCounty_News_Arrest... .txt), a real short press note.
+  * 158 PDFs have no extractable text - verified these are genuine SCANNED
+    court orders (pdfimages shows a real 1259x1644 jpeg scan per page), not
+    blank/error pages.
+  * HTML (43 files): every one inspected by <title>. All real content (Rev.com
+    transcripts, Utah Courts press notices, Utah GRO appeal decisions, Burkhart
+    Substack docket). No Cloudflare interstitials, no login walls.
+
+  FALSE POSITIVE WORTH RECORDING: an automated challenge-marker grep flagged 35
+  transcript files. All 35 were innocent - the trigger was courtroom speech
+  ("Can I have just a moment, Your Honor"), not a bot wall. Verified by reading
+  the matched lines and the file headers. None deleted.
+
+================================================================================
+STEP 2 — EXACT DUPLICATES (sha256)   RESULT: 962 DELETED
+================================================================================
+Keeper rule applied: 2025/ and 2026/ were treated as untouchable; a curated
+location always beat an incoming/ lane; within incoming/ the best-named lane won.
+SAFETY CHECK RAN BEFORE DELETING: deletions landing inside 2025/ or 2026/ = 0.
+Also verified every victim had a surviving byte-identical keeper, and that no
+file was both a victim and a keeper.
+
+Deletions by source lane:
+    262  incoming/related-dockets-foia/burkhart_docket_pdfs   (3rd copy of docket)
+    258  incoming/wayback-archive/burkhart_docket_pdfs        (2nd copy of docket)
+    169  incoming/burkhart                                    (dups of 2025//2026/)
+     77  incoming/charliefiles/documents/case-files           (100% mirror, see below)
+     55  incoming/github-community-mirrors/charliefiles/case-files
+     42  incoming/news-mirrors-national
+     20  incoming/news-mirrors-utah
+     20  incoming/documentcloud-scribd/search_warrant_affidavits_other_20
+     17  incoming/wayback-archive
+     16  incoming/documentcloud-scribd
+      6  incoming/github-community-mirrors/burkhart
+      4  each: hearings-transcripts-video, related-dockets-foia,
+              charliefiles/documents/records, documentcloud-scribd/documentcloud_only
+      2  incoming/utah-county-attorney
+      1  each: github-community-mirrors/grabien/filings, utah-courts
+
+THE THREE BIG STRUCTURAL FINDINGS BEHIND THOSE NUMBERS:
+  1. THE BURKHART DOCKET WAS DOWNLOADED THREE TIMES into three lanes
+     (burkhart/, related-dockets-foia/burkhart_docket_pdfs/,
+     wayback-archive/burkhart_docket_pdfs/). Kept burkhart/ - its
+     NNN_YYYY-MM-DD_Title.pdf naming is the only one carrying BOTH the docket
+     sequence number and an ISO date.
+  2. incoming/charliefiles/ was a 100% byte-identical SUBSET of
+     incoming/github-community-mirrors/charliefiles/. Verified filename-by-
+     filename (77/77 identical, 0 differing). Kept the github mirror because it
+     is a strict superset - it also carries the exhibits and transcripts.
+  3. incoming/burkhart contributed 254 distinct hashes but 0 unique-to-lane;
+     every burkhart file also existed somewhere else. It still won on naming.
+
+  Full 962-row ledger (victim -> keeper -> hash):
+  /private/tmp/claude-501/.../7c5485a1-664b-4df7-8754-7efdc004f200/scratchpad/delete_executed.tsv
+  388 of the 962 were git-tracked, so those deletions are git-recoverable.
+
+================================================================================
+STEP 3 — NEAR-DUPLICATES: 59 PAIRS FOUND, ALL BOTH-KEPT
+================================================================================
+Method: pdftotext on every PDF, 8-word shingles, Jaccard + CONTAINMENT (so a
+redacted copy sitting inside its unredacted parent is caught). Nothing here was
+deleted - deletion was restricted to byte-identical files only.
+
+*** THE REDACTED / UNREDACTED PAIR (the one that matters most) ***
+  FULLER : 3pg 10,512 chars  2025/9_16_25_Probable_Cause_Affidavit.pdf
+  LESSER : 3pg  6,440 chars  2025/2025-09-16_Tyler_Robinson_Redacted_Probable_Cause_Affidavit_FoxNews.pdf
+  The Fox News copy is REDACTED and is missing 4,072 characters. Containment
+  1.000 - every word of the redacted copy is inside the unredacted one. The
+  unredacted version exists in FOUR places (also 2025-09-16-pc-affidavit-davis.pdf,
+  2025-09-12_charging_probable-cause-affidavit.pdf, and mirandize/). BOTH KEPT -
+  the redacted copy is itself evidence of what was withheld from the public.
+
+*** OTHER GENUINELY FULLER-vs-LESSER PAIRS, ALL BOTH KEPT ***
+  +9,931 chars  2026/2026-01-05-state-opposition-disqualify-dkt289.pdf  IS FULLER THAN
+                2026/109_2026-01-10_Opposition_to_..._Disqualify_the_Utah_County_Attorney_s_Office.pdf
+  +2,825 chars  2025/2025-10-21-motion-to-strike-sheriff-response-dkt111.pdf  IS FULLER THAN
+                2025/10_21_25_Motion_To_Strike_Response_To_Motion_For_Unshackling.pdf
+  +4,177 chars  2026/1_30_26_Attachment_D.pdf IS FULLER THAN 1_30_26_Attachment_A.pdf
+                (these are different attachments, not versions - kept as distinct)
+  +670 chars    2025/2025-12-17-motion-to-disqualify-ucao-dkt250.pdf IS FULLER THAN
+                2025/102_2025-12-17_Public_Version_Motion_to_Disqualify.pdf
+                (the "Public Version" is the trimmed one - exactly the pattern to watch)
+  +2 chars      2026/200_..._Corrected_State_s_Response_to_..._Motion_in_Limine.pdf IS FULLER THAN
+                2026/199_..._State_s_Response_...  (docket 199 vs its 200 correction; both real entries)
+
+*** SAME-TEXT, DIFFERENT-ENCODING PAIRS (~45) - ALL KEPT ***
+  Identical extracted text, different bytes: the same filing pulled from two
+  sources. Kept both, because the two filenames carry DIFFERENT metadata - the
+  curated one carries the court's date, the mirror carries the DOCKET NUMBER
+  (dkt4, dkt74, dkt135...). Deleting either loses a key.
+  Two of these RESOLVED AN UNKNOWN - two vaguely-named warrant files are now identified:
+    warrants/2025-09_affidavit-for-search-warrant.pdf
+        == SW3214411, Verizon location data for 435-922-8263
+    warrants/2025-09_charging_search-warrant-affidavit.pdf
+        == SW3217131, Apple iCloud data for lancetwi...
+
+*** TRAP FLAGGED SO NOBODY "DEDUPS" THESE LATER ***
+  Four 2025/ files report IDENTICAL TEXT at only 518 chars. That 518 chars is
+  ONLY the "CERTIFICATE OF NOTIFICATION" cover sheet - the actual bodies are
+  scanned images that pdftotext cannot read. They are DIFFERENT DOCUMENTS
+  (8-page Standing Decorum Order vs 9-page Ruling on Motion to Strike/Unshackle).
+  ANY TEXT-BASED DEDUP WILL WANT TO MERGE THESE. DO NOT. Kept all four.
+
+*** THE REV TRANSCRIPTS - 5 CAPTURES OF EACH HEARING DAY, ALL KEPT ***
+  Each preliminary-hearing day exists as 5 byte-different TXT extractions.
+  news-mirrors-national is nominally "fullest" (+~1,030 words/day) BUT I read
+  the diff: that surplus is REV.COM MARKETING CHROME ("50% off Pro Monthly",
+  nav, footer, social links) - NOT transcript content. Transcript bodies are
+  99.7-100% identical across all five.
+  BEST COPY = the hearings-transcripts-video one, now in transcripts/ - it is
+  the only one carrying a provenance header (source URL, retrieval date, HTTP
+  200, extraction method). The other four are parked in
+  transcripts/alternate_captures/ rather than deleted, per this repo's own rule
+  that separate pulls of the same URL are themselves evidence.
+
+================================================================================
+STEP 4 — PROMOTION OUT OF incoming/   403 FILES MOVED, 0 COLLISIONS
+================================================================================
+Descriptive filenames preserved exactly as instructed. Every destination was
+collision-checked against both the plan and files already on disk before moving.
+Docket filings routed to 2025/ or 2026/ by FILING DATE parsed from the filename;
+verified 0 files landed in 2026/ without a 2026 date. Four items were manually
+rerouted out of the year folders because they are not filings: two docket
+printouts -> misc/docket_indexes/, two DA press releases -> misc/court_press_and_rules/.
+
+================================================================================
+FINAL TREE
+================================================================================
+.                                        2 files      2.3 MB
+2025/                                  140          84.6 MB
+2026/                                  170         113.1 MB
+transcripts/                            27          21.0 MB   <- CREATED
+transcripts/alternate_captures/          25           7.5 MB   <- CREATED
+warrants/                               27           4.1 MB   (was 1)
+mirandize/                               3           4.6 MB
+analysis/                                4           0.9 MB
+misc/                                    1           3.5 MB
+misc/case_files_undated/                 6           1.1 MB
+misc/court_press_and_rules/             28           3.3 MB
+misc/docket_indexes/                    20           3.7 MB
+misc/exhibits/day1/                      8          14.9 MB
+misc/exhibits/day2/                     18          36.1 MB
+misc/exhibits/day3/                      1           1.7 MB
+misc/exhibits/day4/                     32          55.8 MB
+misc/foia_gro/                          16           7.1 MB
+misc/foia_gro/_raw_html/                15           2.4 MB
+misc/hearing_coverage/                  26           0.5 MB
+misc/news_mirrors/                       7           1.8 MB
+misc/uvu_grama_records/                  4          58.3 MB
+--------------------------------------------------------------------------------
+TOTAL                                  580 files    430 MB
+By type: 378 pdf, 87 txt, 59 png, 35 html, 13 md, 5 json, 1 xml, 1 tsv, 1 csv
+
+FINAL VERIFICATION: all 378 PDFs re-parsed clean by pdfinfo after the move.
+Content-hash set identical to the original archive: 0 lost, 0 added.
+================================================================================
+```
+
+Two things worth your attention beyond the mechanics:
+
+**The archive grew substantially in real content.** `2025/` went 98→140 and `2026/` 68→170, and `warrants/` went from 1 file to 27 (25 numbered search-warrant affidavits with named targets). The incoming lanes carried 403 genuinely new documents.
+
+**One judgment call I made deliberately:** I deleted *only* byte-identical files. For the ~45 same-text/different-encoding pairs I kept both, because the two filenames encode different keys — the curated name has the court's date, the mirror name has the docket number. That's more redundancy than a pure space-saving pass would leave, but it matches your instruction that keeping information beats saving space, and this repo's own charter treats separate pulls as evidence. Say the word if you'd rather I collapse those to one copy per document with a crosswalk file recording the discarded docket numbers.

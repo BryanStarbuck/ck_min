@@ -1,0 +1,38 @@
+id: '2090466320869458085'
+url: 'https://x.com/AMERICANFIRSTQ_/status/2090466320869458085'
+author:
+  username: 'AMERICANFIRSTQ_'
+  name: 'AMERICAN FIRST Q'
+  id: '172916038'
+text: |
+  Alleged French whistleblower released a video regarding Candace Owen's' paid assassination.
+
+  They are desperate to shut her up. Pray. 🙏🙏🙏 https://t.co/c8gtk4btkM
+created_at: '2026-08-20T15:49:44.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 20
+  reply_count: 1
+  like_count: 38
+  quote_count: 4
+  bookmark_count: 26
+  impression_count: 869
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2090466056401801216'
+      duration_ms: 175750
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2090466056401801216/img/pcHh_wlEDIkDXPK0.jpg'
+      width: 480
+      height: 853
+      ipfs_cid: 'QmUwDPiEiNj8SobCVPyiwuSPtshetPmGUJNaB3nb3Boho1'
+      sha256: 'edc689526264b5ddd7921560ac36da22f3f02e9dbb1410352facbae5d1b53392'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+investigation: 'charlie_kirk'
+added_date: '2026-08-20'
+temp_file: false
+assessment: 'Anonymous, uncorroborated. Speaker claims DGSE action-division colonel rank and alleges a Unit 8200 liaison inside the Elysee commissioned an on-air attack on Candace Owens. Site records but does not adopt: 8200 is SIGINT not direct action; no named source, no document, transcript degrades under examination.'

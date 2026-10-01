@@ -1,0 +1,60 @@
+id: '2071655202596515843'
+url: 'https://x.com/Mia_Stretch/status/2071655202596515843'
+author:
+  username: 'Mia_Stretch'
+  name: 'MIA'
+  id: '1812304718502518784'
+text: |
+  @baroncoleman Kennington was present at UVU on 9/10/25
+created_at: '2026-06-29T18:01:04.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 4
+  reply_count: 5
+  like_count: 123
+  quote_count: 0
+  bookmark_count: 6
+  impression_count: 5831
+in_reply_to:
+  status_id: '2071647138258268644'
+  url: 'https://x.com/baroncoleman/status/2071647138258268644'
+  author: '@baroncoleman'
+  author_name: 'Baron Coleman'
+  text: |
+    Internet sleuths!  What is this officer carrying?  Preferred answers will
+    include a link to the item or a detailed description of how you know it is
+    the item.
+  note: 'Parent post asks the crowd to identify the rifle-shaped object carried by an officer in the Kennington escort photo. Three cropped images attached to the parent; not downloaded here.'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2071655193788469248'
+      url: 'https://pbs.twimg.com/media/HL__bDLa0AApW31.jpg'
+      width: 533
+      height: 1024
+      local_file: 'images/2071655202596515843_1.jpg'
+      sha256: 'fede5ca43710949576c4725476dd1e1533869881af5946bb03b5868946051597'
+      published: false
+      published_note: 'Uncropped original is banned from publication — shows three private commenters by name and photo. Not pinned to IPFS. See images/ban_images.csv.'
+      cropped_file: 'images/2071655202596515843_1_crop.jpg'
+      cropped_sha256: '5b3ad2f54d5177cc30149b873b912045ebe48198fee96a677b6261ced711d466'
+      cropped_ipfs_cid: 'Qmaf6mhHvXUrQGJLR6ztw6mH2aKihfBozZUX1Yqb2Qgv3Z'
+      cropped_width: 532
+      cropped_height: 244
+ocr_text: |
+  Russell Kennington
+  Sep 10, 2025
+
+  Uvu has the tightest security. We are safe thank you [praying hands emoji] to
+  all those that helped us out.
+
+  33 reactions
+
+  [Three comments from private individuals follow, then:]
+  Commenting has been turned off for this post.
+ocr_note: 'Tesseract misread the praying-hands emoji as "JJ". The visual reading of the image is authoritative. Platform appears to be Facebook.'
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false
+site_page: 'site/docs/distraction_people/Russell_Kennington.mdx'

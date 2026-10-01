@@ -1,0 +1,59 @@
+overlap_id: OWENS-041
+date: 2025-09-10
+person: both
+dir_name: 2025_09_10_KPVU_Both_UT_provo
+evidence_basis: adsb_ground_contact
+airport:
+  code: KPVU
+  name: Provo Municipal Airport
+  city: Provo
+  state: UT
+  state_name: Utah
+  timezone: America/Denver
+  elevation_ft: 4497
+  town_population: 115162
+  town_population_source: US Census 2020
+following_plane:
+  tail: SU-BTT
+  type: Dassault Falcon 7X
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2025-09-10T13:07:53Z, source_zone: UTC}
+      to:   {utc: 2025-09-10T13:13:16Z, source_zone: UTC}
+      basis: ground_contact
+      ground_points: 125
+      min_km: 1.23
+      sources: adsb-lol|airplanes-live
+    - from: {utc: 2025-09-10T13:14:03Z, source_zone: UTC}
+      to:   {utc: 2025-09-10T13:16:52Z, source_zone: UTC}
+      basis: near_field_pass
+      ground_points: 192
+      min_km: 0.03
+      min_alt_ft: 4475
+      sources: adsb-lol|airplanes-live
+kirk_plane:
+  tail: N102DZ
+  label_lead: "Aircraft reported as the Kirk family's"
+  type: Gulfstream V
+  operator: Private / reported as the Kirk family's aircraft
+  segments:
+    - from: {utc: 2025-09-10T21:30:43Z, source_zone: UTC}
+      to:   {utc: 2025-09-10T22:10:12Z, source_zone: UTC}
+      basis: ground_contact
+      ground_points: 267
+      sources: adsb-lol|airplanes-live
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: recovered ADS-B traces, adsb.lol and airplanes.live. Ground contacts and near-field passes measured point by point. As of 2026-09-28."
+sources:
+  - site/docs/Planes/following/overlaps.csv
+  - site/docs/Planes/following/airports.csv
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2025-09-10_adsb-lol_trace_full.json
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2025-09-10_airplanes-live_trace_full.json
+  - site/docs/Planes/N102DZ/data/recovered/N102DZ_2025-09-10_adsb-lol_trace_full.json
+  - site/docs/Planes/N102DZ/data/recovered/N102DZ_2025-09-10_airplanes-live_trace_full.json
+  - site/docs/Planes/info_graphic/code/build_info_yaml.py
+notes: >-
+  SU-BTT was heard on the ground 1 time and airborne within 15 km 1 time at KPVU on this date.
+  A hatched window is an AIRBORNE pass near the field - an approach, a departure climb or an overflight. It is not evidence the aircraft landed. Closest approach and lowest altitude heard, per pass: 0.03 km at 4475 ft.
+  A trace proves presence, never purpose, and never occupancy. Nothing here places any person aboard any aircraft.

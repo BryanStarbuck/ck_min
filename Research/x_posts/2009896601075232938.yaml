@@ -1,0 +1,36 @@
+id: '2009896601075232938'
+url: 'https://x.com/DAndersonMusic1/status/2009896601075232938'
+author:
+  username: 'DAndersonMusic1'
+  name: 'Mr. Anderson'
+  id: '1154886202656534529'
+text: |
+  Brian turns off Dans walkie 🤷‍♂️ https://t.co/Tp77I4zIvJ
+created_at: '2026-01-10T07:54:26.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 31
+  reply_count: 21
+  like_count: 99
+  quote_count: 14
+  bookmark_count: 37
+  impression_count: 40072
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2009896494766116864'
+      duration_ms: 8266
+      width: 2560
+      height: 1440
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-09-28'
+temp_file: false
+site_position_override: |
+  Bryan's wording overrides the post caption: we don't know what got pressed under the shirt.
+  Possibly a mic or a walkie-talkie. Possibly not. We don't know if it was turning it off or
+  something else. We just don't know.
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

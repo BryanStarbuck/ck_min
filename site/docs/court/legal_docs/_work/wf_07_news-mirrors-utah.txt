@@ -1,0 +1,52 @@
+NEWS-MIRRORS-UTAH LANE — 28 files kept, 22 MB. Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/news-mirrors-utah/
+Log: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_news-mirrors-utah.txt
+
+=== KEPT — COURT FILINGS (22 PDFs, all verified %PDF- magic + qpdf page count) ===
+BYTES / PAGES / FILE
+
+224869 / 3 / 2025-12-15_Ruling_Order_Granting_State_Motion_To_Clarify_Pretrial_Publicity_Order.pdf — the Dec 2025 gag order
+238156 / 3 / 2025-12-29_Order_Denying_Media_Request_To_Intervene_And_Standing_Order_4-202.04.pdf
+1060521 / 97 / 2025-12-29_Transcript_Of_October_24_2025_Hearing_Redacted_CourtFiled.pdf — the redacted Oct 24 closed-hearing transcript
+1369739 / 29 / 2026-01-09_Defendant_Motion_Preserve_Bullet_Jacket_Fragment_Ballistics_With_Exhibits.pdf — the previously-sealed Jan 9 motion; see FINDING 2
+5492425 / 27 / 2026-04-16_Declaration_Of_Counsel_In_Support_Of_OSC.pdf — recovered after URL correction; see FINDING 1
+3601562 / 67 / 2026-04-16_Motion_For_OSC_Contempt_And_Motion_To_Compel.pdf — defense contempt motion over the prosecutors' media tour
+372832 / 6 / 2026-05-06_State_Preliminary_Hearing_Witness_And_Exhibit_List.pdf
+4029500 / 10 / 2026-05-08_Ruling_Order_Motion_To_Exclude_Still_Photographers_TV_Cameras_Microphones.pdf
+146683 / 3 / 2026-05-29_Notice_Of_Filing_Petition_For_Permission_To_Appeal_Interlocutory_Order.pdf
+370125 / 3 / 2026-06-01_Ruling_Order_Denying_Motion_In_Limine_To_Close_Portions_Of_Prelim_Testimony.pdf — why the July prelim was public
+268404 / 4 / 2026-06-01_Ruling_Order_Granting_OSC_Docket_504_Denying_Compel.pdf
+152462 / 3 / 2026-06-26_Notice_Of_Filing_Petition_For_Permission_To_Appeal_Two_Interlocutory_Orders.pdf
+918590 / 20 / 2026-06-26_Ruling_Order_Motion_Order_To_Show_Cause_Contempt_Of_Court.pdf — THE CONTEMPT RULING
+823416 / 13 / 2026-06-30_Ruling_Order_On_Defendant_Objections_To_Electronic_Media_Requests.pdf
+180781 / 5 / 2026-07-03_Defendant_Standing_Objections_To_State_Exhibits.pdf
+319679 / 28 / 2026-07-28_State_Memorandum_Supporting_Preliminary_Hearing_Bindover.pdf — matches the stated ~28 pp
+389135 / 41 / 2026-08-11_Defendant_Preliminary_Hearing_Briefing_Strike_Aggravator.pdf — matches the stated 41 pp
+277548 / 19 / 2026-08-18_State_Reply_Supporting_Preliminary_Hearing_Bindover.pdf
+245747 / 2 / 2026-08-27_Minute_Entry_Order_Electronic_Device_Prohibited_Sept_1_2026_Hearing.pdf
+661883 / 10 / 2026-08-28_Amended_Standing_Decorum_Order_Effective_Aug_28_2026.pdf
+572857 / 17 / 2026-08-28_Defendant_Discovery_Status_Report.pdf
+132247 / 1 / 2026-08-31_Order_To_Transport.pdf — filed today
+
+=== KEPT — TRANSCRIPTS + INDEX (6 TXT) ===
+321226 / 2026-07-07_Rev_Prelim_Hearing_Day1_Transcript.txt (2,600 speaker blocks)
+317203 / 2026-07-08_Rev_Prelim_Hearing_Day2_Transcript.txt (2,344)
+127392 / 2026-07-09_Rev_Prelim_Hearing_Day3_Transcript.txt (615)
+306461 / 2026-07-10_Rev_Prelim_Hearing_Day4_Transcript.txt (2,032)
+102047 / 2026-07-21_Rev_Prelim_Hearing_Day5_Transcript.txt (571)
+199914 / 2026-08-31_Burkhart_Charlie_Kirk_Legal_Documents_Index.txt — 1,440 docket entries, 258 with live PDF links
+
+Rev files are Rev's transcripts OF THE BROADCAST, not the certified court reporter's record; each file's header says so.
+
+=== FAILURES ===
+[26] DocumentCloud docket .txt sidecar — HTTP 403 Cloudflare, 0 bytes, on all four hosts tried (s3., assets., api.www., www.documentcloud.org), including with a full browser header set. WebFetch returned 200 but only a model-written SUMMARY, not verbatim text — a summary must not be filed as a court-document archive, so nothing was saved. The brief's claim that WebFetch returns the full plain text did not hold. NEEDS A HUMAN: open https://s3.documentcloud.org/documents/27880533/tyler-robinson-all-docket-entries-as-of-3-15-2026.txt in a browser.
+[27] DocumentCloud project 224251 search API — same 403 / summarize-only problem. NEEDS A HUMAN: https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/ . Low priority — the Burkhart index captured here has 1,440 entries and 258 PDFs, a superset of DocumentCloud's 46; the only unique thing it adds is the docket-NUMBER map.
+
+=== THREE THINGS THAT DIFFER FROM THE BRIEF ===
+
+1. Item 7's URL in the brief was wrong. `...cb045c146b41.pdf` returned HTTP 404 (`{"error":"unable to find file..."}`). The real UUID, read off the Burkhart index, is `...cb045c016b41.pdf` — 146b41 vs 016b41. Recovered, 5,492,425 bytes, 27 pages, caption confirmed as "DECLARATION OF COUNSEL IN SUPPORT OF MOTION FOR ISSUANCE OF ORDER TO SHOW CAUSE".
+
+2. Items 12 and 15 are the same document, and the Fox title is misleading. Fox's "ballistics motion" is byte-identical to Burkhart's "Defendant Motion Filed Jan 9, 2026" (both 1,369,739 bytes, 29 pp, md5 c3ae9bc2601e63e70d27b8f191c0eb7b). Its real caption is a motion to prohibit further alteration or testing of a bullet jacket fragment and to let a defense expert examine it first — with exhibits: the State's 2025-12-22 Notice of Intent to Conduct Non-Destructive Testing, firearms report 2025-W-000401 (STAMPED), and the related email thread. So the previously-sealed Jan 9 motion is an evidence-preservation/spoliation fight over the bullet jacket fragment. Filed under a name that says so.
+
+3. Items 10 and 11 are byte-identical (1,060,521, 97 pp, md5 ee03f6b9f1e745497a6e22b8563c6e17). The brief expected Fox's copy to be larger and worth diffing — it is the same bytes. Kept the court-filed copy, deleted the Fox duplicate, retained the Fox URL in the log as provenance.
+
+One caveat worth flagging: 10 of the 22 PDFs have zero text layer — they are scans of Judge Graf's signed orders (the 2025-12-15, 2025-12-29 Order, 2026-05-08, both 2026-06-01, 2026-06-26 Ruling, 2026-06-30, 2026-08-27, 2026-08-28 Decorum, and 2026-08-31 files). They downloaded correctly but will need OCR before they are searchable or quotable.

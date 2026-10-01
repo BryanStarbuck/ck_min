@@ -1,0 +1,49 @@
+Charlie Kirk kill-me claim research dump
+Claim ID: KM-13
+Generated: 2026-08-01
+Rule: full capture; do not summarize away detail.
+================================================================================
+
+KM-13
+ (NEW) — Kill-me / execute-tomorrow to an unnamed DONOR (third recipient lane)
+-------------------------------------------------------------------------------
+Distinct claim: Candace Owens and amplifiers say Charlie messaged (1) a donor, (2) a TPUSA
+person, and (3) Dan Flood — that he would be executed/killed "tomorrow."
+The donor recipient is tracked separately from Flood (KM-10) and Kolvet (KM-08) and unnamed
+staffer (KM-07/09) so the three-lane recipient structure is not collapsed.
+No donor name published. No screenshot published.
+Related but distinct from the Kolvet-authenticated ~48hr WhatsApp about leaving pro-Israel cause
+(that WhatsApp does NOT contain the kill-me string as the authenticated core; it is the donor-
+pressure leave-cause text).
+
+-------------------------------------------------------------------------------
+ERIKA KIRK DENIAL (cross-cutting)
+-------------------------------------------------------------------------------
+Glenn Beck show: Erika Kirk — Charlie was NOT messaging people day before saying they're going
+to kill me; she has his cell phone; "it never happened" / "He never did that, and I have his
+cell phone."
+X video posts: @TheRightMelissa 1999189015468056832; @Awesome_Jew_ 1999264676371399032;
+@officer_Lew 1999198927455760819
+Later Owens claim (Instagram / X commentary): Erika confirmed Charlie DID text Kolvet — conflicts
+with on-air denial; both claims preserved.
+
+-------------------------------------------------------------------------------
+DONOR WHATSAPP (related, not a KM kill-me ID — linked from index)
+-------------------------------------------------------------------------------
+Authenticated (Kolvet confirms): ~48 hours before, WhatsApp lines:
+  "Jewish donors play into all the stereotypes. I cannot and will not be bullied like this.
+   Leaving me no choice but to leave the Pro Israel cause"
+JTA, Middle East Monitor, The Hill Rising, multiple X amplifiers.
+Separate artifact from kill-me strings; often wrongly merged in memes.
+
+-------------------------------------------------------------------------------
+OPEN FORENSIC QUESTIONS (all KM pages)
+-------------------------------------------------------------------------------
+1. Device forensics: Signal/Telegram exports vs iMessage vs WhatsApp
+2. Native export with metadata from any named recipient
+3. Sworn testimony of Kolvet, Flood, Turek, Owens
+4. How Erika phone inventory reconciles with staffer claims (disappearing messages?)
+5. Fix Laws disclosure targets for authenticated threat texts
+
+
+See also MASTER_KM_RESEARCH_2026-08-01.txt for cross-cutting material.

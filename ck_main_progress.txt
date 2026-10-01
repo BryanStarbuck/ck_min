@@ -1,0 +1,102 @@
+ 
+
+
+  LEVEL 2 Tyler Robinson Not Assassin
+
+  LEVEL 2 Israel Main Suspect
+  LEVEL 2 US Intelligence Assissted
+
+
+THREE Level 3 pages under here:
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect
+
+site/docs/Tyler_Robinson_Not_Assassin/overview.mdx
+site/docs/Israel_Main_Suspect/overview.mdx
+site/docs/US_Intelligence_Assisted/overview.mdx
+
+
+
+============================
+
+HOME PAGE:
+Tyler Robinson Not Assassin (Reasons)
+* .30-06 Bullet did not Kill Charlie      * Explosive in Mic likely killed Charlie 
+* Faked Confession (by powerful people)   * Signs of Cover-up
+* More reasons...
+
+{Table of contents}
+
+
+Mossad/Israel Top Suspect (Reasons)
+* Extreme Motivation for Israel to Kill Charlie      * Israelis Present at UVU
+* Leads to Foreign Involement   * Cover-up of Foreign Involvement
+* Charlie said Israel would kill him   * Israel Intel Flights & UVU
+* Iran War (Charlie vs Israel)    * Isreal needed Control over TPUSA
+* TPUSA Before vs After Charlie  * Isreal needed Control over College Campuses
+* Isreal needed Control Charlie's Social Videos   * Isreal needed Control over Podcast (Charlie/TPUSA)
+* Isreal needed Control over Amfest Conferences   * Isreal needed Control US Christian Churches
+* Censorship extreme wrt 9/10   * Intelligence Service behind Charlie 9/10
+* More with Israel wrt 9/10.   * Online pro-israel Narrative Control wrt 9/10
+
+
+US Intelligence assissted (Reasons)
+* R0DE Mic      * Explosion & Killings at AES Factory 
+* Narrative Control (intel service)   * Faked Confession
+* Fort Huachuca   * Signs of Cover-up
+
+
+{The rest of the home page}
+
+============================
+
+
+
+
+
+
+
+
+
+============================
+
+FULL FILE PATHS UNDER THE THREE LEVEL 2 DIRECTORIES
+
+LEVEL 2 Tyler_Robinson_Not_Assassin
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/explosive-mic-killed-charlie.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/faked-confession.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/more-reasons.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/overview.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/signs-of-cover-up.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/thirty-06-did-not-kill-charlie.mdx
+
+LEVEL 2 Israel_Main_Suspect
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/censorship-extreme.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/charlie-said-israel-would-kill-him.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-amfest-conferences.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-christian-churches.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-college-campuses.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-over-tpusa.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-podcast.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-social-videos.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/coverup-foreign-involvement.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/extreme-motivation.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/intelligence-service-behind.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/iran-war-charlie-vs-israel.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/israel-intel-flights-uvu.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/israelis-present-at-uvu.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/leads-to-foreign-involvement.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/more-israel.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/online-narrative-control.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/overview.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/tpusa-before-vs-after.mdx
+
+LEVEL 2 US_Intelligence_Assisted
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/aes-factory-explosion.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/faked-confession.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/fort-huachuca.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/narrative-control.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/overview.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/rode-mic.mdx
+~/BGit/Bryan_git/charlie-kirk/site/docs/US_Intelligence_Assisted/signs-of-cover-up.mdx
+
+

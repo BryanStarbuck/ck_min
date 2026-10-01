@@ -1,0 +1,48 @@
+This will point to a "Level_2" directory.
+The goal is to process THIS_TASK_SPECIFIC_LEVEL_2, the specific "Medical" ( /charlie-kirk/docs/Medical/) Level_2 directory.   THIS_TASK_SPECIFIC_LEVEL_2 = /Medical/.
+
+
+When processing this, process the Level_2 directory which are directories under: /charlie-kirk/docs/.  
+* An example Level_2 directory is the /charlie-kirk/docs/Charlie/ directory.
+* An example Level_2 overview markdown wiki page is the /charlie-kirk/docs/Charlie/overview.md
+
+Level_3 are wiki markdown pages in a Level_2 directory.
+* These are all markdown (wiki files) under a Level_2 directory except for "overview.md"
+
+
+Find this WIKI directory:
+* It probably is in ~/Dropbox/Code/act3/charlie-kirk/docs/
+* It may be in another directory. But the last directory structure should be: /charlie-kirk/docs/
+
+* The top level the main top level wiki page /charlie-kirk/docs/charlie-kirk.md. This includes the links to the LEVEL_2 wiki pages, and some level 3 wiki pages.
+
+The work in this task is to:
+Map @FULL_WRITE_UP.md content (that maps to this Level 2 area) into Level 3 pages:
+----------------
+1) Replace the file ~/Dropbox/Code/act3/charlie-kirk/temp/temp.txt (or created it) with the list of Level 3 markdown pages that should exist for this Level 2 directory.
+2) Review all content in @FULL_WRITE_UP.md. Find all of the content that maps to this LEVEL_2 area.
+3) If we need to create more Level 3 markdown files in this LEVEL_2 directory, then create them.
+4) Make the filenames have no spaces (and use underscore instead of spaces), and try to make them 4 words or less (but it can be 7 words if needed). The fewer words the better. Make the ".md" markdown files, with markdown format inside of them.
+5) Update or create the content in those Level 3 markdown files.
+6) Each Level 3 markdown is scoped to a subset of this LEVEL_2 area. That will be in the filename. It should also have "TOPIC: {describe this topic}" that is a 1 word to 20 word that describes the scope of this level 3 markdown file. The fewer words the better but use enough words to make it clear.
+7) For each Level 3 markdown file in this LEVEL_2 directory, all of content in @FULL_WRITE_UP.md that maps to this Level 3 markdown file's "TOPIC:" scope, should be included in here.
+8) Have it structured like a wiki pages. Include sections when appropriate.
+9) Make the writing succinct. No more words or fluff writing than is needed. But do not summarize the information in @FULL_WRITE_UP.md. Make sure all facts or points or information is included.  Do not lose or summarize the information instead.
+10) Do not delete any information that is already in these level 3 markdown files.  When adding more content, you can pick which part of new content goes: a) before vs, b) after, vs c) in-between the pre-existing content.  It is normal that some of the new content will be before, some in-between pre-existing content and some goes after pre-existing content.
+
+
+Update the overview.md in this LEVEL_2 directory:
+----------------
+1) Focus on the directory: THIS_TASK_SPECIFIC_LEVEL_2
+2) The overview.md for this LEVEL_2 should have markdown section headers for the different sections of this Level 2.
+3) Each section header should be bullet list. Each bullet should be one thing in that section. It almost certainly should include at least one link. That link often goes to a Level 3 markdown page.
+4) It may go to a level 3 page in another LEVEL_2 area. Include those when and where relevant
+5) This page needs to include links to all Level 3 markdown pages under this LEVEL_2 directory.
+10) Do not delete any information that is already in these level 2 overview.md markdown files.  When adding more content, you can pick which part of new content goes: a) before vs, b) after, vs c) in-between the pre-existing content.  It is normal that some of the new content will be before, some in-between pre-existing content and some goes after pre-existing content.
+11) Do NOT remove any writing that is already in this page. You can add more, but don't change any wording that already exists.
+12) Include links to level 3 wiki files in this LEVEL_2 directory (that aren't overview.md)
+13) If there are sub-directories under this LEVEL_2 directory, then include a link to each markdown file in those directories. 
+14) When creating a link, you can create appropate link text, the link, in the normal markdown way. It is often in numbered lists on the page, where one item in the numbered list includes a link to the target destination. There can be words before and after the link if that gives context. But there doesn't have to be words before and or after it.  Make it match how wikipedia writes articles.
+15) All information @FULL_WRITE_UP.md (~/Dropbox/Code/act3/charlie-kirk/Research/FULL_WRITE_UP.md) has information. Use that information. 
+
+

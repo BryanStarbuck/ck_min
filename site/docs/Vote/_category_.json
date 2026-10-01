@@ -1,0 +1,9 @@
+{
+  "label": "Vote",
+  "position": 12,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "Vote/overview"
+  }
+}

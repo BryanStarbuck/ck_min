@@ -1,0 +1,31 @@
+id: '2104412586913796585'
+url: 'https://x.com/irlandarra2019/status/2104412586913796585'
+author:
+  username: 'irlandarra2019'
+  name: 'Irlandarra'
+text: |
+  https://t.co/zCRaZvV2ip Who killed Charlie Kirk?   Video Credit @theleahfiles ; FOLLOW HER here on X Twitter and on TikTok. She writes extensively on her Substack providing robust documentation.
+created_at: '2026-09-28T03:27:13.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 9
+  reply_count: 6
+  like_count: 38
+  quote_count: 3
+  bookmark_count: 8
+  impression_count: 1118
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2104387044986261504'
+      media_source_tweet_id: '2104387090981032307'
+      duration_ms: 155066
+      width: 576
+      height: 1024
+      ipfs_cid: 'QmY5Ftqt85E3bpxmEdwhK9MQKLHoC5m43HNyERqvb2jFLC'
+      sha256: '1273186edac55b5131bd5a49d420b6e069b6f9e8d271bcdbf79a4103340dedff'
+      same_content_as: '2072814926133866634.mp4 (CID QmWpQUf5HajEXF8SV3ZTSGB377HUruL7GLPUbr7ByHAQkh)'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-09-28'
+temp_file: false

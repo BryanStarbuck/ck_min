@@ -1,0 +1,27 @@
+---
+type: person
+tags: [person, witness, expert]
+---
+
+# Caitlin Oliver
+
+**Caitlin Oliver** is the **DNA Section Chief at the ATF Forensic Science Laboratory** (Bureau of Alcohol, Tobacco, Firearms and Explosives). She has worked at the ATF for about **nine years** — section chief since January 2026, and a **forensic biologist** before that; earlier she was a **DNA analyst and DNA quality manager** at the **Jefferson Parish Sheriff's Office** in New Orleans, Louisiana [01:43:52](https://www.youtube.com/watch?v=r3OUG7n37po&t=6232s)–[01:44:15](https://www.youtube.com/watch?v=r3OUG7n37po&t=6255s). She performed the **DNA examinations for the State** in this case — the request came in "around September 11" 2025 "**at the request of the state of Utah**" [01:44:42](https://www.youtube.com/watch?v=r3OUG7n37po&t=6282s) — and was then called as the **defense's final witness** on **Day 5**. *(Name spellings are our best reading of the audio.)*
+
+## Why she matters
+Oliver is the **DNA counterpart to [[Samantha Karner]]**: like the firearms examiner, she authored forensic work **for the prosecution** yet was called by the **defense** (examined by **[[The Defense Team|Michael Burt]]**) to establish the **limits** of that science. The State objected that her testimony was **cumulative** — "the evidence is already overwhelming" — but the court chose to hear it. And, as with Karner, the **cross-examination handed the State back its core inculpatory point.** She is the last witness of the five-day preliminary hearing.
+
+## Day 5 (July 10) — the DNA-reliability testimony
+**On direct (Burt) — the limits of DNA:**
+- **Nothing is 100%.** "With forensic evidence, it's **impossible to state with 100% certainty** anything" [01:56:23](https://www.youtube.com/watch?v=r3OUG7n37po&t=6983s).
+- **No "scientific certainty" language.** Under the DOJ uniform-language policy she does **not** use "reasonable degree of scientific certainty," and did not in her reports [01:56:40](https://www.youtube.com/watch?v=r3OUG7n37po&t=7000s); her lab reports **likelihood ratios**, not a verbal scale [01:53:02](https://www.youtube.com/watch?v=r3OUG7n37po&t=6782s).
+- **DNA is not source attribution.** "You **can't assign a source** to a DNA sample" [02:11:47](https://www.youtube.com/watch?v=r3OUG7n37po&t=7907s); saying "Mr. Robinson's DNA is found on this item" is a **source attribution** that "would not be scientifically" proper [02:09:59](https://www.youtube.com/watch?v=r3OUG7n37po&t=7799s).
+- **DNA cannot tell you *how* or *when*.** "None of the testing that I performed could speak to **activity** or what activity led to the deposition of the DNA" [02:03:02](https://www.youtube.com/watch?v=r3OUG7n37po&t=7382s); "DNA can't speak to the activity that led to the deposition" [02:12:26](https://www.youtube.com/watch?v=r3OUG7n37po&t=7946s); and "a person's DNA **may be present when they were not involved in the crime**" [02:12:52](https://www.youtube.com/watch?v=r3OUG7n37po&t=7972s).
+- **Contributors and mixtures.** The "**true number of contributors** of DNA to an item **can never be known**" [02:07:00](https://www.youtube.com/watch?v=r3OUG7n37po&t=7620s); "major"/"minor" descriptors "should not be interpreted" as speaking to the actions or timing of deposition [02:08:49](https://www.youtube.com/watch?v=r3OUG7n37po&t=7729s). A likelihood ratio "compares the probability of the DNA profile of the evidence given two competing hypotheses" [02:10:38](https://www.youtube.com/watch?v=r3OUG7n37po&t=7838s).
+- **Consumption of sample.** Standard procedure is to "request permission to consume from the agent" before consuming an evidence sample [01:58:29](https://www.youtube.com/watch?v=r3OUG7n37po&t=7109s).
+
+**On cross (McBride) — the concession that mattered:** as with Karner, the State used cross to recover the inculpatory core. Oliver testified that the DNA profiles on the tested items are "**at least 1,000,000,000,000 [one trillion] times more likely**" [02:46:28](https://www.youtube.com/watch?v=r3OUG7n37po&t=9988s) "**if they originated from Tyler Robinson as the major contributor**" [02:46:32](https://www.youtube.com/watch?v=r3OUG7n37po&t=9992s) than from unknown contributors — the "trillion" being the **ceiling her lab reports** ("we cap … at a trillion") [02:44:37](https://www.youtube.com/watch?v=r3OUG7n37po&t=9877s)–[02:44:47](https://www.youtube.com/watch?v=r3OUG7n37po&t=9887s), i.e. the true figure is even larger. So the defense's own DNA witness confirmed Robinson as the **major contributor** at the lab's maximum stated strength.
+
+**How to read it.** For **probable cause**, the DNA linkage to Robinson stands (major contributor, astronomically strong likelihood ratios). The value of Oliver's testimony is the same **trial-stage** record Karner built for firearms: DNA shows **presence, not action** — it cannot say Robinson *fired* the rifle, *when* his DNA got there, or that he is the *source* — a clean **Rule 702 / reasonable-doubt** foundation. See [[The DNA Didn't Match]], [[The Casing Match and DNA]], [[Insufficiency of the Evidence]], [[Chain of Custody Problems]].
+
+---
+**Related:** [[2026-07-10 - Preliminary Hearing Day 5|Day 5 Legal Review]] · [[2026-07-10 - Preliminary Hearing Day 5 Transcript|Day 5 Transcript]] · [[The DNA Didn't Match]] · [[The Casing Match and DNA]] · [[Samantha Karner]] · [[Amanda Bakker]] · [[Jennifer Faumuina]] · [[People Index]]

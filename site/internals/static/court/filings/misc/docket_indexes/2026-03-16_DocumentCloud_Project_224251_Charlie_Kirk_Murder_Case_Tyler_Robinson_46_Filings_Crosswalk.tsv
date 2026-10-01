@@ -1,0 +1,53 @@
+# DocumentCloud project 224251 "Charlie Kirk Murder Case and Tyler Robinson" — 46 filings
+# SOURCE: https://api.www.documentcloud.org/api/documents/search/?q=%2Bproject%3A224251&per_page=100
+# PROJECT PAGE: https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+# RETRIEVED: 2026-08-31 via WebFetch (s3.documentcloud.org and api.www.documentcloud.org return HTTP 403 to curl/scripted clients — Cloudflare)
+# VALUE: the DOCKET NUMBER crosswalk. Titles carry "- docket NNN".
+# PDF URL pattern (browser only): https://s3.documentcloud.org/documents/<id>/<slug>.pdf
+# columns: id	title	pages	slug
+27881513	1-8-2026 Defendant Reply to Prosecutor Opposition to Motion to Disqualify Public - docket 293	7	1-8-2026-defendant-reply-to-prosecutor-opposition-to-motion-to-disqualify-public-docket-293
+27881512	2-2-2026 prosecutor Memorandum and Opposition to Defendant Renewed Request to Motion to Disqualify to the Utah Attorney General - docket 366	14	2-2-2026-prosecutor-memorandum-and-opposition-to-defendant-renewed-request-to-motion-to-disqualify-to-the-utah-attorney-general-docket-366
+27881511	1-30-2026 prosecutor Opposition to Defendant Motion to Classify Motion to Exclude Still media from the Courtroom and classify as private hearing - docket 346	3	1-30-2026-prosecutor-opposition-to-defendant-motion-to-classify-motion-to-exclude-still-media-from-the-courtroom-and-classify-as-private-hearing-docket-346
+27881510	1-9-2026 Subpoena for Sgt David Hull - docket 291	4	1-9-2026-subpoena-for-sgt-david-hull-docket-291
+27881509	1-30-2026 DEFENDANT TYLER ROBINSON RENEWED MOTION TO DISQUALIFY UTAH ATTORNEY GENERAL MEMORANDUM OF POINTS AND AUTHORITIES - docket 348	12	1-30-2026-defendant-tyler-robinson-renewed-motion-to-disqualify-utah-attorney-general-memorandum-of-points-and-authorities-docket-348
+27881508	2-2-2026 Proffer of Facts re Closure of Poritons of Evidentiary Hearing on Motion to Disqualify UCAO - docket 368	5	2-2-2026-proffer-of-facts-re-closure-of-poritons-of-evidentiary-hearing-on-motion-to-disqualify-ucao-docket-368
+27881507	2-13-2026 minute order on ORAL ARUGMENT of EVIDENTIARY HEARING - docket 413	3	2-13-2026-minute-order-on-oral-arugment-of-evidentiary-hearing-docket-413
+27881506	1-30-2026 attachment A internal communications at prosecutors office to cease public statements - docket 355	5	1-30-2026-attachment-a-internal-communications-at-prosecutors-office-to-cease-public-statements-docket-355
+27880888	1-5-2026 prosecutor Opposition to Defendant Motion to Disqualify the Utah County Attorney Office - docket 289	33	1-5-2026-prosecutor-opposition-to-defendant-motion-to-disqualify-the-utah-county-attorney-office-docket-289
+27880887	1-2-2026 Appellate Order on defendant appeal on 11-17-2025 interlocutory order - docket 406	1	1-2-2026-appellate-order-on-defendant-appeal-on-11-17-2025-interlocutory-order-docket-406
+27880878	10-22-2025 Prosecutor Response to Defendant Motion to Preserve Evidence - docket 117	7	10-22-2025-prosecutor-response-to-defendant-motion-to-preserve-evidence-docket-117
+27880877	9-12-2025 public safety assessment report - docket 3	3	9-12-2025-public-safety-assessment-report-docket-3
+27880876	12-8-2025 defendant response to the motion for limited intervention of deseret news et al (Dkt 197) - docket 213	9	12-8-2025-defendant-response-to-the-motion-for-limited-intervention-of-deseret-news-et-al-dkt-197-docket-213
+27880875	10-08-2025 Proposed Order Granting Motion to Preserve Evidence - docket 76	3	10-08-2025-proposed-order-granting-motion-to-preserve-evidence-docket-76
+27880874	12-4-2025 Utah Office for Victims of Crime Restitution Notice Claim#1113665 - docket 211	1	12-4-2025-utah-office-for-victims-of-crime-restitution-notice-claim1113665-docket-211
+27880873	12-17-2025 defendant Motion to Disqualify prosecutor and or judge for conflict of interest - docket 250	48	12-17-2025-defendant-motion-to-disqualify-prosecutor-and-or-judge-for-conflict-of-interest-docket-250
+27880872	9-16-2025 Order Pretrial Protective Order - docket 14	6	9-16-2025-order-pretrial-protective-order-docket-14
+27880871	10-27-2025 Prosecutor Notice of Open File Poilcy and Invitation to Inspect Physical Evidence - docket 135	3	10-27-2025-prosecutor-notice-of-open-file-poilcy-and-invitation-to-inspect-physical-evidence-docket-135
+27880870	9-24-2025 Order To Transport for virtual hearing - docket 24	1	9-24-2025-order-to-transport-for-virtual-hearing-docket-24
+27880869	9-16-2025 bail order - docket 4	1	9-16-2025-bail-order-docket-4
+27880868	10-27-2025 ruling and order on defendant motion to strike and appear in civilian clothing without restraints - docket 137	9	10-27-2025-ruling-and-order-on-defendant-motion-to-strike-and-appear-in-civilian-clothing-without-restraints-docket-137
+27880867	10-21-2025 Defendant Motion to Strike Response to Defendant s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints - docket 111	10	10-21-2025-defendant-motion-to-strike-response-to-defendant-s-motion-to-appear-at-all-in-person-proceedings-in-civilian-clothing-and-without-restraints-docket-111
+27880866	12-15-2025 ruling and order granting prosecutor motion to clarify courts pretrial and trial publicity order - docket 242	3	12-15-2025-ruling-and-order-granting-prosecutor-motion-to-clarify-courts-pretrial-and-trial-publicity-order-docket-242
+27880865	9-16-2025 Request for Designation of Victim Representative - docket 12	2	9-16-2025-request-for-designation-of-victim-representative-docket-12
+27880864	10-22-2025 Prosecutor Motion to Set Aside 10-20-2025 Order Granting Motion to Preserve Evidence - docket 116	3	10-22-2025-prosecutor-motion-to-set-aside-10-20-2025-order-granting-motion-to-preserve-evidence-docket-116
+27880863	10-13-2025 Both Parties Motion for Discovery Protective Order Stipulated - docket 91	5	10-13-2025-both-parties-motion-for-discovery-protective-order-stipulated-docket-91
+27880862	11-4-2025 Order Stipulated Order (1) Setting Aside 10-20-2025 Order Granting Motion to Preserve Evidence and (2) Granting In Part Motion to Preserve Evidence - docket 161	4	11-4-2025-order-stipulated-order-1-setting-aside-10-20-2025-order-granting-motion-to-preserve-evidence-and-2-granting-in-part-motion-to-preserve-evidence-docket-161
+27880861	11-3-2025 defendant stipulated Motion to Order Transcript and Classify Transcript and Audio as Private from 10-24-2025 - docket 152	3	11-3-2025-defendant-stipulated-motion-to-order-transcript-and-classify-transcript-and-audio-as-private-from-10-24-2025-docket-152
+27880860	9-16-2025 proposed pretrial protective order - docket 7	6	9-16-2025-proposed-pretrial-protective-order-docket-7
+27880859	10-08-2025 Copy of Video-Audio Record completed - docket 74	2	10-08-2025-copy-of-video-audio-record-completed-docket-74
+27880858	11-10-2025 Defendant Tyler James Robinson Response to Request for Notice of Motion to Close Judicial Proceedings and Records - docket 169	7	11-10-2025-defendant-tyler-james-robinson-response-to-request-for-notice-of-motion-to-close-judicial-proceedings-and-records-docket-169
+27880857	10-08-2025 Defendant Motion to Preserve Evidence - docket 75	3	10-08-2025-defendant-motion-to-preserve-evidence-docket-75
+27880543	9-10-2025 utah county district attorney press release after shooting	1	9-10-2025-utah-county-district-attorney-press-release-after-shooting
+27880541	9-22-2025 prosecutor Christopher Ballard biography	2	9-22-2025-prosecutor-christopher-ballard-biography
+27880540	9-22-2025 prosecutor Lauren Hunt biography	1	9-22-2025-prosecutor-lauren-hunt-biography
+27880539	9-22-2025 prosecutor Chad Grunander biography	2	9-22-2025-prosecutor-chad-grunander-biography
+27880538	9-22-2025 prosecutor David Sturgill biography	1	9-22-2025-prosecutor-david-sturgill-biography
+27880537	9-22-2025 prosecutor Ryan McBride biography	2	9-22-2025-prosecutor-ryan-mcbride-biography
+27880536	9-22-2025 prosecutor jeffrey gray biography	2	9-22-2025-prosecutor-jeffrey-gray-biography
+27880535	9-22-2025 Utah County District Attorney press release - tyler robinson prosecutor trial team	2	9-22-2025-utah-county-district-attorney-press-release-tyler-robinson-trial-team
+27880534	tyler robinson utah county sheriff office inmate custody booking	1	tyler-robinson-utah-county-sheriff-office-inmate-custody-booking
+27880533	tyler robinson all docket entries as of 3-15-2026	13	tyler-robinson-all-docket-entries-as-of-3-15-2026
+27880532	tyler robinson information of charges filing by district attorney 9-16-2025	10	tyler-robinson-information-of-charges-filing-by-district-attorney-9-16-2025
+27880531	tyler robinson case list of all filings and hearings as of 3-15-2026	31	list-of-all-filings-and-hearings-as-of-3-15-2026
+27880530	utah county district attorney affidavit of probable cause against tyler robinson 9-16-2025	3	utah-county-district-attorney-affidavit-of-probable-cause-against-tyler-robinson-9-16-2025
+27880529	tyler robinson case search on utah state court online xchange service	2	tyler-robinson-case-search-on-utah-state-court-online-xchange-service

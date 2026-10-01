@@ -1,0 +1,78 @@
+id: '2067169575217799549'
+url: 'https://x.com/1MrsWhistledown/status/2067169575217799549'
+author:
+  username: '1MrsWhistledown'
+  name: 'Mrs Whistledown'
+  id: '2451717420'
+text: |
+  Lance Twiggs flees to Texas post-shooting, while his parents suddenly acquire two new homes and start a "Faith and Family" charity. The timing of these events raises some serious questions.
+created_at: '2026-06-17T08:56:47.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 162
+  reply_count: 38
+  like_count: 591
+  quote_count: 11
+  bookmark_count: 77
+  impression_count: 9099
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2067169571677818880'
+      file: '2067169575217799549_1.jpg'
+      ipfs_cid: 'QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS'
+      url: 'https://pbs.twimg.com/media/HLAPxepaUAA7HWY.jpg'
+      width: 1080
+      height: 558
+      description: 'Texas SoS record for Faith and Family Foundation Charity'
+    - type: photo
+      media_key: '3_2067169571870842880'
+      file: '2067169575217799549_2.jpg'
+      ipfs_cid: 'QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY'
+      url: 'https://pbs.twimg.com/media/HLAPxfXboAAknrg.jpg'
+      width: 1080
+      height: 550
+      description: 'Property ownership history / purchase details'
+    - type: photo
+      media_key: '3_2067169572659294208'
+      file: '2067169575217799549_3.jpg'
+      ipfs_cid: 'QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y'
+      url: 'https://pbs.twimg.com/media/HLAPxiTacAARExJ.jpg'
+      width: 1080
+      height: 161
+      description: 'Second property ownership history'
+    - type: photo
+      media_key: '3_2067169573456261120'
+      file: '2067169575217799549_4.jpg'
+      ipfs_cid: 'QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR'
+      url: 'https://pbs.twimg.com/media/HLAPxlRbMAA6sdo.jpg'
+      width: 1080
+      height: 1627
+      description: 'Company overview text for the charity'
+ocr_text: |
+  [Image 1 - Texas Secretary of State, View Entity]
+  Faith and Family Foundation Charity. Filing Number 806497473. Original Date of Filing
+  March 9, 2026. Domestic Nonprofit Corporation. In existence. Tax ID 32104917292.
+  Address 8203 Roebourne Ln, Houston, TX 77070-3109. Directors (updated March 17, 2026):
+  Jerry T Twiggs (Director / Registered Agent), Amy R Twiggs (Director), Mikayla R Twiggs (Director).
+
+  [Image 2 - Property Ownership History]
+  Owner "13 Branches Family Trust and Twiggs", Private Individual, Dec 2025 - Present.
+  Listed Oct 16, 2025; Closed Dec 4, 2025; List Price $350,000; Current Estimated Value $340,801;
+  Buyer's Agent Daniel Salce, eXp Realty LLC.
+
+  [Image 3 - Property Ownership History #2]
+  Owner "13 Branches Family Trust and Twiggs", Private Individual, Dec 2025 - Present.
+  Prior owner Feb 2021 - Dec 2025 (4 years and 10 months).
+
+  [Image 4 - Company Overview]
+  Faith and Family Foundation Charity, Texas domestic non-profit, filed March 9, 2026, In Existence.
+  Registered Agent Jerry T Twiggs at 8203 Roebourne Lane Houston TX 77070. Directors: Amy R Twiggs,
+  Jerry T Twiggs, Mikayla R Twiggs.
+site_page: 'site/docs/People/Lance_Twiggs_Family.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-06-17'
+temp_file: false
+notes: |
+  All four images are public records of lawful activity. No member of the Twiggs family has
+  been charged with or accused in court of wrongdoing. Page written defamation-safe.

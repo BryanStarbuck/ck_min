@@ -1,0 +1,247 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/site/docs/laws
+
+LAW_3_DIR dir is {ROOT_DIR}/3_Require_to_Investigate
+
+LAW_3_FILE is file {LAW_3_DIR}/Law_3_Require_to_Investigate.md
+
+THIS_DIR dir is {LAW_3_DIR}/tweet
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_num_3.txt
+
+FOCUS_LAW is Law 3 = "Force Real Investigations"
+        (the Mandatory Investigation Act)
+
+FOCUS is LAW 3 ONLY. This tweet is dedicated to Law 3. The other three
+        laws are referenced in exactly one sentence and never again.
+        Assume the reader has already read the tweets about Laws 1, 2,
+        and 4. They are here to learn about Law 3.
+
+==========================================================
+CHARTER -- LAW 3 ONLY
+==========================================================
+
+* This post is about Law 3 and nothing else.
+* This post announces Law 3 as a BETA REVIEW draft -- ready for public
+  review and feedback.
+* The reader is being invited to read Law 3, critique it, and respond.
+* The reader has already seen the tweets about Laws 1, 2, and 4. Do not
+  re-explain those laws. A single sentence may acknowledge that Law 3
+  is one of four companion laws -- nothing more.
+* Law 3 is the law that closes the gap disclosure laws cannot reach.
+  Releasing the files is not enough if no one is forced to actually
+  investigate what the files reveal. Law 3 forces the investigation.
+
+==========================================================
+STAGE 1 -- READ LAW 3 IN FULL
+==========================================================
+
+* Read {LAW_3_FILE} in full. This is the entire source of truth for
+  the body of this tweet.
+* Walk down from {LAW_3_DIR} and read every supporting file under it
+  recursively into the context window.
+* Understand:
+  * What Law 3 does that disclosure alone cannot do -- it forces the
+    FBI, CIA, NSA, and the rest of the U.S. Intelligence Community to
+    each conduct an independent, thorough, good-faith investigation
+    into the Charlie Kirk assassination.
+  * The four-agency structure: FBI, CIA, NSA, and IC (via DNI) each
+    get their own dedicated investigation team. No single agency can
+    suppress investigation into its own potential involvement.
+  * Each team's structural setup: no fewer than 20 agents, $10 million
+    independent budget held in a separate Treasury account, lead agent
+    with no prior case involvement, minimum 2-year operation, 6-month
+    public disclosure reports.
+  * Mandatory investigation of every Schedule A item -- including the
+    exploding microphone theory, foreign intelligence involvement,
+    evidence integrity and obstruction, point-of-origin analysis,
+    financial connections, psychological operations, pre-planning and
+    foreknowledge, and electronic warfare.
+  * Cross-agency staffing to prevent self-investigation -- FBI team
+    investigates CIA conduct, CIA team investigates FBI conduct, NSA
+    team investigates DIA/NRO/NGA conduct, IC team investigates NSA
+    conduct.
+  * The Independent Commission Element embedded in each team -- 5+
+    outsiders, separate office space, independent IT, independent
+    findings authority.
+  * The external independent oversight board with at-will removal
+    power over any team member (including team leaders), and mandatory
+    polygraph examinations selected by the oversight board.
+  * Mandatory SIGINT database queries -- NSA must run XKeyscore and
+    comparable mass surveillance tools against every name, phone,
+    aircraft, address, and account in Schedule A. NSA may not claim
+    "no responsive records" without running the queries.
+  * Compulsory process for private entity records -- subpoenas and
+    National Security Letters within 15 days against TPUSA, Mosaic
+    Pro Events, AES, rental car companies, hotels, banks, telecoms.
+  * Independent subpoena power for the oversight board.
+  * The conflict-of-interest trigger -- if evidence emerges that a
+    covered agency was itself involved, investigation authority
+    transfers to an independent congressional commission.
+  * The structural answer to the JFK Records Act and Epstein Files Act
+    compliance failures -- both released records without forcing real
+    investigation of the leads inside them. Law 3 closes that gap with
+    real criminal penalties, automatic budget cuts, no presidential
+    override, whistleblower protections, and public reporting.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is a single piece of writing about Law 3 only.
+* The bullet section is a single Law 3 bullet list.
+
+----------- THE FIRST 40 WORDS (CRITICAL) -----------
+
+* The first 40 words must perfectly catch attention and explain the
+  stakes of LAW 3 specifically.
+* Start with Charlie Kirk.
+* State up-front that this law -- Law 3, the Mandatory Investigation
+  Act -- is being released for BETA REVIEW as a draft open for public
+  review and feedback.
+* The 40 words must:
+  * Anchor the reader in the Charlie Kirk case.
+  * Establish what Law 3 does that no other law does: it forces a
+    real investigation, not just disclosure of files.
+  * Make clear this is a DRAFT in beta review, asking for feedback.
+  * Lead the reader into the body that follows.
+* Do NOT use these 40 words to introduce all four laws. This is the
+  Law 3 tweet. Every word earns its place inside Law 3.
+
+----------- THE NEXT 200 WORDS (LAW 3 DEEP DIVE) -----------
+
+* The next ~200 words must deliver a deep, specific explanation of
+  Law 3 to a reader who has already seen the tweets about Laws 1, 2,
+  and 4.
+* Inside these 200 words, exactly ONE sentence may reference that
+  Law 3 is one of four companion laws. That single sentence is the
+  only acknowledgment of the other three laws. Do not name them, do
+  not summarize them, do not link to them inside the body.
+* Use the rest of the 200 words to explain Law 3 itself:
+  * What Law 3 does -- forces the FBI, CIA, NSA, and the broader
+    U.S. Intelligence Community to each conduct independent,
+    thorough, good-faith investigations of the Charlie Kirk
+    assassination, not merely disclose existing records.
+  * The four-team structure and why it matters -- no single agency
+    can suppress investigation into its own potential involvement.
+  * The structural setup of each team -- 20+ agents, $10 million
+    independent Treasury account, lead agent with no prior case
+    involvement, minimum 2 years of operation, 6-month public
+    disclosure reports.
+  * Mandatory investigation of every Schedule A item across the
+    full list of categories (microphone theory, foreign intelligence,
+    obstruction, point of origin, financial connections, psyops,
+    pre-planning, electronic warfare).
+  * Cross-agency staffing -- FBI investigates CIA, CIA investigates
+    FBI, NSA investigates DIA/NRO/NGA, IC investigates NSA -- with
+    an Independent Commission Element of outsiders embedded in each
+    team.
+  * The external oversight board with at-will removal authority and
+    mandatory polygraph examinations the board selects.
+  * Mandatory SIGINT database queries against every Schedule A
+    name, number, aircraft, and account.
+  * Compulsory process for private entity records within 15 days.
+  * The conflict-of-interest trigger that transfers authority to a
+    congressional commission if a covered agency is implicated.
+  * Why this model works where prior accountability laws failed --
+    real criminal penalties, automatic budget cuts, no presidential
+    override, whistleblower protections, public reporting on every
+    Schedule A item.
+  * The ask: read the draft, critique it, give feedback -- attorneys
+    in particular.
+* Quality bar: every sentence earns its place. No fluff. No
+  throat-clearing. No re-introducing the other three laws.
+
+----------- THE BULLET SECTION (LAW 3 ONLY) -----------
+
+* After the 200-word body, the tweet continues with a SINGLE bullet
+  section about Law 3. No other law gets a bullet section.
+* Header for the bullet section:
+
+        Law 3 -- Force Real Investigations
+
+* Under the header, place an asterisk bullet list of Law 3's key
+  points.
+* TWELVE BULLETS OR LESS. Aim for the strongest 8-12 bullets.
+* Sort the bullets by what a non-ramped-up audience will want to
+  learn FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack
+  multiple points into one bullet.
+
+Suggested Law 3 bullet points to draw from (pick the strongest,
+in audience-priority order):
+
+        * Goes beyond disclosure -- forces real investigation
+        * Four independent teams: FBI, CIA, NSA, and IC via DNI
+        * Each team: 20+ agents, $10M independent Treasury budget
+        * Lead agent must have no prior case involvement
+        * Minimum 2 years of operation per team
+        * Cross-agency staffing -- FBI investigates CIA, CIA investigates FBI
+        * Independent Commission Element of outsiders inside each team
+        * Investigates every Schedule A item
+        * Covers exploding microphone theory and foreign intelligence
+        * Covers obstruction, point of origin, financial flows
+        * Covers psyops, pre-planning, electronic warfare
+        * Mandatory SIGINT database queries against every Schedule A target
+        * 15-day compulsory process for private entity records
+        * External oversight board with at-will removal power
+        * Mandatory polygraph examinations selected by oversight board
+        * Conflict-of-interest trigger transfers authority if agency implicated
+        * 6-month public reports on every Schedule A item
+        * No presidential override allowed
+        * Criminal penalties for interference and obstruction
+        * Whistleblower protections with treble damages
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that Law 3 is at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback on Law 3 -- and
+  call out attorneys in particular as the audience whose feedback is
+  most wanted.
+* Place this draft/feedback framing somewhere in the body or near
+  the closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute the law to its author:
+  Law 3 was drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by
+  @HolonCitizen and that Law 3 lives at the URL below as part of
+  the website's bigger investigation into the Charlie Kirk
+  assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+
+----------- TONE AND VOICE -----------
+
+* Plain, direct, no jargon. Written for citizens, not lawyers.
+* Frame as a beta-review release throughout -- this is a draft,
+  feedback wanted.
+* Defamation-safe language throughout: never state as fact that any
+  living person committed a crime. Use "allegedly", "reportedly",
+  "evidence suggests" where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it
+  is designed for a thread or a long-form X post. Write it as one
+  continuous piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_3_FILE} or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the body
+  * the Law 3 bullet section
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE}"
+Output to stdout "============================================="

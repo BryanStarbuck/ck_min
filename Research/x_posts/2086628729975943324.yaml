@@ -1,0 +1,40 @@
+id: '2086628729975943324'
+url: 'https://x.com/DangerousConspr/status/2086628729975943324'
+author:
+  username: 'DangerousConspr'
+  name: 'Dangerous Conspiracy Theories'
+  id: '2491909730'
+text: |
+  New video of Charlie at the time of assassination (crowd shot)
+
+  Going to be hard to watch 100 times but could be something good hiding in here.
+created_at: '2026-08-10T01:40:31.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 6
+  like_count: 19
+  quote_count: 2
+  bookmark_count: 5
+  impression_count: 1409
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2086341918418505728'
+      duration_ms: 20108
+      width: 432
+      height: 768
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2086341918418505728/img/YIVGlFuAtuSRkBSn.jpg'
+      ipfs_cid: 'QmSuE1b7MxhJpZcJ5RGH1UB6A828kSm23dU32s3V9E4ya4'
+      sha256: '08498ad3892861c0a39f227f67c63f579fd693b2e6e2a04f91f5a75a34142bed'
+      local_file: '~/BGit/Bryan_git/charlie-kirk/videos/2086628729975943324.mp4'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2086342071049236486'
+  quoted_status_url: 'https://x.com/am_tortl/status/2086342071049236486'
+  quoted_author: '@am_tortl'
+transcription_file: '~/BGit/Bryan_git/charlie-kirk/videos_transcription/2086628729975943324.md'
+site_page: '/Videos/Vid_UVU_Venue/Vid_Raw_Shooting_Footage/Vid_Raw_Shooting_860c/Vid_Crowd_Shot_Side_3V9E4ya'
+investigation: 'charlie_kirk'
+added_date: '2026-08-10'
+temp_file: false

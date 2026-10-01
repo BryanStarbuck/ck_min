@@ -1,0 +1,29 @@
+batch_id: '20260713_175916'
+completed_run: '2026-07-13 18:16'
+total_urls: 39
+status: COMPLETE
+successful: 39
+failed: 0
+notes: |
+  2 URLs (MuppetMasher 2069350461573046382, charlie_ward77 2076465128329846991) were
+  already processed in a prior run (pre-existing YAML, already embedded on the site).
+  37 new URLs processed this run.
+  Videos downloaded & IPFS-pinned: 9 (2 identical Bizarro reposts share one CID).
+  Images downloaded & IPFS-pinned: 5.
+  Transcriptions: 8 unique videos (5 substantive, 3 ambient/music).
+  External YouTube-only links (StevenLitt9115, CarlPresident, themarketswork) NOT
+  downloaded — only X-native media captured (avoids multi-hundred-MB YouTube pulls).
+  NonaNychyk & MerryPoppins56 video belonged to a replied-to parent tweet, not their
+  own post — treated as text-only.
+sections_modified: ['Narrative']
+ck_file_section: 'Shot in the Heart / Chest — Wound-Location Narrative (X posts)  (Charlie_Kirk.txt lines 10060-10440)'
+pages_modified:
+  - 'site/docs/Narrative/Shot_in_the_heart.mdx (8 IPFS clips embedded; build verified)'
+  - 'pages.csv (line_count 289 -> 399)'
+files_written:
+  - 'Research/x_posts/*.yaml (37 new)'
+  - 'videos/*.mp4 (9), videos/manifest.yaml, videos/videos.md'
+  - 'images/*_1.jpg (5), images/manifest.yaml'
+  - 'IPFS/ipfs.txt (14 pin blocks appended)'
+  - 'videos_transcription/*.md (8), Research/evidence/*_transcription.md (8)'
+  - 'Charlie_Kirk.txt (+382 lines)'

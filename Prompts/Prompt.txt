@@ -1,0 +1,25 @@
+Searching for a topic.
+
+This is for Charlie Kirk. Especially the shooting at UVU on Sept 10th, 2025. The goal is to research the specified topic search X posts
+
+
+* Need as much information as possible. If it is 20 pages long, then that is fine. Focus on as many claims of facts or analysis that are specific. Or theories
+
+* Find everything for that topic. I'll put the results as markdown file.
+
+* Finding results in X Posts is good, but also search the internet.
+* Include the  source on where it was found.
+* The format of a source should be on the same line at the end.
+  Example sources:
+  * X happened on June 13th, 2025.  [Source: X Post. https://x.com/@foo/post32/]
+  * Y happened on April 13th, 2025.  [Source: Article. https://artcilefoo.com/@foo/post32/]
+  * Z happened on Sept 13th, 2025.  [Source: YouTube Video. https://x.com/@foo/post32/]
+
+  
+* Output the results that are factual claims.
+* Look for a file in the directory ~/Dropbox/Code/act3/charlie-kirk/blog/Research/
+* Try to find a file that matches the name of this TOPIC.  Include a new file if one doesn't exist.
+* Make these files markdown file formats with a file extension ".md"
+* Work on making a bullet point per factual claim.  Include the source at the end of that bullet line.
+
+

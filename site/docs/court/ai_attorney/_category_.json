@@ -1,0 +1,9 @@
+{
+  "label": "AI Defense Attorney",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "court/ai_attorney/overview"
+  }
+}

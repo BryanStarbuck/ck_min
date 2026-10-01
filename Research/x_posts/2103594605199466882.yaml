@@ -1,0 +1,33 @@
+id: '2103594605199466882'
+url: 'https://x.com/LemmeReact/status/2103594605199466882'
+author:
+  username: 'LemmeReact'
+  name: 'Mason Lemme'
+  id: '1975370922115715072'
+text: |
+  Just more proof that TPUSA (in my opinion) had foreknowledge of Charlie Kirk getting assassinated on September 10th 2025.
+
+  Insane. https://t.co/LAGH5Fc0EX
+created_at: '2026-09-25T21:16:51.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 48
+  reply_count: 11
+  like_count: 479
+  quote_count: 4
+  bookmark_count: 32
+  impression_count: 6645
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2103594321421201408'
+      duration_ms: 177880
+      width: 2286
+      height: 1206
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2103594321421201408/img/e4AutVxQkKIt7fvZ.jpg'
+      local_file: 'videos/2103594605199466882.mp4'
+      ipfs_cid: 'QmQu4bLUV17fGV6D2aynbKmNiAj4qgBnFmCBHrypw3BVwU'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-09-25'
+temp_file: false

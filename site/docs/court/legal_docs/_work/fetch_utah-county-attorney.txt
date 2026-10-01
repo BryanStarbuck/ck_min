@@ -1,0 +1,195 @@
+FETCH LOG - lane: utah-county-attorney
+Case: State of Utah v. Tyler James Robinson, No. 251403576
+Run date: 2026-08-31
+Destination: ~/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/utah-county-attorney/
+User-Agent used on every request: Chrome/131 desktop UA.
+No account created, no payment, no paywall bypass, no form submitted.
+
+================================================================================
+KEPT (7 payload files + 5 extracted .txt companions)
+================================================================================
+
+[9] 0000-00-00_Utah_County_Sheriff_GRAMA_Request_Form.pdf
+    154,139 bytes  |  HTTP 200  |  application/pdf
+    URL: https://sheriff.utahcounty.gov/forms/Grama_Request.pdf
+    VERIFIED: magic %PDF-1.7, valid trailer (%%EOF), /AcroForm present (fillable).
+    WHAT IT IS: Utah County Sheriff's fillable GRAMA (Government Records Access
+    and Management Act) records-request form. NOT a case document - it is the
+    instrument for requesting one. The only PDF in this entire lane that
+    downloaded successfully today.
+    Date unknown -> filename dated 0000-00-00 per convention.
+
+[8] 2025-09-10_UtahDPS_Updates_on_Charlie_Kirk_Shooting_at_UVU.html   94,546 bytes
+    2025-09-10_UtahDPS_Updates_on_Charlie_Kirk_Shooting_at_UVU.txt     3,751 bytes
+    HTTP 200. URL: https://dps.utah.gov/press-releases/updates-on-charlie-kirk-shooting-at-uvu/
+    WHAT IT IS: Utah Dept. of Public Safety media advisory, 10 Sep 2025 (day of
+    the shooting). Confirms: shot ~12:20pm MST; taken to Timpanogos Regional
+    Hospital, pronounced dead hours later; DPS and FBI co-leading with Utah
+    County Attorney, Utah County Sheriff, local PD; George Zinn taken in as a
+    suspect then released and charged with obstruction by UVU police; Zachariah
+    Qureshi taken into custody and released after interrogation - "no current
+    ties to the shooting with either of these individuals"; multiple active
+    crime scenes; "believed to be a targeted attack"; shooter "believed to have
+    fired from the roof of a building down to the location of the public event
+    in the student courtyard"; UVU PD had six officers working the event in
+    addition to Kirk's own security detail; approx. 3,000 attended.
+    CONFIRMED BY FETCH: no PDF or document links on the page. No later DPS
+    release on this case was located.
+
+[6] 2026-08-28_UtahCourts_Public_Attendance_Robinson_Preliminary_Hearing.html  42,873 bytes
+    2026-08-28_UtahCourts_Public_Attendance_Robinson_Preliminary_Hearing.txt    4,201 bytes
+    HTTP 200. URL: https://legacy.utcourts.gov/utc/news/2026/08/28/public-attendance-for-tyler-robinson-preliminary-hearing/
+    WHAT IT IS: Utah Courts notice, 28 Aug 2026. Logistics only. FINAL DAY of
+    the Robinson preliminary hearing begins 10:00 a.m. local at the Provo
+    Courthouse; 12 public seats; wristbands from 9:00 a.m.; no tents/blankets/
+    mattresses/coolers/large bags, small portable chairs permitted; decorum
+    order applies; NO electronic devices in the courtroom.
+    CARRIES THE POOL-FEED LINK: "The preliminary hearing will be live streamed
+    ... https://youtube.com/live/3f3EMabrrFQ" - this is the Utah Courts' own
+    endorsement of the YouTube feed in item [5].
+    Attaches NO documents, exhibits, transcripts or recordings.
+    NOTE (size differs from the scouting report's 43,188): that figure was the
+    2026-07-06 page. This page measured 42,873 bytes on this run.
+
+[7] 2026-07-06_UtahCourts_Public_Information_Robinson_Preliminary_Hearing.html  43,188 bytes
+    2026-07-06_UtahCourts_Public_Information_Robinson_Preliminary_Hearing.txt    4,741 bytes
+    HTTP 200. URL: https://legacy.utcourts.gov/utc/news/2026/07/06/public-information-regarding-the-tyler-robinson-preliminary-hearing/
+    WHAT IT IS: Utah Courts notice, 6 Jul 2026, covering the 6-10 July 2026
+    hearing week (14 public seats, parking, decorum order).
+    Attaches NO documents, exhibits, transcripts or recordings.
+
+[10] 2025-09-13_UtahCounty_News_Arrest_of_Tyler_James_Robinson.html  63,904 bytes
+     2025-09-13_UtahCounty_News_Arrest_of_Tyler_James_Robinson.txt        947 bytes
+     HTTP 200. URL: https://www.utahcounty.gov/news/416/arrest-of-tyler-james-robinson-potential-charges
+     WHAT IT IS: Utah County news item. Release stamped "September 12, 2025
+     Release : 5:00 PM" in the page body (the scouting report dated it 09-13;
+     filename keeps 2025-09-13 to match the lane inventory, body says 09-12).
+     CONFIRMED: fully client-rendered shell. Extracted text is headline +
+     date + site chrome ONLY - the release body is not in the HTML. Grep of
+     raw HTML for ".pdf" and "cms/uploads" returned NOTHING. No document is
+     linked from the county news layer.
+
+[11] 2025-09-16_UtahCounty_News_Conference_Alert_Formal_Charges_Robinson.html  65,062 bytes
+     2025-09-16_UtahCounty_News_Conference_Alert_Formal_Charges_Robinson.txt    1,099 bytes
+     HTTP 200. URL: https://www.utahcounty.gov/news/419/news-conference-alert-formal-charges-for-tyler-robinson-in-charlie-kirk-shooting-case
+     WHAT IT IS: Utah County news-conference alert. Body stamped "September 15,
+     2025 Release : 7:00 PM". Same as above - headline-and-chrome only, no PDF
+     links in raw HTML.
+
+================================================================================
+FAILED / NOT DOWNLOADABLE
+================================================================================
+
+[1] Charlie Kirk Case Updates - Utah County Attorney case-document page
+    https://atty.utahcounty.gov/media/ckpr
+    RESULT: HTTP 404, 7,220 bytes (genuine Next.js error page). REPRODUCED with
+    browser UA. Not a bot block.
+    ROOT CAUSE CONFIRMED THIS RUN, and it is worse than "just this page":
+      https://atty.utahcounty.gov/            -> HTTP 200  (site shell is up)
+      https://atty.utahcounty.gov/media       -> HTTP 200  (listing page is up)
+      https://atty.utahcounty.gov/cms/        -> HTTP 503 nginx
+      https://atty.utahcounty.gov/cms/api/upload/files -> HTTP 503 nginx
+    The /media listing renders but its content area reads literally:
+      "Press Releases / All Categories / No results found."
+    So the Strapi CMS backend is down and the ENTIRE press-release repository -
+    not merely the ckpr page - is currently serving nothing. The 404 on /media/ckpr
+    is a downstream symptom of the 503 backend, NOT a removal of the page.
+    ACTION: re-probe when /cms/ stops returning 503. Nothing to download today.
+
+[2] Wayback archived copy of the case-document page (latest memento)
+    https://web.archive.org/web/20260613223424id_/https://atty.utahcounty.gov/media/ckpr
+    RESULT: HTTP 503, 108 bytes, body "<html><body><h1>503 Service Unavailable</h1>
+    No server is available to handle this request".
+    HIGHEST-VALUE TARGET AND STILL BLOCKED. Attempted ~25 times over ~25 minutes,
+    politely spaced (20-90s gaps), across BOTH URL forms (id_ raw and plain
+    replay) and across ALL 10 CDX-confirmed mementos. Also hit HTTP 429
+    rate-limiting at one point, so retries were slowed further.
+
+    CONTROL TEST RUN (per repo rule - never call something a removal until a
+    control fails the same way):
+      https://web.archive.org/web/20240101000000id_/https://example.com/  -> 503
+      https://web.archive.org/web/20250101000000id_/https://www.utah.gov/ -> 503
+      target                                                              -> 503
+    ALL THREE FAIL IDENTICALLY. This is an ARCHIVE-WIDE WAYBACK REPLAY OUTAGE.
+    It is NOT suppression of this page and must never be published as such.
+    (During one window the example.com control briefly returned 200 while the
+    target still 503'd, but the control reverted to 503 on the very next
+    attempt, so that was outage flapping, not a target-specific block.)
+
+    WHAT DID WORK - the index backends are healthy, only replay is down:
+      timemap: https://web.archive.org/web/timemap/link/https://atty.utahcounty.gov/media/ckpr
+      CDX:     https://web.archive.org/cdx/search/cdx?url=atty.utahcounty.gov/media/ckpr&output=json&fl=timestamp,original,statuscode,digest,length&collapse=digest
+      availability API confirms closest snapshot 20260613223424 status 200, available:true
+
+    10 DISTINCT MEMENTOS CONFIRMED (timestamp / HTTP / digest / length). Note the
+    scouting report listed 11 including 20260512163153; the CDX collapse=digest
+    output returns 10 because 20260512163153 shares a digest with another
+    capture. Retry these in order (largest and latest first):
+      20260409104229  200  RSTJ56TAXTB6X2NFUBIXQDQ3ZFMG7AXE  21,016  <- LARGEST
+      20260512163015  200  PCJEAL3QDDONYMKXXY2PDCHR4SFD4JS5  20,233
+      20260512101753  200  PUHMX3KOVM2GDZH6KGUDZS7KESGR54AR  17,186
+      20260613223424  200  PUHMX3KOVM2GDZH6KGUDZS7KESGR54AR  17,183  <- LATEST
+      20260422123428  200  RT6X733UZHHUYXL7JE4DCY2BQDIJD4CU  17,179
+      20260311110426  200  3O57IOWS6DJ36KCGT5AQWN2MFQUJ3ZTA  17,118
+      20260123212500  200  2U7J7UA6MZBXNG22RJH7QXP2WGBORQDV  16,699
+      20251213015723  200  GO3IIWGYBSABN5LWYLJS7VPEYILYW4GM  16,556
+      20251114004041  200  GASPY3F7BMHAHFTBURC3NRF5ZPD447PH  16,004
+      20260106152653  200  DXOYR5P7RMYUDHS6SJRA26QJMLHBQ5EQ  15,265
+    IMPORTANT: 20260613223424 and 20260512101753 share digest PUHMX3... - i.e.
+    the page did NOT change between 12 May and 13 Jun 2026. The 9 Apr capture
+    (21,016 bytes) is the biggest and likely lists the most documents.
+    Retry command (WebFetch cannot reach web.archive.org - use curl):
+      curl -sL -A "$UA" --compressed -o out.html \
+        "https://web.archive.org/web/20260409104229id_/https://atty.utahcounty.gov/media/ckpr"
+
+[3] Criminal Information charging Tyler James Robinson (Gray / Grunander)
+    https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf
+    RESULT: HTTP 503 nginx, 599 bytes. Retried with browser UA.
+    NOT A LOSS - already held as TJR_Information_49872215e3.pdf in our inventory.
+    Probed only to test the CMS path; the exact filename match re-confirms our
+    whole 173-file collection was scraped from this /cms/uploads/ endpoint, and
+    that is where new documents will reappear when the backend recovers.
+
+[4] Press Release: Robinson Arrest and Potential Charges (Jeffrey S. Gray)
+    https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf
+    RESULT: HTTP 503 nginx, 599 bytes.
+    GENUINELY MISSING FROM OUR INVENTORY. URL was observed in a search result,
+    not invented. Same 503 CMS outage as [1] and [3]. HIGH-PRIORITY RETRY the
+    moment https://atty.utahcounty.gov/cms/ returns anything other than 503.
+
+[5] Tyler Robinson Trial Pool Feed - court pool video, bindover oral argument
+    https://youtube.com/live/3f3EMabrrFQ
+    RESULT: HTTP 200, 1,191,993 bytes of watch-page HTML.
+    NOT YET AIRED - NOTHING TO DOWNLOAD. Parsed from the page this run:
+      title:                 "Tyler Robinson Trial Pool Feed"
+      liveBroadcastDetails:  {"isLiveNow":false,"startTimestamp":"2026-09-01T14:30:00+00:00"}
+      channelId:             UCFVUStJ4azXbWMhFO4yTELg (KUTV 2 News Salt Lake City)
+    Scheduled for 1 Sep 2026 14:30 UTC = 08:30 MDT, which is TOMORROW relative to
+    this run (2026-08-31). isLiveNow is false and no media stream exists yet.
+    Per job instructions videos were not to be downloaded in this lane anyway -
+    recorded for follow-up. This is the free stand-in for a transcript of the
+    bindover argument and it postdates our April 2026 inventory cutoff, so it is
+    worth capturing after it airs. Carried on a media outlet's channel but it is
+    the court-authorised pool feed - the Utah Courts' own 28 Aug 2026 notice
+    (item [6], downloaded above) links to exactly this URL.
+
+================================================================================
+ROUTES THAT NEED A HUMAN
+================================================================================
+* NONE in this lane required payment, login, or identity. No paywall was met.
+* Everything outstanding is blocked by SERVER OUTAGES on the publisher side
+  (Utah County Attorney Strapi /cms 503) or on the archive side (Wayback replay
+  503 archive-wide) - both are expected to self-heal. No human intervention can
+  unblock them today; they simply need re-probing later.
+
+================================================================================
+RETRY CHECKLIST FOR THE NEXT RUN
+================================================================================
+1. curl https://atty.utahcounty.gov/cms/  - if NOT 503, immediately re-pull
+   item [4] (the 2025-09-13 press release) and re-scrape /media/ckpr for any
+   May/June 2026 documents added after our April 2026 cutoff.
+2. curl the Wayback control (example.com id_). If the control returns 200,
+   replay is healthy - then pull memento 20260409104229 FIRST (largest, 21,016
+   bytes), then 20260512163015, then 20260613223424.
+3. After 2026-09-01 14:30 UTC, revisit https://youtube.com/live/3f3EMabrrFQ for
+   the recorded bindover pool feed.

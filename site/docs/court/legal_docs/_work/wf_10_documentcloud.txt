@@ -1,0 +1,67 @@
+LANE: documentcloud-scribd — COMPLETE. 45 PDFs + 7 text/TSV artifacts kept. Zero outright failures on the 26 requested items. Nothing paid for, no account created, no paywall or login bypassed.
+
+DESTINATION: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/documentcloud-scribd/
+LOG: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_documentcloud-scribd.txt
+
+=== KEPT — TOP LEVEL (the 26 requested items) ===
+
+PDFs (bytes from ls -l; page counts from /Type /Page object counts):
+2026-07-28_Memorandum_In_Support_Of_Preliminary_Hearing_Bindover_docket690.pdf — 319,679 b, 29 pp — State's bind-over brief (item 1)
+2026-08-11_Defendant_Preliminary_Hearing_Briefing_docket694.pdf — 389,135 b, 41 pp — defense bind-over brief, Substack copy (item 2)
+2026-08-11_Defendant_Preliminary_Hearing_Briefing_DocumentCloud_28551955_copy.pdf — 383,293 b, 40 pp — DocumentCloud copy of the same filing, NOT byte-identical (item 4)
+2026-08-18_States_Reply_Supporting_Preliminary_Hearing_Bindover_docket700.pdf — 277,548 b, 20 pp (item 3)
+2026-07-08_Preliminary_Hearing_Minute_Entry_Day1_docket677.pdf — 729,039 b, 4 pp (item 5)
+2026-07-21_Preliminary_Hearing_Minute_Entry_Day2_docket686.pdf — 728,371 b, 3 pp (item 5 companion)
+2026-08-28_Defendant_Discovery_Status_Report_docket716.pdf — 572,857 b, 17 pp (item 6)
+2026-06-01_Ruling_And_Order_Granting_Motion_Order_To_Show_Cause_Contempt_docket561.pdf — 268,404 b, 4 pp (item 7)
+2026-06-30_Ruling_And_Order_On_Objections_To_Electronic_Media_Requests_docket657.pdf — 823,416 b, 13 pp (item 8)
+2026-05-06_States_Preliminary_Hearing_Witness_And_Exhibit_List_docket520.pdf — 372,832 b, 6 pp (item 9)
+2025-09-10_Search_Warrant_Affidavit_3212261_Body_And_Effects_Of_Charlie_Kirk_Timpanogos.pdf — 103,454 b, 6 pp (item 10)
+2025-09-12_Search_Warrant_Affidavit_3213451_Person_Of_Tyler_Robinson_Trace_Prints_DNA.pdf — 113,393 b, 8 pp (item 11)
+2025-09-13_Search_Warrant_Affidavit_3214311_Discord_Craftopia_Gamin_The_Corruption.pdf — 154,123 b, 12 pp (item 12)
+2025-10-06_Search_Warrant_Affidavit_3229461_Discord_Dufuss_And_Doobers_Server.pdf — 139,549 b, 13 pp (item 13)
+2025-09-15_Search_Warrant_Affidavit_3215171_CSAM_On_George_Zinn_Phone.pdf — 185,808 b, 24 pp (item 14)
+2026-07-08_Supplemental_Notice_Access_To_Evidence_Presented_In_Open_Court_docket678.pdf — 190,605 b, 8 pp (item 25, via the curl-friendly Substack route)
+2026-03-15_Tyler_Robinson_All_Docket_Entries_As_Of_3-15-2026_DocumentCloud_27880533.pdf — 28,303 b, 13 pp (item 23a)
+2026-03-15_Tyler_Robinson_Case_List_Of_All_Filings_And_Hearings_As_Of_3-15-2026_DocumentCloud_27880531.pdf — 59,301 b, 31 pp (item 23b)
+2026-03-27_Defendant_Motion_To_Vacate_Or_Continue_Preliminary_Hearing_With_Addenda_docket463.pdf — 1,551,455 b, 69 pp (item 24 — see note below)
+2026-08-31_FBI_FOIA_Determination_Letter_1683022-000_Tyler_Robinson_Arrest_2_REJECTED.pdf — 162,689 b, 4 pp (item 26)
+2025-09-29_FBI_FOIA_Letter_1683022-000_Tyler_Robinson_Arrest_2_Earlier.pdf — 135,533 b, 2 pp (item 26 earlier letter)
+
+Text / TSV (web pages, saved as readable text with SOURCE + RETRIEVED headers):
+2026-07-08_UT_v_Tyler_Robinson_Preliminary_Hearing_Day1_Rev_Transcript.txt — 315,733 b (item 17)
+2026-07-09_..._Day2_Rev_Transcript.txt — 312,334 b (item 18)
+2026-07-10_..._Day3_Rev_Transcript.txt — 125,889 b (item 19)
+2026-07-10_..._Day4_Rev_Transcript.txt — 301,762 b (item 20)
+2026-07-10_..._Day5_Rev_Transcript.txt — 100,696 b (item 21)
+2026-07-13_Burkhart_Tyler_Robinson_Search_Warrant_Affidavits_Hub_25_Affidavits.txt — 4,960 b (item 15)
+2026-08-31_Burkhart_Charlie_Kirk_Legal_Documents_720_Entry_Docket_Reconstruction.txt — 79,712 b (item 16)
+2026-03-16_DocumentCloud_Project_224251_..._46_Filings_Crosswalk.tsv — 9,043 b, 46 data rows (item 22)
+
+=== KEPT — search_warrant_affidavits_other_20/ ===
+The other 20 affidavits off the item-15 hub page, all HTTP 200, all valid PDFs, 102,707–760,826 b, 6–15 pp each: 3212321, 3212601, 3212881 (Omar Najera device), 3212941 (cell-tower dump), 3213481, 3213501, 3213511, 3213621, 3213811, 3214291, 3214341, 3214411, 3214731, 3214751, 3214771, 3215261, 3215391, 3216271, 3217031, 3217131. Full per-file byte counts in the log.
+
+=== KEPT — documentcloud_only/ ===
+Four filings the brief flagged as NOT in local inventory, all 403 to curl, all retrieved whole via WebFetch:
+docket 250 — 2025-12-17 Defendant Motion to Disqualify Prosecutor and/or Judge — 2,744,947 b, 47 pp
+docket 289 — 2026-01-05 Prosecutor Opposition to Motion to Disqualify UCAO — 4,522,827 b, 32 pp
+docket 242 — 2025-12-15 Ruling Granting Motion to Clarify Publicity Order — 233,601 b, 3 pp
+docket 413 — 2026-02-13 Minute Order on Oral Argument of Evidentiary Hearing — 729,537 b, 3 pp
+
+=== FAILURES / BLOCKS / NEEDS A HUMAN ===
+
+1. documentcloud.org is Cloudflare-blocked HOST-WIDE to scripted clients — not document-specific, and NOT evidence of removal. Observed HTTP 403 with a full browser header set (UA, Accept, Accept-Language, sec-ch-ua, sec-ch-ua-platform, Sec-Fetch-*, Referer) on: s3.documentcloud.org, assets.documentcloud.org, www.documentcloud.org, documentcloud.org, embed.documentcloud.org, and api.www.documentcloud.org — including the API root itself. WebFetch gets through and returns real bytes, so nothing wanted from DocumentCloud was actually lost in this lane.
+
+2. Burkhart docket entry 651, "Ruling And Order On Defendant's Motion For an Order To Show Cause For Contempt Of Court, 6-26-26" — listed on the page with NO pdf embed. No URL exists to fetch; none was invented. A human must open the Substack post or buy it from the court. This sits on the contempt line of inquiry.
+
+3. NOT ATTEMPTED ON PURPOSE — the 258+ PDF bulk pull off the item-16 docket reconstruction. Every URL is already parsed into _work/burkhart_docket_720.tsv. Separate bulk job, not this lane. (The raw page actually contains 264 distinct api/v1/file/*.pdf URLs after de-duplication, not 258.)
+
+4. Items tagged "(Not obtained)" (never purchased by the author) and "**** PRIVATE ****" (sealed) on the Burkhart docket are unreachable by any route here.
+
+=== TWO THINGS WORTH YOUR ATTENTION ===
+
+Item 24 solved by a better route. Instead of fighting the s3 403, I grepped the Burkhart docket TSV: entry 463 is "Motion to Vacate or Continue Preliminary Hearing WITH ADDENDA, 3-27-26" as a curl-fetchable Substack embed. It came down at 69 pages — the same page count as DocumentCloud 27998189, confirming this is the fuller copy with exhibits. It supersedes the local 3_27_26_Defendant's_Motion_To_Continue_Preliminary_Hearing.pdf, which is the shorter no-exhibit version.
+
+Date caution on the five Rev transcripts. Filenames carry the dates from the brief (7-8, 7-9, 7-10, 7-10, 7-10), but those are almost certainly wrong for Days 4 and 5: three sitting days cannot all be 7-10, the Day 2 minute entry on the docket is dated 7-21-26, and the Day 4 transcript discusses the August 11 and August 18 briefing deadlines — late-July talk, not July 10. The reliable ordering is the DayN in each filename. I invented no dates; pin the sitting dates from the minute entries before any page cites them. These are also Rev machine transcripts, not certified court reporter transcripts — each file carries that warning in its header.
+
+Verification: every one of the 45 PDFs checked for %PDF- header, %%EOF in the last 4KB, and counted /Type /Page objects. All passed, none under 5 KB. No HTML error page, login wall, or Cloudflare challenge was kept — zero files deleted, because zero junk was produced.

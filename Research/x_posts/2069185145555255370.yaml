@@ -1,0 +1,41 @@
+id: '2069185145555255370'
+url: 'https://x.com/realhonestash/status/2069185145555255370'
+author:
+  username: 'realhonestash'
+  name: 'Honest Ash'
+  id: '36549922'
+text: |
+  Candace just covered the crisis actors that immediately told us what the "plan" was. The mic was supposed to simulate a shot in Charlie's heart/chest.
+
+  This is another MASSIVE admission in the Charlie Kirk case
+
+  @RealCandaceO @candaceoshow
+created_at: '2026-06-22T22:25:56.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 201
+  reply_count: 32
+  like_count: 1073
+  quote_count: 9
+  bookmark_count: 134
+  impression_count: 23297
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2069184891233734656'
+      duration_ms: 341733
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2069184891233734656/img/Dgfg6wOZUsjiARiN.jpg'
+      best_variant_url: 'https://video.twimg.com/amplify_video/2069184891233734656/vid/avc1/1920x1080/kGA6XLtPyn27F-yR.mp4'
+    - type: video
+      media_key: '13_2068286616167198720'
+      duration_ms: 58066
+      width: 1312
+      height: 728
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2068286616167198720/img/v0ftwPazL66PkT2a.jpg'
+      best_variant_url: 'https://video.twimg.com/amplify_video/2068286616167198720/vid/avc1/1312x728/nX3PHZcSYzSL6Iya.mp4'
+      note: 'source clip from tweet 2068287059307925752'
+investigation: 'charlie_kirk'
+added_date: '2026-06-22'
+temp_file: false

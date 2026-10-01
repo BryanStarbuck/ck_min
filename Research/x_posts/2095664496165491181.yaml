@@ -1,0 +1,56 @@
+id: '2095664496165491181'
+url: 'https://x.com/idontgiveadom/status/2095664496165491181'
+author:
+  username: 'idontgiveadom'
+  name: 'idontgiveadom'
+  id: '1498368865436372999'
+text: |
+  @paleochristcon Don't forget to call out @josh_hammer for this same type of commentary one day before 9/10/25.
+created_at: '2026-09-04T00:05:26.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 15
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 2104
+in_reply_to_status: '2095544730700722326'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2095664490855456769'
+      url: 'https://pbs.twimg.com/media/HRVLwEnW4AEpoAx.jpg'
+      width: 1320
+      height: 701
+      sha256: '8d0fa621f3a2c4c604c0ea8dbde5509e5dab927a2f43fa6dc38c63032d3fcac4'
+      ipfs_cid: 'QmVYwR1EejtnRboQfUzDi4hL9QGBP3mvtFY62wBdrQUx6C'
+ocr_text: |
+  @josh_hammer
+  Josh Hammer [verified]
+  based
+    [quoting] Donald J. Tr... @realDonald... - Apr 19, 2013
+    Should be public execution for all to see-you will end this bullshit fast!
+  6:05 PM - Sep 9, 2025 - 27K Views
+analysis_notes: |
+  The value of this image is its FOOTER TIMESTAMP: 6:05 PM, Sep 9, 2025. Per the quoting
+  post (2095665263563653527), this landed five minutes into the 6:00 PM Zoom call on the
+  circulated final-day timeline. It is a public, machine-generated clock reading that
+  independently anchors that evening to September 9, 2025 — corroborating Bryan's
+  correction that the circulated timeline graphic is mislabeled September 10.
+
+  CAVEATS carried onto the public page:
+  * The quoted Trump post is dated April 19, 2013 — the day of the Boston Marathon
+    bombing manhunt and the capture of the surviving bomber. In its own context it is
+    a reaction to a terror attack, not a statement about anyone in this investigation.
+  * "based" is ordinary internet approval slang.
+  * X renders timestamps in the VIEWER's timezone, so 6:05 PM is 6:05 PM to whoever
+    captured the screenshot. The DATE is durable; the HOUR is not yet established.
+  * No claim is made that Josh Hammer knew of, participated in, or foresaw any harm.
+site_pages:
+  - 'site/docs/Charlie/Text_Messages/josh-hammer-6-05pm-timestamp.mdx'
+  - 'site/docs/Charlie/Text_Messages/final-day-timeline-sept-9.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-09-03'
+temp_file: false

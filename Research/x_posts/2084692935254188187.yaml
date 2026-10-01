@@ -1,0 +1,35 @@
+id: '2084692935254188187'
+url: 'https://x.com/LionelMedia/status/2084692935254188187'
+author:
+  username: 'LionelMedia'
+  name: 'Lionel'
+  id: '24787367'
+text: |
+  I applaud the open and critical examination of every aspect of what amounts to the murder investigation of a lifetime. This is where journalism is. Not where it's heading. But where it is. Brava!
+created_at: '2026-08-04T17:28:22.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 33
+  reply_count: 7
+  like_count: 262
+  quote_count: 3
+  bookmark_count: 18
+  impression_count: 6225
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2083254787152515072'
+      duration_ms: 101771
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2083254787152515072/img/1taBzGXtrZgLBMpF.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2083254787152515072/vid/avc1/720x1280/AYBNj20dwLP3JzjY.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-05'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2083255111946817923'
+  quoted_status_url: 'https://x.com/billiewebbb/status/2083255111946817923'
+  quoted_author: '@billiewebbb'

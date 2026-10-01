@@ -1,0 +1,46 @@
+id: '2095247284162453896'
+url: 'https://x.com/I_Am_JohnCullen/status/2095247284162453896'
+author:
+  username: 'I_Am_JohnCullen'
+  name: 'John Cullen'
+  id: '1448959521372585992'
+text: |
+  As Tyler Robinson was surrendering,
+  at 9 pm at the Washington County Sheriff's station, near St. George, Utah..
+
+  ...HADES AXEL21 was doing this: https://t.co/DH6QD04AIB
+created_at: '2026-09-02T20:27:35.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 25
+  reply_count: 9
+  like_count: 144
+  quote_count: 1
+  bookmark_count: 11
+  impression_count: 3705
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2095246520077660160'
+      url: 'https://pbs.twimg.com/media/HRPPm-IaMAAcwpw.jpg'
+      width: 2056
+      height: 1272
+      local_filename: '2095247284162453896_1.jpg'
+      sha256: 'adda731b30bd9ede78fcadb0bf89c253785948f14f352cf2668162b5a9c52638'
+      ipfs_cid: 'QmRBzn3zrvatvLcWfvGNMwUEimDig5PbgLkjU6PWT7pwDM'
+image_content_description: |
+  Google Earth 3D perspective render of southwest Utah looking northeast. A red
+  ADS-B track ribbon (vertical drop-lines to the ground, indicating altitude)
+  enters from the northwest past Bunkerville/Mesquite, runs southeast over
+  St. George and Washington, makes a tight hairpin turn directly over the
+  labelled "Washington County Sheriff" placemark, then loops out east past
+  New Harmony, Kanarraville, Hamilton Fort and Cedar Highlands before doubling
+  back. A second long leg runs southwest across Colorado City, Cane Beds and
+  the Kanab Indian Reservation. Zion National Park, Hurricane, Toquerville,
+  Springdale and Rockville are labelled. Timestamp burned into the upper left:
+  "9/11/2025  8:41:37 pm". Attribution strip at bottom: Image Landsat / Copernicus,
+  Data SIO NOAA U.S. Navy NGA GEBCO, Data LDEO-Columbia NSF NOAA.
+investigation: 'charlie_kirk'
+added_date: '2026-09-02'
+temp_file: false

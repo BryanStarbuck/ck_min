@@ -1,0 +1,41 @@
+id: '2076585079015391653'
+url: 'https://x.com/IGraceAshford/status/2076585079015391653'
+author:
+  username: 'IGraceAshford'
+  name: 'Grace Ashford'
+  id: '1990084177988063232'
+text: |
+  🚨Baron Coleman: Tyler Robinson is in grave danger because he was never supposed to survive this long.
+
+  If Charlie Kirk's murder case reaches trial, everything will fall apart because the evidence will not hold.
+created_at: '2026-07-13T08:30:38.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 327
+  reply_count: 91
+  like_count: 2101
+  quote_count: 10
+  bookmark_count: 54
+  impression_count: 35708
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2076584938812407809'
+      duration_ms: 41066
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2076584938812407809/img/BTmtcUL6ddiUbqfw.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2076584938812407809/vid/avc1/1920x1080/fN30fkxrRAvX0XX0.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+        - url: 'https://video.twimg.com/amplify_video/2076584938812407809/vid/avc1/1280x720/sa22owj5rVQvx7gd.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+        - url: 'https://video.twimg.com/amplify_video/2076584938812407809/vid/avc1/640x360/ZhFPV3KNVwg685-i.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 832000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-13'
+temp_file: false

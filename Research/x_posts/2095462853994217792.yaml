@@ -1,0 +1,51 @@
+id: '2095462853994217792'
+url: 'https://x.com/ArtifexMemor/status/2095462853994217792'
+author:
+  username: 'ArtifexMemor'
+  id: '1252326476554186752'
+text: |
+  probably because we’d hear it cut right after the word “violence” https://t.co/ef9sZD8NXb
+created_at: '2026-09-03T10:44:10.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 4
+  reply_count: 3
+  like_count: 37
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 1088
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2095162655229292545'
+      url: 'https://pbs.twimg.com/media/HRODVZObMAE-CtA.jpg'
+      width: 500
+      height: 500
+      sha256: '2be6950ea21bd06ad449963b8f23ae7cc68833a4500521e0a020d8be57d3c727'
+      ipfs_cid: 'QmSks4tCY5H9hZmhmhuXRi6pywwHVvy4npjtwXbr6ercR8'
+media_from_quoted_status:
+  quoted_status_id: '2095162658949681157'
+  quoted_status_url: 'https://x.com/AmericaOnlyBro/status/2095162658949681157'
+  quoted_author: '@AmericaOnlyBro'
+quoted_text: |
+  If TPUSA could produce the actual RODE microphone that Charlie had on at UVU with the original audio recording on it, that would really go along way to answering some questions.
+
+  The fact that they are making sure not even to mention it or talk about it fuels the alternative theories.
+
+  Charlie was wearing this microphone. We know that for a fact.
+
+  Was it there to record?
+  Where is the audio feed?
+  Where is it?
+  Is it still intact, or did it explode into a bunch of little black fragments?
+
+  Where’s the RODE mic @BlakeSNeff / @AndrewKolvet? Tyler Robinson did it right? Let’s dispel these alternative theories once and for all.
+quoted_public_metrics:
+  like_count: 1600
+  retweet_count: 393
+  reply_count: 126
+  quote_count: 31
+  impression_count: 23363
+investigation: 'charlie_kirk'
+added_date: '2026-09-03'
+temp_file: false

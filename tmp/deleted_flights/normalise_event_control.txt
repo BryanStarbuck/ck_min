@@ -1,0 +1,45 @@
+============================================================================================
+NAIVE  -- per circle-day. THIS IS THE NUMBER THAT MISLEADS.
+============================================================================================
+kind        circle-days   on ground   notable   notable/day
+event               348      153613     17266         49.61
+control             788       51006      6727          8.54
+
+naive event:control ratio = 5.81x
+Event circles are big metros; control circles are mid-size cities. Most or
+all of that ratio is airport size. Do not publish this number alone.
+
+============================================================================================
+N1  PER AIRCRAFT ON THE GROUND -- airport size divides out
+============================================================================================
+kind         on ground   notable   notable %   foreign %  military %   unreg %
+event           153613     17266      11.24%       1.02%       0.83%     1.77%
+control          51006      6727      13.19%       0.54%       3.96%     0.27%
+
+N1 event:control ratio = 0.85x  (flat -- the naive ratio was airport size)
+
+============================================================================================
+N2  SIZE-MATCHED -- circle-days bucketed by how busy the circle was
+============================================================================================
+bucket      event days  ev notable%  ctrl days  ctrl notable%    ratio
+1-5                 40       15.53%        308         19.57%     0.79
+6-20                31       18.98%         72         21.96%     0.86
+21-50               26       15.42%         14         13.46%     1.15
+51-150              37       16.51%        312         12.06%     1.37
+151-400             70       14.83%         82         15.04%     0.99
+400+               144       10.57%          0          0.00%      nan
+
+============================================================================================
+N3  THE RATE THE CLAIM IS ACTUALLY ABOUT -- SU-registered aircraft
+============================================================================================
+SU-registered aircraft ON THE GROUND in an EVENT circle:   5
+    2023-03-22  SU-GDN   New Brunswick
+    2025-01-21  SU-GET   Washington
+    2025-09-09  SU-BND   Orem
+    2025-09-10  SU-BND   Orem
+    2025-09-10  SU-BTT   Orem
+SU-registered aircraft ON THE GROUND in a CONTROL circle:  0
+
+'Foreign-registered' has thousands of members and is dominated by Canadian and
+Mexican business jets. 'SU-registered' has a handful. The claim is about the
+second category, and the second category is what N3 counts.

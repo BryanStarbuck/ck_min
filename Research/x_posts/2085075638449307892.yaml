@@ -1,0 +1,38 @@
+id: '2085075638449307892'
+url: 'https://x.com/realstewpeters/status/2085075638449307892'
+author:
+  username: 'realstewpeters'
+  name: 'Stew Peters'
+  id: '1288319695658135552'
+text: |
+  Erika Kirk is officially linked to Israeli Mossad and the Egyptian planes that were following Charlie Kirk.
+
+  It's time for Erika to start answering some serious questions.
+created_at: '2026-08-05T18:49:05.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 5766
+  reply_count: 561
+  like_count: 27199
+  quote_count: 166
+  bookmark_count: 2796
+  impression_count: 498115
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2085075226065264640'
+      duration_ms: 220225
+      width: 1280
+      height: 678
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2085075226065264640/img/twtps-tJxiU9n0aK.jpg'
+      downloaded_as: '2085075638449307892.mp4'
+      sha256: '5c5decf9616fe9fb440645f1105b07cf8a6d32fb2f73de2a1f45886ed600c53a'
+      ipfs_cid: 'QmPorAD9dSYb3GX64VKxQ3oxtRw6N1MYvgTdtU9Jp6bc3K'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-31'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

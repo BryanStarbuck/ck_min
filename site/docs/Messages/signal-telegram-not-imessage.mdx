@@ -1,0 +1,181 @@
+---
+displayed_sidebar: docs
+title: "Signal and Telegram, Not iMessage"
+sidebar_label: "Signal & Telegram, Not iMessage"
+description: "Investigation notes state Charlie Kirk sent the threat messages over Signal and Telegram rather than iMessage. That single technical detail reconciles the contradiction between the witnesses and the denial — and decides what can ever be recovered."
+keywords:
+  - Charlie Kirk
+  - Signal
+  - Telegram
+  - iMessage
+  - device forensics
+  - messages
+image: "/img/docusaurus-social-card.jpg"
+hide_table_of_contents: true
+---
+
+{/* Full-bleed marker */}
+<div className="ck-full-bleed" />
+
+<a href="/Messages/overview" style={{display:'inline-block', marginBottom:'1rem',
+padding:'0.35rem 0.9rem', background:'#1a73e8', color:'#fff',
+borderRadius:'4px', textDecoration:'none', fontSize:'0.9rem'}}>← Messages & Threats</a>
+
+# Signal and Telegram, Not iMessage
+
+This is the most technical page in the section and possibly the most important. It is the detail that can make **two apparently irreconcilable accounts both true at once**.
+
+## What the notes record
+
+Compiled investigation notes state plainly that Charlie Kirk sent the messages in question — including the ones to Andrew Kolvet and Dan Flood — **in Signal and Telegram, not in iMessages**.
+
+## Why that reconciles the contradiction
+
+On Erika Kirk's Denial, Erika Kirk is quoted as saying that Charlie was not messaging people the day before saying "they're going to kill me," (KM-09) that she has his cell phone, and that "it never happened."
+
+If the messages were sent over Signal or Telegram, a person holding the phone and looking through it could reach that conclusion **honestly and be wrong**:
+
+* **Signal messages can be set to disappear.** Timed deletion is a per-conversation setting; once it fires, the message is gone from both devices with no trace in the thread.
+* **Signal is locked separately.** The app requires its own PIN or biometric unlock. Possession of the phone does not grant access to the history.
+* **Telegram secret chats are device-bound** and are not in the cloud backup.
+* **Neither appears in the Messages app.** Someone reviewing iMessage — the natural place to look — would find nothing, correctly.
+
+This is why the denial and the witnesses can both be sincere. It is also why the argument cannot be settled by anyone simply looking at a phone. **This page does not assert that Erika Kirk's statement was untrue**; it explains a mechanism by which the accounts could differ without anyone lying.
+
+## What forensics would actually require
+
+To resolve it properly:
+
+1. **Preservation** of the physical device and, separately, of the recipients' devices.
+2. **Signal PIN or biometric access**, or a Signal desktop-linked device with its own local database.
+3. **Telegram account access**, since cloud chats survive on Telegram's servers even if the phone is wiped.
+4. **Recipient-side extraction** — Frank Turek, Kolvet, Flood, Candace Owens. Any one recipient's copy is as good as Kirk's.
+
+Point 4 is the practical one. The messages were sent to several people. **Any single recipient could settle this today** without touching Kirk's phone at all. That none has published an export is one of the standing puzzles of this section.
+
+## Why it may already be too late
+
+Signal disappearing messages are unrecoverable by design — there is no server copy, no backup, and no vendor to subpoena. Every month that passes without preservation orders increases the chance that the primary evidence in this dispute no longer exists anywhere. That is a point in favor of the disclosure statutes proposed in [New Laws (Fix)](/Fix/overview).
+
+## Open questions
+
+1. Was any preservation order ever issued for Kirk's devices or accounts?
+2. Were disappearing messages enabled on the relevant Signal threads?
+3. Has any recipient exported and retained their side of the conversation?
+4. Did investigators ever request Telegram cloud-chat records?
+
+{/* CK_INTERESTING_HERE_START */}
+
+## Interesting In This Area
+
+* Any single recipient could settle this today &mdash; [Turek](/Messages/frank-turek-messages), [Kolvet](/Messages/message-to-andrew-kolvet), [Flood](/Messages/message-to-dan-flood) or Owens.
+* Telegram cloud chats survive a wiped phone; [the September 9 set](/Messages/sept-9-they-are-going-to-kill-me) may not.
+* No preservation order is documented anywhere in [this section](/Messages/overview).
+
+{/* CK_INTERESTING_HERE_END */}
+
+{/* CK_INTERESTING_OTHER_START */}
+
+## Interesting In Other Areas
+
+* Nothing of this traffic appears in [the state case](/court/overview) against the charged suspect.
+* [Disclosure statutes](/Fix/overview) exist because no mechanism compels a recipient to export.
+
+{/* CK_INTERESTING_OTHER_END */}
+
+{/* CK_4SQ_SECTION_START */}
+
+## Other Pages In This Section
+
+<div className="ck-4sq">
+
+<div className="ck-4sq-card ck-4sq-stack">
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/Messages/threats-to-commentators">Threats to Other Commentators After the Assassination</a></p>
+    <p className="ck-4sq-text">Kelly, Carlson, Owens and Carroll all describe becoming targets after taking up the case, or the positions Charlie was moving toward. Every entry is a self-report or a second-hand report, with no police report or protective order published. What is documented is how threats get handled, not that any one is real.</p>
+    <a className="ck-4sq-btn" href="/Messages/threats-to-commentators">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+<div className="ck-4sq-card ck-4sq-stack">
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/Messages/harrison-smith-account">Harrison Smith's Account</a></p>
+    <p className="ck-4sq-text">A large share of the circulating quotes trace back to one August 2025 broadcast report. That matters less for what it adds than for what it explains: apparent corroboration by many sources can be one source amplified. Nothing here alleges wrongdoing by Smith.</p>
+    <a className="ck-4sq-btn" href="/Messages/harrison-smith-account">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+<div className="ck-4sq-card ck-4sq-stack">
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/Messages/overview">Messages &amp; Threats</a></p>
+    <p className="ck-4sq-text">One page per reported message, each with its source, its channel and its verification state. The catalog exists so a claim can be checked individually instead of swallowed as a set.</p>
+    <a className="ck-4sq-btn" href="/Messages/overview">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+<div className="ck-4sq-card ck-4sq-stack">
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/Messages/uvu-message-to-charlie-sept-9">UVU: &quot;He Wants Us To Get A Message To Charlie Kirk&quot;</a></p>
+    <p className="ck-4sq-text">A government record rather than a private claim: a 2:23 PM email the day before, saying someone wanted a message passed to Charlie Kirk. The name is redacted, the number is redacted, and whether it was ever delivered appears nowhere in the 112 released pages. A second attempt that night ends in redactions too.</p>
+    <a className="ck-4sq-btn" href="/Messages/uvu-message-to-charlie-sept-9">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+
+</div>
+
+{/* CK_4SQ_SECTION_END */}
+
+{/* CK_4SQ_SITEWIDE_START */}
+
+## Elsewhere In The Investigation
+
+<div className="ck-4sq">
+
+<div className="ck-4sq-card ck-4sq-side">
+  <a className="ck-4sq-thumb" href="/court/overview"><img src="/img/evidence/fb14b85a283763fc0778887022c1800f900cd288c81b36603fb0a80dc7b62fc5.jpg" data-cid="QmRkRwe9cELH4Z5j9vs6hHkYxin1U7FHKWexRVJb8HXiXB" alt="This image is a digital screenshot of a news article from the WEAR News 3 website, viewed on a mobile device." loading="lazy" /></a>
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/court/overview">Court &amp; Trial</a></p>
+    <p className="ck-4sq-text">State of Utah v. Tyler Robinson, case 251403576, is where the government&apos;s narrative meets adversarial testing &mdash; every court date, the day-by-day preliminary hearing transcripts, and the inconclusive ATF ballistics.</p>
+    <a className="ck-4sq-btn" href="/court/overview">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+<div className="ck-4sq-card ck-4sq-stack">
+  <a className="ck-4sq-thumb" href="/Fix/overview"><img src="/img/evidence/319de07fd86b3f460e4ac35cf156448a9ed6d2186fad7ab5595782d7d2134914.jpg" data-cid="QmVaJDW5VH68g98jBNsSoawPNyrG6fsaCMmrdUfGXhHJct" alt="This is a digital composite image designed as a political or investigative graphic, featuring portraits of public figures Charlie Kirk and Candace Owens overlaid against two…" loading="lazy" /></a>
+  <div className="ck-4sq-body">
+    <p className="ck-4sq-title"><a href="/Fix/overview">New Laws (Fix)</a></p>
+    <p className="ck-4sq-text">Four federal laws modeled on the Epstein Files Act, drafted to force disclosure and mandate a real investigation. Every unanswered question in the aftermath is downstream of records nobody can compel today.</p>
+    <a className="ck-4sq-btn" href="/Fix/overview">Read this <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M9 6l6 6-6 6" /></svg></a>
+  </div>
+</div>
+
+</div>
+
+{/* CK_4SQ_SITEWIDE_END */}
+
+## Sources
+
+* Master investigation file — "Quotes Charlies / Verified" section
+* Reported Quotes and Warnings — verification priorities
+
+## Interesting
+
+* The phone-based rebuttal is a single denial on Glenn Beck, against five named accounts.
+* UVU's own posts and the FBI timeline differ by thirteen minutes.
+* A rectangular chest bulge vanishes after the event, per the exploding mic theory.
+
+## Related Areas
+
+<div style={{display:'grid', gridTemplateColumns:'1fr 1fr', gap:'0.5rem 2rem',
+marginTop:'0.5rem'}}>
+<div>
+
+* Phone surveillance claims
+* [New laws to force disclosure](/Fix/overview)
+* Technology and surveillance
+
+</div>
+<div>
+
+* Evidence handling after the shooting
+* [Court and trial proceedings](/court/overview)
+* FBI role in the investigation
+
+</div>
+</div>

@@ -1,0 +1,153 @@
+{
+ "slug": "audit-archive-gap",
+ "title": "Rows the audit could not assess",
+ "cell_text": "Not assessable — the flight archive does not reach back that far",
+ "url": "/Planes/following/cuts/audit-archive-gap",
+ "summary": {
+  "rows": 2,
+  "distinct_dates": 2,
+  "by_airport": {
+   "KILG": 1,
+   "KORD": 1
+  },
+  "by_state": {
+   "DE": 1,
+   "IL": 1
+  },
+  "by_tail": {
+   "SU-BTT": 2
+  },
+  "by_year": {
+   "2022": 2
+  },
+  "by_adsb_verdict": {
+   "No archive coverage": 2
+  },
+  "by_audit_verdict": {
+   "Not assessable — archive gap": 2
+  },
+  "by_attendee": {
+   "Erika Kirk alone": 2
+  },
+  "ground_confirmed": 0,
+  "with_same_day_event": 0
+ },
+ "rows": [
+  {
+   "overlap_id": "OWENS-043",
+   "owens_index": "43",
+   "date": "2022-11-25",
+   "date_raw": "2022-11-25",
+   "date_pretty": "25 November 2022",
+   "airport_code": "KILG",
+   "airport_name": "Wilmington (claimed)",
+   "airport_class": "customs / bizjet",
+   "airport_page": "/Planes/following/Wilmington_KILG_2022-11-17_to_2025-10-12/overview",
+   "mro_on_field": "none of note",
+   "customs": "yes - well-established East Coast customs and fuel stop",
+   "military_colocation": "Delaware Air National Guard on field",
+   "city": "Wilmington",
+   "state": "DE",
+   "country": "",
+   "metro_area": "Delaware Valley DE/PA/NJ",
+   "following_tails": [
+    "SU-BTT"
+   ],
+   "following_tail_raw": "SU-BTT",
+   "following_type": "Dassault Falcon 7X",
+   "following_hex": "0101D3",
+   "following_operator": "Egyptian government / Egypt Air Force registration",
+   "arrived_from": "Paris (claimed)",
+   "departed_to": "Cairo (claimed)",
+   "transponder": "",
+   "subject": "Erika",
+   "attendee_class": "ERIKA_ONLY",
+   "attendee_label": "Erika Kirk alone",
+   "charlie_present": "not_claimed",
+   "erika_present": "claimed",
+   "tpusa_event_present": "unknown",
+   "claimed_erika_location": "Delaware",
+   "event": "claimed Paris→Wilmington→Cairo",
+   "venue": "UNKNOWN",
+   "kirk_tail": "",
+   "sourced_kirk_event_same_day": "",
+   "nearest_sourced_kirk_event": "Charlie UNM Albuquerque 2022-11-30 (different state)",
+   "nearest_event_gap_days": "",
+   "audit_verdict": "archive_gap",
+   "audit_label": "Not assessable — archive gap",
+   "confidence": "claimed",
+   "survives_audit": "untestable_archive_gap",
+   "adsb_verdict": "NO_ARCHIVE_COVERAGE",
+   "adsb_label": "No archive coverage",
+   "adsb_km": "",
+   "adsb_ground": "",
+   "adsb_note": "SAYS NOTHING EITHER WAY. Neither free archive holds this date for any airframe we probed, so this is an archive limit and not suppression.",
+   "days_before_sept10": "1020",
+   "source": "Owens sheet via Kanekoa audit (archive gap)",
+   "source_url": "https://x.com/KanekoaTheGreat/status/2000701268806062358",
+   "counterargument": "Auditor: Data doesn't go back this far. In Cairo; closest flight was 11/20/22, Wilmington to Cairo.",
+   "notes": "2022 partly outside the archive Kanekoa used.",
+   "overlap_page": "/Planes/following/overlap/20221125_DE_wilmington_owens_043/overview",
+   "ground_stay": null,
+   "nearby_events": []
+  },
+  {
+   "overlap_id": "OWENS-044",
+   "owens_index": "44",
+   "date": "2022-12-05",
+   "date_raw": "2022-12-05",
+   "date_pretty": "5 December 2022",
+   "airport_code": "KORD",
+   "airport_name": "Chicago (claimed)",
+   "airport_class": "international",
+   "airport_page": "",
+   "mro_on_field": "UNKNOWN",
+   "customs": "yes",
+   "military_colocation": "none",
+   "city": "Chicago",
+   "state": "IL",
+   "country": "",
+   "metro_area": "Chicago IL",
+   "following_tails": [
+    "SU-BTT"
+   ],
+   "following_tail_raw": "SU-BTT",
+   "following_type": "Dassault Falcon 7X",
+   "following_hex": "0101D3",
+   "following_operator": "Egyptian government / Egypt Air Force registration",
+   "arrived_from": "Paris (claimed)",
+   "departed_to": "Cairo (claimed)",
+   "transponder": "",
+   "subject": "Erika",
+   "attendee_class": "ERIKA_ONLY",
+   "attendee_label": "Erika Kirk alone",
+   "charlie_present": "not_claimed",
+   "erika_present": "claimed",
+   "tpusa_event_present": "unknown",
+   "claimed_erika_location": "Illinois",
+   "event": "claimed Paris→Chicago→Cairo",
+   "venue": "UNKNOWN",
+   "kirk_tail": "",
+   "sourced_kirk_event_same_day": "",
+   "nearest_sourced_kirk_event": "none in IL Dec 2022",
+   "nearest_event_gap_days": "",
+   "audit_verdict": "archive_gap",
+   "audit_label": "Not assessable — archive gap",
+   "confidence": "claimed",
+   "survives_audit": "untestable_archive_gap",
+   "adsb_verdict": "NO_ARCHIVE_COVERAGE",
+   "adsb_label": "No archive coverage",
+   "adsb_km": "",
+   "adsb_ground": "",
+   "adsb_note": "SAYS NOTHING EITHER WAY. Neither free archive holds this date for any airframe we probed, so this is an archive limit and not suppression.",
+   "days_before_sept10": "1010",
+   "source": "Owens sheet via Kanekoa audit (archive gap)",
+   "source_url": "https://x.com/KanekoaTheGreat/status/2000701268806062358",
+   "counterargument": "Auditor: Data doesn't go back this far. Still in Cairo; flew back into Cairo 20 Nov, out to Paris then St. Louis 20 Dec.",
+   "notes": "",
+   "overlap_page": "/Planes/following/overlap/20221205_IL_chicago_owens_044/overview",
+   "ground_stay": null,
+   "nearby_events": []
+  }
+ ]
+}

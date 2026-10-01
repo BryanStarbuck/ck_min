@@ -1,0 +1,44 @@
+id: '2104061551200100588'
+url: https://x.com/JOKAQARMY1/status/2104061551200100588
+author:
+  username: JOKAQARMY1
+  name: JOKAMRREDPILLZ
+  id: '1746694144829927424'
+text: EMPs and SUVs used to 💀 Charlie Kirk. https://t.co/O3bYu1TAyT
+created_at: '2026-09-27T04:12:20.000Z'
+lang: en
+public_metrics:
+  bookmark_count: 17
+  impression_count: 6940
+  like_count: 45
+  quote_count: 0
+  reply_count: 0
+  retweet_count: 12
+attachments:
+  videos:
+  - type: video
+    media_key: '13_2104061342852272128'
+    duration_ms: 159010
+    preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2104061342852272128/img/H8KyGz5nKa2MMBSD.jpg
+    variants:
+    - bit_rate: 2176000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2104061342852272128/vid/avc1/720x1280/h3_62_G-t5GGwN1E.mp4
+    - bit_rate: 632000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2104061342852272128/vid/avc1/320x568/UTAyzmNua0zCp3W2.mp4
+    - bit_rate: 950000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2104061342852272128/vid/avc1/480x852/gfSEXjLna3kQXICV.mp4
+    - content_type: application/x-mpegURL
+      url: https://video.twimg.com/amplify_video/2104061342852272128/pl/UkmUyW_EoayRjT2M.m3u8?v=05d
+    - bit_rate: 10368000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2104061342852272128/vid/avc1/1080x1920/41H_co1iJcTsMzU4.mp4
+  images: []
+investigation: charlie_kirk
+added_date: '2026-09-27'
+temp_file: false
+video_file: videos/2104061551200100588.mp4
+video_cid: QmaHqNqy3CdhtQZ6pYeVnZP3pQaPHHPKs8GGitx2zoVSfE
+transcription: videos_transcription/2104061551200100588.md

@@ -1,0 +1,60 @@
+Tyler Robinson Search Warrant Affidavits — attachment PDF URLs
+Source page: https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits (HTTP 200)
+Extracted 2026-08-31. NOT DOWNLOADED BY THIS LANE — these are search-warrant
+affidavits, which belong to the filings lane. Every one is a direct-download PDF
+with no login. Substack returns HTTP 429 on rapid requests: space them >= 4s apart.
+==============================================================================
+
+ 1. https://andreaburkhart.substack.com/api/v1/file/2d8ee534-c65f-49ac-9e72-58a2a18ecb57.pdf
+ 2. https://andreaburkhart.substack.com/api/v1/file/c44c77df-0a59-4b0c-91b2-28fe6b001ff3.pdf
+ 3. https://andreaburkhart.substack.com/api/v1/file/adcaff1e-7209-4d20-99b0-70008c13a471.pdf
+ 4. https://andreaburkhart.substack.com/api/v1/file/5d709c6c-9fcd-471b-aab1-5c9c17d5730b.pdf
+ 5. https://andreaburkhart.substack.com/api/v1/file/3cdc4b19-f5b4-4eec-856d-c08d91168a48.pdf
+ 6. https://andreaburkhart.substack.com/api/v1/file/68d949c6-1a45-4f73-b63b-135d63e38a73.pdf
+ 7. https://andreaburkhart.substack.com/api/v1/file/6185199b-ca77-4493-8d90-0786a9b782b3.pdf
+ 8. https://andreaburkhart.substack.com/api/v1/file/50783540-723f-4b63-9543-b20193abe294.pdf
+ 9. https://andreaburkhart.substack.com/api/v1/file/071c80a5-4be8-4c0a-bf57-f86ad5d73c57.pdf
+10. https://andreaburkhart.substack.com/api/v1/file/b8319c9c-bbc2-49a4-9b60-3211c4ac9a08.pdf
+11. https://andreaburkhart.substack.com/api/v1/file/0625b69f-96be-4bfb-9142-ebfaa98cc554.pdf
+12. https://andreaburkhart.substack.com/api/v1/file/61223d32-08b6-4894-8781-51683019cfb0.pdf
+13. https://andreaburkhart.substack.com/api/v1/file/bd538366-9d80-462e-84e9-9f4ea6c7f24a.pdf
+14. https://andreaburkhart.substack.com/api/v1/file/d9e9148a-bdf7-44e6-8f80-0d40540c701e.pdf
+15. https://andreaburkhart.substack.com/api/v1/file/44b1d4ea-44a7-4351-b334-e3cc2b6e94ff.pdf
+16. https://andreaburkhart.substack.com/api/v1/file/57c7ee06-2868-4808-b02c-f0106727f98d.pdf
+17. https://andreaburkhart.substack.com/api/v1/file/645cabb4-6099-4424-b5be-595a0141ba15.pdf
+18. https://andreaburkhart.substack.com/api/v1/file/8de95ec3-b647-4b58-a2c6-0ffb8346dbb0.pdf
+19. https://andreaburkhart.substack.com/api/v1/file/62471fe9-5242-4428-8fc5-d130416110e2.pdf
+20. https://andreaburkhart.substack.com/api/v1/file/dcb5c9c9-8131-440f-ba00-359480228c80.pdf
+21. https://andreaburkhart.substack.com/api/v1/file/6fcac1a9-9f0d-4707-a784-66ed40c401cb.pdf
+22. https://andreaburkhart.substack.com/api/v1/file/250a9160-6916-4844-bb3a-891261055db3.pdf
+23. https://andreaburkhart.substack.com/api/v1/file/d96858e7-3ba9-4188-9fec-7bf32c6cd9ad.pdf
+24. https://andreaburkhart.substack.com/api/v1/file/bb8744c3-f9c2-4e92-b148-51a170bf6f54.pdf
+25. https://andreaburkhart.substack.com/api/v1/file/bc7fb6a7-b8f4-404e-ae72-1934189beed7.pdf
+
+
+Filename labels found on the page (order not guaranteed to match the URL list):
+  - https://andreaburkhart.substack.com/api/v1/file/2d8ee534-c65f-49ac-9e72-58a2a18ecb57.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/c44c77df-0a59-4b0c-91b2-28fe6b001ff3.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/adcaff1e-7209-4d20-99b0-70008c13a471.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/5d709c6c-9fcd-471b-aab1-5c9c17d5730b.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/3cdc4b19-f5b4-4eec-856d-c08d91168a48.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/68d949c6-1a45-4f73-b63b-135d63e38a73.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/6185199b-ca77-4493-8d90-0786a9b782b3.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/50783540-723f-4b63-9543-b20193abe294.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/071c80a5-4be8-4c0a-bf57-f86ad5d73c57.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/b8319c9c-bbc2-49a4-9b60-3211c4ac9a08.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/0625b69f-96be-4bfb-9142-ebfaa98cc554.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/61223d32-08b6-4894-8781-51683019cfb0.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/bd538366-9d80-462e-84e9-9f4ea6c7f24a.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/d9e9148a-bdf7-44e6-8f80-0d40540c701e.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/44b1d4ea-44a7-4351-b334-e3cc2b6e94ff.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/57c7ee06-2868-4808-b02c-f0106727f98d.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/645cabb4-6099-4424-b5be-595a0141ba15.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/8de95ec3-b647-4b58-a2c6-0ffb8346dbb0.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/62471fe9-5242-4428-8fc5-d130416110e2.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/dcb5c9c9-8131-440f-ba00-359480228c80.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/6fcac1a9-9f0d-4707-a784-66ed40c401cb.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/250a9160-6916-4844-bb3a-891261055db3.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/d96858e7-3ba9-4188-9fec-7bf32c6cd9ad.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/bb8744c3-f9c2-4e92-b148-51a170bf6f54.pdf
+  - https://andreaburkhart.substack.com/api/v1/file/bc7fb6a7-b8f4-404e-ae72-1934189beed7.pdf

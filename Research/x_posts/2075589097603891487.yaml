@@ -1,0 +1,48 @@
+id: '2075589097603891487'
+url: 'https://x.com/SwordTruth/status/2075589097603891487'
+author:
+  username: 'SwordTruth'
+  name: 'Sword Truth'
+  id: '1585763035016097792'
+text: |
+  On September 17 and 18, 2024, Israel conducted a covert operation, nicknamed Operation Grim Beeper, in which thousands of pagers and hundreds of walkie-talkies intended for Hezbollah exploded simultaneously across Lebanon and Syria.  The attack was carried out by Mossad, which infiltrated the supply chain of Taiwanese manufacturer Gold Apollo to embed PETN plastic explosives and flammable detonators inside the devices' batteries. Maybe Charlie Kirk was killed by a bullet but it sure as hell wasn't a 30-06. One man killed by a bullet? That's child's play for Mossad.
+created_at: '2026-07-10T14:32:58.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 14
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 557
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2075588465723604992'
+      local_file: 'images/2075589097603891487_1.jpg'
+      ipfs_cid: 'Qma5otmM27fCtHYq9h2NyKrWdpdGSyMBDbBnApPhpRraNW'
+      width: 500
+      height: 333
+      description: 'Charred remains of an exploded pager device (Sept 2024 pager attack).'
+      published_public: true
+    - type: photo
+      media_key: '3_2075589079711006720'
+      local_file: 'images/2075589097603891487_2.jpg'
+      ipfs_cid: 'QmURhtruc4kvwjsYnyVY1zp1UZehyR35dzEw2CeTn9Z9TS'
+      width: 1118
+      height: 630
+      description: '"The Last 60 Days of Charlie Kirk" circulated infographic timeline.'
+      published_public: true
+    - type: photo
+      media_key: '3_2075588465673261056'
+      local_file: 'images/2075589097603891487_3.jpg'
+      ipfs_cid: 'Qma4Gg6XQpgL2rg63WrabfHTsHNSsAh4RqAWExrbCme4qj'
+      width: 680
+      height: 647
+      description: 'Fabricated bribe meme with invented $150M quote on figures resembling Kirk, Erika Kirk, Netanyahu.'
+      published_public: true
+ocr_text: |
+  [Image 2] The Last 60 Days of Charlie Kirk — timeline July 11 to September 10 infographic.
+investigation: 'charlie_kirk'
+added_date: '2026-07-10'
+temp_file: false

@@ -1,0 +1,55 @@
+id: '2082763349436346477'
+url: 'https://x.com/YinYang18175500/status/2082763349436346477'
+author:
+  username: 'YinYang18175500'
+  name: 'Linda R'
+  id: '1089009923986518018'
+text: |
+  @aburkhartlaw I was going through some screenshots from September 10th, do you know if this dude was interrogated? Probably a friend of TR's?
+created_at: '2026-07-30T09:40:53.000Z'
+lang: 'en'
+in_reply_to: 'https://x.com/aburkhartlaw/status/2082616890149789847'
+conversation_id: '2082615978207445283'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 0
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 135
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2082763318843015168'
+      url: 'https://pbs.twimg.com/media/HOd2NBraAAAcAqI.jpg'
+      width: 1153
+      height: 2048
+      local_file_original: 'images/2082763349436346477_1.jpg'
+      local_file_published: 'images/2082763349436346477_1_redacted.jpg'
+      sha256_original: '95017156a8114d8ec482b94721d3f4d86e781014b8c546821ec5b7b2d4594728'
+      sha256_published: '179ab157c440120d2edd52aafb2f35f98a4463c4c94ff164702fe7a078ef863b'
+      ipfs_cid_published: 'QmeKWYcNmcbzZoBcEqWbjysBrg6VxkrW9soWFud8RoPiha'
+      original_pinned: false
+ocr_text: |
+  September 10, 2025 9:53 PM  (screenshot capture time)
+
+  "Charlie kirk is coming to my college tomorrow i rlly hope someone evaporates him literally"
+  12:37 PM - Sep 9, 2025 - 62 Views
+
+  "Lets just say something big will happen tomorrow"
+  Sep 9, with attached reaction image
+redaction:
+  applied: true
+  reason: 'Screenshot identifies a private individual by display name and handle alongside content that could be read as a threat or foreknowledge. No charge, no accusation by any authority, no evidence of any connection to Tyler Robinson.'
+  fields_redacted: ['display_name', 'handle', 'avatar']
+  private_identity:
+    display_name: 'Omar'
+    handle: '@NajraGalvz'
+    note: 'PRIVATE — never publish. Kept for record completeness only.'
+site_pages:
+  - 'site/docs/Suspicious/Pre_Event_Posts/overview.mdx'
+  - 'site/docs/Suspicious/Pre_Event_Posts/uninterviewed-student-poster.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false

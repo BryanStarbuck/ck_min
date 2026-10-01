@@ -1,0 +1,1623 @@
+{
+  "assessed_pages": 1674,
+  "skipped_mediaish": 2354,
+  "already_have_chart": 13,
+  "already_sample": [
+    "Charlie/Text_Messages/kill-me-13-donor-executed-tomorrow.mdx",
+    "Charlie/Text_Messages/kill-me-02-harrison-smith-report.mdx",
+    "Charlie/Text_Messages/kill-me-11-the-left-will-kill-me.mdx",
+    "Charlie/Text_Messages/kill-me-12-sept-9-security-exchange.mdx",
+    "Charlie/Text_Messages/kill-me-05-turek-want-me-dead.mdx",
+    "Charlie/Text_Messages/kill-me-04-go-against-israel.mdx",
+    "Charlie/Text_Messages/kill-me-09-three-people-warned.mdx",
+    "Charlie/Text_Messages/kill-me-10-flood-executed-tomorrow.mdx",
+    "Charlie/Text_Messages/kill-me-01-wiped-out.mdx",
+    "Charlie/Text_Messages/kill-me-03-break-away-pro-israel.mdx",
+    "Charlie/Text_Messages/kill-me-07-sept-9-all-caps.mdx",
+    "Charlie/Text_Messages/kill-me-06-worried-israel-kill-me.mdx",
+    "Charlie/Text_Messages/kill-me-08-kolvet-they-will-kill-me.mdx"
+  ],
+  "candidates": [
+    {
+      "path": "Charlie/Text_Messages/they-are-going-to-kill-me.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/they-are-going-to-kill-me.mdx",
+      "score": 23,
+      "title": "They Are Going to Kill Me Texts",
+      "date_hits": 34,
+      "event_hits": 43
+    },
+    {
+      "path": "Charlie/Text_Messages/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/overview.mdx",
+      "score": 23,
+      "title": "Charlie",
+      "date_hits": 10,
+      "event_hits": 19
+    },
+    {
+      "path": "Planes/Sept10-Flight-Timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Sept10-Flight-Timeline.mdx",
+      "score": 20,
+      "title": "September 10 Flight Timeline",
+      "date_hits": 24,
+      "event_hits": 20
+    },
+    {
+      "path": "Planes/Following-Charlie-Erika.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Following-Charlie-Erika.mdx",
+      "score": 20,
+      "title": "Planes Following Charlie or Erika",
+      "date_hits": 25,
+      "event_hits": 28
+    },
+    {
+      "path": "Charlie/Pre_Event_Timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Pre_Event_Timeline.mdx",
+      "score": 20,
+      "title": "Pre-Event Timeline",
+      "date_hits": 36,
+      "event_hits": 15
+    },
+    {
+      "path": "Medical/Death_Timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/Death_Timeline.mdx",
+      "score": 20,
+      "title": "Death Timeline \u2014 Shot to Pronouncement",
+      "date_hits": 21,
+      "event_hits": 12
+    },
+    {
+      "path": "Timeline/Tyler_Robinson.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Tyler_Robinson.mdx",
+      "score": 20,
+      "title": "Tyler Robinson Timeline",
+      "date_hits": 83,
+      "event_hits": 72
+    },
+    {
+      "path": "Timeline/Charlie_Kirk.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Charlie_Kirk.mdx",
+      "score": 20,
+      "title": "Charlie Kirk Timeline",
+      "date_hits": 79,
+      "event_hits": 27
+    },
+    {
+      "path": "Timeline/Tyler_Robinson/Affidavit_Probable_Cause.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Tyler_Robinson/Affidavit_Probable_Cause.mdx",
+      "score": 20,
+      "title": "Affidavit of Probable Cause",
+      "date_hits": 66,
+      "event_hits": 36
+    },
+    {
+      "path": "Timeline/Tyler_Robinson/Mirandizing.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Tyler_Robinson/Mirandizing.mdx",
+      "score": 20,
+      "title": "Mirandizing of Tyler Robinson",
+      "date_hits": 81,
+      "event_hits": 54
+    },
+    {
+      "path": "Timeline/Tyler_Robinson/2025_Sept.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Tyler_Robinson/2025_Sept.mdx",
+      "score": 20,
+      "title": "Tyler Robinson: Sept 8\u201313",
+      "date_hits": 92,
+      "event_hits": 66
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/Other_Fear_Channels/sept-9-kill-me-cluster.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Other_Fear_Channels/sept-9-kill-me-cluster.mdx",
+      "score": 20,
+      "title": "September 9 Kill-Me Cluster",
+      "date_hits": 15,
+      "event_hits": 12
+    },
+    {
+      "path": "Charlie/Text_Messages/leave-pro-israel-whatsapp.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/leave-pro-israel-whatsapp.mdx",
+      "score": 19,
+      "title": "Leave Pro-Israel WhatsApp Chat",
+      "date_hits": 8,
+      "event_hits": 5
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_13_Break_Away/break-away-quote.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_13_Break_Away/break-away-quote.mdx",
+      "score": 18,
+      "title": "\\",
+      "date_hits": 8,
+      "event_hits": 9
+    },
+    {
+      "path": "Proof_Intel_Services/N1098L_HADES_Over_UVU.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Intel_Services/N1098L_HADES_Over_UVU.mdx",
+      "score": 17,
+      "title": "N1098L HADES Over UVU",
+      "date_hits": 10,
+      "event_hits": 23
+    },
+    {
+      "path": "Security_Team/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/overview.mdx",
+      "score": 17,
+      "title": "Security Team",
+      "date_hits": 8,
+      "event_hits": 20
+    },
+    {
+      "path": "Security_Team/perimeter-rooftop-failures.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/perimeter-rooftop-failures.mdx",
+      "score": 17,
+      "title": "Perimeter & Rooftop Failures",
+      "date_hits": 8,
+      "event_hits": 38
+    },
+    {
+      "path": "Security_Team/next-event-no-plan.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/next-event-no-plan.mdx",
+      "score": 17,
+      "title": "The Next Event Had No Security Plan",
+      "date_hits": 18,
+      "event_hits": 18
+    },
+    {
+      "path": "Planes/Casket-Flight.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Casket-Flight.mdx",
+      "score": 17,
+      "title": "Air Force Two Casket Flight",
+      "date_hits": 20,
+      "event_hits": 49
+    },
+    {
+      "path": "Planes/N40JD.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N40JD/overview.mdx",
+      "score": 17,
+      "title": "N40JD Provo Arrival",
+      "date_hits": 17,
+      "event_hits": 36
+    },
+    {
+      "path": "Planes/N888KG.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N888KG/overview.mdx",
+      "score": 17,
+      "title": "N888KG Provo Vanish",
+      "date_hits": 17,
+      "event_hits": 56
+    },
+    {
+      "path": "Planes/Israel-Planes.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Israel-Planes.mdx",
+      "score": 17,
+      "title": "Israel Planes",
+      "date_hits": 11,
+      "event_hits": 31
+    },
+    {
+      "path": "Planes/99-0004-Vance.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/99-0004-Vance/overview.mdx",
+      "score": 17,
+      "title": "99-0004 Vance Flight",
+      "date_hits": 17,
+      "event_hits": 50
+    },
+    {
+      "path": "Planes/Planes_Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Planes_Investigation_Index.mdx",
+      "score": 17,
+      "title": "Planes Investigation Index",
+      "date_hits": 19,
+      "event_hits": 22
+    },
+    {
+      "path": "Planes/SU-BTT.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTT/overview.mdx",
+      "score": 17,
+      "title": "SU-BTT Israel/Egyptian Jet",
+      "date_hits": 47,
+      "event_hits": 84
+    },
+    {
+      "path": "Planes/SU-BTU.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTU/overview.mdx",
+      "score": 17,
+      "title": "SU-BTU Israel/Egyptian Jet",
+      "date_hits": 12,
+      "event_hits": 23
+    },
+    {
+      "path": "Planes/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/overview.mdx",
+      "score": 17,
+      "title": "Planes",
+      "date_hits": 20,
+      "event_hits": 47
+    },
+    {
+      "path": "Planes/N55906.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N55906/overview.mdx",
+      "score": 17,
+      "title": "N55906 Cullen Flight",
+      "date_hits": 11,
+      "event_hits": 29
+    },
+    {
+      "path": "Planes/N59906.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N59906/overview.mdx",
+      "score": 17,
+      "title": "N59906 MARC Survey Plane",
+      "date_hits": 19,
+      "event_hits": 52
+    },
+    {
+      "path": "Planes/SU-BTV.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BTV/overview.mdx",
+      "score": 17,
+      "title": "SU-BTV Israel/Egyptian Jet",
+      "date_hits": 10,
+      "event_hits": 31
+    },
+    {
+      "path": "Planes/N560TW.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N560TW/overview.mdx",
+      "score": 17,
+      "title": "N560TW Scottsdale Jet",
+      "date_hits": 18,
+      "event_hits": 33
+    },
+    {
+      "path": "Planes/N872RA.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N872RA/overview.mdx",
+      "score": 17,
+      "title": "N872RA Provo Arrival",
+      "date_hits": 23,
+      "event_hits": 27
+    },
+    {
+      "path": "Planes/SAM-99-0404.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SAM-99-0404/overview.mdx",
+      "score": 17,
+      "title": "SAM 99-0404 Flight",
+      "date_hits": 25,
+      "event_hits": 39
+    },
+    {
+      "path": "Planes/SAM-650.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SAM-650/overview.mdx",
+      "score": 17,
+      "title": "SAM650 Flight",
+      "date_hits": 18,
+      "event_hits": 34
+    },
+    {
+      "path": "Planes/SAM-112.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SAM-112/overview.mdx",
+      "score": 17,
+      "title": "SAM-112 Flight",
+      "date_hits": 12,
+      "event_hits": 49
+    },
+    {
+      "path": "Planes/ISR-Operations.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/ISR-Operations.mdx",
+      "score": 17,
+      "title": "ISR Program Context",
+      "date_hits": 19,
+      "event_hits": 38
+    },
+    {
+      "path": "Planes/N582MM.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N582MM/overview.mdx",
+      "score": 17,
+      "title": "N582MM TPUSA Aircraft",
+      "date_hits": 16,
+      "event_hits": 25
+    },
+    {
+      "path": "Planes/SAM-702.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SAM-702/overview.mdx",
+      "score": 17,
+      "title": "SAM702 Flight",
+      "date_hits": 27,
+      "event_hits": 53
+    },
+    {
+      "path": "Planes/SU-BGM.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BGM/overview.mdx",
+      "score": 17,
+      "title": "SU-BGM Israel/Egyptian Jet",
+      "date_hits": 11,
+      "event_hits": 31
+    },
+    {
+      "path": "Planes/Airport-Roland-Wright-ANGB.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Airport-Roland-Wright-ANGB.mdx",
+      "score": 17,
+      "title": "Roland R. Wright Air National Guard Base",
+      "date_hits": 20,
+      "event_hits": 30
+    },
+    {
+      "path": "Planes/N102DZ.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N102DZ/overview.mdx",
+      "score": 17,
+      "title": "N102DZ Kirk",
+      "date_hits": 27,
+      "event_hits": 42
+    },
+    {
+      "path": "Planes/N2100L.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N2100L/overview.mdx",
+      "score": 17,
+      "title": "N2100L LASAI Sister Ship",
+      "date_hits": 17,
+      "event_hits": 34
+    },
+    {
+      "path": "Planes/Airport-Joint-Base-Andrews.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Airport-Joint-Base-Andrews.mdx",
+      "score": 17,
+      "title": "Joint Base Andrews (KADW)",
+      "date_hits": 23,
+      "event_hits": 37
+    },
+    {
+      "path": "Planes/Airport-Biggs-Army-Airfield.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Airport-Biggs-Army-Airfield.mdx",
+      "score": 17,
+      "title": "Biggs Army Airfield (KBIF)",
+      "date_hits": 16,
+      "event_hits": 47
+    },
+    {
+      "path": "Planes/SU-BND.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SU-BND/overview.mdx",
+      "score": 17,
+      "title": "SU-BND Blue Plane",
+      "date_hits": 35,
+      "event_hits": 77
+    },
+    {
+      "path": "Planes/Pilatus-PC-12.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Pilatus-PC-12/overview.mdx",
+      "score": 17,
+      "title": "Pilatus PC-12 (Unconfirmed)",
+      "date_hits": 13,
+      "event_hits": 17
+    },
+    {
+      "path": "Planes/SAM-000.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/SAM-000/overview.mdx",
+      "score": 17,
+      "title": "SAM-000 Flight",
+      "date_hits": 10,
+      "event_hits": 42
+    },
+    {
+      "path": "Messages/sept-9-they-are-going-to-kill-me.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Messages/sept-9-they-are-going-to-kill-me.mdx",
+      "score": 17,
+      "title": "September 9 \u2014 \\",
+      "date_hits": 15,
+      "event_hits": 15
+    },
+    {
+      "path": "Tyler_Robinson/Tyler_9_10_2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Tyler_9_10_2025.mdx",
+      "score": 17,
+      "title": "Tyler Robinson on September 10, 2025",
+      "date_hits": 26,
+      "event_hits": 17
+    },
+    {
+      "path": "Tyler_Robinson/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/overview.mdx",
+      "score": 17,
+      "title": "Tyler Robinson",
+      "date_hits": 14,
+      "event_hits": 26
+    },
+    {
+      "path": "Tyler_Robinson/Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Investigation_Index.mdx",
+      "score": 17,
+      "title": "Tyler Robinson Investigation Index",
+      "date_hits": 19,
+      "event_hits": 14
+    },
+    {
+      "path": "Tyler_Robinson/Surrender.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Surrender.mdx",
+      "score": 17,
+      "title": "Tyler Robinson Surrender \u2014 September 11",
+      "date_hits": 19,
+      "event_hits": 23
+    },
+    {
+      "path": "Topic-Analyses/September_10_Event_Timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Topic-Analyses/September_10_Event_Timeline.mdx",
+      "score": 17,
+      "title": "September 10, 2025: Day-of Event Timeline",
+      "date_hits": 28,
+      "event_hits": 24
+    },
+    {
+      "path": "cameras/UVU_Surveillance.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/cameras/UVU_Surveillance.mdx",
+      "score": 17,
+      "title": "UVU Campus Surveillance",
+      "date_hits": 12,
+      "event_hits": 18
+    },
+    {
+      "path": "CoverUp/Rooftop_Video_Trimmed.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/CoverUp/Rooftop_Video_Trimmed.mdx",
+      "score": 17,
+      "title": "Rooftop-View Video Reportedly Trimmed and Withheld (Claims)",
+      "date_hits": 16,
+      "event_hits": 17
+    },
+    {
+      "path": "Tent/Paving_Timeline_Sept_14.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tent/Paving_Timeline_Sept_14.mdx",
+      "score": 17,
+      "title": "Paving Timeline \u2014 September 14",
+      "date_hits": 28,
+      "event_hits": 16
+    },
+    {
+      "path": "Tent/Dirt_Removed_Before_Pavers.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tent/Dirt_Removed_Before_Pavers.mdx",
+      "score": 17,
+      "title": "10 Inches of Dirt Removed Before the Pavers",
+      "date_hits": 24,
+      "event_hits": 17
+    },
+    {
+      "path": "Charlie/Charlie_Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Charlie_Investigation_Index.mdx",
+      "score": 17,
+      "title": "Charlie Investigation Index",
+      "date_hits": 13,
+      "event_hits": 12
+    },
+    {
+      "path": "Charlie/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/overview.mdx",
+      "score": 17,
+      "title": "Charlie Kirk",
+      "date_hits": 13,
+      "event_hits": 28
+    },
+    {
+      "path": "Charlie/Reported_Quotes_and_Warnings.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Reported_Quotes_and_Warnings.mdx",
+      "score": 17,
+      "title": "Reported Quotes and Warnings",
+      "date_hits": 22,
+      "event_hits": 31
+    },
+    {
+      "path": "Charlie/Groyper_Wars.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Groyper_Wars.mdx",
+      "score": 17,
+      "title": "Groyper Wars",
+      "date_hits": 10,
+      "event_hits": 26
+    },
+    {
+      "path": "UVU/UVU_Social_Media_Response.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU_Social_Media_Response.mdx",
+      "score": 17,
+      "title": "UVU Social Media and Public Statements",
+      "date_hits": 15,
+      "event_hits": 24
+    },
+    {
+      "path": "UVU/CIA-UVU-Profiles.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/CIA-UVU-Profiles.mdx",
+      "score": 17,
+      "title": "CIA-Linked UVU Profiles (Claims)",
+      "date_hits": 10,
+      "event_hits": 27
+    },
+    {
+      "path": "UVU/Losee_Center.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Losee_Center.mdx",
+      "score": 17,
+      "title": "Losee Center (Alleged Sniper Rooftop)",
+      "date_hits": 25,
+      "event_hits": 55
+    },
+    {
+      "path": "UVU/maps.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/maps.mdx",
+      "score": 17,
+      "title": "UVU Campus Maps",
+      "date_hits": 11,
+      "event_hits": 31
+    },
+    {
+      "path": "UVU/Campus_Security_Gaps.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Campus_Security_Gaps.mdx",
+      "score": 17,
+      "title": "UVU Campus Security Gaps on September 10",
+      "date_hits": 11,
+      "event_hits": 33
+    },
+    {
+      "path": "UVU/UVU_Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU_Investigation_Index.mdx",
+      "score": 17,
+      "title": "UVU Investigation Index",
+      "date_hits": 18,
+      "event_hits": 25
+    },
+    {
+      "path": "UVU/pre-shooting-warnings.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/pre-shooting-warnings.mdx",
+      "score": 17,
+      "title": "Pre-Shooting Warnings: Two Men Contacted UVU the Night Before",
+      "date_hits": 23,
+      "event_hits": 24
+    },
+    {
+      "path": "Israel_Main_Suspect/charlie-said-israel-would-kill-him.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/charlie-said-israel-would-kill-him.mdx",
+      "score": 17,
+      "title": "Charlie Said Israel Would Kill Him",
+      "date_hits": 35,
+      "event_hits": 42
+    },
+    {
+      "path": "Israel_Main_Suspect/more-israel.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/more-israel.mdx",
+      "score": 17,
+      "title": "More on Israel & 9/10",
+      "date_hits": 8,
+      "event_hits": 15
+    },
+    {
+      "path": "Israel_Main_Suspect/israel-intel-flights-uvu.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/israel-intel-flights-uvu.mdx",
+      "score": 17,
+      "title": "Israel Intel Flights & UVU",
+      "date_hits": 31,
+      "event_hits": 86
+    },
+    {
+      "path": "Israel_Main_Suspect/control-college-campuses.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-college-campuses.mdx",
+      "score": 17,
+      "title": "Israel Needed Control Over College Campuses",
+      "date_hits": 20,
+      "event_hits": 23
+    },
+    {
+      "path": "Locations/Public-Speaking-Event-UVU.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Locations/Public-Speaking-Event-UVU.mdx",
+      "score": 17,
+      "title": "UVU Public Speaking Event (September 10, 2025)",
+      "date_hits": 12,
+      "event_hits": 29
+    },
+    {
+      "path": "Medical/charlie_trip_to_hospital.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/charlie_trip_to_hospital.mdx",
+      "score": 17,
+      "title": "Charlie Trip to Hospital",
+      "date_hits": 26,
+      "event_hits": 16
+    },
+    {
+      "path": "Before/Political_Pressure_And_Meetings_2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/Political_Pressure_And_Meetings_2025.mdx",
+      "score": 17,
+      "title": "2025 Political Pressure and Key Meetings Before UVU (Claims)",
+      "date_hits": 34,
+      "event_hits": 23
+    },
+    {
+      "path": "Before/Free-Speech-Campus-Issues.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/Free-Speech-Campus-Issues.mdx",
+      "score": 17,
+      "title": "Free Speech and Campus Event Context",
+      "date_hits": 14,
+      "event_hits": 16
+    },
+    {
+      "path": "Roof/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Roof/overview.mdx",
+      "score": 17,
+      "title": "Roof",
+      "date_hits": 12,
+      "event_hits": 12
+    },
+    {
+      "path": "Roof/roof-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Roof/roof-timeline.mdx",
+      "score": 17,
+      "title": "Roof Timeline \u2014 September 10, 2025",
+      "date_hits": 31,
+      "event_hits": 13
+    },
+    {
+      "path": "After/Sept_11_Surrender_And_Custody.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/After/Sept_11_Surrender_And_Custody.mdx",
+      "score": 17,
+      "title": "Sept 11 Surrender and Custody Timeline",
+      "date_hits": 25,
+      "event_hits": 33
+    },
+    {
+      "path": "After/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/After/overview.mdx",
+      "score": 17,
+      "title": "After Events",
+      "date_hits": 11,
+      "event_hits": 16
+    },
+    {
+      "path": "After/Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/After/Investigation_Index.mdx",
+      "score": 17,
+      "title": "After Investigation Index",
+      "date_hits": 15,
+      "event_hits": 19
+    },
+    {
+      "path": "After/Institutional_Resignations.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/After/Institutional_Resignations.mdx",
+      "score": 17,
+      "title": "Institutional Resignations After the Shooting",
+      "date_hits": 17,
+      "event_hits": 41
+    },
+    {
+      "path": "Killer/israel-mossad.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Killer/israel-mossad.mdx",
+      "score": 17,
+      "title": "Theory: Israel / Mossad",
+      "date_hits": 13,
+      "event_hits": 15
+    },
+    {
+      "path": "Timeline/dispatch-radio-scanner-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/dispatch-radio-scanner-timeline.mdx",
+      "score": 17,
+      "title": "Dispatch, Police Radio & Scanner Timeline \u2014 September 10",
+      "date_hits": 46,
+      "event_hits": 21
+    },
+    {
+      "path": "Timeline/they-are-going-to-kill-me-text.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/they-are-going-to-kill-me-text.mdx",
+      "score": 17,
+      "title": "\\",
+      "date_hits": 45,
+      "event_hits": 51
+    },
+    {
+      "path": "Timeline/custody-surrender-mirandizing-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/custody-surrender-mirandizing-timeline.mdx",
+      "score": 17,
+      "title": "Custody, Surrender & Mirandizing Timeline (September 11\u201312)",
+      "date_hits": 78,
+      "event_hits": 59
+    },
+    {
+      "path": "Timeline/distraction-events-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/distraction-events-timeline.mdx",
+      "score": 17,
+      "title": "Distraction Events Timeline \u2014 September 10\u201311",
+      "date_hits": 41,
+      "event_hits": 28
+    },
+    {
+      "path": "Timeline/funeral-memorial-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/funeral-memorial-timeline.mdx",
+      "score": 17,
+      "title": "Funeral, Memorial & Immediate Aftermath Timeline",
+      "date_hits": 63,
+      "event_hits": 39
+    },
+    {
+      "path": "Timeline/shooting-minute-by-minute.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/shooting-minute-by-minute.mdx",
+      "score": 17,
+      "title": "The Shooting: 12:23 PM MDT Minute-by-Minute Timeline",
+      "date_hits": 63,
+      "event_hits": 49
+    },
+    {
+      "path": "Timeline/censorship-information-control-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/censorship-information-control-timeline.mdx",
+      "score": 17,
+      "title": "Censorship, Platform Activity & Information Control Timeline",
+      "date_hits": 35,
+      "event_hits": 31
+    },
+    {
+      "path": "Timeline/years.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/years.mdx",
+      "score": 17,
+      "title": "Timeline by Year",
+      "date_hits": 95,
+      "event_hits": 50
+    },
+    {
+      "path": "Timeline/open-questions-gaps-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/open-questions-gaps-timeline.mdx",
+      "score": 17,
+      "title": "Open Questions, Unresolved Gaps & Missing Records Timeline",
+      "date_hits": 72,
+      "event_hits": 54
+    },
+    {
+      "path": "Timeline/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/overview.mdx",
+      "score": 17,
+      "title": "Timeline Overview",
+      "date_hits": 104,
+      "event_hits": 66
+    },
+    {
+      "path": "Timeline/rental-cars-vehicle-movements-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/rental-cars-vehicle-movements-timeline.mdx",
+      "score": 17,
+      "title": "Rental Cars & Vehicle Movements Timeline",
+      "date_hits": 49,
+      "event_hits": 49
+    },
+    {
+      "path": "Timeline/arrest-booking-affidavit-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/arrest-booking-affidavit-timeline.mdx",
+      "score": 17,
+      "title": "Arrest, Booking & Probable Cause Affidavit Timeline",
+      "date_hits": 40,
+      "event_hits": 74
+    },
+    {
+      "path": "Timeline/cell-tower-phone-data-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/cell-tower-phone-data-timeline.mdx",
+      "score": 17,
+      "title": "Cell Tower, Phone Data & Movement Timeline (Claims)",
+      "date_hits": 50,
+      "event_hits": 17
+    },
+    {
+      "path": "Timeline/israel-events-pressure-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/israel-events-pressure-timeline.mdx",
+      "score": 17,
+      "title": "Israel-Related Events & Pressure Timeline 2025",
+      "date_hits": 73,
+      "event_hits": 26
+    },
+    {
+      "path": "Timeline/Investigation_Index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Investigation_Index.mdx",
+      "score": 17,
+      "title": "Timeline Investigation Index",
+      "date_hits": 153,
+      "event_hits": 53
+    },
+    {
+      "path": "Timeline/nebraska-army-base-july-20.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/nebraska-army-base-july-20.mdx",
+      "score": 17,
+      "title": "Nebraska Army Base Visit \u2014 SU-BTT (July 20, 2025, Claims)",
+      "date_hits": 30,
+      "event_hits": 14
+    },
+    {
+      "path": "Timeline/pre-event-political-pressure.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/pre-event-political-pressure.mdx",
+      "score": 17,
+      "title": "Pre-Event Political Pressure Timeline (July\u2013September 2025)",
+      "date_hits": 65,
+      "event_hits": 18
+    },
+    {
+      "path": "Timeline/su-btt-plane-movements-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/su-btt-plane-movements-timeline.mdx",
+      "score": 17,
+      "title": "SU-BTT Plane Movements Timeline 2025",
+      "date_hits": 76,
+      "event_hits": 77
+    },
+    {
+      "path": "Timeline/tyler-robinson-post-shot-escape.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/tyler-robinson-post-shot-escape.mdx",
+      "score": 17,
+      "title": "Tyler Robinson: Post-Shot Escape & Flight Timeline",
+      "date_hits": 51,
+      "event_hits": 56
+    },
+    {
+      "path": "Timeline/ten-minutes-before-shot.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/ten-minutes-before-shot.mdx",
+      "score": 17,
+      "title": "10 Minutes Before the Shot (12:13\u201312:23 PM MDT)",
+      "date_hits": 40,
+      "event_hits": 54
+    },
+    {
+      "path": "Timeline/foreign-leaders-meeting-july-20.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/foreign-leaders-meeting-july-20.mdx",
+      "score": 17,
+      "title": "Foreign Leaders Meeting on U.S. Soil (July 20, 2025, Claims)",
+      "date_hits": 30,
+      "event_hits": 12
+    },
+    {
+      "path": "Timeline/high-pressure-meeting-sept-9.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/high-pressure-meeting-sept-9.mdx",
+      "score": 17,
+      "title": "High-Pressure Meeting (September 9, 2025)",
+      "date_hits": 42,
+      "event_hits": 27
+    },
+    {
+      "path": "Timeline/custody-vs-discord-confession-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/custody-vs-discord-confession-timeline.mdx",
+      "score": 17,
+      "title": "6:25 PM Custody vs Discord Confession Timeline Conflict",
+      "date_hits": 56,
+      "event_hits": 37
+    },
+    {
+      "path": "Timeline/post-assassination-investigations.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/post-assassination-investigations.mdx",
+      "score": 17,
+      "title": "Post-Assassination Investigation Timeline",
+      "date_hits": 72,
+      "event_hits": 52
+    },
+    {
+      "path": "Timeline/witness-testimony-discrepancies.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/witness-testimony-discrepancies.mdx",
+      "score": 17,
+      "title": "Witness Testimony & Timeline Discrepancies",
+      "date_hits": 65,
+      "event_hits": 45
+    },
+    {
+      "path": "Timeline/kash-patel-manhunt-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/kash-patel-manhunt-timeline.mdx",
+      "score": 17,
+      "title": "Kash Patel Announcements & Manhunt Narrative Timeline",
+      "date_hits": 62,
+      "event_hits": 21
+    },
+    {
+      "path": "Timeline/media-vs-citizen-investigation-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/media-vs-citizen-investigation-timeline.mdx",
+      "score": 17,
+      "title": "Media Coverage vs Citizen Investigation Timeline",
+      "date_hits": 59,
+      "event_hits": 19
+    },
+    {
+      "path": "Timeline/ten-minutes-after-shot.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/ten-minutes-after-shot.mdx",
+      "score": 17,
+      "title": "Immediate Aftermath: 10 Minutes After the Shot (12:23\u201312:33 PM MDT)",
+      "date_hits": 56,
+      "event_hits": 43
+    },
+    {
+      "path": "Timeline/candace-owens-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/candace-owens-timeline.mdx",
+      "score": 17,
+      "title": "Candace Owens Public Statements & Releases Timeline",
+      "date_hits": 42,
+      "event_hits": 22
+    },
+    {
+      "path": "Timeline/press-conferences-statements-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/press-conferences-statements-timeline.mdx",
+      "score": 17,
+      "title": "Press Conferences & Official Statements Timeline",
+      "date_hits": 83,
+      "event_hits": 33
+    },
+    {
+      "path": "Timeline/medical-death-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/medical-death-timeline.mdx",
+      "score": 17,
+      "title": "Medical & Death Timeline \u2014 Shot to Pronouncement",
+      "date_hits": 47,
+      "event_hits": 35
+    },
+    {
+      "path": "Timeline/utah-officials-cox-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/utah-officials-cox-timeline.mdx",
+      "score": 17,
+      "title": "Spencer Cox, Utah Officials & Governor Timeline",
+      "date_hits": 44,
+      "event_hits": 44
+    },
+    {
+      "path": "Timeline/scene-changes-paving-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/scene-changes-paving-timeline.mdx",
+      "score": 17,
+      "title": "Post-Shooting Scene Changes, Paving & Evidence Handling Timeline",
+      "date_hits": 49,
+      "event_hits": 26
+    },
+    {
+      "path": "Timeline/n1098l-plane-activity-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/n1098l-plane-activity-timeline.mdx",
+      "score": 17,
+      "title": "N1098L (HADES) Plane Activity Timeline \u2014 Pre & Post Shot",
+      "date_hits": 46,
+      "event_hits": 75
+    },
+    {
+      "path": "Timeline/roof-jumping-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/roof-jumping-timeline.mdx",
+      "score": 17,
+      "title": "Roof Jumping Timeline (September 10, 2025)",
+      "date_hits": 54,
+      "event_hits": 39
+    },
+    {
+      "path": "Timeline/camera-sightings-tyler-robinson.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/camera-sightings-tyler-robinson.mdx",
+      "score": 17,
+      "title": "Surveillance Cameras: Tyler Robinson Sightings Timeline",
+      "date_hits": 48,
+      "event_hits": 32
+    },
+    {
+      "path": "Timeline/12-23-shooting-time.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/12-23-shooting-time.mdx",
+      "score": 17,
+      "title": "Shooting Time Disputes (12:23 vs 12:27 MDT)",
+      "date_hits": 88,
+      "event_hits": 71
+    },
+    {
+      "path": "Timeline/discovery-brady-evidence-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/discovery-brady-evidence-timeline.mdx",
+      "score": 17,
+      "title": "Discovery, Brady & Evidence Timeline (2025\u20132026)",
+      "date_hits": 35,
+      "event_hits": 23
+    },
+    {
+      "path": "Timeline/erika-kirk-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/erika-kirk-timeline.mdx",
+      "score": 17,
+      "title": "Erika Kirk: Events, Statements & Timeline",
+      "date_hits": 71,
+      "event_hits": 28
+    },
+    {
+      "path": "Timeline/Sept_8_to_13.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Sept_8_to_13.mdx",
+      "score": 17,
+      "title": "September 8\u201313, 2025: Full Timeline",
+      "date_hits": 111,
+      "event_hits": 96
+    },
+    {
+      "path": "Timeline/military-meeting-july-20.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/military-meeting-july-20.mdx",
+      "score": 17,
+      "title": "July 20, 2025 Military & Foreign-Leaders Meeting (Claims)",
+      "date_hits": 26,
+      "event_hits": 15
+    },
+    {
+      "path": "Timeline/2026.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/2026.mdx",
+      "score": 17,
+      "title": "Timeline 2026",
+      "date_hits": 41,
+      "event_hits": 24
+    },
+    {
+      "path": "Timeline/Year_2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Year_2025.mdx",
+      "score": 17,
+      "title": "2025 Context Timeline",
+      "date_hits": 142,
+      "event_hits": 40
+    },
+    {
+      "path": "Timeline/fbi-involvement-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/fbi-involvement-timeline.mdx",
+      "score": 17,
+      "title": "FBI Involvement & Announcements Timeline",
+      "date_hits": 56,
+      "event_hits": 21
+    },
+    {
+      "path": "Timeline/baron-coleman-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/baron-coleman-timeline.mdx",
+      "score": 17,
+      "title": "Baron Coleman Allegations & Timeline",
+      "date_hits": 47,
+      "event_hits": 24
+    },
+    {
+      "path": "Timeline/Year_2024.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Year_2024.mdx",
+      "score": 17,
+      "title": "2024 Pre-Event Timeline",
+      "date_hits": 35,
+      "event_hits": 18
+    },
+    {
+      "path": "Timeline/autopsy-forensic-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/autopsy-forensic-timeline.mdx",
+      "score": 17,
+      "title": "Autopsy, Forensic & Medical Examiner Timeline",
+      "date_hits": 43,
+      "event_hits": 68
+    },
+    {
+      "path": "Timeline/2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/2025.mdx",
+      "score": 17,
+      "title": "Timeline 2025",
+      "date_hits": 151,
+      "event_hits": 73
+    },
+    {
+      "path": "Timeline/Sept_10_2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/Sept_10_2025.mdx",
+      "score": 17,
+      "title": "September 10, 2025 \u2013 Day-of Timeline",
+      "date_hits": 81,
+      "event_hits": 61
+    },
+    {
+      "path": "Timeline/uvu-security-surveillance-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/uvu-security-surveillance-timeline.mdx",
+      "score": 17,
+      "title": "UVU Campus Security, Surveillance & Camera Timeline",
+      "date_hits": 38,
+      "event_hits": 58
+    },
+    {
+      "path": "Timeline/tyler-robinson-pre-shot-campus.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/tyler-robinson-pre-shot-campus.mdx",
+      "score": 17,
+      "title": "Tyler Robinson: Pre-Shot UVU Campus Movements Timeline",
+      "date_hits": 33,
+      "event_hits": 27
+    },
+    {
+      "path": "Timeline/october-15-2025.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/october-15-2025.mdx",
+      "score": 17,
+      "title": "October 15, 2025 \u2014 Post-Assassination Developments",
+      "date_hits": 17,
+      "event_hits": 12
+    },
+    {
+      "path": "Timeline/other-planes-activity-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/other-planes-activity-timeline.mdx",
+      "score": 17,
+      "title": "Other Planes Activity Timeline (N888KG, SAM Flights, Cluster)",
+      "date_hits": 83,
+      "event_hits": 90
+    },
+    {
+      "path": "Timeline/audio-acoustic-mic-timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/audio-acoustic-mic-timeline.mdx",
+      "score": 17,
+      "title": "Audio, Acoustic & Mic Timeline (Shot Timing & Analysis)",
+      "date_hits": 22,
+      "event_hits": 33
+    },
+    {
+      "path": "Tyler_Robinson_Not_Assassin/faked-confession.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/faked-confession.mdx",
+      "score": 17,
+      "title": "Faked Confession (by Powerful People)",
+      "date_hits": 21,
+      "event_hits": 18
+    },
+    {
+      "path": "Media/Media-Timeline-Compilation.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Media/Media-Timeline-Compilation.mdx",
+      "score": 17,
+      "title": "Media Timeline Compilation",
+      "date_hits": 46,
+      "event_hits": 16
+    },
+    {
+      "path": "Medical/Hospital/emergency_response.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/Hospital/emergency_response.mdx",
+      "score": 17,
+      "title": "Hospital and Emergency Response",
+      "date_hits": 9,
+      "event_hits": 12
+    },
+    {
+      "path": "Charlie/Text_Messages/erika-kirk-denial.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/erika-kirk-denial.mdx",
+      "score": 17,
+      "title": "Erika Kirk Phone Denial",
+      "date_hits": 4,
+      "event_hits": 8
+    },
+    {
+      "path": "Charlie/Text_Messages/dan-flood-security-texts.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Text_Messages/dan-flood-security-texts.mdx",
+      "score": 17,
+      "title": "Dan Flood Security Texts",
+      "date_hits": 2,
+      "event_hits": 18
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_13_Break_Away/viral-carriers-aug13.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_13_Break_Away/viral-carriers-aug13.mdx",
+      "score": 17,
+      "title": "Viral Carriers of the August Fear Quotes",
+      "date_hits": 16,
+      "event_hits": 7
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_16_Go_Against_Israel/go-against-israel-quote.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_16_Go_Against_Israel/go-against-israel-quote.mdx",
+      "score": 17,
+      "title": "\\",
+      "date_hits": 12,
+      "event_hits": 6
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/Other_Fear_Channels/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Other_Fear_Channels/overview.mdx",
+      "score": 17,
+      "title": "Other Fear Channels",
+      "date_hits": 10,
+      "event_hits": 6
+    },
+    {
+      "path": "Suspicious/UVU_9_10/ksl-chopper-screwdriver-absent.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/UVU_9_10/ksl-chopper-screwdriver-absent.mdx",
+      "score": 17,
+      "title": "KSL",
+      "date_hits": 10,
+      "event_hits": 23
+    },
+    {
+      "path": "Suspicious/UVU_9_10/stairs-guy-backpack.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/UVU_9_10/stairs-guy-backpack.mdx",
+      "score": 17,
+      "title": "Stairs Guy and the Backpack That Doesn",
+      "date_hits": 8,
+      "event_hits": 22
+    },
+    {
+      "path": "Planes/N1098L/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/N1098L/overview.mdx",
+      "score": 17,
+      "title": "N1098L Spy Plane",
+      "date_hits": 27,
+      "event_hits": 82
+    },
+    {
+      "path": "Proof_Not_Tyler/Discord_Custody_Timeline.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Not_Tyler/Discord_Custody_Timeline.mdx",
+      "score": 16,
+      "title": "Discord & Custody Timeline",
+      "date_hits": 15,
+      "event_hits": 10
+    },
+    {
+      "path": "Messages/erika-kirk-denial.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Messages/erika-kirk-denial.mdx",
+      "score": 16,
+      "title": "Erika Kirk",
+      "date_hits": 7,
+      "event_hits": 12
+    },
+    {
+      "path": "Messages/if-i-go-against-israel.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Messages/if-i-go-against-israel.mdx",
+      "score": 16,
+      "title": "\\",
+      "date_hits": 13,
+      "event_hits": 10
+    },
+    {
+      "path": "UVU/UVU-Institutional-Response.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU-Institutional-Response.mdx",
+      "score": 16,
+      "title": "UVU Institutional Response",
+      "date_hits": 7,
+      "event_hits": 32
+    },
+    {
+      "path": "UVU/UVU-Administration-Response.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU-Administration-Response.mdx",
+      "score": 16,
+      "title": "UVU Administration Response",
+      "date_hits": 14,
+      "event_hits": 10
+    },
+    {
+      "path": "UVU/UVU-Faculty-Statements.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU-Faculty-Statements.mdx",
+      "score": 16,
+      "title": "UVU Faculty Statements",
+      "date_hits": 9,
+      "event_hits": 10
+    },
+    {
+      "path": "UVU/UVU-Student-Reactions.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/UVU-Student-Reactions.mdx",
+      "score": 16,
+      "title": "UVU Student Reactions",
+      "date_hits": 7,
+      "event_hits": 17
+    },
+    {
+      "path": "Medical/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/overview.mdx",
+      "score": 16,
+      "title": "Medical",
+      "date_hits": 7,
+      "event_hits": 30
+    },
+    {
+      "path": "Medical/utah_autopsy_law_changes.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/utah_autopsy_law_changes.mdx",
+      "score": 16,
+      "title": "Utah Autopsy Law Changes",
+      "date_hits": 7,
+      "event_hits": 36
+    },
+    {
+      "path": "Before/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/overview.mdx",
+      "score": 16,
+      "title": "Before Events",
+      "date_hits": 16,
+      "event_hits": 11
+    },
+    {
+      "path": "Before/State-Department-Response.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/State-Department-Response.mdx",
+      "score": 16,
+      "title": "State Department and Diplomatic Response (Claims)",
+      "date_hits": 7,
+      "event_hits": 20
+    },
+    {
+      "path": "Before/Heightened-Political-Tensions.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/Heightened-Political-Tensions.mdx",
+      "score": 16,
+      "title": "Heightened Political Tensions Before UVU",
+      "date_hits": 19,
+      "event_hits": 10
+    },
+    {
+      "path": "After/Site_Changes_And_Crime_Scene_Handling.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/After/Site_Changes_And_Crime_Scene_Handling.mdx",
+      "score": 16,
+      "title": "Site Changes and Crime\u2011Scene Handling After the UVU Event (Claims)",
+      "date_hits": 7,
+      "event_hits": 18
+    },
+    {
+      "path": "Killer/tyler-robinson.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Killer/tyler-robinson.mdx",
+      "score": 16,
+      "title": "Theory: Tyler Robinson \u2014 Official Suspect",
+      "date_hits": 7,
+      "event_hits": 23
+    },
+    {
+      "path": "Tyler_Robinson_Not_Assassin/signs-of-cover-up.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson_Not_Assassin/signs-of-cover-up.mdx",
+      "score": 16,
+      "title": "Signs of Cover-Up",
+      "date_hits": 7,
+      "event_hits": 25
+    },
+    {
+      "path": "Topics3/Timeline/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Topics3/Timeline/overview.mdx",
+      "score": 16,
+      "title": "Timeline",
+      "date_hits": 16,
+      "event_hits": 10
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/overview.mdx",
+      "score": 16,
+      "title": "Fear & Kill Warnings",
+      "date_hits": 21,
+      "event_hits": 4
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_13_Break_Away/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_13_Break_Away/overview.mdx",
+      "score": 16,
+      "title": "August 13 \u2014 Break Away From Pro-Israel",
+      "date_hits": 15,
+      "event_hits": 4
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/x-stack-posts-48hrs.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/x-stack-posts-48hrs.mdx",
+      "score": 16,
+      "title": "X Stack Posts \u2014 48-Hour Clock",
+      "date_hits": 10,
+      "event_hits": 4
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/leave-pro-israel-cause-line.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/leave-pro-israel-cause-line.mdx",
+      "score": 16,
+      "title": "\\",
+      "date_hits": 8,
+      "event_hits": 4
+    },
+    {
+      "path": "TPUSA/TPUSA_Opposite_Charlie.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/TPUSA_Opposite_Charlie.mdx",
+      "score": 15,
+      "title": "Fourteen Ways TPUSA Went the Opposite Direction After Kirk",
+      "date_hits": 6,
+      "event_hits": 18
+    },
+    {
+      "path": "Planes/Egyptian-Crew-Hotel.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/Egyptian-Crew-Hotel.mdx",
+      "score": 15,
+      "title": "Egyptian Crew Hotel (Claims)",
+      "date_hits": 19,
+      "event_hits": 9
+    },
+    {
+      "path": "Planes/T7ELL-EJM36.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Planes/T7ELL-EJM36/overview.mdx",
+      "score": 15,
+      "title": "T7ELL & EJM36 (Flagged Tails)",
+      "date_hits": 10,
+      "event_hits": 9
+    },
+    {
+      "path": "Messages/message-to-dan-flood.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Messages/message-to-dan-flood.mdx",
+      "score": 15,
+      "title": "The Message to Dan Flood",
+      "date_hits": 6,
+      "event_hits": 15
+    },
+    {
+      "path": "Tyler_Robinson/Travel.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Travel.mdx",
+      "score": 15,
+      "title": "Tyler Robinson Travel",
+      "date_hits": 20,
+      "event_hits": 8
+    },
+    {
+      "path": "key_individuals/Medical_Legal_Periphery.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/key_individuals/Medical_Legal_Periphery.mdx",
+      "score": 15,
+      "title": "Medical & Legal Periphery",
+      "date_hits": 7,
+      "event_hits": 11
+    },
+    {
+      "path": "UVU/Courtyward.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Courtyward.mdx",
+      "score": 15,
+      "title": "UVU Courtyard",
+      "date_hits": 6,
+      "event_hits": 19
+    },
+    {
+      "path": "UVU/Stingray-Device.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/UVU/Stingray-Device.mdx",
+      "score": 15,
+      "title": "Stingray Device at UVU (Claims)",
+      "date_hits": 14,
+      "event_hits": 9
+    },
+    {
+      "path": "Israel_Main_Suspect/iran-war-charlie-vs-israel.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/iran-war-charlie-vs-israel.mdx",
+      "score": 15,
+      "title": "Iran War (Charlie vs Israel)",
+      "date_hits": 20,
+      "event_hits": 8
+    },
+    {
+      "path": "Israel_Main_Suspect/control-christian-churches.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Israel_Main_Suspect/control-christian-churches.mdx",
+      "score": 15,
+      "title": "Israel Needed Control of US Christian Churches",
+      "date_hits": 7,
+      "event_hits": 10
+    },
+    {
+      "path": "Medical/medical_examiner.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/medical_examiner.mdx",
+      "score": 15,
+      "title": "Medical Examiner",
+      "date_hits": 6,
+      "event_hits": 27
+    },
+    {
+      "path": "Medical/events_at_hospital.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/events_at_hospital.mdx",
+      "score": 15,
+      "title": "Events at Hospital",
+      "date_hits": 6,
+      "event_hits": 15
+    },
+    {
+      "path": "Medical/medical_staff_changes.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/medical_staff_changes.mdx",
+      "score": 15,
+      "title": "Medical Staff Changes",
+      "date_hits": 16,
+      "event_hits": 9
+    },
+    {
+      "path": "Medical/charlie_kirk_medical_records_before_shooting.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/charlie_kirk_medical_records_before_shooting.mdx",
+      "score": 15,
+      "title": "Charlie Kirk",
+      "date_hits": 6,
+      "event_hits": 12
+    },
+    {
+      "path": "Before/Political-Violence-Debate.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/Political-Violence-Debate.mdx",
+      "score": 15,
+      "title": "Political Violence Debates (2024\u20132025 Context)",
+      "date_hits": 6,
+      "event_hits": 16
+    },
+    {
+      "path": "Before/PreEvent_Searches_And_Recon.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Before/PreEvent_Searches_And_Recon.mdx",
+      "score": 15,
+      "title": "Reported Pre\u2011Event Searches and Reconnaissance (Claims)",
+      "date_hits": 19,
+      "event_hits": 8
+    },
+    {
+      "path": "Timeline/hamptons-intervention-meeting.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Timeline/hamptons-intervention-meeting.mdx",
+      "score": 15,
+      "title": "Hamptons Intervention Meeting (Early August 2025)",
+      "date_hits": 58,
+      "event_hits": 8
+    },
+    {
+      "path": "Medical/Autopsy/medical_examiner_surgeons.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Medical/Autopsy/medical_examiner_surgeons.mdx",
+      "score": 15,
+      "title": "Medical Examiner & Surgeons",
+      "date_hits": 7,
+      "event_hits": 10
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_13_Break_Away/harrison-smith-x-post.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_13_Break_Away/harrison-smith-x-post.mdx",
+      "score": 15,
+      "title": "Harrison Smith August 13 X Post",
+      "date_hits": 10,
+      "event_hits": 2
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/August_16_Go_Against_Israel/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/August_16_Go_Against_Israel/overview.mdx",
+      "score": 15,
+      "title": "August 16 \u2014 Go Against Israel",
+      "date_hits": 16,
+      "event_hits": 3
+    },
+    {
+      "path": "Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Charlie/Fear_Kill_Warnings/Sept_48_Hours_Donor_Texts/overview.mdx",
+      "score": 15,
+      "title": "~48 Hours Before \u2014 Donor Bullying Texts",
+      "date_hits": 11,
+      "event_hits": 3
+    },
+    {
+      "path": "Suspicious/UVU_9_10/robinson-clothing-changes.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Suspicious/UVU_9_10/robinson-clothing-changes.mdx",
+      "score": 15,
+      "title": "Tyler Robinson",
+      "date_hits": 11,
+      "event_hits": 9
+    },
+    {
+      "path": "Tyler_Robinson/Shooting/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Tyler_Robinson/Shooting/overview.mdx",
+      "score": 15,
+      "title": "Tyler Robinson Shooting",
+      "date_hits": 6,
+      "event_hits": 25
+    },
+    {
+      "path": "index.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/index.mdx",
+      "score": 14,
+      "title": "Who Assassinated Charlie Kirk",
+      "date_hits": 12,
+      "event_hits": 17
+    },
+    {
+      "path": "Topic-Analyses.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Topic-Analyses.mdx",
+      "score": 14,
+      "title": "Topic Analyses",
+      "date_hits": 15,
+      "event_hits": 12
+    },
+    {
+      "path": "maps/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/maps/overview.mdx",
+      "score": 14,
+      "title": "Maps",
+      "date_hits": 16,
+      "event_hits": 20
+    },
+    {
+      "path": "maps/wooded-area-rifle-recovery.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/maps/wooded-area-rifle-recovery.mdx",
+      "score": 14,
+      "title": "Wooded Area Map \u2014 Rifle Recovery and the Same-Morning Arrest",
+      "date_hits": 9,
+      "event_hits": 16
+    },
+    {
+      "path": "Proof_Intel_Services/Fort_Huachuca_Sept_9.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Intel_Services/Fort_Huachuca_Sept_9.mdx",
+      "score": 14,
+      "title": "Fort Huachuca \u2014 Sept 9 Meeting",
+      "date_hits": 15,
+      "event_hits": 14
+    },
+    {
+      "path": "Proof_Intel_Services/Egyptian_Jets_Provo.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Proof_Intel_Services/Egyptian_Jets_Provo.mdx",
+      "score": 14,
+      "title": "Egyptian Jets \u2014 Provo Sept 4\u201310",
+      "date_hits": 14,
+      "event_hits": 18
+    },
+    {
+      "path": "Security_Team/integrity-security.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/Security_Team/integrity-security.mdx",
+      "score": 14,
+      "title": "Integrity Security Solutions",
+      "date_hits": 5,
+      "event_hits": 12
+    },
+    {
+      "path": "TPUSA/overview.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/overview.mdx",
+      "score": 14,
+      "title": "TPUSA (Turning Point USA)",
+      "date_hits": 17,
+      "event_hits": 12
+    },
+    {
+      "path": "TPUSA/no-security-plan-sept-11.mdx",
+      "full": "/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/TPUSA/no-security-plan-sept-11.mdx",
+      "score": 14,
+      "title": "No Security Plan for the September 11, 2025 Event (Alleged)",
+      "date_hits": 14,
+      "event_hits": 18
+    }
+  ],
+  "candidate_total_score_ge_6": 1043
+}

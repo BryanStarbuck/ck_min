@@ -1,0 +1,65 @@
+id: '2011947043674034660'
+url: 'https://x.com/AMeadowInquiry/status/2011947043674034660?s=20'
+author:
+  username: 'AMeadowInquiry'
+  name: 'A Meadow'
+  id: '1868665910350753792'
+text: |
+  We know Fort Huachuca has the same carpet on its base that Cabot is seen walking on in his Alibi video.
+  What is his video supposed to prove?
+  All the Ft. Huachuca rooms have the dark trim between the floor and wall and there's that yellow wall again...
+
+  https://t.co/ebnIXoq7em https://t.co/NO9QD0sxH3
+created_at: '2026-01-15T23:42:10.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 4
+  quote_count: 1
+  bookmark_count: 1
+  impression_count: 498
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2006159374713020416'
+      source_tweet_id: '2006159430849593758'
+      source_author: '@cabot_phillips'
+      duration_ms: 13933
+      width: 752
+      height: 960
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2006159374713020416/img/WOMMTBszrlT5kPH6.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2006159374713020416/vid/avc1/752x960/VT3CSxdjNuhPWg7b.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images:
+    - type: photo
+      media_key: '3_2011942657061478400'
+      url: 'https://pbs.twimg.com/media/G-vbL9aa4AAmfLx.jpg'
+      width: 1514
+      height: 1306
+      from_author: '@AMeadowInquiry'
+    - type: photo
+      media_key: '3_2011943719130345473'
+      url: 'https://pbs.twimg.com/media/G-vcJx7XsAEM3OP.jpg'
+      width: 1198
+      height: 1540
+      from_author: '@AMeadowInquiry'
+    - type: photo
+      media_key: '3_2006159374687895552'
+      url: 'https://pbs.twimg.com/media/G9dPUnsXgAAjYRG.jpg'
+      width: 750
+      height: 1285
+      from_author: '@cabot_phillips'
+      source_tweet_id: '2006159430849593758'
+    - type: photo
+      media_key: '3_2006159374679470080'
+      url: 'https://pbs.twimg.com/media/G9dPUnqW8AAjQw1.jpg'
+      width: 946
+      height: 2048
+      from_author: '@cabot_phillips'
+      source_tweet_id: '2006159430849593758'
+investigation: 'charlie_kirk'
+added_date: '2026-05-24'
+temp_file: false

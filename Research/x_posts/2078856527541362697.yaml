@@ -1,0 +1,56 @@
+id: '2078856527541362697'
+url: 'https://x.com/SelinaAnneXX/status/2078856527541362697'
+author:
+  username: 'SelinaAnneXX'
+  name: 'Selina Anne'
+  id: '1993360555126726656'
+text: |
+  @VLuvMully I am VERY curious as to your opinion on the water bottles, & what Flood is standing on…
+
+  PS: WHO…took the photo on the right…who was standing in the perfect spot to take it?…
+created_at: '2026-07-19T14:56:34.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 0
+  reply_count: 6
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 116
+replied_to:
+  id: '2078666959789461728'
+  url: 'https://x.com/VLuvMully/status/2078666959789461728'
+  author: '@VLuvMully'
+  summary: >-
+    Long thread claiming a custom micro shaped-charge concealed in a RODE wireless receiver was
+    strapped to Charlie Kirk's chest and deflagrated, reading a square pressure mark, flash
+    burning, and a pin-point center wound as evidence. Unproven claim by a private individual.
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2078856523049295872'
+      url: 'https://pbs.twimg.com/media/HNmU_lNbYAAMNBw.jpg'
+      width: 1170
+      height: 1117
+      local_file: 'images/2078856527541362697_1.jpg'
+      ipfs_cid: 'QmUPoxeJJ9eAmSVFwsnUr9xnmBoME2YxhUnVRMdYpxjuUS'
+    - type: photo
+      media_key: '3_2078856523091185664'
+      url: 'https://pbs.twimg.com/media/HNmU_lXakAAZb2M.jpg'
+      width: 1170
+      height: 1768
+      local_file: 'images/2078856527541362697_2.jpg'
+      ipfs_cid: 'QmQbW5iVEHv5YD7GoJGXkffguHaKa2BEWQnTedzdronZ68'
+    - type: photo
+      media_key: '3_2078666950217998336'
+      from_parent_post: true
+      url: 'https://pbs.twimg.com/media/HNjok_YWoAA0Xph.jpg'
+      width: 1920
+      height: 1920
+      local_file: 'images/2078856527541362697_3.jpg'
+      ipfs_cid: 'QmQkJN8dU4YX6rVg1XwBYwKADH9zubfFJf5KnQ91Q258ys'
+  videos: []
+site_page: 'site/docs/Tent/Platform_Water_Bottles.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-19'
+temp_file: false

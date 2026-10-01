@@ -1,0 +1,55 @@
+id: '2081030259257102348'
+url: 'https://x.com/CarriePrejean1/status/2081030259257102348'
+author:
+  username: 'CarriePrejean1'
+  name: 'Carrie Prejean Boller'
+  id: '1363120356270235653'
+text: |
+  Seth Dillon and I spoke back stage at the religious Liberty commission hearing. We exchanged numbers and I followed up on text per our conversation… Seth admitted that Charlie told him if he were to say that Bibi should be replaced that TPUSA would be done. Charlie told Seth that saying certain things would come at a cost. Charlie knew the cost of criticizing Israel and Bibi. Charlie died a hero. He knew the risk of saying the things he was saying and he said it anyway. It eventually cost him his life.
+created_at: '2026-07-25T14:54:12.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 477
+  reply_count: 139
+  like_count: 3623
+  quote_count: 12
+  bookmark_count: 202
+  impression_count: 261804
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2081030255104675841'
+      url: 'https://pbs.twimg.com/media/HOFN_cJa0AEydzB.jpg'
+      width: 1179
+      height: 1982
+      local_file: 'images/2081030259257102348_1.jpg'
+      ipfs_cid: 'QmNmbnfSb6ZxoZijrontYseLXHrdk1NsBYbTea1iNCK7HF'
+ocr_text: |
+  < 706
+  Seth
+  He never said to me at least that he was bullied or threatened by anyone. just that saying certain things would come at a cost. He was right about that, but that doesn't make anyone that he was dealing with evil.
+quoted_tweet:
+  id: '2080798822783918557'
+  url: 'https://x.com/ElectBilzerian/status/2080798822783918557'
+  author: '@ElectBilzerian'
+  author_name: 'Dan Bilzerian for Congress'
+  created_at: '2026-07-24T23:34:33.000Z'
+  text: |
+    In the hamptons on August 4th Charlie asked the Zionist influencers there a question: "what would you say if I tweeted right now for Netanyahu to resign?"
+
+    Imo He wasn't helping them come up with retorts... He was preparing to call for Netanyahus resignation.
+
+    A month later he was assassinated.
+  quotes_further: 'https://x.com/RealCandaceO/status/2080469561371979786'
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+site_pages:
+  - 'site/docs/Messages/seth-dillon-text-exchange.mdx'
+  - 'site/docs/Israel/bibi-replacement-tpusa-cost.mdx'
+  - 'site/docs/Israel/israel-hamptons.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-26'
+temp_file: false

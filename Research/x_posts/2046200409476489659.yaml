@@ -1,0 +1,29 @@
+id: '2046200409476489659'
+url: 'https://x.com/MuppetMasher/status/2046200409476489659'
+author:
+  username: 'MuppetMasher'
+  name: 'Muppet Masher'
+  id: '1586238206533865474'
+text: |
+  No longer unnamed
+created_at: '2026-04-20T12:12:48.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 0
+  reply_count: 1
+  like_count: 3
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 52
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2046200406498529280'
+      url: 'https://pbs.twimg.com/media/HGWQbbCa0AAcbdB.jpg'
+      width: 2048
+      height: 2048
+investigation: 'charlie_kirk'
+added_date: '2026-04-20'
+ocr_text: |
+  Jeremy Gallman. TPUSA camera operator. Camera Operator & Video Editor, University of Alaska Anchorage, Turning Point USA, Phoenix, United States.
+temp_file: false

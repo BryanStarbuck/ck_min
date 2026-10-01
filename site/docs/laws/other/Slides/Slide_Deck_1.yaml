@@ -1,0 +1,969 @@
+slide_deck:
+  title: "Law 1: The Charlie Kirk Files Forced Disclosure Act"
+  subtitle: "Forcing the DoJ and FBI to Release Everything"
+  author: "Bryan Starbuck"
+  total_slides: 40
+  focus: "Law 1 — DoJ/FBI Forced Disclosure (1_DoJ_FBI/Law_1_DoJ_FBI.md)"
+  purpose: "Video presentation introducing Law 1, showing Americans why forcing the FBI and DoJ to release all files would blow the Charlie Kirk investigation wide open"
+
+  slides:
+    - slide_number: 1
+      type: title_slide
+      title: "The Charlie Kirk Files Forced Disclosure Act"
+      subtitle: "Law 1: Force the FBI and DoJ to Release Everything"
+      content:
+        center_graphic: "American flag with scales of justice, FBI seal faded behind"
+        tagline: "Modeled after the Epstein Files Transparency Act (Public Law 119-38) — passed the House 427-1"
+        bottom_text: "BryanStarbuck@gmail.com | github.com/BryanStarbuck"
+      speaker_notes: >
+        Welcome. I'm Bryan Starbuck, and today I'm going to walk you through one proposed
+        federal law that could crack this case wide open. It's called the Charlie Kirk Files
+        Forced Disclosure Act, and it targets the FBI, the Department of Justice, and every
+        law enforcement agency in the country. If this law passes, they have 30 days to hand
+        over everything. No exceptions. No delays. No executive privilege. I'm going to show
+        you exactly what they're sitting on, why it matters, and why this law would change
+        everything.
+
+    - slide_number: 2
+      type: context
+      title: "Charlie Kirk Was Assassinated on September 10, 2025"
+      content:
+        left_panel:
+          image: "Photo of Charlie Kirk at a speaking event"
+        right_panel:
+          bullets:
+            - "Founder of Turning Point USA — largest conservative youth organization in America"
+            - "Shot and killed at age 31 while speaking on stage at Utah Valley University, Orem, Utah"
+            - "Case: State of Utah v. Tyler Alexander Robinson, Case No. 251403576"
+            - "Tyler Robinson charged — but citizen investigators say the evidence points far beyond one person"
+      speaker_notes: >
+        For anyone unfamiliar: Charlie Kirk was the founder of Turning Point USA, the
+        biggest conservative youth organization in America. On September 10, 2025, he was
+        shot and killed on stage at Utah Valley University. A man named Tyler Robinson was
+        charged. But citizen investigators — hundreds of them — have spent months digging
+        into the evidence. What they've found suggests this goes far, far beyond one lone
+        gunman. And the government is sitting on the answers.
+
+    - slide_number: 3
+      type: problem_statement
+      title: "The Problem: The Government Has the Answers and Won't Release Them"
+      content:
+        three_panels:
+          - panel: "FBI"
+            icon: "lock"
+            text: "Holding witness interviews, ballistics, forensics, cell tower data, surveillance footage — and blocking FOIA requests"
+          - panel: "DoJ"
+            icon: "lock"
+            text: "Controls prosecution strategy, grand jury materials, and federal investigation scope — zero transparency"
+          - panel: "State & Local"
+            icon: "lock"
+            text: "Utah law enforcement told by FBI not to talk to witnesses. Gag orders imposed by Judge Graf"
+      speaker_notes: >
+        Here's the core problem. The FBI has the witness interviews, the ballistics reports,
+        the cell tower data, the forensic analysis — and they won't release any of it. FOIA
+        requests have been blocked. The DoJ controls the prosecution and investigation scope
+        with zero transparency. And at the state level, a judge imposed a gag order on his
+        own motion — no party even asked for it — silencing everyone. The government has the
+        puzzle pieces, and they're keeping the box locked.
+
+    - slide_number: 4
+      type: precedent
+      title: "It Worked for Epstein — It Can Work for Charlie Kirk"
+      content:
+        comparison_table:
+          - column: "Epstein Files Act"
+            items:
+              - "Public Law 119-38"
+              - "House vote: 427-1"
+              - "Senate: Unanimous consent"
+              - "Forced DOJ to release investigation files"
+              - "Sponsored by Rep. Thomas Massie"
+          - column: "Charlie Kirk Disclosure Act"
+            items:
+              - "Same model, stronger teeth"
+              - "Criminal penalties: 10 years for withholding"
+              - "Automatic budget cuts for non-compliance"
+              - "No presidential override"
+              - "Private right of action — any citizen can sue"
+        footer: "The Epstein Act proved Congress CAN force the government's hand. But it had weaknesses we've fixed."
+      speaker_notes: >
+        This isn't wishful thinking. Congress already did this. The Epstein Files
+        Transparency Act passed the House 427 to 1 and the Senate by unanimous consent.
+        It forced the DOJ to release Epstein investigation files. We're using the exact
+        same model — but with stronger teeth. The Epstein Act had problems: DOJ released
+        only about 12,000 documents out of possibly 6 million pages by the deadline. So
+        we've added criminal penalties, automatic budget cuts, and the right for any
+        American citizen to sue for compliance. No more toothless mandates.
+
+    - slide_number: 5
+      type: shock_reveal
+      title: "What the FBI Is Sitting On: 208 Specific Items"
+      content:
+        center_graphic: "Large number '208' with radiating lines to category labels"
+        category_ring:
+          - "Intelligence discovery (56 items)"
+          - "FBI 302 reports"
+          - "Counterintelligence"
+          - "Cell phone data"
+          - "Airport records"
+          - "Egyptian planes"
+          - "Israeli cell phones"
+          - "Financial records"
+          - "Chain of custody"
+          - "Surveillance footage"
+          - "Ballistics"
+          - "Autopsy & medical"
+          - "Digital forensics"
+          - "And 10 more categories..."
+      speaker_notes: >
+        This law doesn't just say "release everything" — though it does that too. It
+        enumerates 208 specific items that must be disclosed. Two hundred and eight. Organized
+        across more than 20 categories. Each one is individually mandated. The government
+        can't claim partial compliance. They must address every single one. And what's in
+        these 208 items will shock you. Let me walk you through the ones that would blow
+        this case wide open.
+
+    - slide_number: 6
+      type: evidence_reveal
+      title: "The Autopsy: What Are They Hiding?"
+      content:
+        left_panel:
+          header: "What We Know"
+          bullets:
+            - "No exit wound reported"
+            - "Neck wound appears to be a laceration, not a ballistic wound"
+            - "Abnormally low blood loss — suggesting the heart stopped almost instantly"
+            - "Glass/plastic fragments found on Kirk's clothing, on the ground, and in the SUV"
+            - "Kirk's left hand shows cuts consistent with shrapnel (visible in casket photos)"
+        right_panel:
+          header: "What Law 1 Forces Out"
+          bullets:
+            - "Full autopsy report and toxicology"
+            - "All wound analysis — bullet path, caliber determination"
+            - "Whether wound is consistent with a .30-06 round or something else entirely"
+            - "Fragment analysis — glass, metal, plastic recovered from body"
+            - "Why didn't the bullet exit? The FBI knows."
+      speaker_notes: >
+        The autopsy. This alone would transform the investigation. Here's what citizen
+        investigators have found just from video analysis and photos: there was no exit
+        wound. The neck wound looks like a laceration, not a bullet wound. The blood loss
+        was abnormally low. Glass and plastic fragments were found on his clothing, on the
+        ground where he was carried, and in the SUV that took him to the hospital. His left
+        hand has cuts consistent with shrapnel. This doesn't match a .30-06 rifle round
+        fired from a rooftop. The autopsy report would tell us exactly what hit Charlie Kirk.
+        The FBI has it. This law forces them to release it.
+
+    - slide_number: 7
+      type: evidence_reveal
+      title: "Surveillance Footage: The FBI Has Hours of Video They Won't Show"
+      content:
+        graphic: "Grid of security camera icons — UVU campus map with camera locations marked"
+        bullets:
+          - "UVU campus has extensive security camera coverage"
+          - "TPUSA had their own cameras running"
+          - "Witnesses recorded on their phones — FBI called them and asked them to DELETE the videos"
+          - "Some witnesses report videos were remotely deleted from their phones without permission"
+          - "The crime scene was paved over with concrete shortly after — including the roof above"
+          - "Law 1 forces disclosure of ALL surveillance footage from ALL sources"
+      speaker_notes: >
+        The surveillance footage. UVU is a university campus — cameras everywhere. TPUSA
+        had their own cameras. Witnesses were recording on their phones. And here's what
+        the FBI did: they called witnesses who had videos and asked them to delete the
+        footage. Multiple witnesses have reported that videos were remotely deleted from
+        their phones without their consent. Think about that. The government agency
+        investigating the murder was telling witnesses to destroy evidence. And the crime
+        scene itself — including the roof above where Kirk was standing — was paved over
+        with concrete shortly after. This law forces every frame of video into the public
+        record.
+
+    - slide_number: 8
+      type: evidence_reveal
+      title: "Cell Tower Dumps: Who Was Really at UVU That Day?"
+      content:
+        graphic: "Cell tower diagram showing phone connections — with '~12 Israeli phones' highlighted"
+        bullets:
+          - "Cell tower dumps show EVERY phone that connected to towers serving UVU on September 10"
+          - "Approximately 12 Israeli-registered cell phones were detected at the shooting site"
+          - "Who were these people? Why were they there? Did they communicate with each other?"
+          - "Tower dumps also cover Provo Airport, Tyler Robinson's residence, and surrounding areas"
+          - "The FBI has all of this data. Citizens have none of it."
+      speaker_notes: >
+        Cell tower dumps. The FBI can pull data showing every single phone that connected
+        to cell towers serving UVU on September 10th. They already have this data. And
+        here's what citizen investigators discovered through other means: approximately
+        12 Israeli-registered cell phones were at the shooting site. Twelve. Who are these
+        people? Were they coordinating? Did they communicate with each other, with foreign
+        intelligence, with anyone at the event? The FBI knows. This law forces them to
+        release the tower dumps for UVU, for Provo Airport, for Tyler Robinson's residence,
+        for the surrounding area. Every phone. Every connection. Into the public record.
+
+    - slide_number: 9
+      type: evidence_reveal
+      title: "Egyptian Military Planes Landed at Provo Airport"
+      content:
+        graphic: "Map showing flight paths from Egypt to Provo Municipal Airport"
+        data_points:
+          - label: "Aircraft"
+            value: "SU-BTT, SU-BND — Egyptian-registered planes"
+          - label: "Passengers"
+            value: "Personnel with 'U.S. Department of Defense Liaison' badges and Egyptian passports"
+          - label: "Timing"
+            value: "Arrived in weeks before September 10, 2025"
+          - label: "Activity"
+            value: "Counter-UAS testing at Provo Airport, September 4-10"
+          - label: "Key question"
+            value: "Why were Egyptian military contractors at a small Utah airport days before the assassination?"
+      speaker_notes: >
+        Egyptian military planes. SU-BTT and SU-BND — Egyptian-registered aircraft — landed
+        at Provo Municipal Airport. The passengers had U.S. Department of Defense Liaison
+        badges and Egyptian passports boarding private planes. There was Counter-UAS testing
+        happening at Provo Airport from September 4th through September 10th — the day of
+        the killing. Why were Egyptian military contractors at a small Utah airport the week
+        Charlie Kirk was shot? The FBI has the CBP arrival records, the airport logs, the
+        identities of every person who got off those planes. This law forces all of it out.
+
+    - slide_number: 10
+      type: evidence_reveal
+      title: "The HADES Spy Plane Was Circling 35 Minutes Before"
+      content:
+        graphic: "Flight tracking map showing N1098L circling pattern over Utah"
+        data_points:
+          - label: "Aircraft"
+            value: "N1098L — operated by LASAI Aviation, supports U.S. Army reconnaissance"
+          - label: "Type"
+            value: "HADES surveillance platform — one of the most advanced spy planes in the U.S. military"
+          - label: "Activity"
+            value: "Circling UVU area approximately 35 minutes before assassination"
+          - label: "Operator"
+            value: "LASAI Aviation fleet supports classified Army reconnaissance missions"
+        footer: "Why was a U.S. Army spy plane circling the assassination site right before it happened?"
+      speaker_notes: >
+        A HADES spy plane — registration N1098L — was circling the area approximately 35
+        minutes before Charlie Kirk was shot. HADES is one of the most advanced surveillance
+        aircraft in the U.S. military. It's operated by LASAI Aviation, which supports
+        classified Army reconnaissance missions. This isn't a traffic helicopter. This is
+        military intelligence infrastructure. It was circling right before the assassination.
+        The FBI knows who tasked it. They know what it was collecting. They know who received
+        the data. This law forces disclosure of every detail about that flight.
+
+    - slide_number: 11
+      type: evidence_reveal
+      title: "The Weapon Was Found Under Suspicious Circumstances"
+      content:
+        timeline:
+          - step: "1"
+            text: "Initial search by local law enforcement — arm to arm. No weapon found."
+          - step: "2"
+            text: "K-9 unit search. No weapon found."
+          - step: "3"
+            text: "FBI arrives."
+          - step: "4"
+            text: "Three FBI agents direct three junior local officers to search the area again."
+          - step: "5"
+            text: "Weapon 'found' — a Mauser Model 98 (.30-06 caliber)"
+        footer: "Two professional searches found nothing. The FBI arrives, directs a third search, and the gun appears."
+      speaker_notes: >
+        The weapon. This is one of the most damning sequences. Local law enforcement did
+        an arm-to-arm search of the area. Nothing found. Then K-9 units searched. Still
+        nothing. Then the FBI arrived. Three FBI agents instructed three junior local law
+        enforcement officers — new hires — to search the area again. And suddenly, the
+        weapon was found. A Mauser Model 98, .30-06 caliber. Two professional searches,
+        including trained dogs, found nothing. The FBI shows up, and the gun magically
+        appears. This law forces disclosure of every detail about who directed that search,
+        the chain of custody of that weapon, and whether it was actually the weapon that
+        killed Charlie Kirk.
+
+    - slide_number: 12
+      type: evidence_reveal
+      title: "The FBI Was Already on Scene — In a RAV4"
+      content:
+        graphic: "Map showing Tyler Robinson's location and FBI RAV4 route"
+        bullets:
+          - "An FBI vehicle — a silver Toyota RAV4 — drove past Tyler Robinson at or near the time of the shooting"
+          - "When pulled over, the occupant flashed an FBI badge"
+          - "Why was an FBI vehicle already in the immediate area?"
+          - "Was this a surveillance operation? Was Robinson being monitored?"
+          - "Law 1 demands: all records of FBI personnel and vehicles deployed at or near UVU on September 10"
+      speaker_notes: >
+        Here's something most people don't know. An FBI vehicle — a silver Toyota RAV4 —
+        drove right past Tyler Robinson at or near the time of the shooting. When the
+        vehicle was pulled over, the driver flashed an FBI badge. Why was the FBI already
+        there? Were they running surveillance? Were they monitoring Robinson? If so, did they
+        know what was about to happen? This law specifically demands all records of FBI
+        personnel and vehicles deployed at or near UVU on September 10th. The public
+        deserves to know why the FBI was on scene before anyone called them.
+
+    - slide_number: 13
+      type: evidence_reveal
+      title: "The Exploding Microphone Theory"
+      content:
+        evidence_chain:
+          - item: "DoD Contract N0016425PJ538"
+            detail: "May 2025: 'MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS' — only contract of its kind since 2008"
+          - item: "Recipient: Accurate Energetic Systems (AES)"
+            detail: "McEwen, Tennessee — shaped charge experts, claymore mines, PETN explosive pressing"
+          - item: "Private Flight: Heber City, UT to Nashville, TN"
+            detail: "August 25, 2025 — Nashville is nearest airport to AES facility. No return flight logged."
+          - item: "Video Evidence"
+            detail: "Shirt fabric billows outward — pressure wave pushing AWAY from body. Blood appears AFTER the blast."
+          - item: "AES Factory Destroyed"
+            detail: "October 10, 2025 — factory explodes, 16 killed. All on-site evidence destroyed."
+      speaker_notes: >
+        The exploding microphone theory. In May 2025, the Department of Defense awarded
+        contract N0016425PJ538 for "miniaturized anti-personnel demolition charges" — the
+        only contract of its kind in the entire USAspending.gov database going back to 2008.
+        The recipient was Accurate Energetic Systems in Tennessee — experts in shaped charges
+        and claymore mines. On August 25th, a private flight went from Heber City, Utah to
+        Nashville — the nearest airport to the AES facility. No return flight was logged.
+        Video analysis of the shooting shows Kirk's shirt fabric billowing outward — a
+        pressure wave pushing away from the body. Blood appears after the blast, not during.
+        And then on October 10th — right after a researcher publicly discussed this theory
+        online — the AES factory exploded. Sixteen people killed. All evidence destroyed.
+        The FBI has investigated this. This law forces them to release what they found.
+
+    - slide_number: 14
+      type: evidence_reveal
+      title: "The Crime Scene Was Paved Over"
+      content:
+        before_after:
+          before: "Grass area where Kirk was shot — potential explosive residue, glass fragments, blood evidence"
+          after: "Concrete. The entire area paved over shortly after the killing."
+        additional:
+          - "The roof above the tent was also redone"
+          - "Glass fragments and explosive traces were reported on the grass before paving"
+          - "The FBI chose not to take the hospital transport vehicle into evidence — fragments were in it"
+          - "This is evidence destruction in plain sight"
+      speaker_notes: >
+        The crime scene was paved over with concrete. Not months later. Shortly after the
+        killing. The grass where Kirk fell — where glass fragments and potential explosive
+        residue were found — covered in concrete. And not just the ground: the roof above
+        the tent where Kirk was standing was also redone. Glass fragments were in the SUV
+        that transported Kirk to the hospital, and the FBI chose not to take that vehicle
+        into evidence. Think about any murder case you've ever heard of. Now imagine the
+        crime scene being paved over and the transport vehicle being ignored. This law demands
+        full accounting of who authorized the paving, when, and what evidence was present
+        before it was destroyed.
+
+    - slide_number: 15
+      type: evidence_reveal
+      title: "Charlie Kirk Knew: 'They Are Going to Kill Me'"
+      content:
+        background: "Dark gradient"
+        quotes:
+          - text: "THEY ARE GOING TO KILL ME"
+            source: "Texted during combative meeting, September 9, 2025"
+          - text: "I know they want me dead. I'm under the gun right now, please pray for me"
+            source: "To Frank Turek, weeks before"
+          - text: "I'm worried that Israel is going to kill me"
+            source: "One day before assassination"
+          - text: "They will kill me if I break away from being pro-Israel"
+            source: "To multiple friends"
+        footer: "Confirmed by 5+ independent sources: Andrew Kolvet, Frank Turek, Harrison Smith, Candace Owens, Dan Flood"
+      speaker_notes: >
+        Charlie Kirk told people he was going to be killed. He texted "THEY ARE GOING TO
+        KILL ME" during a combative meeting the night before. He told Frank Turek, "I know
+        they want me dead." He told multiple friends that breaking with the pro-Israel
+        movement would get him killed. Five independent sources have confirmed these
+        messages. The FBI has interviewed these people. They have the 302 reports. They
+        know who Kirk was afraid of and why. This law forces every one of those interview
+        reports into the public record.
+
+    - slide_number: 16
+      type: evidence_reveal
+      title: "FBI 302 Reports: Over 20 Witnesses Interviewed — None Public"
+      content:
+        graphic: "Stack of FBI Form 302 documents, all stamped 'CLASSIFIED' or 'WITHHELD'"
+        bullets:
+          - "FBI Form 302s document every witness interview"
+          - "Over 20 people questioned by the FBI Salt Lake City Field Office"
+          - "Topics include: multiple accomplices, Discord chats, bullet trajectories"
+          - "None have been released. Not one."
+          - "Law 1 demands ALL 302s — from the Salt Lake City Field Office AND any other field office"
+          - "Including FBI notes, rough notes, memoranda, and case opening documents"
+      speaker_notes: >
+        FBI Form 302s are the reports agents file after every witness interview. The FBI
+        Salt Lake City Field Office has questioned over 20 people. The topics reportedly
+        include possible multiple accomplices, Discord chats, bullet trajectories, and more.
+        Not a single 302 has been released. Not one. The defense doesn't have them. The
+        public doesn't have them. This law mandates disclosure of all 302s, from every field
+        office, plus all agent notes, memoranda, and case opening documentation. The 302s
+        alone could crack this case wide open.
+
+    - slide_number: 17
+      type: evidence_reveal
+      title: "Financial Records: Follow the Money"
+      content:
+        money_flow_graphic:
+          connections:
+            - from: "Unknown sources"
+              to: "Tyler Robinson — alleged $50,000 in wire transfers through DSA-linked accounts"
+            - from: "Unknown sources"
+              to: "Lance Twiggs — $20,000+ in transfers"
+            - from: "TPUSA donors"
+              to: "Foreign intelligence contacts within 3 months of assassination"
+            - from: "Kirk's DOGE-style audit"
+              to: "Financial irregularities inside TPUSA discovered"
+      speaker_notes: >
+        Follow the money. Tyler Robinson allegedly received $50,000 in wire transfers
+        through DSA-linked accounts in the months before the killing. Lance Twiggs received
+        $20,000 or more in transfers. Where did this money come from? What was it for?
+        And inside TPUSA itself, Charlie Kirk had requested a DOGE-equivalent internal
+        financial audit — and irregularities were found. The FBI has the FinCEN reports,
+        the bank records, the wire transfer data. This law forces disclosure of every
+        financial transaction connected to every person in this investigation.
+
+    - slide_number: 18
+      type: evidence_reveal
+      title: "Ballistics: The Shot Doesn't Match the Rifle"
+      content:
+        two_columns:
+          left:
+            header: "Official Story"
+            bullets:
+              - ".30-06 round from Mauser Model 98"
+              - "Fired from rooftop"
+              - "One shooter"
+          right:
+            header: "Evidence Problems"
+            bullets:
+              - "Witness Eric described shot sound as 'cherry bomb' — not deep rifle report"
+              - "No exit wound from a .30-06 — a round that typically passes through a body"
+              - "Bullet didn't exit — inconsistent with high-velocity rifle round"
+              - "FBI has forensic acoustic analysis they haven't released"
+              - "Multiple witnesses suggest shot came from different direction"
+      speaker_notes: >
+        The ballistics don't add up. A .30-06 round from a Mauser Model 98 is a
+        high-velocity rifle cartridge. It typically passes clean through a human body. But
+        there was no exit wound. A witness named Eric described the shot as sounding like a
+        "cherry bomb" — not the deep report of a rifle. Other witnesses suggested the shot
+        came from a different direction. The FBI has forensic acoustic analysis that could
+        pinpoint exactly where the shot originated. They have the full ballistics workup.
+        They know whether that Mauser was actually fired that day. This law forces all of
+        it out — every round, every trajectory, every analysis.
+
+    - slide_number: 19
+      type: evidence_reveal
+      title: "The Suspect Doesn't Match: Clothing, Build, Backpack"
+      content:
+        comparison:
+          figure_a:
+            label: "Tyler Robinson (confirmed sighting)"
+            details: "Light blue backpack, half empty. Shorts. Visible after leaving his car."
+          figure_b:
+            label: "Stairway/Rooftop Figure (FBI footage)"
+            details: "Different backpack (full), different clothing. Different build characteristics."
+        key_points:
+          - "A 22-year-old doesn't switch backpacks and hats between sightings"
+          - "Gun couldn't be hidden in shorts or the half-empty backpack"
+          - "FBI biometric and facial analysis exists but hasn't been released"
+          - "FBI admits possible 'multiple accomplices'"
+      speaker_notes: >
+        The suspect identification has serious problems. Tyler Robinson was seen leaving his
+        car with a light blue backpack, half empty, wearing shorts. The person on the
+        stairway in FBI surveillance footage has a different backpack — full — and different
+        clothing. The gun is a full-size Mauser rifle. It can't be hidden in shorts or a
+        half-empty backpack. The FBI has done biometric analysis and facial comparison.
+        They've admitted the possibility of multiple accomplices. But none of this analysis
+        is public. This law demands all of it: the comparisons, the biometrics, the facial
+        recognition work, and any evidence that the stairway figure is a different person
+        from Tyler Robinson.
+
+    - slide_number: 20
+      type: evidence_reveal
+      title: "Electronic Warfare: Internet Cut at the Moment of Shooting"
+      content:
+        graphic: "Signal strength meter dropping to zero"
+        bullets:
+          - "Reports of internet access being cut in the seconds before, during, and after the shooting"
+          - "Electronic signal jamming would require military or intelligence-grade equipment"
+          - "Law 1 demands: all information on signal disruption within 2 miles of UVU"
+          - "Also demands: information on any laser targeting, range-finding, or tracking devices"
+          - "Also demands: whether any drone was actively tracking Kirk at the time of the shot"
+      speaker_notes: >
+        Reports indicate internet access was cut in the seconds around the shooting.
+        Electronic signal jamming at that level requires military or intelligence-grade
+        equipment. This isn't some kid with a radio jammer. This is sophisticated
+        electronic warfare. Law 1 demands all information on any signal disruption
+        within 2 miles of UVU, any laser targeting or range-finding equipment, and whether
+        any drone was actively tracking Charlie Kirk at the moment of the shot. The FBI
+        and NSA have the ability to detect and analyze electronic interference. They know
+        exactly what happened to the signals that day.
+
+    - slide_number: 21
+      type: evidence_reveal
+      title: "The 'Distraction People' — Coordinated Diversions?"
+      content:
+        map_graphic: "Map of Provo/Orem area with incident markers"
+        incidents:
+          - location: "UVU Campus"
+            event: "Person practicing shocked facial expressions before asking Kirk a question — later appeared on CBS with Erika Kirk"
+          - location: "Joe Vera's Mexican Restaurant"
+            event: "Pellet gun man — police called"
+          - location: "Sorenson Building / Urban Pioneer Cafe"
+            event: "Person of interest — police told 'FBI wants you to stand by' and 'clear direction NOT to interview'"
+          - location: "UVU Construction Site"
+            event: "Man in all black — trench coat, mask, sunglasses — admitted 'someone was shot' before sirens"
+        footer: "None charged. FOIA requests about them: blocked."
+      speaker_notes: >
+        On September 10th, there were multiple "distraction people" incidents around the
+        area. A man with a pellet gun at a restaurant. A person of interest at the Sorenson
+        Building where police were told by the FBI to "stand by" and given "clear direction
+        not to interview." A person at UVU who practiced shocked expressions before
+        approaching Kirk on stage — and who later appeared on CBS with Erika Kirk. A man in
+        all black at a construction site who knew someone had been shot before any sirens
+        started. None of them were charged. FOIA requests about them were blocked. Were
+        these coordinated diversions to occupy law enforcement? This law forces disclosure
+        of every record about every one of these people.
+
+    - slide_number: 22
+      type: evidence_reveal
+      title: "Fort Huachuca: A Military Intelligence Meeting the Day Before"
+      content:
+        graphic: "Map showing Fort Huachuca, AZ — military intelligence installation"
+        data_points:
+          - label: "Location"
+            value: "Fort Huachuca, AZ — home of U.S. Army Intelligence Center"
+          - label: "Date"
+            value: "September 9, 2025 — one day before the assassination"
+          - label: "Attendees"
+            value: "Unknown — investigation records include military VIP transport (callsign RCH 702 / SAM)"
+          - label: "Reported details"
+            value: "Participants 'cared very much about the next 24 hours.' Walked out with a Congress member."
+      speaker_notes: >
+        Fort Huachuca, Arizona — the home of the U.S. Army Intelligence Center. On
+        September 9th, 2025 — the day before Charlie Kirk was killed — a meeting took place
+        there. Reports indicate participants "cared very much about the next 24 hours" and
+        walked out with a member of Congress. A U.S. Air Force VIP transport with callsign
+        RCH 702 was in the area September 8th and 9th. Who attended this meeting? What was
+        discussed? Was Charlie Kirk mentioned? This law demands complete disclosure of
+        everyone who was at Fort Huachuca those days and every word that was said about
+        the next day's events.
+
+    - slide_number: 23
+      type: evidence_reveal
+      title: "The Hamptons Meeting: Kirk Confronted by Pro-Israel Figures"
+      content:
+        timeline:
+          - date: "August 3-6, 2025"
+            event: "Meeting in the Hamptons"
+          - detail: "Kirk confronted by pro-Israel figures: Rabbi Wolicki, Josh Hammer, Seth Dillon, Bill Ackman"
+          - detail: "A donor asks: 'What would happen to TPUSA if you died?'"
+          - detail: "Kirk later tells Megyn Kelly about 'donor pressure'"
+          - date: "Within 40 days"
+            event: "Charlie Kirk is dead"
+        key_question: "Were any military or intelligence personnel present at the Hamptons meeting?"
+      speaker_notes: >
+        In early August 2025, about 40 days before the assassination, Charlie Kirk attended
+        a meeting in the Hamptons. He was confronted by pro-Israel figures including Rabbi
+        Wolicki, Josh Hammer, Seth Dillon, and Bill Ackman. During this meeting, someone
+        asked him: "What would happen to TPUSA if you died?" Erika Kirk later confirmed this
+        in an interview with Megyn Kelly. Kirk went on Megyn Kelly's show and talked about
+        the donor pressure he was under. Law 1 demands the FBI release all information on
+        who attended this meeting, including whether any military or intelligence personnel
+        were present, and every communication that resulted from it.
+
+    - slide_number: 24
+      type: evidence_reveal
+      title: "The Jerusalem Post Knew Before He Was Pronounced Dead"
+      content:
+        graphic: "Screenshot timestamp comparison"
+        data_points:
+          - label: "Jerusalem Post article"
+            value: "Published reporting Kirk's death BEFORE he was officially pronounced dead"
+          - label: "Implication"
+            value: "Someone had advance knowledge or was feeding information in real time"
+          - label: "Law 1 demands"
+            value: "All communications between any foreign media and any person with advance knowledge"
+      speaker_notes: >
+        The Jerusalem Post published an article announcing Charlie Kirk's death before he
+        was even pronounced dead. How did they know? Who told them? Was someone feeding
+        information in real time? This isn't a minor detail — this is potential evidence of
+        foreknowledge. The FBI has the ability to trace these communications. This law forces
+        them to disclose all communications between any foreign media outlet and any person
+        who had advance knowledge of Kirk's condition.
+
+    - slide_number: 25
+      type: evidence_reveal
+      title: "Drones Over UVU: Military and Civilian"
+      content:
+        graphic: "Aerial view of UVU with drone flight path overlays"
+        bullets:
+          - "Were military drones flying at or near UVU on September 10?"
+          - "Were civilian drones flying — and who launched them?"
+          - "Did any drone have a live video feed? Who received it?"
+          - "Were drones used for targeting, tracking, or coordination?"
+          - "Counter-UAS testing was happening at Provo Airport Sept 4-10 — the week of the killing"
+          - "Law 1 demands ALL drone data within 50 miles of UVU"
+      speaker_notes: >
+        Drones. Were military drones flying over UVU when Kirk was shot? Were civilian drones
+        up? If so, who launched them, and who received the video feeds? Was a drone used to
+        track Kirk's movements in real time? And why was Counter-UAS testing happening at
+        Provo Airport from September 4th through 10th — conveniently covering the exact
+        day of the assassination? This law demands all drone data, all operators, all video
+        feeds, everything within 50 miles of UVU on that day.
+
+    - slide_number: 26
+      type: evidence_reveal
+      title: "The Surgeon Was Blocked by the FBI"
+      content:
+        graphic: "Hospital corridor with blocked entry"
+        bullets:
+          - "A surgeon was blocked from re-entering the room where Charlie Kirk's body was"
+          - "The FBI blocked the surgeon"
+          - "Why would the FBI prevent a medical professional from accessing a patient?"
+          - "What were they doing in that room?"
+          - "Hospital routing decisions — who directed Kirk to that specific hospital?"
+          - "Law 1 demands all medical and hospital records, routing decisions, and FBI actions at the hospital"
+      speaker_notes: >
+        At the hospital, a surgeon was physically blocked by the FBI from going back into
+        the room with Charlie Kirk. Why? What was the FBI doing in that room that a surgeon
+        couldn't see? Who made the decision about which hospital Kirk was taken to? Were
+        there closer or better-equipped facilities? This law demands full disclosure of
+        all medical records, all FBI actions at the hospital, and every decision about
+        Kirk's medical routing.
+
+    - slide_number: 27
+      type: law_mechanism
+      title: "How Law 1 Works: 30 Days, No Excuses"
+      content:
+        flow_chart:
+          - step: "Bill enacted"
+            detail: "Clock starts"
+          - step: "30 days"
+            detail: "ALL covered agencies must release ALL records"
+          - step: "Senior official certifies"
+            detail: "Deputy Director or above signs under penalty of perjury"
+          - step: "Comprehensive search required"
+            detail: "All systems, databases, physical files — everything"
+          - step: "Searchable and downloadable"
+            detail: "Public gets records in usable format — not buried in bureaucracy"
+      speaker_notes: >
+        Here's how the law actually works. The moment it's enacted, every covered agency
+        has 30 days. Not 30 days to start reviewing. Thirty days to release everything. A
+        senior official — Deputy Director or above — must personally certify under penalty of
+        perjury that all records have been produced. They must do a comprehensive search of
+        all systems. And the records must be in a searchable, downloadable format. No
+        dumping 10 million pages of scanned images. Actual usable data.
+
+    - slide_number: 28
+      type: law_mechanism
+      title: "No Excuses Accepted: What They Can't Claim"
+      content:
+        prohibited_list:
+          - excuse: "Embarrassment"
+            response: "Explicitly prohibited as a basis for withholding"
+          - excuse: "Ongoing investigation"
+            response: "Cannot withhold — the investigation itself is the problem"
+          - excuse: "Executive privilege"
+            response: "No presidential override. Period."
+          - excuse: "Deliberative process"
+            response: "Cannot withhold"
+          - excuse: "Law enforcement privilege"
+            response: "Cannot withhold"
+          - excuse: "'Records are lost'"
+            response: "Cannot claim — forensic audit required to prove it"
+        only_permitted_redactions: "Active confidential source identities and CSAM. That's it."
+      speaker_notes: >
+        Here's what makes this law different from every transparency law that came before.
+        The agencies cannot claim embarrassment. They cannot claim ongoing investigation.
+        They cannot claim executive privilege. They cannot claim deliberative process. They
+        cannot claim law enforcement privilege. And they cannot claim records are "lost" —
+        because the law requires a forensic audit of their systems to verify nothing was
+        deleted. The only things that can be redacted are currently active confidential
+        source identities and child exploitation material. Everything else comes out.
+
+    - slide_number: 29
+      type: law_mechanism
+      title: "Criminal Penalties: 10 Years for Withholding, 15 for Destroying"
+      content:
+        penalty_graphic:
+          - offense: "Willfully withholding records"
+            penalty: "Up to 10 years imprisonment"
+          - offense: "Destroying records"
+            penalty: "Up to 15 years imprisonment"
+          - offense: "False certification under perjury"
+            penalty: "Perjury prosecution under 18 U.S.C. 1621"
+          - offense: "Agency non-compliance"
+            penalty: "10% budget cut per month, up to 50%"
+          - offense: "AG non-compliance"
+            penalty: "Contempt of Congress — enforceable through independent counsel"
+      speaker_notes: >
+        This law has real teeth. An official who willfully withholds records faces up to
+        10 years in prison. Anyone who destroys records faces 15 years. If a senior official
+        certifies under perjury that all records have been produced and that turns out to
+        be false — perjury prosecution. If an agency misses the 30-day deadline, their
+        budget gets cut 10% per month, up to 50%. If the Attorney General refuses to comply,
+        Congress can hold them in contempt and appoint independent counsel to prosecute.
+        This isn't a suggestion. This is a law with prison time behind it.
+
+    - slide_number: 30
+      type: law_mechanism
+      title: "Records Preservation: Triggered at Bill Introduction"
+      content:
+        timeline:
+          - event: "Bill introduced in Congress"
+            action: "Preservation duty activates immediately — all agencies must freeze records"
+          - event: "Bill enacted"
+            action: "Anyone who destroyed records AFTER introduction faces 15 years"
+          - event: "Forensic audits"
+            action: "Every agency must audit its systems to prove nothing was deleted after September 10, 2025"
+          - event: "Destroyed records"
+            action: "Agencies must account for everything destroyed: what, when, by whom, under whose order"
+        key: "The preservation trigger at introduction prevents agencies from destroying evidence during the legislative process"
+      speaker_notes: >
+        One of the most important features: the records preservation trigger activates the
+        moment the bill is introduced in Congress — not when it's enacted. This prevents
+        agencies from destroying evidence during the legislative debate. Anyone who destroys
+        records after introduction faces 15 years. Every agency must conduct a forensic
+        audit proving nothing was deleted after September 10, 2025. And if records WERE
+        destroyed, they must account for every document: what it was, when it was destroyed,
+        by whom, and under whose authorization. We learned this lesson from the Epstein Act.
+        We're not making the same mistakes.
+
+    - slide_number: 31
+      type: law_mechanism
+      title: "Whistleblower Protections: Come Forward Safely"
+      content:
+        graphic: "Shield icon with whistleblower silhouette"
+        protections:
+          - "Any government employee may disclose — to the review board, Congress, Trusted Investigators, or the public"
+          - "5 years imprisonment for retaliation against a whistleblower"
+          - "Any adverse action within 2 years = presumed retaliation (burden shifts to the agency)"
+          - "Mandatory reinstatement of wrongfully affected employees"
+          - "Treble damages for willful violations"
+          - "NDAs and secrecy agreements CANNOT be used to prevent disclosure"
+          - "Private sector employees also protected"
+      speaker_notes: >
+        If you're a government employee and you know something about the Charlie Kirk case,
+        this law protects you. You can come forward to the review board, to Congress, to the
+        public. Anyone who retaliates against you faces 5 years in prison. If you suffer
+        any adverse action within 2 years of disclosing, it's presumed to be retaliation
+        and the agency has to prove otherwise. You get mandatory reinstatement and treble
+        damages. And here's the kicker: no NDA, no secrecy agreement, no confidentiality
+        clause can stop you. Even private sector employees are protected. If you know
+        something, you can safely say it.
+
+    - slide_number: 32
+      type: law_mechanism
+      title: "Any American Can Sue: Private Right of Action"
+      content:
+        graphic: "Courtroom with 'We The People' banner"
+        bullets:
+          - "Any U.S. citizen can bring a lawsuit in D.C. District Court to compel compliance"
+          - "60-day written notice to the non-compliant agency"
+          - "Presumption in favor of disclosure in all proceedings"
+          - "Prevailing plaintiffs get attorney's fees and costs paid"
+          - "Courts can appoint a Special Master to go inside agencies and compel production"
+        footer: "This makes EVERY American an enforcement mechanism"
+      speaker_notes: >
+        Here's what really makes this different. Any American citizen can sue to force
+        compliance. Not just organizations or political figures — any citizen. You file in
+        D.C. District Court, give 60 days notice, and if the agency hasn't complied, you
+        can force them. The courts apply a presumption in favor of disclosure. If you win,
+        the government pays your legal fees. And a judge can appoint a Special Master to
+        physically go into the agency and pull the records out. This makes 330 million
+        Americans the enforcement mechanism.
+
+    - slide_number: 33
+      type: law_mechanism
+      title: "Independent Oversight: A Citizens' Review Board"
+      content:
+        org_chart:
+          board:
+            members: 5
+            appointed_by: "Congress — 2 by Speaker, 2 by Senate Majority Leader, 1 by Senate Minority Leader"
+            not_appointed_by: "The President has NO role"
+          powers:
+            - "Full access to all agency systems and files"
+            - "Subpoena power — including over private entities"
+            - "Monthly compliance reports to Congress"
+            - "Authority to direct agencies to pursue neglected leads"
+            - "Permanent until full compliance certified"
+          requirement: "No board member employed by any covered agency in the preceding 10 years"
+      speaker_notes: >
+        The law creates an independent review board of 5 citizens, appointed by Congress,
+        not by the President. These are people who haven't worked for any covered agency
+        in the last 10 years. They have full access to every agency system. They have
+        subpoena power over private entities. They report to Congress every month. And they
+        can direct agencies to pursue leads that are being neglected. They don't disband
+        until they certify that full compliance has been achieved. This is permanent
+        civilian oversight with real authority.
+
+    - slide_number: 34
+      type: law_mechanism
+      title: "No Classification Allowed"
+      content:
+        graphic: "Classification stamp with large red X through it"
+        text: >
+          No information related to the Charlie Kirk investigation may be classified,
+          reclassified, or withheld under any classification authority if it pertains to,
+          reveals, or suggests the involvement of, foreknowledge by, or connection to:
+        entities:
+          - "Any foreign country"
+          - "Any foreign intelligence service"
+          - "Any U.S. intelligence service (including CIA and NSA)"
+          - "The FBI"
+          - "Any branch of the U.S. military"
+        footer: "Any existing classification is automatically VOID upon enactment. Attempting to classify = obstruction."
+      speaker_notes: >
+        This provision is critical. The law explicitly prohibits classifying any information
+        related to the Charlie Kirk investigation if it touches foreign countries, foreign
+        intelligence, U.S. intelligence, the FBI, or the military. Any existing
+        classification is automatically void the moment the law is enacted. And anyone who
+        tries to classify or reclassify information after enactment is committing
+        obstruction — a criminal offense. This closes the loophole that agencies have used
+        for decades to hide embarrassing information behind classification stamps.
+
+    - slide_number: 35
+      type: impact
+      title: "What Changes the Day This Law Passes"
+      content:
+        before_after_grid:
+          - category: "Autopsy"
+            before: "Hidden"
+            after: "Public — every American can see what actually killed Charlie Kirk"
+          - category: "Video footage"
+            before: "Deleted, suppressed, withheld"
+            after: "Every frame from every camera released"
+          - category: "Cell tower data"
+            before: "FBI only"
+            after: "Public — identify every phone at UVU, including 12 Israeli phones"
+          - category: "FBI interviews"
+            before: "Zero released"
+            after: "All 302s public — every witness statement available"
+          - category: "Ballistics"
+            before: "Official narrative only"
+            after: "Full forensic analysis: trajectories, calibers, acoustic data"
+          - category: "Financial records"
+            before: "Unknown"
+            after: "Every dollar flowing to suspects — traced and public"
+      speaker_notes: >
+        Imagine the day after this law passes. The autopsy report is public. Every American
+        can see what actually caused Charlie Kirk's wound. All surveillance footage is
+        released — every camera, every angle. The cell tower dumps are public — showing
+        exactly who was at UVU, including those 12 Israeli phones. Every FBI witness
+        interview is available. The full ballistics analysis — trajectories, calibers,
+        acoustic data — all of it public. Every financial transaction flowing to the
+        suspects, traced and disclosed. This is what forced transparency looks like. And
+        it all happens within 30 days.
+
+    - slide_number: 36
+      type: impact
+      title: "Citizen Investigators Are Blocked Without Government Data"
+      content:
+        graphic: "Puzzle with large missing center piece labeled 'Government Data'"
+        bullets:
+          - "Hundreds of citizen investigators have spent months analyzing public information"
+          - "They've identified Israeli cell phones, Egyptian planes, spy planes, suspicious meetings"
+          - "But they can't access: FBI interviews, cell tower data, financial records, classified intel"
+          - "The government data is the missing piece that would connect all the dots"
+          - "This law gives citizen investigators the data they need to finish the job"
+      speaker_notes: >
+        Hundreds of citizen investigators have been working on this for months. They've
+        done incredible work with public information alone — identifying the Israeli phones,
+        the Egyptian planes, the HADES spy plane, the suspicious meetings. But they're
+        blocked. They can't get FBI interviews. They can't get cell tower data. They can't
+        get financial records. The government data is the missing center piece of the puzzle.
+        This law doesn't just inform the public — it arms citizen investigators with the
+        data they need to connect every dot.
+
+    - slide_number: 37
+      type: call_to_action
+      title: "Why This Matters for Every American"
+      content:
+        three_panels:
+          - header: "If They Can Do It to Charlie Kirk"
+            text: "A man with millions of followers, Secret Service protection talks, political connections — if they can silence him, they can silence anyone"
+          - header: "The Epstein Precedent"
+            text: "Congress proved it can force disclosure. 427-1 in the House. The mechanism works. We just need the will."
+          - header: "Transparency Is the Foundation"
+            text: "A government that hides evidence of an assassination is a government that cannot be trusted with power"
+      speaker_notes: >
+        Why should every American care? Because if they can do this to Charlie Kirk — a man
+        with millions of followers, enormous political connections, who was being discussed
+        for Secret Service protection — they can do it to anyone. The Epstein Act proved
+        Congress can force disclosure. It passed 427 to 1. The mechanism works. We just need
+        the political will. And the fundamental principle is this: a government that hides
+        evidence about the assassination of an American citizen on American soil is a
+        government that cannot be trusted with power. Transparency isn't optional. It's
+        the foundation.
+
+    - slide_number: 38
+      type: comparison
+      title: "The Epstein Act's Weakness — and How We Fixed It"
+      content:
+        comparison_table:
+          - issue: "Compliance"
+            epstein: "DOJ released ~12,285 docs of potentially 6M+ pages"
+            kirk_law: "10% budget cut per month for non-compliance"
+          - issue: "Criminal penalties"
+            epstein: "None specified"
+            kirk_law: "10 years withholding, 15 years destruction"
+          - issue: "Citizen enforcement"
+            epstein: "No private right of action"
+            kirk_law: "Any citizen can sue in D.C. District Court"
+          - issue: "Presidential override"
+            epstein: "Prohibited but untested"
+            kirk_law: "Prohibited with judicial review within 14 days"
+          - issue: "Oversight"
+            epstein: "No independent board"
+            kirk_law: "5-member permanent citizen review board with subpoena power"
+      speaker_notes: >
+        We learned from the Epstein Act's failures. The DOJ was supposed to release
+        everything — they released about 12,000 documents out of potentially 6 million
+        pages. There were no criminal penalties, no citizen enforcement mechanism, no
+        oversight board. We've fixed every single one of these weaknesses. Budget cuts for
+        non-compliance. Prison for withholding. Any citizen can sue. A permanent oversight
+        board with subpoena power. This law was designed to be un-ignorable.
+
+    - slide_number: 39
+      type: call_to_action
+      title: "What You Can Do Right Now"
+      content:
+        action_items:
+          - number: 1
+            action: "Share this presentation"
+            detail: "Every American needs to know what the FBI is hiding"
+          - number: 2
+            action: "Contact your representatives"
+            detail: "Demand they introduce and co-sponsor the Charlie Kirk Files Forced Disclosure Act"
+          - number: 3
+            action: "Follow the investigation"
+            detail: "github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"
+          - number: 4
+            action: "Support the citizen investigators"
+            detail: "The people doing the work the FBI won't do"
+          - number: 5
+            action: "Demand answers"
+            detail: "208 items. 30 days. No excuses."
+      speaker_notes: >
+        Here's what you can do right now. Share this presentation with everyone you know.
+        Contact your representatives — your House member and your two senators — and demand
+        they introduce and co-sponsor this act. Follow the investigation on GitHub. Support
+        the citizen investigators who are doing the work the FBI won't do. And above all,
+        demand answers. 208 specific items. 30 days. No excuses. No hiding. No delays. The
+        truth about what happened to Charlie Kirk belongs to the American people.
+
+    - slide_number: 40
+      type: closing
+      title: "208 Items. 30 Days. The Truth Belongs to the American People."
+      content:
+        center_text: "The Charlie Kirk Files Forced Disclosure Act"
+        subtitle: "Law 1 of 4"
+        links:
+          - label: "Full law text"
+            url: "github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose/blob/main/1_DoJ_FBI/Law_1_DoJ_FBI.md"
+          - label: "Investigation repo"
+            url: "github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"
+          - label: "Related repos"
+            url: "github.com/BryanStarbuck/Charlie_Kirk_Dangerous_Investigation"
+        contact: "BryanStarbuck@gmail.com"
+        closing_quote: "A government that hides evidence of an assassination cannot be trusted. Force the disclosure. Pass the law."
+      speaker_notes: >
+        208 items. 30 days. Criminal penalties for non-compliance. Any citizen can sue.
+        Permanent oversight. No presidential override. No classification. This is Law 1
+        of four proposed laws. Law 2 covers intelligence agencies. Law 3 mandates an actual
+        investigation. Law 4 puts trusted independent investigators in charge. But it
+        starts here — with forcing the FBI and DoJ to release what they already have. The
+        truth about Charlie Kirk's assassination belongs to the American people. Help us
+        pass this law. Thank you.

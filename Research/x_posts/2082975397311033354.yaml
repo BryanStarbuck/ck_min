@@ -1,0 +1,54 @@
+id: '2082975397311033354'
+url: 'https://x.com/danksterintel/status/2082975397311033354'
+author:
+  username: 'danksterintel'
+  name: 'Danks'
+  id: '1940810777566629888'
+text: |
+  😱Candace Owens INSIDE INFORMATION regarding Timpanogos Hospital.
+
+  Allegedly, at roughly 10am local time, staff were moved to a different wing of the hospital while around that time patients were said to be relocated to a new hospital.
+
+  This is concerning 😟 👇 https://t.co/uLoGNsHlWg
+created_at: '2026-07-30T23:43:29.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 7
+  reply_count: 0
+  like_count: 15
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 311
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2082975314045788160'
+      duration_ms: 100349
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2082975314045788160/img/Wh2HVGOosO05IhZW.jpg'
+      width: 2520
+      height: 1080
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2082975314045788160/vid/avc1/2520x1080/au5aG3eIjBcxL-y-.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+        - url: 'https://video.twimg.com/amplify_video/2082975314045788160/vid/avc1/1680x720/v-4QEMzqgZvL-7p7.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+        - url: 'https://video.twimg.com/amplify_video/2082975314045788160/vid/avc1/840x360/noOEyW7LXxOiYWlP.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 832000
+  images: []
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+ipfs:
+  video_cid: 'QmWtgfk8x9ntm5wz36F7sK2xW9x7dUccQ7iU8BzzRXN9XP'
+  video_gateway_url: 'https://ipfs.io/ipfs/QmWtgfk8x9ntm5wz36F7sK2xW9x7dUccQ7iU8BzzRXN9XP'
+transcription_file: 'videos_transcription/2082975397311033354.md'
+site_pages:
+  - 'site/docs/Medical/timpanogos_er_cleared_before_shooting.mdx'
+  - 'site/docs/Medical/overview.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false

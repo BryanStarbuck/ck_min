@@ -1,0 +1,41 @@
+id: '2046416354454990874'
+url: 'https://x.com/MJTruthUltra/status/2046416354454990874?s=20'
+author:
+  username: 'MJTruthUltra'
+  name: 'MJTruthUltra'
+  id: '1634986333721559041'
+text: |
+  Still my favorite Conspiracy Theory out there…   • Kash: "Rest now brother. We have the watch, and I'll see you in Valhalla"   • Tyler Robinson photo on Desktop — Goat Island  • Goat Island, Just down the road, Valhalla Danish House  • There is no documented proof of any
+created_at: '2026-04-21'
+upload_date: '20260421'
+lang: 'en'
+public_metrics:
+  retweet_count: 47
+  reply_count: 11
+  like_count: 216
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 0
+attachments:
+  videos:
+    - type: video
+      media_id: '2046416264567140352'
+      filename: '2046416264567140352.mp4'
+      ipfs_cid: 'QmchuzwZemj9rh5Z4fAPVP36KL8fqWYd4UTm5djnJRJZpc'
+      thumbnail_cid: 'QmbZjSe17pqBkg1e93MGLf2VCvR8mrAoUnZNJPfdB8fTG2'
+      description: 'Kash Valhalla quote video 1 of 3'
+    - type: video
+      media_id: '2046416264562921472'
+      filename: '2046416264562921472.mp4'
+      ipfs_cid: 'QmfJ9f9ymnw6RvHYXzGbnL9rQeHPES7Pi6TQJQnbHqBEzG'
+      thumbnail_cid: 'QmXQuJaxwCwoFuYQZtFwB6VAAp1z6odwPV2f4gkFA9Z3GW'
+      description: 'Goat Island Valhalla Danish House location video 2 of 3'
+    - type: video
+      media_id: '2046414464447287296'
+      filename: '2046414464447287296.mp4'
+      ipfs_cid: 'QmSS2HkEaF38xhE25ZsY9FUGmvcwwisnwRgKHxjvkdkZse'
+      thumbnail_cid: 'QmVYK5gLMGWeuBYDLGv1RtGcbp4mWoaBiyoNx5wRGBeebN'
+      description: 'Tyler Robinson Goat Island desktop photo video 3 of 3'
+investigation: 'charlie_kirk'
+added_date: '2026-04-20'
+temp_file: false

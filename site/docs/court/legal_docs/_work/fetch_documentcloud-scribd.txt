@@ -1,0 +1,262 @@
+FETCH LOG - lane: documentcloud-scribd
+State of Utah v. Tyler James Robinson, Case No. 251403576
+Run date: 2026-08-31
+Destination: site/internals/static/court/filings/incoming/documentcloud-scribd/
+Method: curl with browser User-Agent (Chrome/131 macOS) for substack.com and cdn.muckrock.com.
+        WebFetch for *.documentcloud.org (Cloudflare 403s every scripted client on that host).
+Nothing was paid for. No account was created. No login or paywall was bypassed.
+
+RESULT SUMMARY
+  45 PDFs kept, all verified %PDF- header + %%EOF trailer + real page objects.
+  7  text/TSV artifacts kept (5 hearing transcripts, 2 hub pages, 1 crosswalk).
+  0  files discarded as junk.
+  0  failures on the 26 requested items. 4 were exact duplicates of files already
+     obtained by a different route and are recorded as such rather than saved twice.
+
+========================================================================
+PART 1 - THE 26 REQUESTED ITEMS
+========================================================================
+#1  Memorandum in Support of Preliminary Hearing Bindover, docket 690, 7-28-26
+    HTTP 200 - 319,679 bytes - 29 pages
+    -> 2026-07-28_Memorandum_In_Support_Of_Preliminary_Hearing_Bindover_docket690.pdf
+
+#2  Defendant's Preliminary Hearing Briefing, docket 694, 8-11-26
+    HTTP 200 - 389,135 bytes - 41 pages
+    -> 2026-08-11_Defendant_Preliminary_Hearing_Briefing_docket694.pdf
+
+#3  State's Reply Supporting Preliminary Hearing Bindover, docket 700, 8-18-26
+    HTTP 200 - 277,548 bytes - 20 pages
+    -> 2026-08-18_States_Reply_Supporting_Preliminary_Hearing_Bindover_docket700.pdf
+
+#4  Defendant's Preliminary Hearing Briefing 8-11-26, DocumentCloud 28551955
+    curl -> HTTP 403 (Cloudflare, host-wide, not document-specific).
+    WebFetch -> real PDF, 383,293 bytes, 40 pages.
+    -> 2026-08-11_Defendant_Preliminary_Hearing_Briefing_DocumentCloud_28551955_copy.pdf
+    NOTE: same filing as #2 but NOT byte-identical - 383,293/40pp here vs 389,135/41pp
+    from Substack. DocumentCloud re-renders on ingest. Both kept; treat the Substack
+    copy as the closer-to-source one.
+
+#5  PRELIMINARY HEARING minute entry, docket 677, 7-8-26
+    HTTP 200 - 729,039 bytes - 4 pages
+    -> 2026-07-08_Preliminary_Hearing_Minute_Entry_Day1_docket677.pdf
+    Companion #686 DAY 2 also fetched: HTTP 200 - 728,371 bytes - 3 pages
+    -> 2026-07-21_Preliminary_Hearing_Minute_Entry_Day2_docket686.pdf
+
+#6  Defendant's Discovery Status Report, docket 716, 8-28-26
+    HTTP 200 - 572,857 bytes - 17 pages
+    -> 2026-08-28_Defendant_Discovery_Status_Report_docket716.pdf
+
+#7  Ruling and Order GRANTING Motion for Order to Show Cause for Contempt, docket 561, 6-1-26
+    HTTP 200 - 268,404 bytes - 4 pages
+    -> 2026-06-01_Ruling_And_Order_Granting_Motion_Order_To_Show_Cause_Contempt_docket561.pdf
+    Companion #651 (6-26-26 ruling) confirmed to have NO pdf embed on the source page.
+    NOT FETCHED - no URL exists to fetch. Needs the paid docket or a human.
+
+#8  Ruling and Order on Objections to Electronic Media Requests, docket 657, 6-30-26
+    HTTP 200 - 823,416 bytes - 13 pages
+    -> 2026-06-30_Ruling_And_Order_On_Objections_To_Electronic_Media_Requests_docket657.pdf
+
+#9  State's Preliminary Hearing Witness and Exhibit List, docket 520, 5-6-26
+    HTTP 200 - 372,832 bytes - 6 pages
+    -> 2026-05-06_States_Preliminary_Hearing_Witness_And_Exhibit_List_docket520.pdf
+
+#10 Search warrant affidavit 3212261 - body and effects of Charlie Kirk, Timpanogos Regional
+    HTTP 200 - 103,454 bytes - 6 pages
+    -> 2025-09-10_Search_Warrant_Affidavit_3212261_Body_And_Effects_Of_Charlie_Kirk_Timpanogos.pdf
+
+#11 Search warrant affidavit 3213451 - person of Tyler Robinson: trace, prints, DNA
+    HTTP 200 - 113,393 bytes - 8 pages
+    -> 2025-09-12_Search_Warrant_Affidavit_3213451_Person_Of_Tyler_Robinson_Trace_Prints_DNA.pdf
+
+#12 Search warrant affidavit 3214311 - Discord "Craftopia", "Gamin", "The Corruption"
+    HTTP 200 - 154,123 bytes - 12 pages
+    -> 2025-09-13_Search_Warrant_Affidavit_3214311_Discord_Craftopia_Gamin_The_Corruption.pdf
+
+#13 Search warrant affidavit 3229461 - Discord Inc., "Dufuss & Doobers" (tism time)
+    HTTP 200 - 139,549 bytes - 13 pages
+    -> 2025-10-06_Search_Warrant_Affidavit_3229461_Discord_Dufuss_And_Doobers_Server.pdf
+
+#14 Search warrant affidavit 3215171 - CSAM on George Zinn phone
+    HTTP 200 - 185,808 bytes - 24 pages
+    -> 2025-09-15_Search_Warrant_Affidavit_3215171_CSAM_On_George_Zinn_Phone.pdf
+
+#15 Search Warrant Affidavits hub page (25 affidavits)
+    HTTP 200 - 185,750 bytes HTML. Web page, so saved as text.
+    -> 2026-07-13_Burkhart_Tyler_Robinson_Search_Warrant_Affidavits_Hub_25_Affidavits.txt (4,960 bytes)
+    25 distinct PDF embed URLs confirmed on the page. See PART 2 - all 25 downloaded.
+
+#16 "Charlie Kirk Legal Documents" 720-entry docket reconstruction
+    HTTP 200 - 788,478 bytes HTML. Web page, so saved as text.
+    -> 2026-08-31_Burkhart_Charlie_Kirk_Legal_Documents_720_Entry_Docket_Reconstruction.txt (79,712 bytes)
+    264 distinct api/v1/file/*.pdf embed URLs counted in the HTML (the brief said 258;
+    264 is what the raw page actually contains after de-duplication).
+    THE FULL 258+ PDF PULL WAS NOT ATTEMPTED IN THIS LANE - it is a separate bulk job and
+    _work/burkhart_docket_720.tsv already holds every URL. Flagged for whoever owns that.
+
+#17 Rev transcript, Preliminary Hearing Day 1
+    HTTP 200 - 863,451 bytes HTML -> transcript text extracted
+    -> 2026-07-08_UT_v_Tyler_Robinson_Preliminary_Hearing_Day1_Rev_Transcript.txt (315,733 bytes)
+    Verified opens "Bayliff (06:57): All rise... Judge Tony F. Graf, Jr., presiding." and
+    closes "court is in recess until 9:00 AM tomorrow morning."
+
+#18 Rev transcript, Day 2
+    HTTP 200 - 812,482 bytes HTML
+    -> 2026-07-09_UT_v_Tyler_Robinson_Preliminary_Hearing_Day2_Rev_Transcript.txt (312,334 bytes)
+
+#19 Rev transcript, Day 3
+    HTTP 200 - 388,655 bytes HTML
+    -> 2026-07-10_UT_v_Tyler_Robinson_Preliminary_Hearing_Day3_Rev_Transcript.txt (125,889 bytes)
+
+#20 Rev transcript, Day 4
+    HTTP 200 - 794,260 bytes HTML
+    -> 2026-07-10_UT_v_Tyler_Robinson_Preliminary_Hearing_Day4_Rev_Transcript.txt (301,762 bytes)
+
+#21 Rev transcript, Day 5
+    HTTP 200 - 351,772 bytes HTML
+    -> 2026-07-10_UT_v_Tyler_Robinson_Preliminary_Hearing_Day5_Rev_Transcript.txt (100,696 bytes)
+    Closes "this proceeding is adjourned until September 1st at 10:00 AM" - confirms the
+    9-1-26 final-argument setting.
+
+    ** DATE CAUTION ON #17-#21 **
+    The filenames carry the dates supplied in the task brief (7-8, 7-9, 7-10, 7-10, 7-10).
+    Those dates are almost certainly wrong for Days 4 and 5: three sitting days cannot all
+    be 7-10, the Day 2 MINUTE ENTRY on the docket is dated 7-21-26 (not 7-9), and Day 4's
+    transcript discusses the August 11 and August 18 briefing deadlines - which is late-July
+    talk, not July 10. The reliable ordering is the DayN in each filename. No date was
+    invented to "fix" this; the sitting dates should be pinned from the minute entries
+    (docket 677, 686, and the three later ones) before any page cites them.
+    Also: these are Rev machine transcripts, NOT certified court reporter transcripts.
+    Each file carries that warning in its header.
+
+#22 DocumentCloud project 224251 - 46 filings, titles carry docket numbers
+    curl -> HTTP 403. WebFetch -> HTTP 200 JSON, count 46.
+    The API caps at 25 results/page, so cursor pagination was followed to page 2 to get
+    all 46. Full crosswalk written to:
+    -> 2026-03-16_DocumentCloud_Project_224251_Charlie_Kirk_Murder_Case_Tyler_Robinson_46_Filings_Crosswalk.tsv
+       (9,043 bytes; 46 data rows; columns id / title / pages / slug)
+    This is the docket-number crosswalk the local inventory lacks.
+    Four filings the brief flagged as NOT HELD were then downloaded - see PART 3.
+
+#23 Docket snapshots as of 3-15-2026
+    Both s3.documentcloud.org URLs -> HTTP 403 to curl. WebFetch retrieved both intact.
+    a) "all docket entries as of 3-15-2026", id 27880533
+       28,303 bytes - 13 pages (matches DocumentCloud's own page count)
+       -> 2026-03-15_Tyler_Robinson_All_Docket_Entries_As_Of_3-15-2026_DocumentCloud_27880533.pdf
+    b) "case list of all filings and hearings as of 3-15-2026", id 27880531
+       59,301 bytes - 31 pages (matches). Note the slug differs from the title, as warned.
+       -> 2026-03-15_Tyler_Robinson_Case_List_Of_All_Filings_And_Hearings_As_Of_3-15-2026_DocumentCloud_27880531.pdf
+    Two independent docket snapshots now on disk to cross-check the Burkhart reconstruction.
+
+#24 Motion to Vacate or Continue, 69-page copy with exhibits
+    SOLVED BY A BETTER ROUTE. Rather than fight the s3 403, the Burkhart docket TSV was
+    grepped and entry 463 is "Defendant's Motion to Vacate or Continue Preliminary Hearing
+    WITH ADDENDA, 3-27-26" - a curl-fetchable Substack embed.
+    HTTP 200 - 1,551,455 bytes - 69 pages. The 69 confirms this is the same fuller copy
+    as DocumentCloud 27998189, exhibits included.
+    -> 2026-03-27_Defendant_Motion_To_Vacate_Or_Continue_Preliminary_Hearing_With_Addenda_docket463.pdf
+    This supersedes the local 3_27_26_Defendant's_Motion_To_Continue_Preliminary_Hearing.pdf,
+    which is the shorter no-exhibit version.
+
+#25 Supplemental Notice Concerning Access to Evidence Presented in Open Court
+    Fetched from the curl-friendly Substack route (docket 678) as the brief suggested.
+    HTTP 200 - 190,605 bytes - 8 pages
+    -> 2026-07-08_Supplemental_Notice_Access_To_Evidence_Presented_In_Open_Court_docket678.pdf
+    The DocumentCloud copy (28443912, 4 pages, with the "evidennce" typo in the slug) was
+    NOT separately downloaded - the Substack copy is longer and came from a working route.
+
+#26 FBI FOIA determination letters, request 1683022-000 "Tyler Robinson Arrest 2"
+    Both HTTP 200 from cdn.muckrock.com.
+    a) 2026-08-31 determination, status REJECTED: 162,689 bytes - 4 pages
+       -> 2026-08-31_FBI_FOIA_Determination_Letter_1683022-000_Tyler_Robinson_Arrest_2_REJECTED.pdf
+    b) 2025-09-29 earlier letter, same request: 135,533 bytes - 2 pages
+       -> 2025-09-29_FBI_FOIA_Letter_1683022-000_Tyler_Robinson_Arrest_2_Earlier.pdf
+    These are determination letters ONLY. The UVU PD body-worn camera footage of the
+    9-11-25 arrest was NOT released and is not in these files.
+
+========================================================================
+PART 2 - ALL 25 SEARCH WARRANT AFFIDAVITS (the payload of item #15)
+========================================================================
+Item #15 is a hub page whose entire content is 25 free, curl-fetchable affidavit PDFs.
+Five were named individually as items #10-#14 and sit at the top level. The other 20 were
+downloaded into search_warrant_affidavits_other_20/ so the requested-vs-extra split stays
+visible. All 20 returned HTTP 200 with valid PDFs:
+
+  3212321  surveillance footage, Intermountain Health Utah Valley Hospital  102,707 b   6p
+  3212601  anonymized geofence data from Google                            139,800 b  15p
+  3212881  electronic device of Omar Najera                                760,826 b   9p
+  3212941  cell tower dump - T-Mobile, AT&T, Verizon                       159,854 b  14p
+  3213481  premises 3419 S River Rd Unit 73, St. George UT                 117,900 b   8p
+  3213501  2013 Dodge Challenger, Utah lic T44CE                           128,679 b  11p
+  3213511  guns/accessories, 894 Cimarron Dr, Washington UT                129,210 b  10p
+  3213621  iPhone 14, clear Otterbox, cracked screen                       118,540 b   9p
+  3213811  contents of dark blue iPhone 13 A2482                           150,216 b  10p
+  3214291  dark blue iPhone 13 A2482 (second warrant)                      143,297 b   9p
+  3214341  Verizon account records 435-632-2471                            155,102 b  13p
+  3214411  Verizon location data 435-922-8263                              157,286 b  12p
+  3214731  Verizon location data 435-632-2471                              154,441 b  12p
+  3214751  multiple digital devices, St. George apartment search           154,388 b  11p
+  3214771  2013 Dodge Challenger (2nd - infotainment system basis)         153,313 b  11p
+  3215261  Google accounts cratfin247@ and trobinsonut@                    136,533 b  13p
+  3215391  VANTRUE dash camera, s/n VTN2P212969                            133,184 b  11p
+  3216271  Lumen/Quantum Fiber account, trobinsonut@                       118,962 b  12p
+  3217031  Apple/iCloud, cratfin247@gmail.com                              117,325 b  12p
+  3217131  Apple/iCloud, lancetwiggs@icloud.com + memesinsteadofdreams@    116,895 b  12p
+
+========================================================================
+PART 3 - DOCUMENTCLOUD-ONLY FILINGS (documentcloud_only/)
+========================================================================
+Four filings the brief named as NOT in local inventory. All 403 to curl, all retrieved
+whole via WebFetch. All verified valid PDFs.
+
+  docket 250  12-17-2025 Defendant Motion to Disqualify Prosecutor and/or Judge for
+              Conflict of Interest          2,744,947 bytes - 47 pages  (id 27880873)
+  docket 289  1-5-2026 Prosecutor Opposition to Motion to Disqualify UCAO
+                                            4,522,827 bytes - 32 pages  (id 27880888)
+  docket 242  12-15-2025 Ruling and Order Granting Motion to Clarify Pretrial and Trial
+              Publicity Order                 233,601 bytes -  3 pages  (id 27880866)
+  docket 413  2-13-2026 Minute Order on Oral Argument of Evidentiary Hearing
+                                              729,537 bytes -  3 pages  (id 27881507)
+
+========================================================================
+PART 4 - FAILURES, BLOCKS, AND ROUTES THAT NEED A HUMAN
+========================================================================
+NONE of the 26 requested items failed outright. The blocks below are real and observed.
+
+BLOCK 1 - documentcloud.org is Cloudflare-blocked to every scripted client, host-wide.
+  Observed HTTP 403 on ALL of these, with a full browser header set (UA, Accept,
+  Accept-Language, sec-ch-ua, sec-ch-ua-platform, Sec-Fetch-*, Referer):
+      403  https://s3.documentcloud.org/documents/28551955/...pdf
+      403  https://assets.documentcloud.org/documents/28551955/...pdf
+      403  https://www.documentcloud.org/documents/28551955-.../
+      403  https://documentcloud.org/documents/28551955-.../
+      403  https://embed.documentcloud.org/documents/27880533-.../
+      403  https://api.www.documentcloud.org/api/documents/28551955/
+  This is NOT document-specific and NOT evidence anything was removed - the same 403
+  comes back for the API root. WebFetch gets through and returns the real bytes, so
+  everything wanted from DocumentCloud in this lane WAS obtained. A human with a browser
+  is only needed for bulk work there.
+
+BLOCK 2 - Burkhart docket entry 651, "Ruling And Order On Defendant's Motion For an Order
+  To Show Cause For Contempt Of Court, 6-26-26". Listed on the page with NO pdf embed.
+  There is no URL to fetch. Nothing was invented. A human must open the Substack post
+  and confirm, or buy it from the court. This is the contempt line of inquiry, so it is
+  worth chasing.
+
+BLOCK 3 - Not attempted on purpose: the 258+ PDF bulk pull off the 720-entry docket
+  reconstruction (item #16). Every URL is already parsed into
+  _work/burkhart_docket_720.tsv. That is a separate bulk job, not this lane.
+
+BLOCK 4 - Items on the Burkhart docket tagged "(Not obtained)" were never purchased by
+  the author, and items tagged "**** PRIVATE ****" are sealed. Neither is retrievable by
+  any route here. No paywall was approached and no payment was made.
+
+NOT DOWNLOADED AS DUPLICATES (deliberate, not failures):
+  - DocumentCloud 27998189 motion to vacate: the identical 69-page content was obtained
+    from Substack docket 463. Verified by page count.
+  - DocumentCloud 28443912 supplemental notice: obtained from Substack docket 678, which
+    is the longer copy (8pp vs DocumentCloud's 4pp).
+
+VERIFICATION PERFORMED ON EVERY PDF
+  header == %PDF- , %%EOF present in the last 4KB, and /Type /Page objects counted.
+  All 45 passed. No file under 5 KB. No HTML error page, login wall, or Cloudflare
+  challenge was kept. Zero files deleted, because zero junk was produced.

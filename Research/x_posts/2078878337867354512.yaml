@@ -1,0 +1,38 @@
+id: '2078878337867354512'
+url: 'https://x.com/DiligentDenizen/status/2078878337867354512'
+author:
+  username: 'DiligentDenizen'
+  id: '1585809424135995392'
+text: |
+  Remember George Zinn told me he worked for TPUSA?
+
+  Remember @RealCandaceO reported Zinn told hospital staff he was paid to be a decoy when Charlie Kirk was hit?
+
+  Remember officer Hull testified Tyler Robinson met with "TPUSA representatives" 9/10?
+
+  I do.
+created_at: '2026-07-19T16:23:14.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 256
+  reply_count: 82
+  like_count: 1086
+  quote_count: 12
+  bookmark_count: 199
+  impression_count: 18801
+attachments:
+  videos:
+    - type: video
+      media_key: '7_2017806416270991360'
+      duration_ms: 274321
+      width: 720
+      height: 742
+      ipfs_cid: 'QmbkrGVMSbE7Bxvw8NCiNWUqdKL1SWRfiBbAXXCMpFSyzM'
+media_from_quoted_status:
+  quoted_status_id: '2017806547112374718'
+  quoted_status_url: 'https://x.com/DiligentDenizen/status/2017806547112374718'
+  quoted_author: '@DiligentDenizen'
+transcribed: false
+investigation: 'charlie_kirk'
+added_date: '2026-07-20'
+temp_file: false

@@ -1,0 +1,32 @@
+id: '2104724240863834488'
+url: 'https://x.com/billiewebbb/status/2104724240863834488'
+author:
+  username: 'billiewebbb'
+  name: 'Billie Webb'
+  id: '2321830939'
+text: |
+  incase anybody wasn’t aware: the site where Charlie Kirk sat (despite being excavated and paved over) still has 2 metal doors (with locks). https://t.co/nr6IkeFCYX
+created_at: '2026-09-29T00:05:37.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 96
+  reply_count: 52
+  like_count: 1097
+  quote_count: 3
+  bookmark_count: 50
+  impression_count: 33994
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2104724237629997056'
+      url: 'https://pbs.twimg.com/media/HTV7ivYXQAA3Hct.jpg'
+      width: 1170
+      height: 560
+investigation: 'charlie_kirk'
+added_date: '2026-09-29'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

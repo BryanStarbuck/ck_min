@@ -1,0 +1,50 @@
+# This is when run from the CLI. In CURSOR-AGENT.
+
+
+###########  INSTRUCTIONS   ##############################
+Carry out the instructions in:
+~/BGit/act3/charlie-kirk/Prompt/Grow_Content_Structure/p_Level_2.txt
+
+
+########### OUTPUT FILES ##############################
+This is the BEFORE_OUTPUT_FILE:
+~/BGit/act3/charlie-kirk/Content_Structure/CS_Before.yaml
+
+This is the AFTER_OUTPUT_FILE:
+~/BGit/act3/charlie-kirk/Content_Structure/CS_After.yaml
+
+
+
+###########  XDIFF_DIR   ##############################
+XDIFF_DIR is in:
+~/BGit/act3/charlie-kirk/Prompt/Grow_Content_Structure/xdiff/
+
+
+########### INPUT FILES ##############################
+Import the file contents from all files in this directory. Understanding them will be required when doing everything else.
+~/BGit/act3/charlie-kirk/knowledge/
+
+This is the file format for the output file AFTER_OUTPUT_FILE:
+~/BGit/act3/charlie-kirk/Prompts/2_Level/in/in_Content_Structure.yaml
+
+Input as an example of AFTER_OUTPUT_FILE:
+~/BGit/act3/charlie-kirk/Prompts/2_Level/in/in_Big_Example.yaml
+
+########### INPUT FILES ##############################
+This website is a Docusaurus website of markdown files.
+The root directory of the Docusaurus website is.
+SITE_ROOT = ~/BGit/act3/charlie-kirk/
+
+The content for Level 1 and below is in:
+SITE_DOC_ROOT = ~/BGit/act3/charlie-kirk/docs/
+
+
+The content for Level 1 and below is in:
+SITE_HOME_PAGE = ~/BGit/act3/charlie-kirk/docs/index.md
+
+
+
+* Don't use directories with "/bryan/Library/CloudStorage/BGit/" in it.
+* For example, Don't use "/Users/bryan/Library/CloudStorage/BGit/"
+   * Instead use "/Users/bryan/BGit"
+

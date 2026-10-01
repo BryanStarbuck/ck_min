@@ -1,0 +1,7 @@
+Medical Level_3 pages to create/update (filenames only):
+- autopsy_and_medical_examiner.md
+- hospital_and_emergency_response.md
+- lapel_mic_and_audio_theories.md
+- ballistics_and_wound_analysis.md
+- data_manipulation_and_cell_forensics.md
+- construction_and_site_changes.md

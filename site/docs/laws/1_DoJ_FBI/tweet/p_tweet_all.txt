@@ -1,0 +1,216 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/laws
+
+LAW_1_DIR dir is {ROOT_DIR}/1_DoJ_FBI
+LAW_2_DIR dir is {ROOT_DIR}/2_US_Intel
+LAW_3_DIR dir is {ROOT_DIR}/3_Require_to_Investigate
+LAW_4_DIR dir is {ROOT_DIR}/4_Trusted_Investigations
+
+LAW_1_FILE is file {LAW_1_DIR}/Law_1_DoJ_FBI.md
+LAW_2_FILE is file {LAW_2_DIR}/Law_2_US_Intel.md
+LAW_3_FILE is file {LAW_3_DIR}/Law_3_Require_to_Investigate.md
+LAW_4_FILE is file {LAW_4_DIR}/Law_4_Trusted_Investigations.md
+
+THIS_DIR dir is {LAW_1_DIR}/tweet
+
+BACKGROUND_FILE is file {LAW_4_DIR}/tweet/background.txt
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_all.txt
+
+FOCUS is ALL FOUR LAWS as a single beta-review release.
+        The audience is here to learn about all four laws.
+        Do NOT favor one law over the others. Treat them as a set.
+
+THE_FOUR_LAWS are:
+        Law 1 = Force the FBI to Open Its Files (DoJ/FBI Forced Disclosure Act)
+        Law 2 = Force the Spies to Open Their Files (Intelligence Services Disclosure Act)
+        Law 3 = Force Real Investigations (Mandatory Investigation Act)
+        Law 4 = Embed Citizen Investigators Inside the Agencies (Trusted Investigators Act)
+
+==========================================================
+CHARTER -- BETA REVIEW RELEASE
+==========================================================
+
+* The charter for this tweet is adjusted from the per-law tweets.
+* This post announces that the FOUR LAWS are being released for BETA REVIEW.
+* The laws are drafts. They are ready for public review and feedback.
+* The reader is being invited to read them, critique them, and respond.
+* The post is NOT a final-form announcement. It is a call for review.
+* The post must give the reader enough understanding of all four laws to
+  decide where to engage and what to give feedback on.
+
+==========================================================
+STAGE 1 -- READ THE FOUR LAWS RECURSIVELY
+==========================================================
+
+* Walk down from {ROOT_DIR} and read every file under the four law directories
+  recursively into the context window:
+        {LAW_1_DIR}/
+        {LAW_2_DIR}/
+        {LAW_3_DIR}/
+        {LAW_4_DIR}/
+* Read each of {LAW_1_FILE}, {LAW_2_FILE}, {LAW_3_FILE}, {LAW_4_FILE} in full.
+* Read {BACKGROUND_FILE} for the short framing of all four laws.
+* Read {ROOT_DIR}/README.md and {ROOT_DIR}/CLAUDE.md for project context.
+* Understand:
+  * What each of the four laws does, on its own and as a set.
+  * How the four laws differ in scope, mechanism, and target agencies.
+  * Why each law is structurally necessary -- and why three or fewer would fail.
+  * The thesis: Tyler Robinson did not act alone. An intelligence service
+    was involved. These four laws together force the truth out.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is a single piece of writing about ALL FOUR laws as a beta release.
+* Do not focus on one law. Give each law its own section with equal weight.
+
+----------- THE FIRST 40 WORDS (CRITICAL) -----------
+
+* The first 40 words must perfectly catch attention and explain the stakes.
+* Start with Charlie Kirk.
+* State up-front that FOUR federal laws are being released for BETA REVIEW --
+  drafts open for public review and feedback.
+* The 40 words must:
+  * Anchor the reader in the Charlie Kirk case.
+  * Establish that there are FOUR laws being released.
+  * Make clear these are DRAFTS in beta review, asking for feedback.
+  * Make clear the purpose is forced legal disclosure of the truth.
+  * Lead the reader straight into the four-law overview that follows.
+
+----------- THE NEXT 200 WORDS (NEXT CRITICAL) -----------
+
+* The next ~200 words must deliver what the reader expects after the hook.
+* Cover the FULL SET of four laws -- not any one in isolation.
+* Educate a reader who is not ramped up on this investigation:
+  * Why four laws are needed, not one.
+  * What problem each law solves that the others do not.
+  * Why prior disclosure laws (JFK Records Act, Epstein Files Act) failed,
+    and how this set of four is designed to avoid those failures.
+  * How to engage with the beta review (read, critique, give feedback).
+* Do NOT spend disproportionate time on any single law in this section.
+* Quality bar: every sentence earns its place. No fluff. No throat-clearing.
+
+----------- THE BULLET SECTIONS (AFTER THE BODY) -----------
+
+* After the 200-word body, the tweet continues with FOUR bullet sections --
+  one section per law, in numeric order: Law 1, Law 2, Law 3, Law 4.
+* Each section starts with a clear header naming the law. Suggested header
+  format:
+
+        Law 1 -- Force the FBI to Open Its Files
+        Law 2 -- Force the Spies to Open Their Files
+        Law 3 -- Force Real Investigations
+        Law 4 -- Embed Citizen Investigators Inside the Agencies
+
+* Under each header, place an asterisk bullet list of that law's key points.
+* TWELVE BULLETS OR LESS per law. Aim for the strongest 8-12 bullets each.
+* Sort the bullets within each law by what a non-ramped-up audience will
+  want to learn FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack multiple
+  points into one bullet.
+
+Suggested point categories to draw from for each law (pick the strongest,
+in audience-priority order):
+
+  Law 1 -- DoJ/FBI Forced Disclosure:
+        * Forces DoJ, FBI, ATF, CBP, TSA, DHS, FinCEN to disclose
+        * 30-day deadline from enactment
+        * Covers all 175 Schedule A items plus broad catch-all
+        * Criminal penalties: 10 years for withholding, 15 for destruction
+        * No presidential override allowed
+        * Automatic 25% budget cut for non-compliance
+        * Private right of action for citizens
+        * Permanent congressional review board
+        * Whistleblower protections with treble damages
+        * Records preservation triggered at bill introduction
+        * Anti-embarrassment clause -- no reputational-harm withholding
+
+  Law 2 -- Intelligence Services Disclosure:
+        * Forces CIA, NSA, DIA, NRO, NGA, ODNI to release Kirk-related intel
+        * Covers entire Intelligence Community (50 U.S.C. 3003(4))
+        * Redaction only for active human sources and active methods
+        * Analytical conclusions must always be disclosed
+        * Same criminal penalties as Law 1
+        * No presidential override allowed
+        * Whistleblower protections inside the IC
+        * Records preservation triggered at bill introduction
+        * Companion statute to Law 1 -- closes the intel loophole
+
+  Law 3 -- Mandatory Investigation:
+        * Goes beyond disclosure -- forces real investigation
+        * Dedicated FBI team of at least 20 agents
+        * $10 million independent budget
+        * Lead agent must have no prior case involvement
+        * Investigates every one of the 175 Schedule A items
+        * Independent external monitor appointed by Congress
+        * Conflict-of-interest trigger transfers authority if agency implicated
+        * Public reports every six months
+        * No presidential override allowed
+
+  Law 4 -- Trusted Investigators / Embedded Citizens:
+        * Named citizen investigators with full access
+        * Embedded inside FBI and U.S. Intelligence Community
+        * Independent teams covering FBI and IC
+        * Immediate TOP SECRET / SCI clearances
+        * Independent budgets, independent counsel
+        * Authority to publicly release findings
+        * Whistleblower bounty -- minimum $1,000,000 for foreign intel leads
+        * No presidential override allowed
+        * Cannot be terminated by any government official
+        * 90-day public reports on each disclosure item
+        * Up to 15 years prison for interference
+        * Government employees can volunteer secretly, bypass chain of command
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that these four laws are at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback -- and call out
+  attorneys in particular as the audience whose feedback is most wanted.
+* Place this draft/feedback framing somewhere in the body or near the
+  closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute the laws to their author:
+  the laws were drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by @HolonCitizen
+  and that these laws live at the URL below as part of the website's
+  bigger investigation into the Charlie Kirk assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+
+----------- TONE AND VOICE -----------
+
+* Plain, direct, no jargon. Written for citizens, not lawyers.
+* Frame as a beta-review release throughout -- these are drafts, feedback wanted.
+* Defamation-safe language throughout: never state as fact that any living
+  person committed a crime. Use "allegedly", "reportedly", "evidence
+  suggests" where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it is
+  designed for a thread or a long-form X post. Write it as one continuous
+  piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_1_FILE}, {LAW_2_FILE}, {LAW_3_FILE}, {LAW_4_FILE},
+  {BACKGROUND_FILE}, or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the body
+  * each of the four bullet sections
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE}"
+Output to stdout "============================================="

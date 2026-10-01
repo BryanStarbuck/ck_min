@@ -1,0 +1,133 @@
+<!-- Converted from 2025/105_2025-12-29_Ruling_and_Order_re_Stipulated_Motion_to_Classify_Transcript_and_Audio_as_Private.pdf -->
+# 105 2025-12-29 Ruling and Order re Stipulated Motion to Classify Transcript and Audio as Private
+
+> **Source PDF:** `court/filings/2025/105_2025-12-29_Ruling_and_Order_re_Stipulated_Motion_to_Classify_Transcript_and_Audio_as_Private.pdf` — served at `/court/filings/2025/105_2025-12-29_Ruling_and_Order_re_Stipulated_Motion_to_Classify_Transcript_and_Audio_as_Private.pdf`  
+> **Pages:** 6  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+# IN THE FOURTH JUDICIAL DISTRICT COURT UTAH COUNTY, STATE OF UTAH 
+
+## STATE OF UTAH, 
+
+Plaintiff, 
+
+vs. 
+
+RULING AND ORDER RE STIPULATED MOTION TO CLASSIFY TRANSCRIPT AND AUDIO AS PRIVATE 
+
+TYLER JAMES ROBINSON, 
+
+Case No. 251403576 
+
+Defendant. JUDGE TONY F. GRAF, JR. 
+
+The State of Utah and Defendant Tyler James Robinson filed a joint motion to classify the transcript and audio of the sealed October 24, 2025, hearing as private. (Dkt. 152). Because the press requested notice of all such motions, the Court held a closure hearing on December 11, 2025, to address the classification of the transcript and audio recording of the October 24, 2025, hearing. (Dkt. 172). Prior to that closure hearing, the parties filed a joint status report identifying some twenty provisions of the transcript for redaction and stating that the balance of the transcript may be classified as public. (Dkt. 209). Having reviewed the relevant pleadings from the parties and representatives of the press and heard oral arguments during the December 11, 2025, closure hearing, the Court now rules and orders as follows: 
+
+The public has a presumptive right to access court records. See Utah R. Jud. Admin. 4- 202.02(1); see also State v. Allgier, 2011 UT 47, { 13. That right, however, “is not absolute.” See Allgier at J 14. To support and achieve certain interests and objectives, a court may close portions or an entire court record. See Utah R. Jud. Admin 4-202 (providing non-exhaustive list of interests and objectives both for and against closure). A court may consider “any relevant factor, interest, or policy” both in favor ofand opposed to closure in determining whether to redact portions of or close all or part of a court record. Utah R. Jud. Admin. 4-202.04(6). In 
+
+Page 1 of 5 
+
+deciding whether to redact or close a court record, a court must balance the interests favoring opening and closing the record and, if it determines to close the record, “determine there are no reasonable alternatives to closure.” Utah R. Jud. Admin. 4-202.04(6). 
+
+The parties have argued, and the Court has considered, the following policy interests in determining the motion: 1) protecting safety interests; 2) protecting privacy interests and nonparty participants; and 3) protecting Defendant’s right to a fair trial. 
+
+1. Protecting Safety Interests 
+
+Approximately half of the portions of the transcript the parties seek to redact address courtroom and courthouse security measures. Safety concerns are well recognized as justification for closure of court records. Utah R. Jud. Admin. 4-202(2)(B) (listing “personal and public safety” as important objective justifying closure); see also State v. Harding, 635 P.2d 33, 36 (Utah 1981) (identifying safety concerns as “well recognized justification” for closure order). This undoubtedly includes references in court records to specific safety measures undertaken as part of the court security plan and practices in “highly publicized case[s].” Utah R. Jud. Admin. 3-414(9)(D); see also Utah R. Jud. Admin. 4-202.02(5)(F) (classifying court security plans as protected). 
+
+This case generates extraordinary ongoing national and international attention, some of which is threatening in nature to the parties, their representatives, and non-party participants (e.g. witnesses and court personnel). The safety and well-being of all involved in this matter outweighs the interests of the public that are served by open court records. See Utah R. Jud. Admin 4-202(1) (listing interests served by public court records). Nevertheless, and as the parties recognize, the Court need not seal the entire transcript and audio of the October 24, 2025, hearing to protect the safety interests of all involved. Redacting selective portions of the transcript and audio that reference security measures will serve safety interests while allowing for as much public access to the remainder of the record as possible. 
+
+The Court hereby orders redaction of the portions of the transcript and corresponding audio referencing security measures identified in the parties’ joint status report and as further pared down during the closure hearing. These include the following portions of the October 24, 2025, hearing transcript: 
+
+- e Page 4:19-22, following the word “unshackling” until the sentence beginning with “And”. 
+
+Page 2 of 5 
+
+- e Page 4:25-5:1, including the first sentence of the last paragraph. 
+
+- e Page 5:9-10, following “proceeding.” and ending before “,but”. 
+
+- e Page 5:18-19, including the entirety of the Bailiff’s comment. 
+
+- e Page 33:17-18, following “courtroom” until the end of the sentence. 
+
+- e Page 34:5-7, following “arrested,” until the end of that sentence. 
+
+- e Page 35:24-25, including the last sentence on the page. 
+
+- e Page 36:1, including the first word on the page until the sentence beginning with “That’s”. 
+
+- e Page 40:12-16, following “outside--” until “. Maybe”. 
+
+- e Page 41:17-21, following the word “on.” until the end of that paragraph. 
+
+- e Page 43:11-13, following the word “jail.” and ending before the sentence beginning with “And”. 
+
+- e Page 55:12-13, following the word “people.” and ending before the sentence beginning with “So”. 
+
+- e Page 64:18-19, following the word “been” until the end of that paragraph. 
+
+- e Page 70:1-3, following the word “clothing,” until the sentence beginning with “[?'m”. 
+
+## 2. Protecting Privacy Interests and Non-Party Participants 
+
+Protecting personal privacy is a recognizable justification for closing a court record. See Utah R. Jud. Admin. 4-202(2)(A), (E); see State v. Chadwick, 2023 UT 12, § 46-47 (discussing privacy interests in medical and therapy records and protecting non-party participants from harassment and abuse as justification for sealing records); see also Doe v. Stegall, 653 F.2d 180, 185 (5'* Cir. 1981) (finding combination of minor children as parties and case specific threat of violence justified use of pseudonyms). To<sup>justifythe closure of a court record,a privacyinterest</sup> must be more than a desire to avoid annoyance, criticism, or embarrassment and must serve to protect information of a highly personal nature See James v. Jacobson, 6 F.3d 233, 238 (4thCir. 1993); see also Carter v. Se. Oklahoma Fam. Servs., Inc., No. 22-CV-20-DES, 2024 WL 4502096, at *2 (E.D. Okla. Oct. 16, 2024) (“huge swaths ofjudicial records would be rendered inaccessible if [the presence of embarrassing and inflammatory facts] were sufficient to seal an entire case.”). 
+
+Page 3 of 5 
+
+The parties initially identified six portions of the transcript to be redacted based on privacy interests. See Joint Status Report (dkt 209), Def’s requests 1-4; 10-11. During the closure hearing, the parties withdrew Defendant’s requests numbers 1, 2, and 11. The remaining three requests were significantly pared down. 
+
+The Court has already ordered the redaction of request 3 for security reasons, including page 34 lines 5 through 7, as ordered above. The Court also finds that privacy interests support this redaction. 
+
+The Court has considered the interests favoring closure of the remaining two requests for redaction and concludes that the information is not of a highly personal or sensitive nature. Privacy interests do not outweigh the public interest in this case. Therefore, the court denies redaction of the following portions of the transcript: 
+
+e Page 35:16-17; and 
+
+e Page 80: 22-25. 
+
+3. Protecting a Defendant’s Right to a Fair Trial 
+
+The right to a fair trial seeks to ensure “that one accused of a crime [will have] his guilt or innocence determined solely on the basis of the evidence introduced at trial.” State v. Madsen, 2002 UT App 345, 7, 57 P.3d 1134, 1136 (internal citation omitted). Thus, if the disclosure of information poses a substantial risk of endangering a defendant’s right to a fair trial, then closing or sealing a court record to protect that information is justified. See Society ofProfessional Journalists, Utah Chapter v. Bullock, 743 P.2d 1166, 1179 (Utah 1987). Nevertheless, when such information has already been introduced to the public arena there is a suggestion that no additional damage can be done and the issue of sealing or closing the record becomes moot. See State v. Allgier, 2011 UT 47, 4 16-17. 
+
+Here, the joint status report identified four portions of the transcript for redaction based on the argument that redaction is necessary to preserve Defendant’s right to a fair trial. The Court is unconvinced that the disclosure of the selected portions jeopardizes that right. The information in question is contained in the charging instrument (whether directly or indirectly) as part of the factual allegations made against Defendant and already part of the public arena. If this information poses a risk of violating Defendant’s right to a fair trial, Defendant’s first line of defense is found in the rules of evidence and criminal procedure. Closing or redacting these portions of the transcript and audio is outweighed by the interests and objectives served by open 
+
+Page 4 of 5 
+
+court records and mooted by the prior disclosures in the information. See Utah R. Jud. Admin. 4- 202(1). Therefore, the court denies the request to redact the following portions of the transcript and audio: 
+
+- e Page 55:2-7 
+
+- e Page 60:24-25 
+
+- e Page 61:1-6, 13-14 e Page 64:11-17 
+
+These portions also refer to a potential non-party witness. The Court has considered redaction to protect the non-party participant from risks ofretaliatory physical or mental harm. See James v. Jacobson, 6 F.3d 233, 238 (4thCir. 1993) (allowing pseudonyms to protect minor children from harm), but see Martin v. Sears, Roebuck And Co., No. 08-CV-01998-MSK-, 2009 WL 4730466, at *13 (D. Colo. Dec. 7, 2009) (recognizing non-party witness’s right to privacy and protection gives way when information about them becomes relevant to dispute). However, the references made to that non-party participant during the October 24, 2025, hearing offers the same but no additional information that can be found in the charging instrument and shared by law enforcement during press conferences. As a result, redacting those portions at this point is a moot issue. 
+
+## ORDER 
+
+For the above reasons, the Court orders the following: 
+
+   - e A transcript of the October 24, 2025, hearing shall be redacted in accordance with this order and entered into the record; and 
+
+- e The audio recording of the October 24, 2025, shall be unsealed for purposes of the court ~ clerk identifying the timestamps corresponding to the redacted portions of the transcript which selected portions, once identified, shall be resealed. No copy of the unsealed audio shall be provided until the identified portions have been resealed. 
+
+- DATED this 14 day of “Mel _, 2025. 
+
+JUDGE TONY F. GRAF, JR. 
+
+Page 5 of 5 
+
+## CERTIFICATE OF NOTIFICATION 
+
+| certify that a copy of the attached document was sent to the following people for case 251403576 by the method and on the date specified. 
+
+EMAIL: KATHRYN NESTER KATHY@NESTERLEWIS.COM EMAIL: STACI VISSER STACI@BROWNBRADSHAW.COM EMAIL: JEFFREY GRAY DCOURT@UTAHCOUNTY.GOV EMAIL: CHAD GRUNANDER CHADGR@UTAHCOUNTY.GOV EMAIL: RYAN MCBRIDE RYANM@UTAHCOUNTY.GOV 
+
+12/29/2025 /s/ TREENA HANSEN 
+
+Date: 
+
+Signature

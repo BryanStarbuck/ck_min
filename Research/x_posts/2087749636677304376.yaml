@@ -1,0 +1,49 @@
+id: '2087749636677304376'
+url: 'https://x.com/ArtifexMemor/status/2087749636677304376'
+author:
+  username: 'ArtifexMemor'
+  name: 'Artifex Memoriarum'
+  id: '1252326476554186752'
+text: |
+  its not every time
+
+  but its every time
+created_at: '2026-08-13T03:54:36.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 5
+  reply_count: 5
+  like_count: 62
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 5105
+quoted_post:
+  id: '2087618530518716605'
+  url: 'https://x.com/DiligentDenizen/status/2087618530518716605'
+  author: '@DiligentDenizen'
+  created_at: '2026-08-12T19:13:38.000Z'
+  text: |
+    Do you think that federal government career employee public defender Kathrine Nester is giving Tyler Robinson a fair defense?
+
+    More votes.
+  note: 'Poll post. No media attached to the quoted post.'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2087749632487251968'
+      url: 'https://pbs.twimg.com/media/HPktOrha4AA0Z8h.jpg'
+      width: 1118
+      height: 1057
+      sha256: 'b4f20195fdc9c2707f52c72ef8e8e76100d3b62af38870b5103ef45dc49ca618'
+      ipfs_cid: 'QmToMFcZ4L8DS4oQELtT7ef9MQ38DH7Ht7QiFJDxSivimQ'
+ocr_text: |
+  Google Trends  Home  Explore  Trending Now
+  Kathryn Nester
+  Search term
+  Israel | Past 12 months | All categories | We[b Search]
+  Interest over time
+  (single spike to 100; axis runs Oct 13, 2024 -> Feb 2, 2025)
+investigation: 'charlie_kirk'
+added_date: '2026-08-13'
+temp_file: false

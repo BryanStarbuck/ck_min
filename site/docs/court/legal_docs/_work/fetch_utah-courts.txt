@@ -1,0 +1,235 @@
+FETCH LOG — "utah-courts" lane
+State of Utah v. Tyler Alexander Robinson, Case No. 251403576
+Run date: 2026-08-31
+Destination: ~/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/utah-courts/
+User-Agent used on every request:
+  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Nothing was paid for. No account was created. No form was submitted. No paywall
+or login was bypassed. No video was downloaded.
+
+================================================================================
+RESULT SUMMARY
+================================================================================
+Requested items                     : 11
+Downloaded and kept                 : 10 of 11 (as 17 files: 3 PDF, 6 HTML, 7 TXT, 1 XML)
+Could not be downloaded (not a file): 1  (item 3 — scheduled livestream, not yet aired)
+Failures / blocks                   : 0
+Files deleted as junk               : 1 (a text extraction with no substance — see item 10)
+
+================================================================================
+PER-ITEM DETAIL
+================================================================================
+
+--------------------------------------------------------------------------------
+ITEM 1 — KEPT
+Utah Courts press notification: PUBLIC ATTENDANCE FOR TYLER ROBINSON
+PRELIMINARY HEARING (2026-08-28)
+URL    https://legacy.utcourts.gov/utc/news/2026/08/28/public-attendance-for-tyler-robinson-preliminary-hearing/
+HTTP   200, 42,873 bytes, text/html; charset=UTF-8
+FILES  2026-08-28_Utah_Courts_Public_Attendance_Robinson_Preliminary_Hearing.html   42,873 bytes
+       2026-08-28_Utah_Courts_Public_Attendance_Robinson_Preliminary_Hearing.txt     4,724 bytes  (readable text, extracted with textutil)
+VERIFIED  Real article body present; "Robinson" appears 10 times. Not an error page.
+CONTENT CONFIRMED IN THE TEXT:
+  * "The final day of the preliminary hearing for Tyler Robinson is scheduled to
+    begin at 10:00 a.m. local time at the Provo Courthouse."
+  * 12 public seats; wristbands distributed from 9:00 a.m.; public queue required
+    by 9:00 a.m.
+  * No tents, blankets, inflatable mattresses, coolers, or large bags in the queue;
+    small portable chairs permitted.
+  * "Electronic devices are not permitted in the courtroom. This includes cell
+    phones and other electronic devices."
+  * Court's own livestream link, verbatim: https://youtube.com/live/3f3EMabrrFQ
+  * Byline block is the "Utah Courts" author account on the Judiciary's own site.
+
+--------------------------------------------------------------------------------
+ITEM 2 — KEPT
+Utah Courts press notification: PUBLIC INFORMATION REGARDING THE TYLER ROBINSON
+PRELIMINARY HEARING (2026-07-06)
+URL    https://legacy.utcourts.gov/utc/news/2026/07/06/public-information-regarding-the-tyler-robinson-preliminary-hearing/
+HTTP   200, 43,188 bytes, text/html; charset=UTF-8
+FILES  2026-07-06_Utah_Courts_Public_Information_Robinson_Preliminary_Hearing.html  43,188 bytes
+       2026-07-06_Utah_Courts_Public_Information_Robinson_Preliminary_Hearing.txt    5,246 bytes
+VERIFIED  Real article body present; "Robinson" appears 10 times.
+CONTENT CONFIRMED IN THE TEXT:
+  * Hearing "scheduled during the week of July 6-10, at the Fourth District
+    Courthouse in Provo."
+  * "Only 14 seats will be available for members of the general public on a
+    first-come, first-served basis."
+  * Decorum Order recited: "Electronic devices, including cell phones, cameras,
+    recording devices, and other electronic equipment, are prohibited in the
+    courtroom unless specifically authorized by the Court."
+  * "Failure to comply with the Court's Decorum Order or security instructions
+    will result in removal from the courthouse."
+  * Loitering on courthouse property prohibited; increased law-enforcement presence.
+  * "Proceedings will be available from multiple local and national news outlets."
+
+--------------------------------------------------------------------------------
+ITEM 3 — NOT DOWNLOADABLE YET (honest negative, not a failure)
+Tyler Robinson Trial Pool Feed (court-designated pool camera)
+URL    https://www.youtube.com/live/3f3EMabrrFQ
+HTTP   200, 1,167,188 bytes (JavaScript page shell only — no media stream)
+OBSERVED PAGE METADATA (parsed from ytInitialPlayerResponse on 2026-08-31):
+  meta title                     : Tyler Robinson Trial Pool Feed
+  ownerChannelName               : KUTV 2 News Salt Lake City
+  isLiveContent                  : true
+  liveBroadcastDetails.isLiveNow : false
+  startTimestamp                 : 2026-09-01T14:30:00+00:00  (08:30 MDT, 1 Sep 2026)
+  publishDate                    : 2026-08-28T06:48:51-07:00
+  lengthSeconds                  : 0
+WHY NOTHING WAS SAVED: this is a SCHEDULED broadcast that has not aired. There is
+no playable recording at this URL as of this run, so there was nothing to fetch.
+lengthSeconds = 0 and isLiveNow = false both confirm it. Per the job rules, videos
+are noted rather than downloaded in this lane anyway.
+FILE KEPT INSTEAD:
+  2026-09-01_Tyler_Robinson_Trial_Pool_Feed_NOT_YET_AIRED.txt   1,736 bytes
+  (a placeholder recording the URL, the probe result, the full metadata, and the
+   follow-up action)
+ACTION FOR A HUMAN: re-check after 2026-09-01 08:30 MDT and capture the recording
+promptly if one is left up. The stream is hosted on KUTV's channel but the Utah
+Judiciary published this exact URL in its own 28 Aug 2026 press notification
+(item 1), so it is the court-designated pool feed, not a news reproduction.
+
+--------------------------------------------------------------------------------
+ITEM 4 — KEPT
+Utah Courts press notification archive index
+URL    https://legacy.utcourts.gov/utc/news/
+HTTP   200, 66,034 bytes, text/html; charset=UTF-8
+FILES  0000-00-00_Utah_Courts_Press_Notification_Archive_Index.html   66,034 bytes
+       0000-00-00_Utah_Courts_Press_Notification_Archive_Index.txt    18,043 bytes
+ALSO CAPTURED (supplementary, the RSS stream named in the item's own note):
+  URL   https://www.utcourts.gov/utc/news/feed/
+  HTTP  200, 13,288 bytes, application/rss+xml; charset=UTF-8
+  FILE  0000-00-00_Utah_Courts_Press_Notifications_RSS_Feed.xml   13,288 bytes
+  Contains 10 <item> entries. The current head of the feed is
+  "PUBLIC ATTENDANCE FOR TYLER ROBINSON PRELIMINARY HEARING", and
+  "PUBLIC INFORMATION REGARDING THE TYLER ROBINSON PRELIMINARY HEARING" is the
+  4th item. This is the cheapest thing to poll for a future Robinson notice.
+NOTE  The archive sidebar lists monthly archives back to December 2022. Confirms
+      the two Robinson posts above are the only ones in the Sept 2025 - Aug 2026
+      span, as the finding agent reported.
+
+--------------------------------------------------------------------------------
+ITEM 5 — KEPT
+Request for Court Record (the form the Provo clerk requires)
+URL    https://www.utcourts.gov/content/dam/media/docs/Request_for_Record.pdf
+HTTP   200, 116,597 bytes, application/pdf
+FILE   2021-11-16_Request_for_Court_Record_Form.pdf   116,597 bytes
+VERIFIED  head -c 5 = "%PDF-"; file = PDF document, version 1.5, 2 pages.
+          Title "Request for a Record", CreationDate 2021-11-16.
+RENAMED from 0000-00-00_ to the PDF's real creation date once it was readable.
+
+--------------------------------------------------------------------------------
+ITEM 6 — KEPT
+UCJA Rule 4-202.08 — Fees for records, information, and services
+URL    https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=4-202.08
+HTTP   200, 22,768 bytes, text/html; charset=UTF-8
+FILES  2025-11-01_UCJA_Rule_4-202.08_Fees_for_Records.html   22,768 bytes
+       2025-11-01_UCJA_Rule_4-202.08_Fees_for_Records.txt     7,236 bytes
+VERIFIED  Full rule text present. The page prints its own provenance line:
+          "Rule printed on August 31, 2026 at 5:36 pm." and "Effective: 11/1/2025".
+          Fee schedule body captured (fees payable, use of fees, copies, etc.).
+
+--------------------------------------------------------------------------------
+ITEM 7 — KEPT
+Media Guide to Utah State Courts
+URL    https://www.utcourts.gov/content/dam/media/media_guide/docs/MediaGuide.pdf
+HTTP   200, 1,715,553 bytes, application/pdf
+FILE   2015-10-19_Media_Guide_to_Utah_State_Courts.pdf   1,715,553 bytes
+VERIFIED  head -c 5 = "%PDF-"; file = PDF document, version 1.4; 60 pages.
+          Embedded Title: "Utah State Court Media Guide - October 2015",
+          CreationDate 2015-10-19.
+CAVEAT  This is the 2015 edition. It is what the Judiciary currently links from
+        its media page, but it is eleven years old — do not cite it as the 2026
+        state of the rules without checking the rule text itself (item 6).
+RENAMED from 0000-00-00_ to the document's real date.
+
+--------------------------------------------------------------------------------
+ITEM 8 — KEPT
+Utah Courts media protocol for cameras in the courtroom
+URL    https://www.utcourts.gov/content/dam/media/docs/media_protocol_cameras.pdf
+HTTP   200, 109,076 bytes, application/pdf
+FILE   2016-02-09_Utah_Courts_Media_Protocol_Cameras.pdf   109,076 bytes
+VERIFIED  head -c 5 = "%PDF-"; file = PDF document, version 1.5; 1 page.
+          Embedded Title: "Media Protocol for Cameras in the Courtroom - 2/16",
+          CreationDate 2016-02-09.
+CAVEAT  Same as item 7 — this is the 2016 protocol document. Relevant to the
+        camera/publicity fight in the 2026 docket, but it is the standing protocol,
+        not an order in this case.
+RENAMED from 0000-00-00_ to the document's real date.
+
+--------------------------------------------------------------------------------
+ITEM 9 — KEPT
+Utah Judiciary media page
+URL    https://www.utcourts.gov/en/media/media.html
+HTTP   200, 95,043 bytes, text/html;charset=utf-8
+FILES  0000-00-00_Utah_Judiciary_Media_Page.html   95,043 bytes
+       0000-00-00_Utah_Judiciary_Media_Page.txt     5,824 bytes
+VERIFIED  Real page. Media contact confirmed in the captured text:
+          "Please address comments and photography requests to Tania Mashburn,
+           Administrative Office of the Courts at taniam@utcourts.gov."
+          That is the byline on both Robinson press notifications (items 1 and 2).
+          Page links, among others: "Request and Order for Electronic Media
+          Coverage of Court Proceedings", "Media protocol for cameras in the
+          courtroom - PDF", "Media Guide to the Utah State Courts - PDF",
+          "Rule 4-401.01 Electronic media coverage of court proceedings",
+          "Rule 509 - Definition of News Reporter".
+
+--------------------------------------------------------------------------------
+ITEM 10 — KEPT (HTML only; text extraction deleted as junk)
+Request and Order for Electronic Media Coverage of Court Proceedings
+(live Adobe Sign form)
+URL    https://utsign.na3.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAX5lr2AcOwgVXv5xcRg9DVVP4UxrmBrmqct5sbrljVWXJyA2rxglvW-CVgerEGuvY*
+HTTP   200, 51,714 bytes, text/html;charset=UTF-8
+FILE   0000-00-00_Request_and_Order_Electronic_Media_Coverage_AdobeSign_Form.html   51,714 bytes
+DELETED  the .txt extraction (866 bytes). It contained only the widget's language
+         picker and the word "Loading..." — no substance. Removed rather than left
+         to poison the archive.
+IMPORTANT LIMITATION, STATED PLAINLY: the endpoint is live and returns 200, but it
+is a JAVASCRIPT WIDGET SHELL. The actual form fields are rendered client-side by
+Adobe Sign and are NOT in the fetched bytes. The saved HTML proves the form exists
+and is reachable; it is NOT a copy of the form's content.
+NO FORM WAS SUBMITTED. Filing this form is how a news organization gets a signed
+electronic-media-coverage order into the docket, and such orders are themselves
+filings in 251403576 — but submitting it is a human decision, not a fetch.
+FOR A HUMAN: open the URL in a real browser to see the actual form.
+
+--------------------------------------------------------------------------------
+ITEM 11 — KEPT
+Provo District Court public body record (State of Utah Public Notice Website)
+URL    https://www.utah.gov/pmn/sitemap/publicbody/4857.html
+HTTP   200, 18,335 bytes, text/html;charset=UTF-8
+FILES  0000-00-00_Provo_District_Court_Public_Body_Record_PMN.html   18,335 bytes
+       0000-00-00_Provo_District_Court_Public_Body_Record_PMN.txt     3,586 bytes
+VERIFIED  Contact of record captured verbatim from the page:
+          Public Body Name : Provo District Court
+          Entity Name      : Judicial Council > Administrative Office of the Courts
+                             > District Court (Fourth District : Utah County)
+          Name             : Debbie Jacobsen
+          Email            : debbiej@utcourts.gov
+          Phone            : (801) 429-1000
+          Address          : 137 N Freedom Blvd, Provo, UT 84601
+CONFIRMS THE FINDING AGENT'S CAVEAT: the PDF attachments this page publishes for
+Provo District Court are probate/conservatorship notices only. The two upcoming
+notices visible in the capture are "AGUADO - Notice of Petition and Hearing" and
+"DUCKWORTH - Notice of Petition and Hearing", both conservatorship petitions,
+both 2026/09/28. Nothing criminal, nothing touching 251403576.
+
+================================================================================
+ROUTES THAT NEED A HUMAN (recorded, not attempted)
+================================================================================
+* The Adobe Sign electronic-media-coverage form (item 10) — must be opened and
+  completed in a browser by a person; it identifies the requesting organization.
+* Obtaining actual filings in 251403576 — the Request for Court Record form
+  (item 5) has to be filed with the Fourth District Court clerk in Provo, with
+  fees governed by UCJA 4-202.08 (item 6). Contact: Debbie Jacobsen,
+  debbiej@utcourts.gov, (801) 429-1000, 137 N Freedom Blvd, Provo UT 84601.
+* Utah XChange public case search is a paid subscription route. NOT attempted,
+  per the no-payment rule.
+
+================================================================================
+NOTHING WAS BLOCKED
+================================================================================
+Every URL in the job list returned HTTP 200 with a real body on the first attempt
+with a browser User-Agent. No 403, no 406, no Cloudflare interstitial, no login
+wall, and no rate limiting was encountered anywhere in this lane. No host was
+hammered — each URL was fetched once.

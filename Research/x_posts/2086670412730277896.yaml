@@ -1,0 +1,37 @@
+id: '2086670412730277896'
+url: 'https://x.com/DiligentDenizen/status/2086670412730277896'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen'
+  id: '1585809424135995392'
+text: |
+  Meet the RETCON13 5G - The ULTIMATE POLICE or MILITARY special operation asset vehicle COMS antenna.
+
+  You can find them in your local law enforcement special ops vehicle yard or at a UVU construction site when Charlie Kirk is being assassinated.
+
+  Whatever is more convenient.
+created_at: '2026-08-10T04:26:09.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 59
+  reply_count: 15
+  like_count: 186
+  quote_count: 1
+  bookmark_count: 35
+  impression_count: 6643
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2086670388722020352'
+      duration_ms: 11946
+      width: 1080
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2086670388722020352/img/G5B0z6Fh-3n7Qp9L.jpg'
+  images: []
+ipfs:
+  video_cid: 'QmadkRYcF3vT15HbSi8x1f8gLz2tL7zapM6xDTFnJho6tS'
+transcription: 'none — clip contains no spoken narration (0 words returned by whisper-small)'
+site_page: 'site/docs/After/house/comms-antenna-mast.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-10'
+temp_file: false

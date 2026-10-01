@@ -1,0 +1,673 @@
+# LANE: related-dockets-foia  (adjacent legal records, NOT the main criminal docket)
+# case: State of Utah v. Tyler James Robinson, No. 251403576, 4th Jud. Dist. Utah County (Provo)
+# run date: 2026-08-31
+# Every URL below was actually probed. Status = what I actually observed.
+
+================================================================================
+SECTION 0 — SETUP
+================================================================================
+Read inventory_existing.txt: 173 docket PDFs (Sept 2025 - Apr 2026) + 1 search
+warrant affidavit (2025-09_affidavit-for-search-warrant.pdf) + mirandize/misc PDFs.
+Nothing dated May 2026 or later is held. Nothing from federal, civil, probate,
+FOIA, or ME lanes is held.
+
+================================================================================
+SECTION 1 — FEDERAL RECORDS (CourtListener / RECAP)
+================================================================================
+CourtListener SEARCH api works WITHOUT auth. The /dockets/<id>/ api does NOT:
+  https://www.courtlistener.com/api/rest/v4/dockets/73133640/   -> HTTP 401
+     {"detail":"Authentication credentials were not provided."}
+  https://www.courtlistener.com/api/rest/v4/search/?q=...&type=r -> HTTP 200 (works)
+  HTML docket pages -> HTTP 200, no login needed. Use those.
+
+Queries run (all type=r, RECAP dockets):
+  q="Tyler James Robinson"            -> count 1  (unrelated: an attorney named
+                                        Tyler Robinson in CITIZENS FOR
+                                        CONSTITUTIONAL INTEGRITY v. FCC, dcd)
+  q="Tyler Robinson"                  -> count 115 (all unrelated persons/attys)
+  q="Charlie Kirk"                    -> count 399 (aftermath cases: FCC/ABC
+                                        Kimmel, campus speech, employment
+                                        firings. NONE is the Robinson matter.)
+  q="Turning Point USA"               -> count 249 (none arising from 9/10/25)
+  q="Charlie Kirk" court=utd          -> count 5
+  q=Robinson Kirk  court=utd          -> count 30 (all pre-date the shooting
+                                        except Halvorsen)
+
+>>> FINDING: THERE IS NO FEDERAL CRIMINAL CASE AGAINST TYLER ROBINSON IN RECAP.
+    Nothing in RECAP for D. Utah names him as a defendant. The prosecution is
+    purely state. No federal grand jury filing is visible.
+
+The 5 D. Utah hits on "Charlie Kirk", checked one by one:
+  1:26-cv-00044 Smith v. City of Orem   https://www.courtlistener.com/docket/73133640/smith-v-city-of-orem/  HTTP 200
+      Filed 2026-04-02, Judge David Barlow / Cecilia Romero, 42:1983 civil rights.
+      PRO SE (Eric N. Smith) vs City of Orem, Sgt. Michael Locke, Lt. Jamison.
+      Free PDFs (both HTTP 200, downloaded, read):
+        .../recap/gov.uscourts.utd.163389/gov.uscourts.utd.163389.1.0.pdf  (485,376 B) complaint
+        .../recap/gov.uscourts.utd.163389/gov.uscourts.utd.163389.21.0.pdf (164,135 B) opp to MTD 7/8/26
+      Kirk appears ONLY as political context ("...Trump and Charlie Kirk, through
+      selective enforcement..."). NOT a wrongful-death or UVU-security case.
+      VERDICT: not case record. Marginal at best.
+  2:25-cv-00909 Halvorsen v. Cox  https://www.courtlistener.com/docket/71644146/halvorsen-v-cox/  HTTP 200
+      RICO, filed 2025-10-14, TERMINATED 2026-02-17. Pro-se-flavored. Kirk named
+      in an exhibit. Not a shooting-derived suit.
+  2:26-cv-00125 M.M. v. Brown; 2:25-cv-00987 Wilkins v. Parker;
+  2:25-cr-00362 United States v. Proctor  -- Kirk mentioned in passing only.
+
+================================================================================
+SECTION 2 — GRAMA PRODUCTIONS ALREADY PUBLISHED (BEST HIT OF THIS LANE)
+================================================================================
+JUDICIAL WATCH — UVU GRAMA production, filed 2025-11-20, released 2026-07-10.
+This is AFTER our Apr-2026 inventory cutoff and we hold none of it.
+Landing page (HTTP 200):
+  https://www.judicialwatch.org/judicial-watch-university-releases-documents-on-clean-up-of-charlie-kirk-assassination-site/
+Category index (HTTP 200):
+  https://www.judicialwatch.org/documents/categories/uvu/
+DIRECT PDFs — both probed with curl+UA, both HTTP 200, real application/pdf:
+  https://www.judicialwatch.org/wp-content/uploads/2026/06/Utah-Valley-University-Charlie-Kirk-records-prod-1-2026.pdf
+      HTTP 200, 12,084,034 bytes, 11 pages
+  https://www.judicialwatch.org/wp-content/uploads/2026/06/Utah-Valley-University-Charlie-Kirk-records-prod-2-2026.pdf
+      HTTP 200, 47,681,866 bytes, 53 pages
+  (11 + 53 = 64 pages, matches JW's stated "64 pages".)
+Content per JW: emergency cleanup + PAVING of the assassination site; an
+emergency payment request dated 9/11/2025 for $6,090.52 labeled "Clean up for
+shooting incident"; contractor text messages about keeping the work quiet.
+DIRECTLY RELEVANT to the site's evidence-destruction / hauled-away-dirt thread.
+
+Per-page permalinks JW cites in the press release (HTML wrappers, not PDFs):
+  /documents/utah-valley-university-charlie-kirk-records-prod-1-2026-pgs-9-11/
+  /documents/utah-valley-university-charlie-kirk-records-prod-2-2026-pg-41/
+  /documents/utah-valley-university-charlie-kirk-records-prod-2-2026-pg-42/
+  /documents/utah-valley-university-charlie-kirk-records-prod-2-2026-pg-49/
+  /documents/utah-valley-university-charlie-kirk-records-prod-2-2026-pgs-3-10/
+  (all under https://www.judicialwatch.org)
+
+ANDREA BURKHART SUBSTACK — "Charlie Kirk Legal Documents"
+  https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents   HTTP 200
+  A 377+ docket-entry index of THIS case with PDFs rehosted on Substack CDN.
+  Compiled current as of 2025-12-24, archive ENDS EARLY FEB 2026.
+  => Adds nothing past our Apr-2026 inventory. BUT it is useful for two things:
+     (a) it lists ~90+ docket entries marked "Not obtained" -- i.e. a
+         ready-made gap list of filings nobody has bought yet;
+     (b) it names which entries are SEALED/PRIVATE (Affidavit of Indigency
+         9/16/25; Response to Unshackling Motion 10/20/25; Motion to Disqualify
+         Non-Public Information 12/10/25; Motion to Exclude Cameras Non-Public
+         Information 1/16/26; transcripts of the 12/11/25 and 12/29/25 hearings).
+  It also holds a REDACTED TRANSCRIPT OF THE 10-24-25 HEARING (filed 12/29/25)
+  -- a transcript, which our inventory does NOT have.
+
+================================================================================
+SECTION 3 — DOCUMENTCLOUD PROJECT 224251 (46 docs, docket-numbered)
+================================================================================
+  https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+Project blurb: "official court filings, docket records, and public documents from
+State of Utah v. Tyler James Robinson (Case No. 251403576) ... charging records,
+motions and orders, hearing transcripts, docket records and filings from the
+Fourth Judicial District Court in Provo."  Uploaded 2026-03-16. count = 46.
+
+ACCESS NOTE (important, tested):
+  curl WITH browser UA + Referer + Sec-Fetch-* headers to
+    https://api.www.documentcloud.org/api/documents/search/...  -> HTTP 403
+    https://www.documentcloud.org/api/documents/search/...      -> HTTP 403
+    https://s3.documentcloud.org/documents/<id>/<slug>.pdf      -> HTTP 403
+  Body is the Cloudflare "Attention Required!" interstitial in every case.
+  => Cloudflare blocks ALL scripted access to documentcloud.org and its S3 host.
+  => WebFetch DOES get through the API (it returned full JSON). A HUMAN IN A
+     BROWSER gets the PDFs with no login and no payment. This is a HUMAN ROUTE,
+     not a paywall.
+  PDF URL pattern (works in a browser):
+     https://s3.documentcloud.org/documents/{id}/{slug}.pdf
+  Viewer page pattern:
+     https://www.documentcloud.org/documents/{id}-{slug}/
+
+>>> THE TWO HIGHEST-VALUE ITEMS IN THE WHOLE LANE — they are the DOCKET INDEX,
+>>> which tells us exactly which of the 400+ entries we are missing:
+  id 27880531  "tyler robinson case list of all filings and hearings as of
+               3-15-2026"  -- 31 pages
+     https://www.documentcloud.org/documents/27880531-list-of-all-filings-and-hearings-as-of-3-15-2026/
+     https://s3.documentcloud.org/documents/27880531/list-of-all-filings-and-hearings-as-of-3-15-2026.pdf
+  id 27880533  "tyler robinson all docket entries as of 3-15-2026" -- 13 pages
+     https://www.documentcloud.org/documents/27880533-tyler-robinson-all-docket-entries-as-of-3-15-2026/
+     https://s3.documentcloud.org/documents/27880533/tyler-robinson-all-docket-entries-as-of-3-15-2026.pdf
+
+NOT IN OUR INVENTORY (checked title-by-title against inventory_existing.txt).
+These carry DOCKET NUMBERS, which none of our 173 files do:
+  27880873 12-17-2025 Defendant Motion to Disqualify prosecutor and/or judge for
+           conflict of interest - docket 250 (48 pp)   << we hold only the replies
+  27880888 1-5-2026 Prosecutor Opposition to Motion to Disqualify UCAO - dkt 289 (33 pp)
+  27881513 1-8-2026 Defendant Reply to Opposition to Motion to Disqualify - dkt 293 (7 pp)
+  27881507 2-13-2026 MINUTE ORDER on oral argument of EVIDENTIARY HEARING - dkt 413 (3 pp)
+  27881506 1-30-2026 Attachment A - internal communications at prosecutor's
+           office to cease public statements - docket 355 (5 pp)
+  27880866 12-15-2025 Ruling and order granting motion to clarify pretrial and
+           trial publicity order - docket 242 (3 pp)
+  27880875 10-08-2025 Proposed Order Granting Motion to Preserve Evidence - dkt 76 (3 pp)
+  27880874 12-4-2025 Utah Office for Victims of Crime Restitution Notice
+           Claim #1113665 - docket 211 (1 p)
+  27880877 9-12-2025 Public Safety Assessment report - docket 3 (3 pp)
+  27880862 11-4-2025 Stipulated Order re Motion to Preserve Evidence - dkt 161 (4 pp)
+  27880863 10-13-2025 Stipulated Motion for Discovery Protective Order - dkt 91 (5 pp)
+  27880858 11-10-2025 Defendant Response re Notice of Motion to Close Judicial
+           Proceedings and Records - docket 169 (7 pp)
+  27880859 10-08-2025 Copy of Video-Audio Record completed - docket 74 (2 pp)
+  27880534 Tyler Robinson Utah County Sheriff's Office INMATE CUSTODY BOOKING (1 p)
+           << booking record; bears on the Miranda/OTN timing thread
+  27880543 9-10-2025 Utah County District Attorney press release after shooting
+  27880535 9-22-2025 UCDA press release - Robinson prosecutor trial team
+  27880536-27880541 individual prosecutor biographies (Gray, Grunander, Ballard,
+           Sturgill, Hunt, McBride)
+  27880529 Tyler Robinson case search on Utah State Court "Online XChange" (2 pp)
+           << shows what XChange displays, useful for the subscription question
+
+CAP: this project was built 2026-03-16 and stops at 3-15-2026. It adds NOTHING
+dated May 2026 or later. Its value is (a) the docket index, (b) filling
+Sept-2025..Mar-2026 gaps, (c) docket numbers for everything we already hold.
+
+================================================================================
+SECTION 4 — SEARCH WARRANTS  (16 of them, UNSEALED APRIL 2026)
+================================================================================
+>>> BIGGEST GAP IN THIS LANE. We hold ONE warrant affidavit. There are SIXTEEN.
+
+Utah law on when a warrant becomes public:
+  URCRP Rule 40  https://legacy.utcourts.gov/rules/view.php?type=urcrp&rule=40  HTTP 200
+    Warrant + application + all affidavits/recorded testimony are PUBLIC once
+    unsealed. Warrant materials stay sealed 20 days after issuance unless that
+    period is extended or shortened.
+  Utah Code 77-23-205: serve within 10 days; return to the court within 3 days.
+  Utah Code 77-23-206: sealing on a showing of good cause.
+  Utah Code Title 77 ch.23 pt.2 (PDF, HTTP 200):
+    https://le.utah.gov/xcode/Title77/Chapter23/C77-23-P2_1800010118000101.pdf
+  UCJA 4-202.02 (which court records are public):
+    https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=4-202.02
+
+WHAT IS OUT THERE, per multiple outlets (all HTTP 200, read):
+  16 search warrant affidavits served by Utah State Bureau of Investigation in
+  Sept 2025 were UNSEALED IN 4TH DISTRICT COURT AND REPORTED ~10 APRIL 2026.
+  Contents reported: the Lance Twiggs letter ("I had the opportunity to take out
+  Charlie Kirk and I took it"), Discord group-chat messages ("Tyler killed
+  Charlie!!!!"), "I left the house this morning on a mission", "It was me at UVU
+  yesterday"; a "burnt note found in trash" seized at the St George residence;
+  a shoe impression, fingerprints and a smeared palm print at the NE rooftop
+  edge of the Losee Center; and an "unknown individual" in the early scramble.
+  Coverage:
+    https://www.deseret.com/utah/2026/04/10/tyler-robinson-unsealed-search-warrant-documents-charlie-kirk-killing-admission-lance-twiggs/  HTTP 200
+    https://www.ksl.com/article/51481672/tyler-killed-charlie-search-warrants-detail-messages-allegedly-sent-after-kirk-killing  HTTP 200
+    https://www.stgeorgeutah.com/news/unsealed-warrants-reveal-unknown-individual-early-investigative-scramble-in-kirk-shooting/article_3b417509-4055-4502-9f2c-89ab91e1a646.html  HTTP 200
+    https://www.eastidahonews.com/2026/04/tyler-killed-charlie-search-warrants-detail-messages-allegedly-sent-after-kirk-killing/
+    https://kutv.com/news/local/search-warrant-reveals-letter-tyler-robinson-wrote-before-charlie-kirks-assassination
+    https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinson-letter-search-warrants/   HTTP 403 to curl (Nexstar bot wall; opens in a browser)
+  I scraped the HTML of the Deseret, KSL, stgeorgeutah and Courthouse News pages
+  for any hosted copy: NO PDF, NO DocumentCloud, NO Scribd embed on any of them.
+  => Nobody republished the warrant PDFs. They exist only in the court record.
+
+>>> ROUTE TO THE 16 WARRANTS: Utah 4th District Court, Provo. Each warrant is
+    its own case number, separate from 251403576. Two ways in, below.
+
+================================================================================
+SECTION 5 — UTAH STATE COURT ACCESS ROUTES (exact, with prices)
+================================================================================
+XCHANGE (the document images live here) -- SUBSCRIPTION / PAY-PER-DOC:
+  Login:  https://apps.utcourts.gov/XchangeWEB          HTTP 200 (JS-only shell)
+  Info:   https://www.utcourts.gov/en/court-records-publications/records/xchange.html  HTTP 200
+  Fees:   https://www.utcourts.gov/en/court-records-publications/records/xchange/subscribe.html  HTTP 200
+  Exact prices as published today:
+    One-Time Use account: $10.00 initial, $0.35/search, $1.00/document. Unused
+      credit is kept if you make an account.
+    Guest account: same rates, no account, unused credit FORFEITED.
+    Monthly Subscription: $25.00 setup + $40.00/month, 500 searches included,
+      $1.00/document, $0.35/search past 500.
+  "Images of public documents filed in district court cases are available for
+   purchase on Xchange."  Governing rule: UCJA 4-202.08.
+  Contact / unsubscribe: xchange@utcourts.gov
+  NOTE: at $1.00/document, buying all ~420 docket entries is ~$420 + $10-25.
+  Buying just the 16 warrants + the 3 bindover briefs is under $30.
+
+REQUEST A COURT RECORD DIRECT FROM THE CLERK -- form, no subscription:
+  https://www.utcourts.gov/content/dam/media/docs/Request_for_Record.pdf
+     HTTP 200, 116,597 bytes, real application/pdf
+  This is the route for anything Xchange will not show, and for certified copies.
+
+TRANSCRIPTS (target (c)) -- statutory pricing, order per hearing:
+  https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp   HTTP 200
+  Statutory rates as published on that page today:
+    $6.00/page  regular, within 30 days  (~$250.00 per court hour)
+    $7.50/page  14 calendar days
+    $9.00/page  7 calendar days
+    $10.50/page 1-3 day
+    $12.00/page 24 hour
+  Same page also offers "Request Audio Copy" -- buy the AUDIO of a hearing from
+  the district court that held it, which is cheaper than a transcript.
+  The 5-day preliminary hearing (6-10 July 2026) is the target here.
+
+APPELLATE DOCKET SEARCH -- FREE:
+  https://apps.utcourts.gov/CourtsPublicWEB/index.jsp   HTTP 200
+  Use for the interlocutory appeal (we hold 1_2_26_Appellate_Order_Denying_
+  Interlocutory_Review and 1_5_26_Appellate_Notice_Of_Decision but no briefs).
+  Appellate opinions: https://legacy.utcourts.gov/opinions/
+  Utah State Archives court records guide:
+    https://archives.utah.gov/research/guides/courts-records.html
+
+DEAD/MOVED Utah URLs I actually hit:
+  https://www.utcourts.gov/en/about/courts/find/case-search.html   HTTP 404
+  https://www.utcourts.gov/en/self-help/records.html               HTTP 404
+  https://www.utcourts.gov/en/records.html                         HTTP 404
+  https://legacy.utcourts.gov/records/                             HTTP 500
+  https://xchange.utcourts.gov/                                    HTTP 200 but
+       a 2,044-byte JS shell only; the real app is apps.utcourts.gov/XchangeWEB
+
+================================================================================
+SECTION 6 — NEWS-HOSTED PRIMARY FILINGS (downloaded, verified, POST-CUTOFF)
+================================================================================
+Fox News hosts filings on static.foxnews.com. I scraped 5 Fox articles for
+static PDF hrefs; two real PDFs exist and BOTH downloaded clean:
+
+(1) STATE'S BINDOVER REPLY -- August 2026, NOT IN INVENTORY, top-priority target
+    https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Prosecutor_Reply.pdf
+    HTTP 200, 277,548 bytes, application/pdf, 19 pages.
+    Verified by reading page 1: "FOURTH JUDICIAL DISTRICT COURT / UTAH COUNTY,
+    STATE OF UTAH ... Reply Memorandum in Support of Preliminary Hearing
+    Bindover ... Case No. 251403576 ... Judge Tony F. Graf, Jr."
+    Signed Jeffrey S. Gray (5852) Utah County Attorney; Grunander, McBride,
+    Hunt, Sturgill, Ballard. Filed 2026-08-18 per reporting.
+    This is one of the three bind-over briefs the task asked for.
+
+(2) DEFENSE BALLISTICS MOTION WITH THE ATF LAB REPORT AS AN EXHIBIT
+    https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+    HTTP 200, 1,369,739 bytes, application/pdf, 29 pages.
+    "DEFENDANT'S MOTION FOR AN ORDER PROHIBITING ANY FURTHER ALTERATION OR
+     TESTING OF A BULLET JACKET FRAGMENT ... AND PERMITTING A DEFENSE EXPERT TO
+     EXAMINE AND PHOTOGRAPH THIS EVIDENCE BEFORE IT IS FURTHER ALTERED OR
+     DESTROYED..."  Nester / Novak / Burt / Visser.
+    Filed under seal 2026-01-09; UNSEALED by Judge Graf (no "private or
+    inflammatory information"); reported 2026-04-16.
+    CONTAINS AS ATTACHED EXHIBITS:
+      Exhibit 1 = the State's Notice of Intent to Conduct Non-Destructive Testing
+      Exhibit 2 = THE ATF LABORATORY REPORT ITSELF
+    ATF report language quoted in the body:
+      "The Exhibit 6A bullet jacket fragment could not be identified or excluded
+       as having been fired from the Exhibit 1 rifle based on an agreement of
+       all [discernible class characteristics]..."
+      "The Exhibit 6B through 6E lead fragments are not suitable for microscopic
+       comparison."
+      firearms producing similar general rifling characteristics to 6A "include
+       numerous makes and [models]"
+    FBI was to run a SECOND, more advanced analysis of the same fragment; the
+    motion asks to stop it / observe it / video it.
+    THIS IS THE FEDERAL-AGENCY FORENSIC RECORD IN THIS CASE and it is directly
+    on point for the site's bullet-vs-explosive line of inquiry. NOT IN INVENTORY.
+
+(3) DEFENSE BINDOVER BRIEF -- located but NOT retrievable by script
+    https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing
+    HTTP 200 but body is only 3,038 bytes: "Client Challenge / JavaScript is
+    disabled in your browser." Scribd bot wall. Opens in a browser.
+    Titled "Robinson defense probable cause filing". Filed ~2026-08-11.
+    HUMAN ROUTE (no payment attempted, no account created).
+
+STILL NOT LOCATED AS A FILE (searched, not found hosted anywhere):
+  * State's OPENING bindover memorandum, 28 pages, filed 2026-07-28.
+    Reported by Deseret https://www.deseret.com/utah/2026/07/29/this-is-a-close-case-state-tells-judge-in-tyler-robinson-case/
+    and KSL https://www.ksl.com/article/51603334/this-isnt-a-close-case-state-tells-judge-in-tyler-robinson-case
+    Asks Graf to bind over on ALL SEVEN counts.
+
+BINDOVER BRIEFING SCHEDULE (from KSL, confirms what to hunt for):
+    State's brief          due 2026-07-28   <-- not found as a file
+    Defense reply          due 2026-08-11   <-- Scribd only (human route)
+    State's rebuttal       due 2026-08-18   <-- HAVE IT (Fox static, above)
+    Oral argument          2026-09-01, 10:00 MDT, 4 hours
+    => AS OF TODAY (2026-08-31) THERE IS NO BINDOVER RULING YET. Nothing to find.
+
+OTHER POST-CUTOFF EVENTS CONFIRMED BUT NO DOCUMENT LOCATED:
+  * 2026-06-26 Judge Graf HELD THE PROSECUTION IN CONTEMPT for violating the
+    pretrial publicity/gag order (Deputy County Attorney Christopher Ballard
+    spoke to national media incl. TMZ about the ATF ballistics report);
+    declined to strike the death penalty as a sanction.
+      https://www.abc4.com/news/charlie-kirk-shooting/judge-ruling-tyler-robinsons-prosecution-contempt/
+      https://www.abc4.com/news/charlie-kirk-shooting/tyler-robinson-motion-contempt-prosecutors/
+      https://kjzz.com/news/local/tyler-robinsons-defense-attorneys-request-punishment-for-prosecutors-over-media-tour
+    NOTE: abc4.com (Nexstar) returns HTTP 403 to curl AND to WebFetch. Browser only.
+  * 2026-06-01 Graf ruled the July preliminary hearing STAYS PUBLIC.
+      https://www.heraldextra.com/news/2026/jun/01/judge-rules-tyler-robinsons-july-preliminary-hearing-will-remain-public/
+  * 2026-07-06..10 five-day preliminary hearing. ~50 State exhibits incl. several
+    videos of the shooting, campus surveillance, the alleged Discord confession,
+    a videotaped interview of roommate/partner Lance Twiggs, DNA results, and
+    THE AUTOPSY REPORT as State's Exhibit 11. Graf REFUSED one video exhibit
+    after the defense said it had been altered with no witness to explain the
+    alteration.
+      https://www.cnn.com/2026/07/11/us/charlie-kirk-tyler-robinson-hearing-takeaways
+      https://utahnewsdispatch.com/2026/07/10/week-of-sparring-over-evidence-in-charlie-kirk-case-ends-without-a-ruling/
+      https://www.ksl.com/article/51596294/tyler-robinson-preliminary-hearing
+    THE 50 PRELIM EXHIBITS AND THE 5 DAYS OF TRANSCRIPT ARE THE SINGLE LARGEST
+    UNCOLLECTED BODY OF PRIMARY MATERIAL. Transcript route = TranscriptWEB above.
+
+================================================================================
+SECTION 7 — UTAH GOVERNMENT RECORDS OFFICE (GRO) APPEAL DECISIONS
+================================================================================
+*** SECOND-BEST FIND OF THIS LANE. Nine official written DECISION AND ORDERs
+*** adjudicating who may see the Kirk records. Full text served as plain HTML,
+*** HTTP 200, curl-friendly with a browser UA, NO login, NO payment.
+
+STRUCTURE NOTE: the old STATE RECORDS COMMITTEE is defunct. The GOVERNMENT
+RECORDS OFFICE (director LONNY PEHRSON) now decides GRAMA appeals. Two indexes:
+  SRC (historical, through ~2025):
+    https://archives.utah.gov/transparency-services/government-records-office/decisions-orders/   HTTP 200
+    (I searched this one for UVU/Kirk/Carlisle -- it holds only OLD UVU appeals,
+     none about the assassination. Do not stop here.)
+  GRO (current, this is the one that matters):
+    https://archives.utah.gov/transparency-services/government-records-office/gro-decisions-and-orders/   HTTP 200, 274,391 bytes
+  Per-decision URL pattern (verified working):
+    https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision={NUM}
+
+THE NINE KIRK/UVU/OREM/ROBINSON APPEALS (parsed straight out of the index table):
+
+  2025-148  02/02/2026  Klayton Inkley v. Utah Valley University        APPEAL DENIED
+    Contracts, POs, invoices, MOUs, agreements with PRIVATE SECURITY PROVIDERS
+    for the Charlie Kirk / Turning Point event, 10 Sept 2025.
+    .../gro-decisions/?decision=2025-148
+
+  2025-150  02/02/2026  Lori Jane Gliha (Scripps News) v. Washington County   APPEAL DENIED
+    ALL BODY CAMERA FOOTAGE OF TYLER J ROBINSON being taken into custody /
+    surrendering. Also video of the sheriff's-office lobby.
+    Verified HTTP 200; full text begins "GOVERNMENT RECORDS OFFICE OF THE STATE
+    OF UTAH ... DECISION AND ORDER Appeal No. 2025-150 ... Senior National
+    Investigative Correspondent for Scripps News..."
+    >>> DIRECTLY ON THE MIRANDIZE / CUSTODY-TIMING THREAD.
+    .../gro-decisions/?decision=2025-150
+
+  2025-155  02/09/2026  Courtney Johns v. Utah Valley University        APPEAL DENIED
+    Employment, vetting and personnel history of MR. CHRIS BURK -- application
+    materials, personnel file, communications about him.
+    .../gro-decisions/?decision=2025-155
+
+  2025-176  03/02/2026  Nate Carlisle (KSTU-TV FOX 13 Utah) v. UVU      APPEAL DENIED
+    "Copy of any security plan for the Charlie Kirk or Turning Point USA event
+    on campus on September 10, 2025." Requested 11 Sept 2025 (the day after);
+    UVU Records Officer denied 20 Oct 2025 as not subject to GRAMA.
+    This is the decision the Fox 13 story is about; ROBINSON'S OWN DEFENSE TEAM
+    INTERVENED IN SUPPORT OF THE DENIAL, arguing release would interfere with
+    multiple criminal investigations and taint the jury pool.
+    Verified HTTP 200, full text served.
+    .../gro-decisions/?decision=2025-176
+
+  2026-002  03/09/2026  Jessica Schreifels (Salt Lake Tribune) v. Orem City  APPEAL DENIED
+    ALL BODY CAMERA FOOTAGE from any Orem police officer who responded to the
+    shooting -- the scene, clearing campus, everything. Requested 16 Oct 2025.
+    Verified HTTP 200, full text served.
+    .../gro-decisions/?decision=2026-002
+
+  2026-004  03/30/2026  William Marshall v. Utah Valley University      APPEAL DENIED
+    >>> THIS IS JUDICIAL WATCH'S APPEAL. Text: "Petitioner William Marshall, on
+        behalf of Judicial Watch, Inc." GRAMA request submitted 20 Nov 2025 for
+        ALL RECORDS "related to the destruction and/or removal of evidence
+        and/or materials from the site of the assassination of Charlie Kirk on
+        September 10, 2025" AND all records "related to the paving operation."
+        Named: UVU police/security emails and texts, reports, directives,
+        CONTRACTOR INVOICES AND AUTHORIZATIONS, communications among officials.
+    The appeal was DENIED -- yet UVU still produced 64 pages, which are the two
+    Judicial Watch PDFs in SECTION 2. So the decision explains the scope of what
+    was withheld. Read them together.
+    Verified HTTP 200, full text served.
+    .../gro-decisions/?decision=2026-004
+
+  2026-154  08/10/2026  Courtney Tanner v. Dept. of Public Safety       APPEAL DENIED
+  2026-155  08/10/2026  Nate Carlisle v. Dept. of Public Safety         APPEAL DENIED
+    Both seek the most recent UTAH BUREAU OF CRIMINAL INVESTIGATION "AUDITS" of
+    campus police departments INCLUDING UVU's. AUGUST 2026 = post-cutoff.
+    .../gro-decisions/?decision=2026-154
+    .../gro-decisions/?decision=2026-155
+
+  (context, same city, not the shooting)
+  2025-005  10/14/2025  Aeden Jaece v. City of Orem                     APPEAL DENIED
+    Nine categories of records on a named Orem City police officer.
+    .../gro-decisions/?decision=2025-005
+
+PATTERN WORTH SAYING OUT LOUD: every single Kirk-related GRAMA appeal was
+DENIED. Body cam (twice), the security plan, the security contracts, the
+evidence-removal and paving records, the campus-police audits. That is itself a
+publishable finding, and each denial is a citable state order with a number.
+
+FOX 13's coverage of 2025-176:
+  https://www.fox13now.com/news/shooting-of-charlie-kirk/government-records-director-rules-against-fox-13-news-request-for-security-plan-in-uvu-shooting  HTTP 200
+  https://www.fox13now.com/news/fox-13-investigates/utah-valley-university-continues-to-deny-request-for-documents-in-charlie-kirk-shooting
+  Director Lonny Pehrson found his office LACKED AUTHORITY to order release
+  despite "very heightened public interest in disclosure."
+GRO appeal hearing notices (public meeting notices, Zoom):
+  https://www.utah.gov/pmn/sitemap/noticehistory/280791.html
+
+================================================================================
+SECTION 8 — FEDERAL FOIA READING ROOMS + MUCKROCK
+================================================================================
+FBI VAULT / FBI.GOV -- BLOCKED TO BOTH TOOLS, browser only:
+  https://vault.fbi.gov/search?SearchableText=Charlie+Kirk   HTTP 403 (curl)
+       body = Cloudflare "Just a moment... Enable JavaScript and cookies"
+  https://vault.fbi.gov/search?SearchableText=Robinson+Kirk  HTTP 403 (curl)
+  https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates  HTTP 403
+       to curl AND HTTP 403 to WebFetch. Exists (appears in search results) but
+       neither tool can read it. BROWSER ONLY.
+  Reading room index: https://vault.fbi.gov/reading-room-index
+  FOIPA landing:
+    https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedom-of-information-privacy-act
+  ASSESSMENT: no evidence any Kirk/Robinson FBI investigative file has been
+  released. It would not be: FOIA exemption (b)(7)(A) covers records that would
+  interfere with a PENDING enforcement proceeding, and this prosecution is live.
+  Do not expect an FBI file until the case is over.
+
+ATF -- https://www.atf.gov/rules-and-regulations/foia-library  HTTP 403 (curl,
+  415-byte body -- an edge block, not a Cloudflare page). Browser only.
+
+MUCKROCK -- Cloudflare-walled to curl, readable via WebFetch:
+  https://www.muckrock.com/api_v1/foia/?search=Charlie+Kirk&format=json  HTTP 403
+       body = Cloudflare "Just a moment..."
+  https://www.muckrock.com/foi/list/?q=Charlie+Kirk   READ OK via WebFetch.
+  ~25 Kirk requests exist. NONE targets the Utah case file. The federal ones:
+    * "AFT [ATF] Charlie Kirk bulletin"  ATF
+      https://www.muckrock.com/foi/united-states-of-america-10/aft-charlie-kirk-bulletin-194040/
+      Submitted 2025-10-02. Requests the internal ATF bulletin about AMMUNITION
+      RECOVERED AFTER THE SHOOTING reportedly ENGRAVED with transgender /
+      anti-fascist references, plus related communications.
+      STATUS: still "Awaiting Acknowledgement" after ~11 MONTHS. MuckRock staff
+      sent follow-ups Nov 2025 through Aug 2026; no substantive agency response.
+      "There are no files associated with this request." <- verified on the page.
+      >>> An 11-month unacknowledged FOIA on the engraved-ammunition bulletin is
+          itself a documentable fact about federal non-response.
+    * Secret Service -- coordination for Air Force Two transport of the casket
+      https://www.muckrock.com/foi/united-states-of-america-10/foia-request-secret-service-coordination-for-air-force-two-transport-of-charlie-kirks-casket-193192/
+      Awaiting Response, updated 2026-07-15.
+    * Air Force -- records re Air Force Two transport of the casket
+      https://www.muckrock.com/foi/united-states-of-america-10/foia-request-records-related-to-air-force-two-transport-of-charlie-kirks-casket-193190/
+      Awaiting Response, updated 2026-06-15.
+    * DoD (Under Sec. for Personnel & Readiness) -- military funeral honors
+      https://www.muckrock.com/foi/united-states-of-america-10/foia-request-military-funeral-honors-assigned-to-charlie-kirk-ceremony-193191/
+      "Fix Required", updated 2026-05-08.
+    * FBI -- "Jeff Webb (Charlie Kirk mentor)"
+      https://www.muckrock.com/foi/united-states-of-america-10/jeff-webb-charlie-kirk-mentor-207650/
+      NO RESPONSIVE DOCUMENTS, 2026-04-08. (A real, closed FBI FOIA answer.)
+  The remaining ~20 are a national sweep of universities and state AGs about
+  campus reaction to the assassination -- not case record.
+
+THE BLACK VAULT / governmentattic: searched, no Kirk or Robinson holdings found.
+
+================================================================================
+SECTION 9 — CONGRESSIONAL RECORD (federal, free, downloadable)
+================================================================================
+govinfo's search API WORKS WITH THE PUBLIC "DEMO_KEY" -- no account needed:
+  POST https://api.govinfo.gov/search?api_key=DEMO_KEY
+  body {"query":"\"Charlie Kirk\" collection:CHRG","pageSize":25,"offsetMark":"*"}
+  -> HTTP 200, count 21.  (Quote the phrase AND put collection: inside the query
+     string; a separate "collection" field or an unquoted phrase returns noise.)
+
+>>> HOUSE JUDICIARY, OVERSIGHT OF THE FBI, 17 Sept 2025 -- Director KASH PATEL
+    under oath, one week after the assassination. 129 pages, 38 occurrences of
+    "Charlie Kirk". DOWNLOADED AND VERIFIED.
+      https://www.congress.gov/119/chrg/CHRG-119hhrg61655/CHRG-119hhrg61655.pdf
+         HTTP 200, 796,899 bytes, application/pdf, 129 pages
+      mirror (identical bytes):
+      https://api.govinfo.gov/packages/CHRG-119hhrg61655/granules/CHRG-119hhrg61655/pdf?api_key=DEMO_KEY
+         HTTP 200, 796,899 bytes
+    Patel testified the FBI is investigating a DISCORD GROUP CHAT Robinson was
+    allegedly in, and was questioned about announcing a suspect in custody and
+    walking it back 90 minutes later. Rep. Fitzgerald questioned him on the
+    assassination:
+      https://fitzgerald.house.gov/media/press-releases/rep-fitzgerald-questions-fbi-director-kash-patel-charlie-kirks-assassination
+
+  Patel's Senate Judiciary opening statement, 16 Sept 2025 (fbi.gov, 403 to both
+  tools, browser only):
+      https://www.fbi.gov/news/speeches-and-testimony/director-patel-opening-statement-to-the-senate-committee-on-the-judiciary-091625
+  Also downloaded: CHRG-119hhrg61749 "Victims of Violent Crime" 29 Sept 2025
+      https://www.congress.gov/119/chrg/CHRG-119hhrg61749/CHRG-119hhrg61749.pdf
+      HTTP 200, 5,614,255 bytes, 70 pages -- but only ONE "Charlie Kirk" mention.
+      Low value.
+  FBI press conference transcript (third-party, free):
+      https://www.rev.com/transcripts/fbi-press-conference-on-kirk-shooting
+
+================================================================================
+SECTION 10 — CIVIL / PROBATE / PROTECTIVE ORDERS
+================================================================================
+WRONGFUL DEATH / UVU NEGLIGENCE: NO SUIT FOUND, and I looked hard.
+  * RECAP/CourtListener D. Utah: nothing. (Section 1.)
+  * Repeated web searches for a filed negligence action or notice of claim
+    against UVU, Orem, or TPUSA: nothing filed as of 2026-08-31.
+  *** TIMING, AND THIS MATTERS RIGHT NOW ***
+    UVU is a Utah state institution, so the UTAH GOVERNMENTAL IMMUNITY ACT
+    controls. Utah Code 63G-7-402: a NOTICE OF CLAIM must be filed WITHIN ONE
+    YEAR after the claim arises, or the claim is barred. 63G-7-403: the entity
+    then has 60 days to approve or deny (silence = denial), and suit must be
+    brought within one year of that denial.
+    The claim arose 2025-09-10. THE ONE-YEAR NOTICE DEADLINE IS 2026-09-10 --
+    TEN DAYS FROM TODAY. Any wrongful-death or negligence claim against UVU or
+    Orem City must appear in the next ten days or be time-barred. WATCH THIS.
+      Statute PDF: https://le.utah.gov/xcode/Title63G/Chapter7/C63G-7_1800010118000101.pdf
+      63G-7-402: https://law.justia.com/codes/utah/title-63g/chapter-7/part-4/section-402/
+      63G-7-403: https://law.justia.com/codes/utah/2010/title-63g/chapter-07/63g-7-403/
+      Practitioner overview: https://www.cozen.com/admin/files/publications/utah_tort_claims_act_immunities_2208132.pdf
+  UTAH GIA DATABASE -- https://services.commerce.utah.gov/gia/   HTTP 200, 9,739 B
+    IMPORTANT CORRECTION TO AN EASY ASSUMPTION: this is NOT a database of claims
+    filed. Per its own text it exists "in compliance with UCA 63G-7-401(6), to
+    retrieve address and contact information of Governmental Entities for the
+    purpose of DELIVERING a notice of claim." It tells you where to serve UVU.
+    It does not disclose whether anyone has served one. Contact corpucc@utah.gov.
+
+PROBATE / ESTATE OF CHARLIE KIRK: NOT FOUND, and the rumors are junk.
+  Kirk was domiciled in Arizona; Maricopa County Superior Court Probate would
+  have jurisdiction.
+    https://superiorcourt.maricopa.gov/departments/superior-court/probate/   HTTP 200
+    https://www.clerkofcourt.maricopa.gov/case-search   HTTP 403 to curl (browser only)
+    https://apps.supremecourt.az.gov/publicaccess/caselookup.aspx  DNS DOES NOT
+       RESOLVE from here (curl HTTP 000; WebFetch "getaddrinfo ENOTFOUND").
+       Possibly renamed/retired -- a human should confirm in a browser.
+  Multiple independent fact-checks found NO probate filing and NO will made
+  public. The viral "Charlie cut Erika out of his will" video traces to an
+  account that LABELS ITSELF PARODY/SATIRE. Snopes and Lead Stories both
+  concluded the claim is unsupported. DO NOT PUT THAT ON THE SITE.
+  Erika Kirk became TPUSA CEO 2025-09-18 -- a corporate succession, not a
+  probate event, and it is not evidence about the estate.
+
+PROTECTIVE ORDERS: the only one is inside the criminal case and WE ALREADY HOLD
+  IT -- 9_16_25_Pretrial_Protective_Order_Erika_Kirk.pdf and the proposed
+  version. DocumentCloud has the entered order as docket 14 (id 27880872), which
+  is worth pulling for the docket number alone.
+  No separate juvenile, family, or standalone protective-order case found.
+  Robinson was 22 at the time -- no juvenile record exists.
+
+MEDICAL EXAMINER / AUTOPSY:
+  Utah Office of the Medical Examiner autopsied in the early hours of 2025-09-11.
+  The report was admitted at the preliminary hearing as STATE'S EXHIBIT 11 and
+  was DELIBERATELY NOT published or broadcast in open court.
+  Testimony (SBI Agent David Hull): manner = HOMICIDE, immediate cause =
+  GUNSHOT WOUND OF THE NECK.
+    https://www.ksl.com/article/51594777/videos-medical-examiners-report-submitted-at-robinson-prelim-despite-flurry-of-hearsay-objections
+    https://publichealthpolicyjournal.com/charlie-kirk-autopsy-report-findings-presented-at-preliminary-hearing/
+  RELEASE STATUS: Utah autopsy reports are NOT public records. Release is limited
+  to next of kin, law enforcement, a legal representative, and a physician who
+  attended the deceased, unless a court orders otherwise. GRAMA does not open
+  them. THE ONLY REALISTIC ROUTE IS NEXT OF KIN (Erika Kirk) OR A COURT ORDER.
+  A GRAMA request to the ME will be denied; do not spend the effort.
+  Note David Hull is the same Sgt. David Hull subpoenaed 2026-01-09 (docket 291).
+
+================================================================================
+SECTION 11 — FINAL VERIFICATION SWEEP (re-probed at end of run, 2026-08-31)
+================================================================================
+status  mime              bytes       url
+200  application/pdf   12,084,034  judicialwatch .../Utah-Valley-University-Charlie-Kirk-records-prod-1-2026.pdf
+200  application/pdf   47,681,866  judicialwatch .../Utah-Valley-University-Charlie-Kirk-records-prod-2-2026.pdf
+200  application/pdf      277,548  static.foxnews .../2026/08/Prosecutor_Reply.pdf
+200  application/pdf    1,369,739  static.foxnews .../2026/04/tyler-robinson-ballistics-motion.pdf
+200  application/pdf      796,899  congress.gov CHRG-119hhrg61655 (FBI oversight, Patel)
+200  application/pdf      116,597  utcourts.gov Request_for_Record.pdf
+200  text/html            142,256  GRO decision 2026-004 (Judicial Watch v UVU, evidence removal + paving)
+200  text/html            140,196  GRO decision 2025-176 (Carlisle v UVU, security plan)
+200  text/html            142,937  GRO decision 2025-150 (Gliha v Washington County, Robinson bodycam)
+200  text/html            130,976  GRO decision 2026-002 (SL Tribune v Orem, Orem PD bodycam)
+200  text/html            140,591  GRO decision 2025-148 (Inkley v UVU, private security contracts)
+200  text/html            142,159  GRO decision 2025-155 (Johns v UVU, Chris Burk personnel)
+200  text/html            142,690  GRO decision 2026-154 (Tanner v DPS, campus police audits)
+200  text/html            142,669  GRO decision 2026-155 (Carlisle v DPS, campus police audits)
+200  text/html             24,379  pubapps.utcourts.gov TranscriptWEB (transcript ordering)
+200  application/pdf      485,376  storage.courtlistener.com Smith v City of Orem complaint
+ALL SIXTEEN RE-VERIFIED 200. Nothing reported above is a guessed URL.
+
+================================================================================
+SECTION 12 — DEAD ENDS, with the status actually observed
+================================================================================
+BOT-WALLED (content exists; a human in a browser gets it; NOT a paywall):
+  documentcloud.org + api.www.documentcloud.org + s3.documentcloud.org  HTTP 403
+     Cloudflare "Attention Required!" on every path, even with UA + Referer +
+     Sec-Fetch-*. WebFetch DOES get the JSON API through.
+  muckrock.com (incl. /api_v1/)         HTTP 403 Cloudflare "Just a moment..."
+     WebFetch gets the HTML listing pages through.
+  vault.fbi.gov, www.fbi.gov           HTTP 403 to curl AND to WebFetch
+  atf.gov                              HTTP 403 (415-byte edge block)
+  scribd.com                           HTTP 200 but 3,038-byte "Client Challenge"
+  abc4.com (Nexstar)                   HTTP 403 to curl AND to WebFetch
+  dailycaller.com                      HTTP 403 to WebFetch
+  clerkofcourt.maricopa.gov/case-search HTTP 403
+
+BROKEN / MOVED / NONEXISTENT:
+  atty.utahcounty.gov/media/ckpr        HTTP 404 to curl and to WebFetch, even
+     though it is the canonical "Charlie Kirk Case Updates" page in search
+     results. atty.utahcounty.gov IS 200 and /media IS 200; the site is a
+     Next.js SPA that server-404s deep routes and renders them client-side.
+     I looked for a buildId and a _next/data JSON route: buildId is not in the
+     served HTML, /_next/data//media/ckpr.json -> 404, /media/ckpr.json -> 404.
+     No /api/ endpoints in the bundle. BROWSER ONLY.
+  apps.supremecourt.az.gov              DNS does not resolve (curl HTTP 000)
+  courtlistener /api/rest/v4/dockets/   HTTP 401 (auth required; search is open)
+  utcourts.gov/en/about/courts/find/case-search.html  HTTP 404
+  utcourts.gov/en/self-help/records.html             HTTP 404
+  utcourts.gov/en/records.html                       HTTP 404
+  legacy.utcourts.gov/records/                       HTTP 500
+  bit.ly/484ewja (Fox's "Read the filing")  301 -> http://foxnews.com/ (generic
+     homepage, the deep link is dead). The real PDF was found by scraping the
+     article HTML instead.
+  archives.utah.gov/?s=Utah+Valley+University+security+plan  HTTP 200 but
+     "Nothing to Show Right Now" -- the site search does NOT index the decisions
+     table. You must parse the decisions-and-orders page.
+
+SEARCHED AND GENUINELY NOT THERE:
+  * No federal criminal case against Robinson anywhere in RECAP.
+  * No wrongful-death / UVU-negligence / TPUSA civil suit filed as of today.
+  * No probate or estate filing for Charlie Kirk located; the "cut out of the
+    will" story is traceable to a self-declared parody account.
+  * No FBI or ATF FOIA release of any case record. The ATF engraved-ammunition
+    bulletin request has sat unacknowledged for ~11 months.
+  * No news outlet republished any of the 16 unsealed search warrants.
+  * No bindover ruling -- oral argument is 2026-09-01, i.e. tomorrow.
+
+================================================================================
+SECTION 13 — WHAT A HUMAN SHOULD DO, RANKED
+================================================================================
+ 1. Buy the docket index off DocumentCloud in a browser (free), ids 27880531 and
+    27880533. It tells you exactly which of ~420 entries we lack. Do this first;
+    everything else gets cheaper afterwards.
+ 2. Xchange One-Time Use account, $10 + $1/document. Buy: the 16 unsealed search
+    warrants, the State's 7/28/26 opening bindover memo, the 8/11/26 defense
+    reply, the 6/26/26 contempt ruling, and the preliminary-hearing exhibit list.
+    Under $40 all in.
+ 3. Order the 6-10 July 2026 preliminary hearing AUDIO (cheaper than transcript)
+    from the 4th District Court, or the transcript at $6.00/page / ~$250 per
+    court hour, via pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp.
+ 4. Grab the two Judicial Watch PDFs and the two Fox static PDFs now -- they are
+    free, direct, verified 200, and post-cutoff. No human needed.
+ 5. Read GRO decision 2026-004 next to the Judicial Watch production. One says
+    what was withheld; the other is what was released.
+ 6. WATCH 2026-09-10. That is the Utah Governmental Immunity Act one-year notice
+    deadline. Any civil claim against UVU or Orem lands by then or never.
+ 7. Watch the 2026-09-01 bindover argument and the ruling that follows it.

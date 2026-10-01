@@ -1,0 +1,146 @@
+<!-- Converted from 2025/10_22_25_Opposition_To_State's_Motion_Under_Crim_Rule_17.pdf -->
+# 10 22 25 Opposition To State's Motion Under Crim Rule 17
+
+> **Source PDF:** `court/filings/2025/10_22_25_Opposition_To_State's_Motion_Under_Crim_Rule_17.pdf` — served at `/court/filings/2025/10_22_25_Opposition_To_State's_Motion_Under_Crim_Rule_17.pdf`  
+> **Pages:** 7  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (UT #13967) Michael N. Burt, _pro hac vice_ NESTER LEWIS PLLC LAW OFFICE OF MICHAEL BURT PC 40 S 600 E 1000 Brannan Street Suite 400 Salt Lake City, UT  84102 San Francisco, California 94103 Telephone: 801-535-4375 Telephone: 415-522-1508 Email: kathy@nesterlewis.com Staci Visser (UT #14358) Richard G. Novak, _pro hac vice_ BROWN, BRADSHAW & MOFFAT RICHARD G. NOVAK, APLC 422 N 300 W 65 North Raymond Avenue, Suite 320 Salt Lake City, UT 84103 Pasadena, CA 91103 Telephone: 801-532-5297 Telephone: 626-578-1175 
+
+_Attorneys for Tyler James Robinson_ 
+
+IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT 
+
+IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH 
+
+|STATE OF UTAH,<br>Plaintiff,|**DEFENDANT’S OPPOSITION TO THE**<br>**STATE OF UTAH’S MOTION UNDER**<br>**UTAH RULE OF CRIMINAL**<br>**PROCEDURE 17.5**|
+|---|---|
+|vs.||
+||Case No.  251403576|
+|TYLER JAMES ROBINSON,||
+|Defendant.|Honorable Tony F. Graf, Jr.|
+
+
+
+Defendant, Tyler James Robinson, by and through undersigned counsel hereby files this memorandum in opposition to the State of Utah’s “motion” for affirmative relief which is contained in the _Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints_ (“ _Response_ ”). Although Mr. Robinson maintains that the Sheriff’s pleading should be stricken, in an effort to resolve the substantive issues at hand, the following opposition addresses the Sheriff’s “motion” under Rule 17.5, in anticipation of a proper pleading being filed by the State of Utah. 
+
+Page **1** of **7** 
+
+Mr. Robinson files this opposing memorandum separately from his reply in support of his _Motion to Appear_ , consistent with Utah Rule of Civil Procedure 7(b).<sup>1</sup> While couched in a responsive pleading, the State’s argument under Rule 17.5 is a request for affirmative relief that should have been presented to this Court as a separate motion and should follow the normal course of briefing, argument, and decision-making. _See_ Utah R. Crim. P. 12(a) (“[a]n application for an order shall be by motion”). Neither this Court nor Mr. Robinson should be rushed into addressing a new and separate request for relief buried in a responsive pleading. 
+
+# **OBJECTION TO STATE’S MOTION UNDER RULE 17.5** 
+
+The State seeks affirmative relief from the Court, requesting that “all non-critical, nonevidentiary hearings should be held remotely[.]” _Response_ , at 14. The State relies on Utah Rule of Criminal Procedure 17.5 (“Rule 17.5”). The State’s motion is improper and the blanket order it requests violates Mr. Robinson’s constitutional right to be present at his criminal proceedings. 
+
+At the outset, it is entirely improper for the Utah County Sheriff’s Office, a third-party and a witness in this criminal case, to request affirmative relief from the Court. _See Motion to Strike_ , Doc 111.<sup>2</sup> In addition, Rule 17.5(c)(1) allows a “participant” to request to “appear at a hearing by a different format than that set by the court.” Participant “means a party, a participating victim, or an attorney for a party or participating victim.” _Id_ . 17.5(a)(1). The Sheriff’s Office is not a party, a participating victim, or an attorney for either. While Rule 17.5(b)(10) provides that the Court “will” consider “the preference of the incarcerating 
+
+> 1 Pursuant to Utah Rules of Civil Procedure 81(f), the civil rules are incorporated into the Utah Rules of Criminal Procedure “where there is no other applicable statute or rule, provided, that any rule so applied does not conflict with any statutory or constitutional requirement.” 
+
+> 2 References to documents in the record are made by the docket entry number. 
+
+Page **2** of **7** 
+
+custodian” when determining the format of any hearing, this does not mean the Sheriff’s Office has standing to file a motion under Rule 17.5. 
+
+As such, Mr. Robinson responds to these arguments as if made solely by the State of 
+
+Utah. 
+
+# **I. Mr. Robinson’s Constitutional Rights to be Present and Participate in his Own Defense Should be the Court’s Paramount Consideration.** 
+
+Mr. Robinson has a right to be present and to participate in his own defense and these 
+
+interests are paramount. The Utah Constitution, article I, § 12 criminal, affords defendants “the right to appear and defend in person and by counsel[.]” This right is likewise derived from the Due Process Clause of the Fourteenth Amendment and incorporated into the Confrontation Clause of the Sixth Amendment of the United States Constitution. _See Tennessee v. Lane_ , 541 U.S. 509, 523 (2004). The United States Supreme Court has also stated, 
+
+Although ... this privilege of presence is not guaranteed when presence would be useless, or the benefit but a shadow, due process clearly requires that a defendant be allowed to be present to the extent that a fair and just hearing would be thwarted by his absence. Thus, a defendant is guaranteed the right to be present at any stage of the criminal proceeding that is critical to its outcome if his presence would contribute to the fairness of the procedure. 
+
+_Kentucky v. Sincer_ , 482 U.S. 730, 745 (1987). Further, “[t]he Sixth Amendment does not provide 
+
+merely that a defense shall be made for the accused; it grants to the accused personally the right to make his defense.” _Faretta v. California_ , 422 U.S. 806, 819 (1975). 
+
+In practical application, there are many instances (if not most) where Webex is not a constitutionally adequate substitute for Mr. Robinson’s physical presence in court. As both the Court and the State are aware, case issues often develop shortly before and during hearings and 
+
+require confidential and simultaneous consultation between attorneys and clients. Not having Mr. Robinson present and available for consultation will result in the necessity of continuances and 
+
+cause delay. Not having Mr. Robinson present also makes it impossible to explain matters to him 
+
+Page **3** of **7** 
+
+as they develop during court hearings and prevents him from providing information to counsel that is germane to the issues. This impacts the fundamental attorney-client relationship. _See, e.g., State v. Classon_ , 935 P.2d 524, 533 (Utah Ct. App. 1997) (defense counsel has the duty to 
+
+“consult with the defendant on important decisions[,] and keep the defendant informed of important developments in the course of the prosecution). While perhaps more convenient to the Sheriff, Webex does not afford the same level of participation by Mr. Robinson as does in person presence alongside his counsel. 
+
+# **II. The Plain Language of Rule 17.5 Does Not Support the State’s Request for a “Blanket” Webex Order.** 
+
+The State’s motion extends the parameters of Utah Rule of Criminal Procedure 17.5 too 
+
+far for two reasons. 
+
+**_First_** _,_ Rule 17.5 does not empower parties to request how _another participant_ is to appear at a hearing. Rule 17.5(c) permits participants to “request that the court allow the participant or a witness to appear at a hearing by a different format than that set by the court.” By the plain language of the rule, this means that the State of Utah may request to appear virtually at Mr. Robinson’s hearings. The State of Utah may also request that a witness appear virtually. Mr. Robinson may also request to appear virtually and may also request that a witness appear virtually. The Rule _does not_ allow the State of Utah to request that Mr. Robinson appear virtually at any hearing, just as Mr. Robinson may not ask this Court to order the State of Utah to appear 
+
+virtually at any hearing, especially over its objection. 
+
+This plain language conclusion is supported by subsection (d) of Rule 17.5, which states 
+
+that “the court’s accommodation of” the “preference of one participant” does not: 
+
+- (A) change the format of the hearing _for any other participant_ unless otherwise ordered by the court; or 
+
+Page **4** of **7** 
+
+- (B) _affect any other participant’s opportunity_ to make a timely request to appear by a different format or the court’s consideration of that request. 
+
+Rule 17.5(d)(3) (emphasis added). This provision is explicit that one participant’s 
+
+accommodation does not impact the format of the hearing for the other participants. 
+
+**_Second_** , Rule 17.5(b) grants the Court “discretion to set a hearing as an in-person 
+
+hearing, a remote hearing, or a hybrid hearing.” However, the rule does not provide for a blanket ruling regarding the format of all hearings or a certain category of hearings. Quite the opposite, the language of the rule supports that such decisions must be made on a hearing-by-hearing basis. The factors courts are instructed to examine under Rule 17.5(b), are considerations for each individual hearing. _See Response_ , at 15-17. For example, “the complexity of the issues to be addressed” and “the number of participants” are things often only known by the participants (and sometimes only known shortly before hearings). _Id_ . 17.5(b)(3), (5). A blanket order cannot accommodate for such individualized assessments and therefore is not contemplated by Rule 17.5. 
+
+The State’s motion is thus not supported by the rule upon which it relies and should be denied. 
+
+# **III. Virtual Hearings Do Not Avoid Potential Prejudice to the Jury Pool Where it is Abundantly Clear that Mr. Robinson is Appearing from the Jail.** 
+
+Despite the State’s argument otherwise, virtual hearings do not address the serious issues 
+
+raised in the _Motion to Appear_ . _See Response_ , at 15. One of the most significant concerns is the intense media attention regarding this case, including the ongoing presence of cameras in the courtroom and the pervasive images of Mr. Robinson, all of which exposes a future jury pool to 
+
+indicia of Mr. Robinson’s in-custody status. The Court has already recognized this concern when issuing, sua sponte, the Protection Order re: Pre-trial and Trial Publicity, stating: 
+
+Page **5** of **7** 
+
+This case has generated and is likely to continue to generate significant pretrial and trial publicity. That publicity can compromise Defendant Tyler James Reobinson’s right to due process of law as well as both parties’ rights to a fair and impartial jury. Pre-trial publicity is of particular concern because it can taint the prospective jury pool. 
+
+Doc 23 (emphasis added). In times where these images and videos live forever on the internet, 
+
+the nature of Mr. Robinson’s appearance threatens to cause pre-conceived prejudice amongst the future jury pool akin to exposing the jury to such indicia during trial. Mr. Robinson appearing from Webex _in the jail_ does not solve this problem, since Mr. Robinson’s custody status is readily apparent. 
+
+This is not to say that there may be hearings where it is reasonable and appropriate for the parties and the Court to consent for all counsel and Mr. Robinson to appear via Webex. Defense Counsel anticipate such situations arising as the case progresses. Mr. Robinson will be consulted 
+
+in those situations win which _his_ counsel believe that the appearance of all parties and their counsel by Webex is appropriate because only non-substantive matters will be addressed by the Court. However, the parties and the Court should presume that all hearings will be in person unless an appropriate motion is filed by the relevant participant(s), as permitted by Rule 17.5. The State’s “motion” should be denied. 
+
+# **<u>CONCLUSION</u>** 
+
+Based upon the foregoing, the Court should deny the State’s motion. 
+
+RESPECTFULLY SUBMITTED this 22nd day of October, 2025. 
+
+_<u>/s/ Kathryn N. Nester /s/Richard G. Novak</u>_ Kathryn N. Nester Richard G. Novak _<u>/s/ Michael N. Burt /s/ Staci Visser</u>_ Michael N. Burt Staci Visser 
+
+_Attorneys for Defendant, Tyler James Robinson_ 
+
+Page **6** of **7** 
+
+# **CERTIFICATE OF SERVICE** 
+
+This is to certify that a true and correct copy of the foregoing was served via the Court’s 
+
+electronic filing system on the 22<sup>nd</sup> day of October, 2025, which served all attorneys of record. 
+
+_<u>/s/ Staci Visser</u>_ Staci Visser 
+
+7

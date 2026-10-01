@@ -1,0 +1,61 @@
+WAYBACK-ARCHIVE LANE — COMPLETE. 297 PDFs + 9 HTML + 9 TXT kept, 173 MB total.
+Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/wayback-archive/
+Log: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_wayback-archive.txt
+
+=========================== KEPT — TOP LEVEL PDFs (14) ===========================
+All verified %PDF-, byte counts are what `ls -l` reported.
+
+  1060521  2025-10-24_Redacted_Transcript_Sealed_Motion_Hearing_97pp.pdf — 97pp, Hon. Tony Graf, reporter Phoebe S. Moorhead. sha256 7a891b006d5c7128a5e120a469461855d9121239189ca3011625036949e16dc6 — EXACT MATCH to the hash in the brief, confirming the two-host byte-identity claim.
+   389135  2026-08-11_Defendant_Preliminary_Hearing_Briefing_41pp.pdf — 41pp (matches)
+   434546  2025-10-00_Defendant_Reply_to_Sheriffs_Response_to_Motion.pdf — 25pp
+  1369739  2026-04-00_Robinson_Ballistics_Motion.pdf — 29pp, bullet-jacket fragment testing
+   182000  2026-01-00_Robinson_Objection_to_States_Exhibit.pdf — 9pp
+   290634  2025-09-16_Charging_Document_Information.pdf — 10pp
+   526894  2025-10-00_Robinson_Street_Clothes_Restraints_Filing.pdf — 21pp
+  2095616  2026-07-09_Official_Court_Reporter_Transcript_Prelim_Day4.pdf — 278pp, muted-livestream day
+  1001766  2026-07-10_Official_Court_Reporter_Transcript_Prelim_Day5.pdf — 97pp, second muted day
+   319679  2026-07-28_State_Memorandum_Supporting_Bindover_28pp.pdf — pdfinfo says 29pp (brief said 28)
+   277548  2026-08-18_State_Reply_Supporting_Bindover_19pp.pdf — pdfinfo says 20pp (brief said 19)
+   572857  2026-08-28_Defendant_Discovery_Status_Report_17pp.pdf — 17pp (matches)
+  5204759  2025-11-17_Interlocutory_Appeal_Petition_Brief.pdf — 131pp
+ 15279467  2025-12-12_Interlocutory_Appeal_Opposition_Brief.pdf — 93pp
+
+=========================== KEPT — rev.com TRANSCRIPTS (6 HTML + 6 TXT) ===========================
+Every HTML byte count matched the brief EXACTLY.
+
+   863451 / 315540  2026-07-06_Rev_Prelim_Hearing_Day1_transcript.html / .txt
+   812482 / 312025  2026-07-07_Rev_Prelim_Hearing_Day2_transcript.html / .txt
+   388655 / 125663  2026-07-08_Rev_Prelim_Hearing_Day3_transcript.html / .txt
+   794260 / 301721  2026-07-09_Rev_Prelim_Hearing_Day4_transcript.html / .txt
+   351772 / 100438  2026-07-10_Rev_Prelim_Hearing_Day5_transcript.html / .txt
+   210301 /  36879  2026-07-00_Rev_Contempt_OSC_Hearing_transcript.html / .txt
+
+EXTRACTION TRAP WORTH RECORDING: rev splits one transcript across SEVERAL divs that all carry the same `id="main-content"`. Reading only the first div truncates Day 1 at 01:09:20 (50 KB instead of 315 KB). All chunks must be concatenated. Day 1 .txt now runs from "All rise… Judge Tony F. Graf, Jr., presiding" / "Calling case 251-403-576" through 07:46:52 "All rise."; contempt .txt ends at 55:28 "Court is now in recess."
+
+=========================== KEPT — search_warrant_affidavits/ (25 PDFs, 3.9 MB) ===========================
+All 25 warrants 3212261–3229461, all %PDF-, named `YYYY-MM-DD_SW{warrant#}_{subject}.pdf`. Sizes 102,707–760,826 B. Includes Kirk's body/effects at Timpanogos (103,454), hospital surveillance (102,707), Google geofence (139,800), Omar Najera's device (760,826), the T-Mobile/AT&T/Verizon tower dump (159,854), George Zinn CSAM (185,808), Craftopia/Gamin/The Corruption Discord (154,123), "Dufuss & Doobers" Discord (139,549), Lance Twiggs iCloud (116,895), the Dodge Challenger x2, 894 Cimarron Dr, 3419 S River Rd Unit 73, and the VANTRUE dash cam (133,184).
+
+=========================== KEPT — burkhart_docket_pdfs/ (258 PDFs, 135 MB) ===========================
+BEYOND THE 24 REQUESTED ITEMS. Item 15 was listed as an index page only, but all 258 attached filings on it were genuinely downloadable, so I pulled every one at ~9 s spacing. 258/258 succeeded, all %PDF-, none under 5 KB. Named `docket_NNN_{Title}.pdf` in docket order.
+
+=========================== KEPT — Burkhart index pages (3 HTML + 3 TXT) ===========================
+   788478 / 77652  2026-08-31_Burkhart_Recreated_Docket_867_entries.html / .txt
+   185750 /  4324  2026-07-13_Burkhart_25_Search_Warrant_Affidavits_index.html / .txt
+   330970 /  4839  2026-07-17_Burkhart_Completing_the_Record_muted_livestream.html / .txt
+
+Mapping files written:
+  _work/burkhart_docket_258_pdfs.tsv — 258 rows (docket_no, title, file_id, embed label, size, URL)
+  _work/burkhart_docket_full_867.txt — every parsed docket entry, flagged PDF vs not-obtained
+
+=========================== FAILURES (3) ===========================
+
+1 & 2. Utah County Attorney press releases (items 23, 24) — BLOCKED, NOT GONE.
+Live host `atty.utahcounty.gov` returned HTTP 503 on every attempt even with browser UA + Referer — host-wide, both URLs identically. CDX confirms the documents are archived and healthy: the 9/10 release has 2 captures (20260106220625 @ 93,007 B; 20251114000447 @ 94,114 B) and the 9/13 release has 9 captures (e.g. 20251114001520 @ 339,409 B, earliest 20250914180138 @ 337,670 B), all statuscode 200 mimetype application/pdf.
+
+Wayback *playback* then 503'd on roughly ten attempts across three URL forms (id_, if_, bare), both schemes, both timestamps, spaced 15–100 s apart. I ran the control test the repo charter requires: `https://web.archive.org/web/2020id_/http://example.com/` ALSO returned 503 while `https://web.archive.org/` returned 200. So this is Internet Archive throttling this client, NOT suppression of these two documents. One single attempt did briefly stream the genuine `%PDF-1.7` body before the throttle re-engaged — the bytes are definitely there. Human route (open in a browser, or retry later):
+  https://web.archive.org/web/20260106220625id_/https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf
+  https://web.archive.org/web/20251114001520id_/https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf
+
+3. Wayback snapshot of the Burkhart docket page (item 16) — playback HTTP 503, same IA throttle. LOW LOSS: the live docket page was captured this run at 788,478 B dated 2026-08-31, newer and 10x larger than the 2026-07-09 snapshot (78,646 B per CDX). Item 16 was only ever a backup for the list.
+
+Two second-host duplicates were deliberately skipped rather than re-downloaded: substack file 1d45d424… (byte-identical to the Fox 2025-10-24 transcript — verified by the sha256 above) and 1d3ce795… (second host of the 8-11-26 briefing already held from Fox). No paywall, login, or payment was encountered or attempted anywhere in this lane.

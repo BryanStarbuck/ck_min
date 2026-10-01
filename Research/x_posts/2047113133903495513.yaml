@@ -1,0 +1,36 @@
+id: '2047113133903495513'
+url: 'https://x.com/jamiburns45/status/2047113133903495513?s=20'
+author:
+  username: 'jamiburns45'
+  name: 'Jami Burns'
+  id: '543122671'
+text: |
+  ⚠️Questions remain about Charlie Kirk's death • Digging deeper into Kirk's assassination • Stellar insight: Brig. Gen. Blaine Holt @the_irascible, Rob O'Neill, @RobFinnertyUSA @NEWSMAX
+created_at: '2026-04-23T00:39:39.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 25
+  reply_count: 8
+  like_count: 111
+  quote_count: 5
+  bookmark_count: 26
+  impression_count: 1984
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2047111781412425728'
+      duration_ms: 375461
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2047111781412425728/img/5hB_52gJmj5lg5j2.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2047111781412425728/vid/avc1/1572x888/MxOgSrTXryyLmw-e.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+        - url: 'https://video.twimg.com/amplify_video/2047111781412425728/vid/avc1/1274x720/OnH7SofupZqKnMmM.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+video_downloaded: '2047113133903495513.mp4'
+video_ipfs_cid: 'Qmf861VfyBj9LHr5yLVhN1ugZG6B1ZppVgWUY5HFVyrz3g'
+transcription_file: 'videos_transcription/2047113133903495513.md'
+investigation: 'charlie_kirk'
+added_date: '2026-04-23'
+temp_file: false

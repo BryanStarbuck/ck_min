@@ -1,0 +1,49 @@
+overlap_id: OWENS-021
+date: 2024-02-14
+person: erika
+dir_name: 2024_02_14_KILG_Erika_DE_wilmington
+evidence_basis: adsb_ground_contact
+airport:
+  code: KILG
+  name: Wilmington Airport / New Castle Airport
+  city: Wilmington
+  state: DE
+  state_name: Delaware
+  timezone: America/New_York
+  elevation_ft: 80
+  town_population: 70898
+  town_population_source: US Census 2020
+following_plane:
+  tail: SU-BTT
+  type: Dassault Falcon 7X
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2024-02-14T16:32:40Z, source_zone: UTC}
+      to:   {utc: 2024-02-14T16:38:55Z, source_zone: UTC}
+      basis: final_approach
+      ground_points: 171
+      min_km: 0.82
+      min_alt_ft: -100
+      last_alt_ft: -100
+      last_km: 0.82
+      next_heard_at_field: {utc: 2024-02-16T13:04:09Z, km: 0.95, alt_ft: 125, on_ground: false, source: adsb-lol}
+      sources: adsb-lol|airplanes-live
+kirk_plane:
+  no_aircraft_in_record: true
+  claim: "Erika Kirk claimed in Wilmington on this date · no Kirk-party aircraft heard on the ground here"
+  queried_tails: N102DZ, N582MM, N79SC, N872RA, N40JD, N560TW, N888KG
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: recovered ADS-B traces, adsb.lol and airplanes.live. Ground contacts and near-field passes measured point by point. As of 2026-09-28."
+sources:
+  - site/docs/Planes/following/overlaps.csv
+  - site/docs/Planes/following/airports.csv
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2024-02-14_adsb-lol_trace_full.json
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2024-02-14_airplanes-live_trace_full.json
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2024-02-16_adsb-lol_trace_full.json
+  - site/docs/Planes/info_graphic/code/build_info_yaml.py
+notes: >-
+  SU-BTT was heard airborne within 15 km 1 time at KILG on this date.
+  NO Kirk-party or TPUSA-linked airframe was heard on the ground at this field on this date. Queried: N102DZ, N79SC. Held by neither archive for this date: N582MM, N872RA, N40JD, N560TW, N888KG. The Kirk band is drawn hollow because the claim on this row is a PERSON IN A CITY, and a claimed itinerary is not an aircraft.
+  COMING IN TO LAND: last heard at -100 ft, 0.82 km from the field, descending, and the trace ends there - no receiver heard this aircraft again that UTC day. It was next heard AT THIS FIELD 44.4 hours later (2024-02-16T13:04:09Z, 0.95 km from the field, 125 ft). Nothing was heard in between, and the graphic draws that gap as NOT HEARD. That is what a landing no receiver heard on the ground looks like. It is not a recorded arrival.
+  A trace proves presence, never purpose, and never occupancy. Nothing here places any person aboard any aircraft.

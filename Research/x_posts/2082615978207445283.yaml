@@ -1,0 +1,53 @@
+id: '2082615978207445283'
+url: 'https://x.com/aburkhartlaw/status/2082615978207445283'
+author:
+  username: 'aburkhartlaw'
+  name: 'Andrea Burkhart'
+  id: '1464300054479523843'
+  description: "Legal Color Commentator. I'm an experienced trial and appellate litigator and I call the shots as I see them."
+text: |
+  Although we didn't get the autopsy report, the State has shared a lot of details of its findings in their memorandum supporting bindover of Tyler Robinson. The complex entry wound coupled with fragmentation is consistent with the bullet destabilizing before impact, such as due to yaw. There are many other very specific details of the damage caused to Charlie that are consistent with extensive fragmentation of a rifle bullet.
+
+  Document -> https://andreaburkhart.substack.com/api/v1/file/b751fcf7-c7dd-447b-bfd8-59b76408afc0.pdf
+created_at: '2026-07-29T23:55:16.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 82
+  reply_count: 42
+  like_count: 429
+  quote_count: 9
+  bookmark_count: 51
+  impression_count: 29052
+linked_document:
+  url: 'https://andreaburkhart.substack.com/api/v1/file/b751fcf7-c7dd-447b-bfd8-59b76408afc0.pdf'
+  title: "State's Memorandum Supporting Bindover of Tyler Robinson"
+  pages: 28
+  archived_to: 'Research/PDFs/State_Memorandum_Supporting_Bindover_Tyler_Robinson.pdf'
+  hosted_at: '/court/bindover/state-memorandum-supporting-bindover.pdf'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2082614326557655040'
+      url: 'https://pbs.twimg.com/media/HObusiKbwAA9Dtu.jpg'
+      width: 963
+      height: 204
+      local_file: 'images/2082615978207445283_1.jpg'
+      ipfs_cid: 'QmcT1FVhBPSJE8UDWMybm7bK9uSfQVGFowsdQFxatQccYU'
+      sha256: '294116e39ceaf428be988df6c1cfcee39c10a200899835f0753d02f393fb7c68'
+ocr_text: |
+  The medical examiner concluded the manner of death "to be homicide." State's Ex. 11 at 1.
+  A forensic examination conducted by the ATF revealed that the bullet that killed Mr. Kirk was
+  a .30 caliber class round. State's Ex. 32 at 2. It created a "complex entrance gunshot wound" and
+  fragmented in Mr. Kirk's neck. State's Ex. 11 at 1, 3.
+exhibit_16_series:
+  "16": 'Transcript of the Lance Twiggs police interview'
+  '16.1': 'Robinson-Twiggs text messages (17+ pages)'
+  '16.2': 'Discord messages (2 pages)'
+  '16.3': 'Handwritten note'
+  '16.4': 'Cited alongside surveillance screen captures'
+related_post: 'https://x.com/MsJaneDoeUKnow/status/2082642579070546381'
+site_page: 'site/docs/Tyler_Robinson/Messages/discord-messages.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false

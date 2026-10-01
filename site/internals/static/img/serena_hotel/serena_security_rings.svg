@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" font-family="Helvetica, Arial, sans-serif">
+  <title>Rings of security around the Islamabad Serena Hotel, April 2026</title>
+  <rect width="960" height="620" fill="#0f1720"/>
+  <text x="480" y="38" fill="#ffffff" font-size="24" font-weight="bold" text-anchor="middle">Rings of Security Around the Islamabad Serena Hotel</text>
+  <text x="480" y="62" fill="#9fb3c8" font-size="14" text-anchor="middle">April 9–12, 2026 US–Iran talks. Diagram built from news reports; not to scale.</text>
+
+  <circle cx="330" cy="335" r="240" fill="#1d2b3a" stroke="#5b7a99" stroke-width="2"/>
+  <circle cx="330" cy="335" r="190" fill="#28374a" stroke="#c0392b" stroke-width="4"/>
+  <circle cx="330" cy="335" r="140" fill="#33445a" stroke="#e67e22" stroke-width="3" stroke-dasharray="10 6"/>
+  <circle cx="330" cy="335" r="95" fill="#3e5270" stroke="#f1c40f" stroke-width="3"/>
+  <circle cx="330" cy="335" r="55" fill="#4f6a8f" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="330" cy="335" r="24" fill="#1a73e8" stroke="#ffffff" stroke-width="2"/>
+
+  <text x="330" y="117" fill="#d6e2ee" font-size="14" text-anchor="middle" font-weight="bold">1  CITY</text>
+  <text x="330" y="167" fill="#ff8a7a" font-size="14" text-anchor="middle" font-weight="bold">2  RED ZONE</text>
+  <text x="330" y="217" fill="#ffc07a" font-size="14" text-anchor="middle" font-weight="bold">3  ARMY CORDON</text>
+  <text x="330" y="262" fill="#ffe680" font-size="14" text-anchor="middle" font-weight="bold">4  HOTEL GATE</text>
+  <text x="330" y="302" fill="#ffffff" font-size="13" text-anchor="middle" font-weight="bold">5  BUILDING</text>
+  <text x="330" y="340" fill="#ffffff" font-size="12" text-anchor="middle" font-weight="bold">6</text>
+
+  <g font-size="14" fill="#d6e2ee">
+    <text x="610" y="118" font-weight="bold" fill="#d6e2ee">1  City edge</text>
+    <text x="610" y="137">Public holiday Apr 9–10; entry points closed;</text>
+    <text x="610" y="154">10,000+ police, Rangers and troops</text>
+
+    <text x="610" y="192" font-weight="bold" fill="#ff8a7a">2  Red Zone perimeter</text>
+    <text x="610" y="211">Sealed; containers on roads; army took</text>
+    <text x="610" y="228">control; helicopters overhead</text>
+
+    <text x="610" y="266" font-weight="bold" fill="#ffc07a">3  Army road cordon (3 km)</text>
+    <text x="610" y="285">Roads around the Serena shut to cars and</text>
+    <text x="610" y="302">put under army control; checkpoints</text>
+
+    <text x="610" y="340" font-weight="bold" fill="#ffe680">4  Hotel gate</text>
+    <text x="610" y="359">Entry points set well back from the main</text>
+    <text x="610" y="376">compound; guests evicted Apr 8</text>
+
+    <text x="610" y="414" font-weight="bold" fill="#ffffff">5  Inside the building</text>
+    <text x="610" y="433">Floors locked down; staff vetted and</text>
+    <text x="610" y="450">confined; U.S. wing, Iranian wing, shared area</text>
+
+    <text x="610" y="488" font-weight="bold" fill="#8fbfff">6  U.S.-secured area</text>
+    <text x="610" y="507">Senior U.S. officials and the Secret</text>
+    <text x="610" y="524">Service only</text>
+  </g>
+
+  <text x="480" y="605" fill="#7f95ab" font-size="12" text-anchor="middle">Sources: Dawn, The Guardian, Reuters, Al Jazeera, The National (April 2026). Links on whoassassinatedcharliekirk.com/serena_hotel/security_rings</text>
+</svg>

@@ -1,0 +1,248 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/laws
+
+LAW_4_DIR dir is {ROOT_DIR}/4_Trusted_Investigations
+
+LAW_4_FILE is file {LAW_4_DIR}/Law_4_Trusted_Investigations.md
+
+THIS_DIR dir is {LAW_4_DIR}/tweet
+
+BACKGROUND_FILE is file {THIS_DIR}/background.txt
+
+TWEET_ABOUT_FILE is file {THIS_DIR}/tweet_about.txt
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_to_Mr_X.txt
+
+TARGET_PERSON is the person this tweet is addressed to.
+        Plug their full public name into every {TARGET_PERSON} placeholder
+        in the final output. Use their public X handle in the opening line
+        if it is known (for example "@RealCandaceO"). If the handle is not
+        known, use their full name with no @ prefix.
+
+FOCUS_LAW is Law 4 = "Embed Citizen Investigators Inside the Agencies"
+        (the Charlie Kirk Trusted Investigators Act)
+
+THE_FOUR_LAWS are:
+        Law 1 = Force the FBI to Open Its Files (DoJ/FBI Forced Disclosure Act)
+        Law 2 = Force the Spies to Open Their Files (Intelligence Services Disclosure Act)
+        Law 3 = Force Real Investigations (Mandatory Investigation Act)
+        Law 4 = Embed Citizen Investigators Inside the Agencies (Trusted Investigators Act)
+
+==========================================================
+PURPOSE OF THIS TWEET
+==========================================================
+
+* This is a PUBLIC tweet addressed directly to one specific person --
+  {TARGET_PERSON} -- inviting them to be named as one of the Trusted
+  Investigators in Law 4.
+* The tweet is public on purpose. Other citizens will read it. But it is
+  written TO {TARGET_PERSON} personally, not to a general audience.
+* The ask is simple:
+  * Tell {TARGET_PERSON} they have been identified as a candidate to be
+    named in Law 4.
+  * Explain WHY they were selected -- their knowledge of this investigation,
+    their dedication to the truth, and the public's trust in them.
+  * Ask whether they want to be included.
+  * Offer a phone call -- public conversation (livestream, podcast, X
+    Spaces) OR private conversation -- whichever they prefer.
+  * Request that they have a conversation BEFORE making their final
+    decision to accept or decline.
+
+==========================================================
+STAGE 1 -- READ THE FOUR LAWS RECURSIVELY
+==========================================================
+
+* Walk under {ROOT_DIR} and read every file under the four law directories
+  recursively into the context window:
+        {ROOT_DIR}/1_DoJ_FBI/
+        {ROOT_DIR}/2_US_Intel/
+        {ROOT_DIR}/3_Require_to_Investigate/
+        {ROOT_DIR}/4_Trusted_Investigations/
+* Read {LAW_4_FILE} in full -- this is the law the tweet is about.
+* Read {BACKGROUND_FILE} for the short framing of all four laws.
+* Read {TWEET_ABOUT_FILE} -- this is the prior tweet about Law 4 written
+  to a general audience. The Law 4 explainer section at the bottom of
+  the new tweet should pull faithfully from this content.
+* Read {ROOT_DIR}/README.md and {ROOT_DIR}/CLAUDE.md for project context.
+* Understand:
+  * What Law 4 does and how it differs from Laws 1, 2, and 3.
+  * Why Law 4 needs named citizen investigators with full agency access.
+  * Why the public's trust in each named investigator is the load-bearing
+    feature of the law -- without trust, the model collapses.
+  * The thesis: Tyler Robinson did not act alone. An intelligence service
+    was involved. These laws force the truth out.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is one continuous piece of writing addressed to {TARGET_PERSON}.
+
+----------- THE FIRST 40 WORDS (CRITICAL) -----------
+
+* Open by addressing {TARGET_PERSON} directly -- by name (or @handle).
+* Within the first 40 words, the reader must understand:
+  * That {TARGET_PERSON} has been personally identified as a candidate
+    to be one of the Trusted Investigators named in Law 4.
+  * That this is about the Charlie Kirk assassination investigation.
+  * That a federal law is being proposed and {TARGET_PERSON} is being
+    invited to be named in it.
+* Make the first 40 words feel personal and direct -- not a press release.
+  This is one citizen asking another respected citizen to step forward.
+
+----------- THE NEXT 200 WORDS (NEXT CRITICAL) -----------
+
+* The next ~200 words are about {TARGET_PERSON} -- not about the law yet.
+* Make the case for WHY {TARGET_PERSON} specifically was selected.
+  Three pillars, all three must be present:
+  1. KNOWLEDGE -- {TARGET_PERSON} has demonstrated deep knowledge of
+     the Charlie Kirk case, the surrounding evidence, the agencies
+     involved, and the broader pattern of intelligence-service conduct.
+     Cite their public work on this investigation where it is known
+     (interviews, podcasts, articles, X posts). Speak to it concretely.
+  2. DEDICATION TO THE TRUTH -- {TARGET_PERSON} has shown they pursue
+     the truth even when it is politically costly. They do not back
+     down. They do not soften. They follow the evidence.
+  3. TRUSTED BY THE PUBLIC -- citizens trust {TARGET_PERSON} to read
+     classified files and tell the public what they found without
+     filtering it through agency talking points. That public trust is
+     the entire foundation of Law 4. Without it, the law does not work.
+* Then ask the question directly: "Would you accept being named as a
+  Trusted Investigator in Law 4?"
+* Then make the offer: a phone call before they decide -- public (X
+  Spaces, livestream, podcast) or private, whichever they prefer.
+* Request explicitly that the conversation happen BEFORE they give a
+  final yes or no.
+* Quality bar: every sentence earns its place. No fluff. No flattery
+  that is not backed by something concrete. This person will read it.
+
+----------- BRIDGE TO THE LAW 4 EXPLAINER -----------
+
+* After the 200-word personal section, add a short one-or-two sentence
+  bridge that lets a reader who does not know Law 4 keep reading and
+  learn what it actually does. Something like: "For anyone reading this
+  who has not seen Law 4 yet -- here is what it does."
+
+----------- THE LAW 4 EXPLAINER (LOWER IN THE POST) -----------
+
+* Below the bridge, include a faithful Law 4 explainer drawn from
+  {TWEET_ABOUT_FILE}. Keep it tight. The reader has already seen the
+  personal ask -- the explainer is here so they can keep reading and
+  understand the offer being made.
+* Structure of the explainer section:
+  * 2 to 4 short paragraphs covering:
+    * What Law 4 actually does (embeds named citizen investigators
+      inside the FBI and the Intelligence Community).
+    * Who the trusted investigators are (a few representative names,
+      with {TARGET_PERSON} included naturally in the list if they are
+      not already among the publicly named candidates).
+    * Why this model works where prior disclosure laws (JFK, Epstein)
+      failed.
+    * Why it is structurally impossible for the agencies to bury
+      findings when 32 independent teams (16 FBI + 16 IC) are
+      embedded inside them.
+  * A bullet list of the key points of Law 4.
+
+----------- THE BULLET LIST -----------
+
+* Asterisk bullet list after the explainer paragraphs.
+* Sort the bullets by what a non-ramped-up audience will want to learn
+  about Law 4 FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack multiple
+  points into one bullet.
+* Suggested point categories to draw from (pick the strongest, in
+  audience-priority order):
+  * Named citizen investigators with full access
+  * Embedded inside FBI + U.S. Intelligence
+  * 32 independent teams (16 FBI, 16 IC)
+  * Immediate TOP SECRET / SCI clearances
+  * Independent budgets, independent counsel
+  * Authority to publicly release findings
+  * Whistleblower bounty -- minimum $1,000,000 for foreign intel leads
+  * No presidential override allowed
+  * Cannot be terminated by any government official
+  * 90-day public reports on each disclosure item
+  * Up to 15 years prison for interference
+  * Government employees can volunteer secretly, bypassing chain of command
+
+----------- PROPOSED TRUSTED INVESTIGATORS -----------
+
+* The tweet must include the current list of proposed Trusted Investigators
+  initially named in Law 4. Make clear that:
+  * None of these people have confirmed yet -- they are proposed candidates.
+  * Anyone on the list who does not want to be included can request to be
+    removed, and they will be removed.
+* If {TARGET_PERSON} is already on this list, present them naturally within
+  the list rather than separately.
+* The proposed names are:
+  * Candace Owens
+  * Dave Smith
+  * Joe Kent
+  * Tulsi Gabbard
+  * Tucker Carlson
+  * Steve Bannon
+  * Marjorie Taylor Greene
+  * Jon Bray
+  * Ian Carroll
+  * Thomas Massie
+  * Matt Gaetz
+  * Glenn Greenwald
+  * Collin Campbell
+  * Baron Coleman
+  * Ryan Matta
+  * Megyn Kelly
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that these four laws are at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback -- and call out
+  attorneys in particular as the audience whose feedback is most wanted.
+* Place this draft/feedback framing somewhere in the body or near the
+  closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute the laws to their author:
+  the laws were drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by @HolonCitizen
+  and that these laws live at the URL below as part of the website's
+  bigger investigation into the Charlie Kirk assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+* End with hashtags: #CharlieKirk #JusticeForCharlie #TrustedInvestigators
+
+----------- TONE AND VOICE -----------
+
+* Personal, direct, respectful. This is one citizen asking another
+  respected citizen to step forward.
+* Plain English. No jargon. No legalese.
+* Defamation-safe throughout: never state as fact that any living person
+  committed a crime. Use "allegedly", "reportedly", "evidence suggests"
+  where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it is
+  designed for a long-form X post or a thread. Write it as one
+  continuous piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_4_FILE}, {BACKGROUND_FILE}, {TWEET_ABOUT_FILE},
+  or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the 200-word personal section
+  * the Law 4 explainer paragraphs
+  * the bullet list
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE} for {TARGET_PERSON}"
+Output to stdout "============================================="

@@ -1,0 +1,47 @@
+id: '2098970186166534186'
+url: https://x.com/CharlotteLee_88/status/2098970186166534186
+author:
+  username: CharlotteLee_88
+  name: Charliesangels47
+  id: '2006195421312401409'
+text: The Charlie Kirk assassination smiling witness compilation. https://t.co/c3PKDeO0PW
+created_at: '2026-09-13T03:01:04.000Z'
+lang: en
+public_metrics:
+  bookmark_count: 46
+  impression_count: 4968
+  like_count: 145
+  quote_count: 5
+  reply_count: 23
+  retweet_count: 48
+attachments:
+  videos:
+  - type: video
+    media_key: '13_2098969861523116033'
+    duration_ms: 72983
+    preview_image_url: https://pbs.twimg.com/amplify_video_thumb/2098969861523116033/img/WLlFzGolPZdWzoEJ.jpg
+    variants:
+    - bit_rate: 632000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2098969861523116033/vid/avc1/320x320/Nb-S4lJ6El8QGQXb.mp4
+    - content_type: application/x-mpegURL
+      url: https://video.twimg.com/amplify_video/2098969861523116033/pl/AhjesKOp7y0T-OqS.m3u8?v=894
+    - bit_rate: 10368000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2098969861523116033/vid/avc1/1080x1082/NBxjeJRKi94PmG5L.mp4
+    - bit_rate: 25128000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2098969861523116033/vid/avc1/1920x1924/0r3aIbDfv9LJpbE4.mp4
+    - bit_rate: 2176000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2098969861523116033/vid/avc1/720x720/LpfZUblKQPh3vx5q.mp4
+    - bit_rate: 950000
+      content_type: video/mp4
+      url: https://video.twimg.com/amplify_video/2098969861523116033/vid/avc1/480x480/_xk_gy2vv7aZd5UT.mp4
+  images: []
+investigation: charlie_kirk
+added_date: '2026-09-13'
+temp_file: false
+video_file: videos/2098970186166534186.mp4
+ipfs_cid: QmWjUuiVWDwThM7DCkPAyAoEYx6LfoF9CpFBk7fTQnTvJw
+transcription: videos_transcription/2098970186166534186.md

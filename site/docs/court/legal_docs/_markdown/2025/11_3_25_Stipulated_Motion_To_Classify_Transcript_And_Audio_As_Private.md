@@ -1,0 +1,57 @@
+<!-- Converted from 2025/11_3_25_Stipulated_Motion_To_Classify_Transcript_And_Audio_As_Private.pdf -->
+# 11 3 25 Stipulated Motion To Classify Transcript And Audio As Private
+
+> **Source PDF:** `court/filings/2025/11_3_25_Stipulated_Motion_To_Classify_Transcript_And_Audio_As_Private.pdf` — served at `/court/filings/2025/11_3_25_Stipulated_Motion_To_Classify_Transcript_And_Audio_As_Private.pdf`  
+> **Pages:** 3  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (UT #13967) Michael N. Burt, _pro hac vice_ NESTER LEWIS PLLC LAW OFFICE OF MICHAEL BURT PC 40 S 600 E 1000 Brannan Street Suite 400 Salt Lake City, UT  84102 San Francisco, California 94103 Telephone: 801-535-4375 Telephone: 415-522-1508 Email: kathy@nesterlewis.com Staci Visser (UT #14358) Richard G. Novak, _pro hac vice_ BROWN, BRADSHAW & MOFFAT RICHARD G. NOVAK, APLC 422 N 300 W 65 North Raymond Avenue, Suite 320 Salt Lake City, UT 84103 Pasadena, CA 91103 Telephone: 801-532-5297 Telephone: 626-578-1175 
+
+_Attorneys for Tyler James Robinson_ 
+
+IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH 
+
+STATE OF UTAH, **STIPULATED MOTION TO ORDER TRANSCRIPT AND CLASSIFY** Plaintiff, **TRANSCRIPT AND AUDIO AS PRIVATE** vs. Case No.  251403576 TYLER JAMES ROBINSON, Honorable Tony F. Graf, Jr. Defendant. 
+
+Defendant, Tyler James Robinson, by and through undersigned counsel hereby moves 
+
+this Court to order the preparation of a transcript from the sealed hearing on October 24, 2025, 
+
+and, pursuant to Utah Rule of Judicial Administration 4-202.04(3) to classify the audio recording and transcription from the hearing before the Court on October 24, 2025, as “private” under Utah Rule of Judicial Administration 4-202.02(4)(CC). 
+
+This Court sealed the hearing on October 24, 2025; as such, the Court must order the transcript be prepared and the transcript and audio from the hearing are presumed to be sealed under Utah Rule of Judicial Administration 4-202.02(3)(l). However, the parties agree that the 
+
+Page **1** of **3** 
+
+parties should receive an audio recording of the hearing and that a transcript should be prepared. Further, the parties agree that the audio recording and the transcript should be classified as private, thereby allowing the parties to receive and utilize the transcript for the related issues to be raised in future filings and for the purposes of appeal (in accordance with the Utah Rules of Appellate Procedure requiring redaction of private information in public filings). 
+
+Given the nature of the case, request for appellate review during the pendency and/or at the conclusion of the case, is a foregone conclusion. Production of and access to the transcript and audio of the October 24, 2025 hearing is therefore necessary for (1) future trial court issues to be adequately raised and argued, and (2) for appellate review of the issues argued during the October 24<sup>th</sup> hearing, and the anticipated related hearings. Balancing the need to protect the information from the hearing against the need of the parties to utilize the record of the hearing to raise and argue issues in the future, the classification of “private” is appropriate. 
+
+BASED UPON THE FOREGOING and the stipulation of the State, Mr. Robinson respectfully requests that the Court order a transcript be prepared from the sealed hearing on October 24, 2025, and classifying the transcript and hearing audio as private in the Court record. 
+
+RESPECTFULLY SUBMITTED this 3rd of November, 2025. 
+
+|_/s/ Kathryn N. Nester_|_/s/Richard G. Novak_|
+|---|---|
+|Kathryn N. Nester|Richard G. Novak|
+|_/s/ Michael N. Burt_|_/s/ Staci Visser_|
+|Michael N. Burt|Staci Visser|
+
+
+
+_Attorneys for Defendant, Tyler James Robinson_ 
+
+Page **2** of **3** 
+
+# **CERTIFICATE OF SERVICE** 
+
+This is to certify that a true and correct copy of the foregoing was served via the Court’s 
+
+electronic filing system on the 3<sup>rd</sup> day of November, 2025, which served all attorneys of record. 
+
+_<u>/s/ Staci Visser</u>_ Staci Visser 
+
+3

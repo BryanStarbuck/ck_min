@@ -1,0 +1,48 @@
+id: '2071688818802266425'
+url: 'https://x.com/Mia_Stretch/status/2071688818802266425'
+author:
+  username: 'Mia_Stretch'
+  name: 'MIA'
+  id: '1812304718502518784'
+text: |
+  @DiligentDenizen Russell Kim Kennington was arrested on the same morning (September 11, 2025) that authorities announced finding the weapon in the wooded area
+  That connects to Morgan Vandagriff home. https://t.co/wWVQpeYZW3
+created_at: '2026-06-29T20:14:39.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 20
+  reply_count: 4
+  like_count: 75
+  quote_count: 1
+  bookmark_count: 12
+  impression_count: 2069
+replied_to:
+  id: '2071678483839754580'
+  author: '@DiligentDenizen'
+  url: 'https://x.com/DiligentDenizen/status/2071678483839754580'
+  text: |
+    Remember when Russell Kennington was caught at the scene of Charlie Kirk's assassination dressed as a doctor and caught at the crime scene WITH A RIFLE?
+
+    He was released and the charges were dropped WITHOUT EXPLANATION.
+
+    Why is that?
+  note: 'Video attached to this parent post is re-shared media originating from @BasedSamParker status 2071675066107261015. Not downloaded in this run — media belongs to the parent post, not to 2071688818802266425.'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2071688815207677952'
+      url: 'https://pbs.twimg.com/media/HMAeAEuagAAXu0x.jpg'
+      width: 1057
+      height: 729
+      local_file: 'images/2071688818802266425_1.jpg'
+      sha256: '344cb658f368fd6edf926ae43051835915b01eaae4802cc9217a05dadad06402'
+      ipfs_cid: 'QmeC75N2hAYoTaVMu7Ac3B16pNAskkhmCLMPXja2J7UqDe'
+      description: 'Annotated aerial map of the Utah Valley University campus and the adjacent residential neighborhood east of the campus. Red numbered markers 2 through 9 and white arrows trace a movement sequence. Labels visible: "UTAH VALLEY UNIVERSITY", "Campus Drive", "Parking garage", "Losee Center", "Charlie Kirk", "Where shot was taken" (marker 7), and "Wooded area" (marker 9). The wooded area sits across the road from the residential block on the east side.'
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false

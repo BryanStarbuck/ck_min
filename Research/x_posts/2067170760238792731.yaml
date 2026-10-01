@@ -1,0 +1,42 @@
+id: '2067170760238792731'
+url: 'https://x.com/1MrsWhistledown/status/2067170760238792731'
+conversation_id: '2067169575217799549'
+author:
+  username: '1MrsWhistledown'
+  name: 'Mrs Whistledown'
+  id: '2451717420'
+text: |
+  (image only — follow-up in the same thread as 2067169575217799549)
+created_at: '2026-06-17T09:01:30.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 0
+  quote_count: 1
+  bookmark_count: 0
+  impression_count: 544
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2067170758619795456'
+      file: '2067170760238792731_1.jpg'
+      ipfs_cid: 'QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ'
+      url: 'https://pbs.twimg.com/media/HLAQ2kWbkAApxsM.jpg'
+      width: 1080
+      height: 562
+      description: 'Un-redacted ownership history with Sold by field visible'
+ocr_text: |
+  [Homes.com - Ownership History]
+  Owner "13 Branches Family Trust and Twiggs", Private Individual, Dec 2025 - Present (6 Months).
+  Closed on Dec 4, 2025. Sold by: "Twiggs Amy R and Twiggs Mikayla R".
+  Bought by: "13 Branches Family Trust and Twiggs". Current Estimated Value: $305,179.
+site_page: 'site/docs/People/Lance_Twiggs_Family.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-06-17'
+temp_file: false
+notes: |
+  Follow-up image to post 2067169575217799549. Shows the un-redacted seller names
+  (Amy R Twiggs and Mikayla R Twiggs) on the property that was transferred into the
+  "13 Branches Family Trust and Twiggs". Public records of lawful activity; no
+  wrongdoing alleged. Added to existing Lance_Twiggs_Family.mdx page.

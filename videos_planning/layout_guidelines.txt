@@ -1,0 +1,246 @@
+LAYOUT GUIDELINES — VIDEO PAGES UNDER /Videos
+
+
+This file is the authoritative standard for how a video sits on its page and
+how big it gets. It covers the Level 5 pages — one page, one video, one
+write-up — under {ROOT_DIR}/site/docs/Videos/.
+
+It is the video counterpart of {ROOT_DIR}/image_planning/layout_guidelines.txt.
+Most of the geometry is deliberately identical, so a visitor moving between the
+Photos section and the Videos section is not learning two layouts. Where video
+differs it is called out explicitly, and those differences are load-bearing: a
+video has a player, controls, sound, a poster frame, and it is fetched across
+the network from a public IPFS gateway rather than served from the site.
+
+Every point in this file was written after a real, visible defect shipped to the
+live site — inherited from the images pipeline where the defect was first found,
+or found on the videos pipeline since. Treat each one as a defect to verify
+fixed, not as advice. Where this file and any prompt disagree, this file is
+right and the prompt is stale.
+
+Layout is a TEMPLATING concern, never a per-page concern. All of it is
+implemented in two places and nowhere else:
+
+  * {THIS_DIR}/generator/gen_videos_pages.py — the markup it emits.
+  * {SITE_DIR}/internals/src/css/custom.css — the block between
+    /* CK_VIDEO_LAYOUT_START */ and /* CK_VIDEO_LAYOUT_END */, which the
+    generator writes.
+
+Change the rule there, rerun the generator over every page, and every page moves
+together. Never fix a layout defect by hand-editing a video page.
+
+THE CSS BLOCK IS OURS AND ONLY OURS. The images generator writes a DIFFERENT
+marked block in the same file — CK_EVIDENCE_LAYOUT_START / CK_EVIDENCE_LAYOUT_END
+— and uses the ck-evidence-* class names. Writing into that block from here
+destroys the image layout, and the next images run destroys ours back. Our block
+is CK_VIDEO_LAYOUT and our classes are ck-video-*. Nothing outside our markers is
+ever touched.
+
+
+============================
+THE POINTS
+============================
+
+* The video is ON THE PAGE. It is not anchored to the browser window and does
+  not scroll up and down independently of the page. If a page carries three
+  screens of writing, the player scrolls away with the text the way any in-page
+  element does. position: fixed and position: sticky are forbidden on the player
+  and on its wrapper.
+
+* The player is NOT TRANSPARENT. The wrapper and the video element are opaque
+  and paint above everything around them. Page text can never be seen through
+  the player. opacity is 1.
+
+* The TEXT WRAPS AROUND IT. Nothing flows underneath the player and nothing
+  flows over it. Line boxes shorten beside it and resume full width below it.
+  The prose column is never hand-capped to a percentage width to dodge the
+  player — the player reserves its own space and the text flows around what is
+  left.
+
+* PLACEMENT. The page's main header — the H1, the biggest header on the page —
+  comes first. The player is anchored directly below it, above the prose and
+  above the first section header. Section and paragraph headers are smaller
+  than the H1. In source order the player comes BEFORE the prose it sits beside;
+  that source order is what lets the prose wrap around it.
+
+* NO ROUNDED CORNERS. border-radius is 0 on both the video element and its
+  wrapper. We do not lose any part of the corners of a frame.
+
+* CONTROLS ARE ALWAYS VISIBLE AND ALWAYS REACHABLE. The control bar is part of
+  the player's box, not an overlay that the bounding box may clip. If the height
+  ceiling would cut the controls off, the ceiling wins and the frame shrinks —
+  a player you cannot pause is worse than a small player.
+
+* NEVER AUTOPLAY AND NEVER LOOP. The visitor starts it. autoplay and loop are
+  forbidden. muted is irrelevant once autoplay is gone; do not set it, because a
+  muted-by-default player reads as broken on evidence footage where the audio IS
+  the evidence.
+
+* PRELOAD METADATA, NOT VIDEO. preload="metadata". These files run to tens and
+  occasionally hundreds of megabytes and they come off a public gateway. A page
+  that preloads the whole file makes the visitor pay for footage they never
+  played, and makes a cluster page with several embeds unusable.
+
+* A POSTER FRAME IS SET WHEN ONE EXISTS. poster="/img/video_posters/{sha256}.jpg".
+  Without it the player renders as a black rectangle and the page looks broken
+  before the first click. The poster is the ONLY part of the video served from
+  the site's own static directory.
+
+* THE VIDEO IS NEVER SERVED FROM THE REPO. src is a public IPFS gateway URL
+  built from the entry's cid: one <source> per gateway in
+  videos_planning/generator/ipfs_gateways.py (dweb.link, ipfs.io and w3s.link
+  were retired September 2026 - never emit them). Video bytes are never copied into
+  {SITE_DIR}/static — they are gitignored on purpose and GitHub Pages is not a
+  video host.
+
+* AN ENTRY WITH NO CID GETS NO PLAYER. The page is still generated, with its
+  title, its write-up, and a plain "media pending" note where the player would
+  be. A player pointed at an empty or unpinned CID is a dead rectangle and it
+  is worse than an honest note.
+
+
+============================
+THE BOUNDING BOX AND HOW THE SIZE IS CALCULATED
+============================
+
+The player is fitted inside a bounding box. The box has a width ceiling and a
+height ceiling, defined separately. The video scales inside that box preserving
+its aspect ratio, and whichever ceiling it reaches first is the one that governs.
+
+Width ceiling:
+
+  * UP TO 85% of the width of the MAIN AREA.
+  * The main area is the content column only. It excludes the left sidebar.
+    Level 5 pages set hide_table_of_contents: true, so there is no right-hand
+    TOC column to subtract.
+  * 85% is a CEILING on the box, not a fixed width, and not a target to hold
+    back from. If a video can use the full width, it SHOULD use the full width.
+    We want that — detail in footage is the whole point.
+
+Height ceiling:
+
+  * One screen. The visible viewport height, less the navbar height, less about
+    6rem of breathing room, so a player can never be taller than a single screen
+    and never swallows the page. The control bar counts inside this ceiling.
+
+How the two interact:
+
+  * A 16:9 or wider clip hits the WIDTH ceiling first. It renders at the full
+    85% and the height comes out well under a screen. Let it have the full
+    width.
+  * A vertical phone clip — and much of this corpus is vertical, because it came
+    off X — hits the HEIGHT ceiling first. It stops there, and its width comes
+    out much narrower than 85%. That is correct and expected. Do not pad it out,
+    and do not stretch or crop it to get there.
+  * The video is never upscaled past its intrinsic resolution. An upscaled 480p
+    phone capture looks like a mistake and hides nothing that a smaller player
+    would hide.
+
+Sizing by the viewport is NOT anchoring to the viewport. The viewport defines
+how big the box is allowed to be; the box then travels with the page and scrolls
+with it. Only the sizing may reference the viewport.
+
+Intrinsic dimensions come from the file, read at generation time (ffprobe on the
+local copy under {VIDEOS_DIR} or the mirror). When there is no local copy the
+generator cannot measure it — assume 16:9, emit the aspect ratio it assumed as a
+comment on the page, and record the entry so a later pass can correct it.
+
+
+============================
+RECONCILING FULL WIDTH WITH TEXT WRAP
+============================
+
+A player at 85% of the main area leaves a gutter too narrow to read in. A
+vertical clip at 40% leaves a comfortable column beside it. Both cases have to
+work, so the player is laid out one of two ways depending on how wide it
+actually renders:
+
+  * WRAPPED — the player floats and the prose wraps beside it and resumes full
+    width below it. Used when the gutter left over is at least a readable
+    column, about 18rem. This is the normal case for vertical clips, which are
+    height-limited and therefore narrow.
+
+  * FULL WIDTH — the player occupies the whole line at up to 85%, and the prose
+    resumes underneath it at full width. No text is squeezed into a sliver
+    beside it. This is the normal case for landscape footage.
+
+The generator decides which of the two applies, because it can read the video's
+intrinsic dimensions at generation time and compute the rendered width. It emits
+a modifier class on the wrapper; the CSS block implements the two behaviours.
+Both are in the document flow and both scroll with the page — the choice is
+about wrapping, never about anchoring.
+
+Below the mobile breakpoint (996px) every player collapses to a full-width block
+with the prose above and below it. A side-by-side float has no room to work at
+that width, and a touch visitor needs the whole width to hit the scrubber.
+
+
+============================
+WHAT THE CSS BLOCK MUST DO
+============================
+
+The CK_VIDEO_LAYOUT block in custom.css is the single implementation of this
+file. Class contract, emitted by the generator:
+
+  ck-video-wrap    the wrapper around the player
+  ck-video-media   the <video> element itself
+  ck-video-text    the wrapper around the whole write-up
+
+The block must:
+
+  * keep the wrapper in the document flow — a float or another in-flow
+    mechanism, never position: fixed and never position: sticky;
+  * give the wrapper and the player an opaque background and opacity 1, and
+    stack them above the prose;
+  * leave ck-video-text with no effective width cap, and override with
+    !important any inline maxWidth an older generated page still carries;
+  * bound the player by the width and height ceilings above, for SIZE only,
+    with the control bar inside the height ceiling;
+  * set border-radius to 0 on the wrapper and the player;
+  * collapse to a full-width block below the 996px breakpoint.
+
+It must not restyle the native control bar. A custom-skinned player is one more
+thing to break and it buys nothing on an evidence page.
+
+
+============================
+VERIFICATION — ON THE BUILT OUTPUT
+============================
+
+Check the built CSS bundle under {SITE_DIR}/build/assets/css/, not only the
+source, because the bundle is what visitors actually get.
+
+  * grep the bundle for the ck-video rules. position:fixed and position:sticky
+    must NOT appear on ck-video-wrap. An in-flow mechanism must.
+  * The CK_EVIDENCE_LAYOUT block is still present and unmodified — confirm the
+    videos run did not eat the images layout.
+  * The wrapper and the player carry an opaque background and sit above the
+    prose in stacking order.
+  * ck-video-text has no effective width cap.
+  * border-radius resolves to 0 on the wrapper and the player.
+  * grep every generated Vid_*.mdx for autoplay and for loop. The count must be
+    zero. grep for preload="metadata". The count must equal the number of pages
+    that have a player.
+  * grep every generated Vid_*.mdx for a leftover inline maxWidth on
+    ck-video-text. The count must be zero.
+  * grep every generated Vid_*.mdx for a src pointing anywhere but a public IPFS
+    gateway. The count must be zero — no /static/, no relative path, no
+    localhost.
+
+Then eyeball at least five pages in a browser, in a CLEAN PROFILE WITH NO IPFS
+COMPANION EXTENSION (Companion rewrites gateway URLs to your local node and will
+make an unpinned video look fine to you and be dead for everyone else):
+
+  * one landscape clip — it fills up to 85% of the main area, and the prose
+    resumes at full width below it;
+  * one vertical phone clip — it stops at one screen of height, comes out much
+    narrower than 85%, and the prose wraps beside it and resumes below;
+  * one page with several screens of writing — the player scrolls up with the
+    text and never pins to the window;
+  * one page whose entry has no cid — it shows the write-up and the "media
+    pending" note, and no dead player;
+  * one page on a mobile-width viewport — full-width block, controls reachable.
+
+Confirm on all five: square corners, nothing running under or over the player,
+controls visible, and the video actually plays and has audio when you press
+play.

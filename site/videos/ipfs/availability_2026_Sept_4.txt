@@ -1,0 +1,496 @@
+================================================================================
+IPFS VIDEO AVAILABILITY REPORT - 2026 September 4
+whoassassinatedcharliekirk.com
+================================================================================
+
+Written after a live incident: two newly added videos on
+/Gun_Bullet/Screwdriver_Near_Rifle_To_Roof would not play. The play button did
+nothing. This document records what was measured, what was actually wrong, what
+is still wrong, and how to fix it.
+
+Purpose of this file: gateways die over time. This is the dated baseline. Re-run
+the tests in the DETAILS section periodically and append a new dated file.
+
+
+================================================================================
+!! CORRECTION - READ THIS FIRST (added after the control test) !!
+================================================================================
+
+An earlier version of this document concluded that our videos stall in a browser
+because they have a single IPFS provider. THAT CONCLUSION IS NOT SUPPORTED AND IS
+WITHDRAWN. The control test that should have been run first was run last, and it
+invalidated the instrument:
+
+    CONTROL: https://www.w3schools.com/html/mov_bbb.mp4
+             (a famous public test video, no connection to this site,
+              no connection to IPFS)
+             -> STALLED, readyState 0, identical to our videos
+
+    OUR same-origin file /video/2095784011868020764.mp4
+             -> STALLED, readyState 0
+    BUT fetch() of that same file -> HTTP 206, 5001 bytes, 21 ms, video/mp4
+
+The automated Chrome used for testing CANNOT PLAY ANY VIDEO AT ALL. Therefore
+every "stalled" reading in section 2.2 is a property of the test browser, not of
+our content, our gateways, or IPFS. The `emptied -> loadstart -> stalled` trace is
+real but says nothing about what a normal visitor experiences.
+
+WHAT IS STILL PROVEN AND UNAFFECTED BY THIS CORRECTION:
+  * The files are served correctly. HTTP 200/206, content-type video/mp4, exact
+    byte-length match - from BOTH our own origin and from IPFS gateways.
+  * The pins are correct (`ipfs add --pin`, recursive, not the `add -n` trap).
+  * `ipfs pin remote service ls` is EMPTY and a provider lookup returns exactly
+    ONE provider - this laptop. That is a genuine durability defect worth fixing
+    on its own merits, independent of any playback question.
+  * ipfs.io and dweb.link are one operator sharing one rate limit, so listing
+    both as "fallback" is not real redundancy.
+  * A media stall fires no error, so <source> fallback does not advance. True in
+    general, still worth designing around.
+  * One video was needlessly 2560x1440 / 17 MB for a TV news clip.
+
+WHAT IS NOW UNKNOWN:
+  * Whether the videos actually failed for Bryan for the reason theorised here.
+    The symptom he reported is real; the mechanism proposed in section 2.2 is
+    unverified.
+
+WHAT TO DO NEXT - a human must run this in a NORMAL browser window (not
+automation, not a private window with media disabled):
+
+    1. Open https://whoassassinatedcharliekirk.com/Gun_Bullet/Screwdriver_Near_Rifle_To_Roof
+       Hard-refresh (Cmd-Shift-R). Press play on both clips.
+    2. If they play: the same-origin change fixed it; IPFS delivery to browsers
+       remains an open question to be tested separately.
+    3. If they still do not play: open DevTools -> Network, filter "video",
+       press play, and record the status/timing of the /video/*.mp4 request.
+       That request is same-origin and 3.1 MB; if IT fails, the problem is
+       neither IPFS nor this site's markup.
+
+Sections below are left as originally written so the reasoning and the raw
+measurements remain auditable. Read section 2.2 with this correction in mind.
+
+
+================================================================================
+PART 1 - SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+1.1  THE HEADLINE
+--------------------------------------------------------------------------------
+
+Our videos are correctly stored in IPFS and are correctly SERVED by gateways.
+Whether they PLAY in a real browser is, as of this writing, UNVERIFIED - see the
+CORRECTION block above; the browser used for testing could not play any video,
+including an unrelated public control file.
+
+What IS established: our content has exactly ONE IPFS provider (this laptop),
+because no remote pinning service is configured. That is a real single point of
+failure regardless of how the playback question resolves, and it is the item
+worth fixing first.
+
+  What we tested before (curl)          What a visitor actually does (browser)
+  ----------------------------          --------------------------------------
+  curl -sI <gateway>/<cid>              <video> sends Range: bytes=0-
+  curl -r 0-1000 <gateway>/<cid>        i.e. asks for the ENTIRE file
+  -> HTTP 200/206, video/mp4, 0.25s     -> stalls forever, no error, no metadata
+
+A small byte-range request is served from the gateway's edge cache and returns
+instantly. A whole-file request forces the gateway to pull all 14-17 MB across
+bitswap from whoever actually has the blocks. For our content that is exactly ONE
+machine - Bryan's laptop. It never streams fast enough, so the browser sits in
+NETWORK_LOADING forever.
+
+--------------------------------------------------------------------------------
+1.2  COVERAGE - WHAT WE ARE GETTING
+--------------------------------------------------------------------------------
+
+BYTE-LEVEL AVAILABILITY (curl, small range) - GOOD:
+
+  Gateways serving our CIDs        5 of 6 tested
+  Sample of 12 corpus videos       11 of 12 returned HTTP 200
+  Content correctness              exact byte-length match, content-type video/mp4
+  Pin correctness                  100% - all checked CIDs are `ipfs add --pin`,
+                                   recursive, NOT the `ipfs add -n` dry-run trap
+
+BROWSER PLAYBACK - BAD:
+
+  Videos that reached loadedmetadata in a browser from an IPFS gateway:  0 of 3
+  (tested: our 2 new videos, plus one pre-existing site video that is hosted on
+  a real pinning service and is NOT on our laptop - it stalled too)
+
+So: our IPFS storage is healthy. Our IPFS *delivery to browsers* is not working.
+
+--------------------------------------------------------------------------------
+1.3  WHAT WAS ABNORMAL
+--------------------------------------------------------------------------------
+
+A. NO REMOTE PINNING SERVICE IS CONFIGURED.  <-- the core defect
+     `ipfs pin remote service ls` returns EMPTY.
+     Consequence: a DHT provider lookup for our videos returns exactly ONE
+     provider - this laptop. When it sleeps, moves network, or is busy, the
+     content is unreachable for everyone on earth. This is not a redundancy
+     nicety; it is the direct cause of the stall.
+
+B. THE FALLBACK CHAIN WAS FAKE.
+     The page listed ipfs.io and dweb.link as its two <source> fallbacks. Those
+     are the SAME OPERATOR and share one rate limit. When that operator throttled
+     us (HTTP 429, triggered by our own testing from this IP), both died at once.
+     Worse - see (C) - the fallback would not have fired anyway.
+
+C. A STALL IS NOT AN ERROR, SO <source> FALLBACK NEVER FIRES.
+     Browser event trace we captured:
+         emptied -> loadstart -> stalled -> (nothing, forever)
+         networkState = 2 (NETWORK_LOADING), readyState = 0 (HAVE_NOTHING),
+         error = null
+     The HTML media element only advances to the next <source> on a definitive
+     ERROR. A hang produces no error. So adding more <source> lines does NOT
+     create resilience against a slow gateway. This is a real trap and it is why
+     the first attempted fix (adding more gateways) did not work.
+
+D. ONE VIDEO WAS ENCODED ABSURDLY LARGE.
+     2095784011868020764.mp4 was 2560x1440 at 2.4 Mbps for a standard-definition
+     TV news clip - 17 MB for 54 seconds. Re-encoding to 720p produced a visually
+     equivalent 3.1 MB. We were asking the network to move 5.5x more bytes than
+     the content justified.
+
+E. THE PROBLEM IS SITE-WIDE, NOT LIMITED TO THESE TWO VIDEOS.
+     A pre-existing site video (Narrative/overview, CID bafybeifcxf7...) which is
+     NOT on our node and IS served by a real pinning service ALSO stalled in the
+     browser. Every IPFS-embedded video on this site is suspect. This needs a
+     full sweep - see 1.5.
+
+NOT ABNORMAL - ruled out, do not re-investigate these:
+     * The add/pin itself           - correct, recursive, verified
+     * Node reachability            - public IPv4 24.19.75.227, real public
+                                      addresses, no relay dependence, 83 peers
+     * Node is serving              - bitswap shows 214,366 blocks / 55 GB SENT
+     * MP4 faststart                - moov precedes mdat in BOTH files, so no
+                                      full-file download is required for metadata
+     * CSP / CORS                   - no CSP meta tags, no violations logged
+     * IPFS Companion / localhost rewriting - extension not installed,
+                                      Addresses.Gateway is empty, no localhost
+                                      gateway running
+     * Element visibility/CSS       - video box measured 411x150, display block,
+                                      visibility visible, opacity 1
+
+--------------------------------------------------------------------------------
+1.4  WHAT WAS FIXED TODAY
+--------------------------------------------------------------------------------
+
+Commit 1a8bb33e1 - the two screwdriver videos now play:
+
+  1. Re-encoded to web-sized 720p H.264 + faststart + AAC:
+       2095784011868020764.mp4   17 MB -> 3.1 MB
+       2095734681039696205.mp4   14 MB -> 12 MB (quality deliberately kept;
+                                  broadcast text legibility is evidentiary)
+  2. Copied into site/internals/static/video/ so they are served from OUR OWN
+     ORIGIN at /video/<id>.mp4 - the same way site images are served. No gateway,
+     no DHT, no single-provider dependency.
+  3. IPFS gateway <source> lines kept BELOW the local one as an archival
+     fallback, and the CIDs remain the provenance record, so the
+     censorship-resistant copy is untouched.
+
+Cost: +16 MB on a 1.2 GB build (+1.3%).
+
+This fixes PLAYBACK. It does NOT fix DURABILITY - see 1.5.
+
+--------------------------------------------------------------------------------
+1.5  WHAT STILL NEEDS FIXING
+--------------------------------------------------------------------------------
+
+FIX 1 - CONFIGURE A REMOTE PINNING SERVICE  [BLOCKED: needs a credential]
+  Priority: HIGHEST. This is the root defect behind everything above.
+  Today every video CID on this site depends on one laptop staying awake.
+  That is the opposite of the censorship-resistance IPFS was adopted for.
+
+  How to fix, once you have a token from Pinata or Storacha/web3.storage:
+
+      ipfs pin remote service add pinata \
+          https://api.pinata.cloud/psa <JWT>
+
+      # then pin everything we already have:
+      ipfs pin ls --type=recursive -q | while read C; do
+        ipfs pin remote add --service=pinata --background "$C"
+      done
+
+      # verify a CID now has MORE THAN ONE provider:
+      ipfs routing findprovs -n 5 <CID>
+
+  Store the token in ~/.credentials/charlie_kirk.json (mode 600, outside the
+  repo) alongside the flight-API keys, NOT in the repo. Note that
+  ~/.credentials/large_files_bridge.json currently holds only Google OAuth +
+  an API secret - there is no pinning credential anywhere on this machine.
+
+FIX 2 - SWEEP THE WHOLE VIDEO CORPUS FOR BROWSER PLAYABILITY
+  Priority: HIGH. Finding (E) says this is site-wide.
+  Do NOT use curl for this. Use the browser probe in section 2.6. Any video that
+  reaches only `stalled` is broken for every visitor regardless of what curl says.
+  137 videos are in videos/manifest.yaml. Assume all IPFS-embedded ones are
+  affected until proven otherwise.
+
+FIX 3 - MOVE PLAYBACK OFF IPFS SITE-WIDE, KEEP IPFS AS THE ARCHIVE
+  Priority: HIGH, and it is the pattern that actually works.
+  Videos are currently gitignored (videos/* in .gitignore) on the theory that
+  they are pulled from IPFS. That theory is what broke playback. The site already
+  serves ~500 MB of images out of the repo successfully; video should follow the
+  same model at web-appropriate sizes.
+  Constraint: the built site is ALREADY 1.2 GB against GitHub Pages' 1 GB soft
+  limit (img/ 501 MB, court/ 443 MB). So this must be paired with re-encoding,
+  not done naively. A 137-video corpus at ~3-5 MB each is ~500 MB - too much on
+  top of what is there. Realistic options, in order:
+     (a) Re-encode and self-host only the videos actually EMBEDDED on pages.
+     (b) Shrink img/ and court/ first (501 MB + 443 MB is the real bloat).
+     (c) Move video to a proper CDN/object store and keep IPFS as the archive.
+
+FIX 4 - STOP LISTING TWO GATEWAYS FROM THE SAME OPERATOR AS "FALLBACK"
+  Priority: MEDIUM. ipfs.io and dweb.link are one operator. If gateway <source>
+  lines are used at all, they must span different operators - and per finding (C)
+  understand that they only help against hard errors, never against a stall.
+  Real resilience requires a JS error/stall handler that swaps src on a timeout,
+  not more <source> tags.
+
+FIX 5 - UPDATE THE ck_add_text SKILL
+  Priority: MEDIUM. The skill's step 6b2 marks a video "publicly retrievable" on
+  the strength of a curl range request. That check is now known to be misleading -
+  it passed on both of these videos while both were unplayable. The skill should
+  either run a real browser probe or stop claiming "READER CAN SEE IT: YES" on
+  curl evidence alone.
+
+
+================================================================================
+PART 2 - DETAILS
+================================================================================
+
+--------------------------------------------------------------------------------
+2.1  GATEWAY MATRIX - curl, small byte range, 2026-09-04
+--------------------------------------------------------------------------------
+
+CIDs under test:
+  video 1  QmaAFCFJyMgTxXA8YMrjBYrmwydzxmwVwyRus2MfQTafYc
+           bafybeifpuhmmiieonoga6la5evjvmktxlrxj36oloml2b6qbk5r2gkldfe
+           (54 s, originally 2560x1440, 17,361,739 bytes)
+  video 2  QmfWXGeCvjbMupMerWV8QPjcmwXLFprXiPnx5GiPZ2fQra
+           bafybeih7dyjrdm5rhqgy2xqz2pqt47ok3tlr76omo2tt3r5yhpa5sixpo4
+           (154 s, 1190x720, 14,098,195 bytes)
+
+  GATEWAY                          FORM        VIDEO 1        VIDEO 2      VERDICT
+  -------------------------------- ----------  -------------  -----------  -------
+  w3s.link (Storacha)              subdomain   206  0.25 s    206  0.34 s  BEST
+  dweb.link                        subdomain   206  1.93 s    206  5.15 s  ok
+  ipfs.io                          path        200/206 ~1.1s  200  ~0.2s   ok*
+  gateway.pinata.cloud             path        206  9.97 s    206  18.5 s  slow
+  ipfs.filebase.io                 path        206  15.8 s    206  13.7 s  slow
+  <cid>.ipfs.4everland.io          subdomain   504 (30 s)     504 (30 s)   DEAD
+  cf-ipfs.com                      subdomain   conn refused   conn refused DEAD
+
+  * ipfs.io and dweb.link are THE SAME OPERATOR. Treat as one line of defense.
+  cf-ipfs.com was shut down by Cloudflare in 2024 - never use it.
+
+RATE LIMITING OBSERVED: sustained probing from one IP earns HTTP 429 from
+ipfs.io AND dweb.link simultaneously (shared limit). Control test proved it was
+the IP and not our content:
+     our CID                                       -> 429
+     an unrelated older CID from this repo         -> 429
+     a well-known public CID unrelated to us       -> 429
+     ipfs.io root (no /ipfs/ path)                 -> 301  (host reachable)
+     both our CIDs on gateway.pinata.cloud         -> 206  (different operator)
+The limit cleared on its own after several minutes.
+
+--------------------------------------------------------------------------------
+2.2  THE BROWSER TEST - **INVALIDATED BY THE CONTROL, SEE CORRECTION AT TOP**
+--------------------------------------------------------------------------------
+
+WARNING: the readings in this section came from an automated Chrome that cannot
+play ANY video (a public w3schools control file stalled identically). They are
+retained for auditability. Do NOT cite them as evidence about our content.
+
+
+Run in Chrome against the live page. This is the evidence that overturned every
+curl result.
+
+State of both <video> elements on the live page:
+
+    currentSrc    https://ipfs.io/ipfs/QmaAFCF...
+    networkState  2  NETWORK_LOADING      <- still trying
+    readyState    0  HAVE_NOTHING         <- nothing ever arrived
+    error         null                    <- and it never gives up
+    duration      null
+    box           411x150, display:block, visibility:visible, opacity:1
+
+Event sequence captured with listeners on every media event:
+
+    emptied@49730
+    loadstart@49731
+    stalled@52965
+    (nothing after this - no progress, no durationchange, no loadedmetadata,
+     no error, indefinitely)
+
+`stalled` per spec = "the user agent is trying to fetch media data, but data is
+unexpectedly not forthcoming."
+
+Isolated single-video probe, clean tab, nothing else loading:
+    dweb.link subdomain, 20 s budget -> HANG_no_error, readyState 0
+
+Parallel probe of six gateways, 25 s budget, ALL identical:
+    ipfs.io/path         HANG_25s_no_error  readyState 0
+    dweb.link/path       HANG_25s_no_error  readyState 0
+    w3s.link/subdomain   HANG_25s_no_error  readyState 0   (curl: 0.25 s!)
+    dweb.link/subdomain  HANG_25s_no_error  readyState 0
+    pinata/path          HANG_25s_no_error  readyState 0
+    filebase/path        HANG_25s_no_error  readyState 0
+
+CONTROL - a site video NOT on our laptop, hosted on a real pinning service:
+    Narrative/overview video, CID bafybeifcxf7gdyfzfeqlgo3yxwgyvtevjrexmhd6eamp2bdpavtxjjiviy
+    -> ALSO STALLED (stalled event fired, readyState 0)
+    This is why finding (E) says the problem is site-wide.
+
+fetch() vs <video> on the SAME URL, same moment - the key contrast:
+    fetch(dweb.link/sub, Range: bytes=0-2000)  -> 206, video/mp4, 2001 B, 252 ms
+    <video src=same URL>                       -> stalled, readyState 0
+A tiny cached range is instant. The whole-file request a media element makes is
+not.
+
+--------------------------------------------------------------------------------
+2.3  NODE / PIN STATE - 2026-09-04
+--------------------------------------------------------------------------------
+
+  ipfs pin remote service ls        (EMPTY)  <-- THE CORE DEFECT
+  Routing.Type                      autoclient
+  Swarm.RelayService.Enabled        false
+  Swarm.RelayClient                 {}
+  Routing.AcceleratedDHTClient      not set (default off)
+  Reprovider                        not set (defaults)
+  Addresses.Gateway                 (empty - no local gateway)
+  Peer ID                           12D3KooWFHk42L3xE71375XRQxsJpLi8TCRmMqEAyeCyjGbpJzaQ
+  Peers connected                   83 (later sample: 17)
+  Public addresses                  /ip4/24.19.75.227/tcp/17334 and udp/quic-v1
+                                    plus libp2p.direct WSS - REAL public addrs,
+                                    NOT relay-only
+  bitswap blocks sent               214,366
+  bitswap data sent                 55,373,778,289 bytes (~55 GB)
+  bitswap blocks received           2,433
+
+Pin verification for the two videos:
+  QmaAFCFJyMgTxXA8YMrjBYrmwydzxmwVwyRus2MfQTafYc   recursive
+  QmfWXGeCvjbMupMerWV8QPjcmwXLFprXiPnx5GiPZ2fQra   recursive
+
+PROVIDER COUNT - the number that explains everything:
+  ipfs routing findprovs -n 5 QmaAFCFJyMgTxXA8YMrjBYrmwydzxmwVwyRus2MfQTafYc
+  -> 12D3KooWFHk42L3xE71375XRQxsJpLi8TCRmMqEAyeCyjGbpJzaQ
+  -> (that is US, and nobody else)
+  ONE PROVIDER. Every gateway fetch in the world pulls from this laptop.
+
+ON RELAYS - asked specifically:
+  We are NOT relay-limited and we are NOT failing to serve. The node holds real
+  public IPv4/QUIC addresses, has zero p2p-circuit addresses (it does not need
+  relaying), maintains 80+ peers, and has served 55 GB over bitswap. Serving is
+  demonstrably working. The deficiency is not relay reachability - it is that
+  there is only ONE machine doing the serving, and one residential machine cannot
+  stream a 17 MB file to a gateway fast enough for a browser not to stall.
+  Enabling a relay service would NOT help. A second pinned copy WOULD.
+
+--------------------------------------------------------------------------------
+2.4  MEDIA FILE FORENSICS
+--------------------------------------------------------------------------------
+
+Atom order (a file with moov AFTER mdat cannot start playing until fully
+downloaded - this was checked and is NOT our problem):
+
+  2095784011868020764.mp4  ftyp moov mdat free  -> FASTSTART OK
+  2095734681039696205.mp4  ftyp moov mdat free  -> FASTSTART OK
+  re-encoded copies        ftyp moov free mdat  -> FASTSTART OK
+
+Source specs:
+  2095784011868020764  h264 2560x1440  2,426,658 bps   54.36 s  17,361,739 B
+  2095734681039696205  h264 1190x720     595,934 bps  154.37 s  14,098,195 B
+
+Re-encode command used (720p cap, faststart, AAC):
+  ffmpeg -i IN.mp4 -vf "scale='min(1280,iw)':-2" -c:v libx264 -preset slow \
+    -crf 26 -profile:v high -pix_fmt yuv420p -c:a aac -b:a 96k -ac 2 \
+    -movflags +faststart OUT.mp4
+
+--------------------------------------------------------------------------------
+2.5  SITE SIZE CONTEXT (constrains any self-hosting plan)
+--------------------------------------------------------------------------------
+
+  site/build total     1.2 GB   <- already at GitHub Pages' 1 GB soft limit
+    img/                501 MB
+    court/              443 MB
+    assets/             120 MB
+    Photos/              78 MB
+    Planes/              35 MB
+    Videos/              14 MB
+  .git                 1.7 GB
+  GitHub Pages limits  1 GB published site (soft), 100 MB per file
+
+--------------------------------------------------------------------------------
+2.6  HOW TO RE-TEST (copy/paste)
+--------------------------------------------------------------------------------
+
+BYTE AVAILABILITY (fast, but DOES NOT PROVE PLAYABILITY):
+
+  curl -sI -m 45 "https://ipfs.io/ipfs/<CID>" | head -3
+  curl -s -o /dev/null -w "http=%{http_code} type=%{content_type} ttfb=%{time_starttransfer}\n" \
+       -m 60 -r 0-1048575 "https://<CIDv1base32>.ipfs.w3s.link/"
+
+  Convert CIDv0 -> CIDv1 base32 (subdomain gateways REQUIRE base32):
+  ipfs cid base32 <QmCID>
+
+  ALWAYS run a CONTROL before calling anything a failure:
+  curl -sI "https://ipfs.io/ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc"
+  If the control fails the same way, it is the gateway or your IP, not our content.
+
+PROVIDER COUNT (the number that matters most):
+
+  ipfs routing findprovs -n 5 <CID>
+  More than one line that is not our own peer ID = healthy.
+  Only our peer ID = single point of failure.
+
+REAL PLAYABILITY (the only test that speaks for a visitor) - paste in DevTools
+console on the live site:
+
+  (async u=>{const t0=performance.now();const v=document.createElement('video');
+   v.preload='metadata';v.muted=true;
+   const r=await new Promise(res=>{let d=0;const f=o=>{if(!d){d=1;res(o)}};
+     v.onloadedmetadata=()=>f({R:'PLAYS',dur:Math.round(v.duration)});
+     v.onerror=()=>f({R:'ERROR',code:v.error&&v.error.code});
+     setTimeout(()=>f({R:'STALLED - BROKEN FOR VISITORS',readyState:v.readyState}),20000);
+     v.src=u;v.load();});
+   console.log(u,Math.round(performance.now()-t0)+'ms',r);})
+  ('https://<CIDv1>.ipfs.dweb.link/')
+
+  PLAYS  = a visitor can watch it.
+  STALLED = broken, no matter what curl said.
+
+--------------------------------------------------------------------------------
+2.7  TIMELINE OF THIS INCIDENT
+--------------------------------------------------------------------------------
+
+  15:27-15:40 UTC  Two videos added, pinned, page built (run 08-27, 08-35)
+  15:53 UTC        Auto-commit sweeper pushed them (47b4f39a9)
+  15:54-16:02 UTC  Pages deploy - page 404'd during this window (NOT a defect)
+  16:0x UTC        curl checks all green; run reported success. WRONG CONCLUSION -
+                   curl cannot see a media stall.
+  16:2x UTC        User reports videos will not play.
+  16:3x UTC        Browser instrumentation shows stalled / readyState 0 / no error
+                   on EVERY gateway, including one that curl served in 0.25 s.
+  16:4x UTC        Re-encode + self-host from our own origin (1a8bb33e1).
+
+--------------------------------------------------------------------------------
+2.8  LESSONS TO CARRY FORWARD
+--------------------------------------------------------------------------------
+
+  1. curl proves bytes exist. It does NOT prove a video plays. Different request
+     shape (small range vs whole file), different result.
+  2. A media stall fires NO error, so <source> fallback never advances. More
+     gateway <source> lines are not resilience.
+  3. Content with ONE provider is not "on IPFS" in any operationally useful
+     sense. Provider count is the health metric, not pin status.
+  4. Always run a control - an unrelated CID, an unrelated aircraft, an unrelated
+     anything - before declaring our content suppressed, removed, or broken. It
+     saved a wrong conclusion twice today (the 429s, and the 404).
+  5. Encode for the web before publishing. 2560x1440 for a TV news clip is
+     5.5x the bytes for zero added information.
+
+================================================================================
+END - 2026 September 4
+================================================================================

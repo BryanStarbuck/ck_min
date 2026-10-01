@@ -1,0 +1,18 @@
+##########################################################
+#
+#
+##########################################################
+
+* Create the javascript script OUTPUT_SCRIPT. Make it work on Mac or Windows. 
+* This JavaScript can run on Windows and Mac
+* It will be started from the command line
+* It will input every MP3 and MP4 from directory INPUT_TO_TRANSCRIBE.
+* It will transcribe to words in a text file the script of the discussion in the MP3 or MP4.
+* It will output the transcript .txt file into OUTPUT_TRANSCRIPTION
+* The output file will have the same as the .mp3 or .mp4 but end in .txt.
+
+* See the SPEC for this feature in SPEC_FILE
+  and this will specify on what technology to use.
+  
+  
+  

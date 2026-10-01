@@ -1,0 +1,951 @@
+slide_deck:
+  title: "The Charlie Kirk Files Forced Disclosure Act"
+  subtitle: "Why America Needs Four New Laws to Uncover the Truth"
+  author: "Bryan Starbuck"
+  total_slides: 40
+  purpose: "Video presentation introducing the four proposed federal laws forcing full disclosure and investigation into the assassination of Charlie Kirk on September 10, 2025"
+
+  slides:
+    - slide_number: 1
+      type: title_slide
+      title: "The Charlie Kirk Files Forced Disclosure Act"
+      subtitle: "Four Laws to Force the Truth"
+      content:
+        center_graphic: "American flag backdrop with silhouette of Capitol building"
+        tagline: "Modeled after the Epstein Files Transparency Act (Public Law 119-38)"
+        bottom_text: "BryanStarbuck@gmail.com | github.com/BryanStarbuck"
+      speaker_notes: >
+        Welcome. My name is Bryan Starbuck, and today I'm going to walk you through
+        why I believe the United States Congress needs to pass four new federal laws
+        to force full government disclosure and a real investigation into the assassination
+        of Charlie Kirk. Charlie was killed on September 10, 2025, at Utah Valley University
+        in Orem, Utah. What I'm about to show you will make it clear that the official
+        narrative has massive holes, and that citizen investigators have uncovered evidence
+        that demands a congressional response.
+
+    - slide_number: 2
+      type: context
+      title: "Who Was Charlie Kirk?"
+      content:
+        left_panel:
+          image: "Photo of Charlie Kirk speaking at a TPUSA event"
+        right_panel:
+          bullets:
+            - "Founder of Turning Point USA (TPUSA) -- largest conservative youth organization in America"
+            - "Political commentator with massive influence among young conservatives"
+            - "Close advisor to President Trump -- visited the White House to advise against regime change in Iran"
+            - "Assassinated at age 31 while speaking on stage at Utah Valley University"
+      speaker_notes: >
+        For those who may not know, Charlie Kirk founded Turning Point USA, the largest
+        conservative youth organization in America. He was enormously influential. He
+        advised President Trump directly. On June 18th, 2025, he went to the White House
+        specifically to advise against regime change in Iran. He was only 31 years old
+        when he was shot and killed on a university stage in broad daylight.
+
+    - slide_number: 3
+      type: timeline
+      title: "The Final Months: Charlie Breaks with Israel"
+      content:
+        timeline_entries:
+          - date: "July 11, 2025"
+            event: "Allows anti-Israel speakers at TPUSA events -- pro-Zionist donors furious"
+          - date: "July 13-14"
+            event: "TPUSA Florida: Dave Smith debate; Tucker Carlson speaks"
+          - date: "~Aug 4-6"
+            event: "Hamptons meeting: confronted by pro-Israel figures including Rabbi Wolicki, Josh Hammer, Seth Dillon, Bill Ackman"
+          - date: "Aug 6"
+            event: "Charlie on Megyn Kelly: 'lashes out about donors pressuring him'"
+          - date: "Sept 1-5"
+            event: "Group chats: 'no choice but to leave pro Israel cause'"
+          - date: "Sept 8"
+            event: "Public post about leaving the pro-Israel movement"
+          - date: "Sept 9"
+            event: "Goes on Ben Shapiro's show, criticizes Israel to Ben's face"
+      speaker_notes: >
+        Here's the timeline that matters. Starting in July 2025, Charlie Kirk began
+        publicly breaking with the pro-Israel establishment. He allowed anti-Israel speakers
+        at TPUSA events. He platformed Tucker Carlson. Then came the infamous Hamptons meeting
+        where he was confronted by pro-Israel donors and figures. He went on Megyn Kelly
+        and talked about donor pressure. By early September, he was telling people in group
+        chats he had no choice but to leave the pro-Israel cause. On September 8th he posted
+        about it publicly. On September 9th he criticized Israel on Ben Shapiro's own show.
+        The very next day, he was dead.
+
+    - slide_number: 4
+      type: quotes
+      title: "'They Are Going to Kill Me'"
+      content:
+        background: "Dark, somber gradient"
+        quotes:
+          - text: "THEY ARE GOING TO KILL ME"
+            attribution: "Charlie Kirk, texted during combative meeting, September 9, 2025"
+          - text: "I know they want me dead. I'm under the gun right now, please pray for me"
+            attribution: "Charlie Kirk to Frank Turek, weeks before assassination"
+          - text: "I'm worried that Israel is going to kill me"
+            attribution: "Charlie Kirk, one day before assassination"
+          - text: "They will kill me if I break away from being pro-Israel"
+            attribution: "Charlie Kirk to multiple friends"
+        footer: "Confirmed by Andrew Kolvet, Frank Turek, Harrison Smith, Candace Owens, Dan Flood"
+      speaker_notes: >
+        Charlie Kirk knew. He told multiple people. He texted Frank Turek, his mentor:
+        "I know they want me dead." He told Andrew Kolvet. He told Dan Flood, his head
+        of security. During a combative meeting on September 9th -- the night before --
+        he texted people: "THEY ARE GOING TO KILL ME." He told his security detail Dan
+        that "they" were going to kill him TOMORROW. Multiple sources have confirmed these
+        messages. Erika Kirk went on Glenn Beck's show and denied these texts existed.
+
+    - slide_number: 5
+      type: event_reconstruction
+      title: "September 10, 2025: The Assassination"
+      content:
+        three_panels:
+          left:
+            header: "12:23:30 PM MT"
+            text: "Single shot strikes Charlie Kirk in the neck while speaking on stage at UVU"
+          center:
+            header: "12:24:02 PM"
+            text: "Charlie loaded into SUV. Terryl Farnsworth already filming from rock pile, declares 'He's dead' at 12:24:36"
+          right:
+            header: "12:56 - 1:13 PM"
+            text: "Charlie pronounced dead at hospital -- AFTER Jerusalem Post had already announced his death"
+      speaker_notes: >
+        At 12:23 PM Mountain Time on September 10th, 2025, Charlie Kirk was shot while
+        speaking at Utah Valley University. Within 18 seconds, security was moving him.
+        Within 31 seconds he was in the SUV. Terryl Farnsworth -- who was already in position
+        on a rock pile filming -- declared "He's dead" at 12:24:36. Here's what's critical:
+        it took at minimum 33 to 50 minutes for him to reach the hospital, be brought
+        into the OR, and be pronounced dead. But the Jerusalem Post had already announced
+        his death BEFORE the hospital pronounced him. How did Israeli media know before
+        the doctors?
+
+    - slide_number: 6
+      type: evidence
+      title: "The HADES Spy Plane: N1098L"
+      content:
+        center_graphic: "Flight path diagram showing two low passes over Utah Lake near UVU"
+        data_points:
+          - label: "Aircraft"
+            value: "Bombardier Global 6500, callsign AXEL10, part of HADES spy program"
+          - label: "Departed"
+            value: "Biggs Army Airfield, El Paso, TX"
+          - label: "First Low Pass"
+            value: "9:16 AM MT -- dropped to 600 ft AGL near UVU campus"
+          - label: "Second Low Pass"
+            value: "12:48 MT -- 25 min after assassination, dropped to 335 ft at 129 knots"
+          - label: "Operator"
+            value: "LASAI Aviation II LLC (Leidos defense contractor)"
+      speaker_notes: >
+        This is the elephant in the room. A U.S. Army surveillance aircraft from the
+        HADES program -- High Accuracy Detection and Exploitation System -- made two
+        extraordinary low passes near UVU on the day of the assassination. The first
+        pass at 9:16 AM dropped to 600 feet above ground level near campus. The second
+        pass at 12:48 -- just 25 minutes after Charlie was shot -- dropped to 335 feet,
+        slowing to near-stall speed of 129 knots, within 2 miles of campus. This plane very
+        likely did not launch drones -- it may have been a training plane, not built out
+        to launch them, and may have been there to waste the time of citizen investigators.
+        Same aircraft was found circling DC on January 6th.
+
+    - slide_number: 7
+      type: evidence
+      title: "Drones at the Scene"
+      content:
+        image: "Phone camera captures of fast-moving objects near UVU"
+        bullets:
+          - "16 drones spotted flying near UVU during the assassination"
+          - "Drones traveled at 100-150 mph -- nearly invisible to naked eye but captured on phone cameras"
+          - "N1098L very likely did not launch drones -- it may have been a training plane not built out for that"
+          - "Butler, PA (Trump assassination attempt) also had unexplained drones"
+          - "NCTC working theory: same group behind Butler attack"
+      speaker_notes: >
+        Sixteen drones were spotted flying near UVU during the assassination. At 100 to 150 mph,
+        they're nearly invisible to the naked eye but were captured on phone cameras. The HADES
+        plane N1098L very likely did not launch them -- it may have been a training plane,
+        not built out to launch drones. The National Counter-Terrorism Center's working theory, according to
+        a source who spoke for 45 minutes, is that a rogue CIA faction carried this out,
+        and it may be the same group behind the Butler, Pennsylvania attack on Trump.
+
+    - slide_number: 8
+      type: evidence
+      title: "The Egyptian Planes: SU-BTT and SU-BND"
+      content:
+        map_graphic: "Flight path of SU-BTT from France to Provo to Wilmington to Egypt"
+        key_facts:
+          - "SU-BTT: Egyptian government Gulfstream, first U.S. trip ever was July 20 to an Army base in Nebraska"
+          - "Sept 4: Flew directly from France to Provo, Utah"
+          - "Sept 10 @ 7:08 AM: Departed Utah to Wilmington, DE just before assassination"
+          - "Sept 11: Left the U.S. to Egypt"
+          - "4-6 military contractors with 'US Department of Defense Liaison' badges deplaned at Provo"
+          - "Contractors did NOT fly away -- they stayed"
+          - "73 flight overlaps with Erika Kirk's locations; only ~23 with Charlie's"
+      speaker_notes: >
+        Two Egyptian government aircraft are at the center of this. SU-BTT, the 'yellow plane,'
+        flew from France directly to Provo on September 4th. It stayed until just after Charlie
+        was killed, then flew to Wilmington, Delaware -- to One Rodney Square, the same address
+        where the DEA, DOJ, and Secret Service have offices. Then it flew home to Egypt.
+        When it landed in Provo, 4 to 6 people deplaned with Defense Attache badges. They
+        rented vehicles and drove away. They did not leave with the plane. Critically, this
+        aircraft has 73 flight overlaps with Erika Kirk's locations but only about 23 with
+        Charlie's.
+
+    - slide_number: 9
+      type: evidence
+      title: "Counter-UAS Testing at Provo Airport: Sept 4-10"
+      content:
+        highlight_box:
+          text: "Counter-UAS (Unmanned Aerial Systems) gear was tested at Provo Municipal Airport from September 4th through September 10th -- the exact day of the assassination"
+        bullets:
+          - "Same dates the Egyptian plane was parked at Provo"
+          - "Counter-UAS equipment can JAM drone detection systems"
+          - "Would explain why campus security detected zero drones"
+          - "Provo Airport badge access list was updated on 9/11/25 -- the day AFTER"
+      speaker_notes: >
+        Here's a detail that ties it together. Counter-UAS equipment -- that's counter-drone
+        technology -- was being tested at Provo Airport from September 4th through the 10th.
+        The exact dates the Egyptian plane was there. Counter-UAS equipment can jam drone
+        detection systems. This would explain why no drones were officially detected despite
+        phone cameras capturing them. And the Provo Airport badge access list was modified
+        on September 11th -- the day after. Someone was cleaning up access records.
+
+    - slide_number: 10
+      type: evidence
+      title: "12 Israeli Cell Phones at UVU"
+      content:
+        center_stat:
+          number: "12"
+          label: "Israeli-registered cell phones detected at UVU on September 10"
+        context:
+          - "NSA detected the phones and passed data to federal law enforcement"
+          - "Administration officials described as 'really freaked out'"
+          - "Government keeping this secret -- Candace Owens disclosed it"
+          - "Google Trends shows Israeli IP addresses searching key figures and locations months before the assassination"
+      speaker_notes: >
+        The NSA detected 12 Israeli-registered cell phones at the site of the shooting.
+        These phones were registered to Israeli cellular plans. The NSA passed this data
+        to federal law enforcement who passed it to the White House. My source said those
+        in the administration with this information were, quote, "really freaked out."
+        The government has been keeping this secret. Candace Owens is the one who disclosed it.
+
+    - slide_number: 11
+      type: evidence
+      title: "Google Searches from Israeli IPs -- Months Before"
+      content:
+        table:
+          headers: ["Search Term", "Date of Israeli IP Search", "Significance"]
+          rows:
+            - ["Tyler Robinson", "July 20, 2025", "2 months before assassination"]
+            - ["Timpanogos Regional Hospital", "June-July 2025", "Hospital Charlie was taken to"]
+            - ["N1098L (spy plane)", "Aug 8, 2025", "32 days before assassination"]
+            - ["Kathryn Nester (defense attorney)", "Dec 2024", "9 months before assassination"]
+            - ["UVU Rooftop/Layout/Losee Center", "May-July 2025", "Scouting the kill site"]
+            - ["Seven Timpanogos surgeons", "July 14-30, 2025", "All emergency surgeons at Kirk's hospital"]
+            - ["Medical Examiner Deirdre Amaro", "July 2025", "Started full-time July 1"]
+      speaker_notes: >
+        This is where it gets chilling. Google Trends data shows that Israeli IP addresses
+        were searching for key people and locations connected to the assassination months
+        before it happened. Tyler Robinson was searched in July. The hospital was searched
+        in June and July. The spy plane tail number was searched from Israel on August 8th.
+        Even the defense attorney Kathryn Nester was searched from Israel in December 2024 --
+        nine months before the killing. Seven surgeons at Timpanogos Regional Hospital were
+        searched from Israeli IPs in a two-week window around July 20th. They were scouting
+        every angle.
+
+    - slide_number: 12
+      type: evidence
+      title: "FBI Cover-Up: The Evidence"
+      content:
+        numbered_list:
+          - "FBI told local law enforcement not to talk to witnesses"
+          - "FBI told witnesses to delete video footage from their phones"
+          - "Multiple witnesses report footage was edited or deleted from phones before they got home"
+          - "FBI directed a re-search that 'conveniently' found the weapon after K-9 units found nothing"
+          - "Crime scene paved over within days of the assassination"
+          - "No autopsy performed despite Utah law (268-8-205) requiring one for gun violence"
+          - "FOIA requests blocked"
+          - "FBI/Court gag order blocks witnesses from speaking publicly"
+          - "Kash Patel shut down Joe Kent's counterterrorism investigation"
+      speaker_notes: >
+        The FBI's conduct in this case has been extraordinary. They told local law enforcement
+        to stand down and not talk to witnesses. They told witnesses to delete their video
+        footage. Multiple witnesses report their phone footage was edited or deleted remotely
+        before they even got home. The first search by local law enforcement -- arm to arm --
+        found no gun. K-9 units found no gun. Then three FBI agents told three junior officers
+        to search again, and magically the gun appeared. The crime scene was paved over
+        within days. No autopsy was performed despite Utah law requiring one. And when
+        Joe Kent at the National Counterterrorism Center tried to investigate whether foreign
+        governments were involved, Kash Patel shut it down.
+
+    - slide_number: 13
+      type: evidence
+      title: "Crime Scene Destroyed in Days"
+      content:
+        before_after:
+          before:
+            label: "Sept 10: Grass courtyard where Charlie was shot"
+          after:
+            label: "Sept 14: Brick pavers cover the entire area"
+        details:
+          - "Hardscape Specialties LLC performed the paving"
+          - "Company dormant for 20 years, revived February 2025"
+          - "Co-owner Burton Romrell: Former UVU operations staff"
+          - "Work order issued two days post-shooting, started four days after"
+          - "Crew worked overnight on a Sunday"
+          - "Glass/plastic fragments and potential explosive traces in the grass -- now buried under concrete"
+      speaker_notes: >
+        The crime scene was destroyed. A company called Hardscape Specialties that had been
+        dormant for twenty years was revived in February 2025, months before the assassination.
+        Its co-owner is former UVU
+        operations staff. They were called in on a Sunday, worked overnight, and paved
+        over the exact spot where Charlie was shot. If there were glass fragments, explosive
+        residue, or ballistic evidence in that grass, it is now buried under brick pavers.
+        This is destruction of a crime scene.
+
+    - slide_number: 14
+      type: evidence
+      title: "The Gun Doesn't Fit the Story"
+      content:
+        three_panels:
+          left:
+            header: "The Weapon"
+            text: "Mauser Model 98, .30-06 Springfield, bolt-action with scope. Assembled length: ~44 inches. Even broken down: 30-32 inches per piece"
+          center:
+            header: "Tyler's Backpack"
+            text: "Maximum internal length: 17 inches. Backpack was only 50% full when he arrived. Stairs guy's backpack was 95% full -- different backpack entirely"
+          right:
+            header: "Tyler's Clothing"
+            text: "Arrived in shorts. Changed to jeans. Gun cannot be hidden in pant leg -- phone visible through tight fabric. Gun broken down is still 30+ inches"
+      speaker_notes: >
+        The Mauser Model 98 is 44 inches assembled. Even broken down into two pieces,
+        each piece is 30 to 32 inches. Tyler Robinson's backpack had a maximum internal
+        length of 17 inches. It was half-empty when he arrived at campus. The person seen
+        in the stairwell had a different, nearly-full backpack. Tyler arrived in shorts --
+        you cannot hide a 30-inch gun component in shorts. Even after changing to jeans,
+        his pants were so tight you could see his phone outline. The gun physically cannot
+        fit in his backpack or on his person. Which means someone else got the gun there.
+
+    - slide_number: 15
+      type: evidence
+      title: "Tyler Robinson: Patsy, Not Lone Gunman"
+      content:
+        evidence_list:
+          - "Different person in stairwell than Tyler -- different backpack, different fullness, different hat"
+          - "Gun too large for backpack or concealment on person"
+          - "Multiple clothing changes that day -- arrived maroon shirt/shorts, changed to black shirt/jeans, changed again after"
+          - "At Dairy Queen 15 minutes after shooting -- 17 min drive away. No time for roof escape, gun disassembly, clothing changes"
+          - "Family says Tyler told them he 'didn't do it but knows who did' -- won't say because it would endanger family"
+          - "Family does NOT think he did this -- told investigators face-to-face"
+          - "A Mormon preacher and retired sheriff turned him in, not his parents"
+      speaker_notes: >
+        Tyler Robinson is a patsy. The evidence is overwhelming. A different person went
+        up those stairs. The gun couldn't fit in anything Tyler had. He was at a Dairy Queen
+        15 minutes after the shooting -- a 17-minute drive away -- with no time for escaping
+        the roof, disassembling the gun, and changing clothes twice. His own family says
+        Tyler told them he didn't do it but knows who did, and he won't say because it
+        would endanger his family. The family told investigators face-to-face that they
+        don't believe he did this. This is a young man being used as a fall guy.
+
+    - slide_number: 16
+      type: evidence
+      title: "The Exploding Microphone Theory"
+      content:
+        diagram: "Cross-section diagram showing lavalier mic position on Kirk's chest, blast pattern, and fragment trajectory"
+        evidence_points:
+          - "DoD Contract N0016425PJ538: 'MINIATURIZED-XS DEMOLITION CHARGES, ANTI PERSONNEL-XS' awarded to AES factory"
+          - "Delivery date: August 25, 2025 -- 16 days before assassination"
+          - "Private flight from Heber City, UT to Nashville (nearest airport to AES) on exact delivery date"
+          - "AES factory EXPLODED on October 10, killing 16 employees -- destroying evidence?"
+          - "Video shows: shirt fabric expands outward (blast, not bullet), necklace flies upward, magnetic clasp ejects through neck"
+          - "No exit wound despite .30-06 being powerful enough to pass through"
+          - "Glass/plastic fragments on grass, in SUV, on Kirk's clothing"
+      speaker_notes: >
+        This is the most disturbing theory supported by physical evidence. The Department
+        of Defense awarded a contract for -- and I quote -- "miniaturized anti-personnel
+        demolition charges" to a company called Accurate Energetic Systems. The delivery
+        date was August 25th, 2025 -- sixteen days before Charlie was killed. On that exact
+        date, a private flight went from Heber City, Utah to Nashville, the nearest airport
+        to the AES factory. Then on October 10th, that factory exploded, killing 16 employees
+        and potentially destroying all evidence. Video analysis shows the shirt fabric expands
+        outward in a blast pattern inconsistent with a bullet, the necklace flies upward
+        from blast force, and fragments were found everywhere.
+
+    - slide_number: 17
+      type: evidence
+      title: "The Ghost Plane: N888KG"
+      content:
+        flight_path_graphic: "Map showing flight from Provo to Wendover with transponder cutoff point"
+        details:
+          - "Tail number N888KG, owned by N888KG LLC (Lehi, Utah)"
+          - "Departed Provo Airport ~1 hour after assassination"
+          - "30-46 minutes into flight: ADS-B transponder DISABLED -- illegal without authorization"
+          - "Aircraft 'went dark' -- could have covered 350-400 nautical miles during blackout"
+          - "Possible drop-off at Page, Arizona"
+          - "Re-emerged on radar, returned to Provo"
+          - "No flight plan filed -- classified as a 'ghost flight'"
+          - "N888KG was searched in Google from Utah on September 9th -- the day BEFORE"
+      speaker_notes: >
+        There's another aircraft. Tail number N888KG departed Provo Airport about an hour
+        after Charlie was killed. Thirty to forty-six minutes into the flight, the pilot
+        disabled the ADS-B transponder. This is illegal under FAA regulations without special
+        authorization. The aircraft vanished from all public radar, flew to an unknown
+        location -- possibly Page, Arizona -- then reappeared and returned to Provo.
+        No flight plan was filed. And this tail number was searched on Google from Utah
+        on September 9th, the day before the assassination.
+
+    - slide_number: 18
+      type: evidence
+      title: "New Personnel Installed Before the Assassination"
+      content:
+        table:
+          headers: ["Position", "New Person", "Start Date"]
+          rows:
+            - ["FBI Salt Lake City SAC", "Robert Bohls", "August 2025"]
+            - ["Utah Medical Examiner", "Deirdre Amaro", "July 1, 2025"]
+            - ["Hospital CEO (Timpanogos)", "Andrew Zenger", "Aug 25, 2025"]
+            - ["Judge (4th District)", "Tony F. Graf Jr.", "May 2, 2025"]
+            - ["Previous Judge", "Robert Lunnen", "Retired Aug 1, 2025"]
+        footer: "All key positions replaced in the months before the assassination. Israeli IPs searched for both judges before the event."
+      speaker_notes: >
+        Look at who was put in place in the months before the assassination. A new FBI
+        Special Agent in Charge for Salt Lake City. A new state medical examiner who started
+        July 1st. A new hospital CEO who started August 25th -- the same Andrew Zenger
+        who ended up treating Charlie. A new judge appointed in May after the previous
+        judge conveniently retired August 1st. Every key institutional position was filled
+        with new people just months before. And Israeli IP addresses were searching for
+        both judges before any of this happened.
+
+    - slide_number: 19
+      type: evidence
+      title: "Erika Kirk"
+      content:
+        bullets:
+          - "Egyptian plane SU-BTT has 73 flight overlaps with Erika's locations -- only ~23 with Charlie's"
+          - "Erika publicly denied Charlie's threat texts exist"
+          - "8-day gap before announcement as TPUSA CEO"
+          - "Erika's mother Lori Frantzve on TPUSA board -- $15.2M+ to insider-controlled companies"
+          - "$140M organization now under her control"
+      speaker_notes: >
+        The Egyptian military plane has 73
+        flight overlaps with HER locations but only about 23 with Charlie's. She went on
+        national television and denied Charlie's texts about fearing for his life exist.
+        There was an 8-day gap before she was announced as TPUSA CEO.
+
+    - slide_number: 20
+      type: evidence
+      title: "TPUSA Financial Questions"
+      content:
+        financial_chart: "Flow diagram showing money paths through TPUSA"
+        items:
+          - "$9M+ to 'Resource One' (DBA for Moore DM Group) -- TPUSA only reports $1.35M for printing"
+          - "$999K to Clocktower LLC (dissolved 2022) for a 'research project' with no deliverables"
+          - "$2.7M+ to Stacy Sheridan's shell companies while salaried for the same job"
+          - "Life insurance on Charlie: estimated $20M-$50M payout, GGLF 2023 LLC"
+          - "TPUSA paid $350,000 loan for the policy"
+          - "Charlie demanded a DOGE audit days before he died"
+          - "Tyler Bowyer would have been fired by the DOGE audit -- 8 days before CK assassinated"
+      speaker_notes: >
+        Follow the money. TPUSA paid over $9 million to a company called Resource One,
+        which is actually a DBA for a $700 million political direct mail conglomerate,
+        but only reported $1.35 million for printing. Nearly a million dollars went to
+        a dissolved LLC for a research project with no deliverables. Life insurance on
+        Charlie was estimated at $20 to $50 million. And here's the kicker: Charlie Kirk
+        demanded a DOGE audit of TPUSA days before he was killed. Tyler Bowyer, TPUSA's COO,
+        would have been fired by that audit. Bowyer's position was threatened 8 days
+        before Charlie was assassinated.
+
+    - slide_number: 21
+      type: evidence
+      title: "Dan Flood: Head of Security"
+      content:
+        profile:
+          name: "Dan Flood"
+          role: "Head of Security for Charlie Kirk / TPUSA"
+        key_facts:
+          - "Standing next to Charlie when shot"
+          - "Charlie told Dan the night before: 'THEY are going to kill me TOMORROW'"
+          - "Has not come forward publicly about this warning"
+          - "No security plan existed for the next day's event (Therese Bible College, Sept 11)"
+          - "Was moonlighting as security for Dallas billionaires at Cattle Barons Ball"
+      speaker_notes: >
+        Charlie Kirk's head of security was Dan Flood. He was standing right next to Charlie when the shot
+        was fired. Charlie texted Dan the night before saying "they are going to kill me tomorrow."
+        Dan Flood has never come forward publicly about receiving this warning. And there
+        was no security plan for the next day's event.
+
+    - slide_number: 22
+      type: evidence
+      title: "Multiple Distraction Patsies"
+      content:
+        profiles:
+          - name: "George Hodgeson Zinn"
+            detail: "Yelled 'SHOOT ME!' as police dragged him away. Present at 9/11, Boston, AND Utah."
+          - name: "Zachariah Ahmed Qureshi"
+            detail: "Arabic speaker, Heritage Foundation intern, within 25 feet of Kirk. FBI initially claimed he was the shooter. Arrested then released."
+      speaker_notes: >
+        There were multiple apparent distraction patsies at the scene. George Zinn, who
+        screamed "shoot me" during arrest, was present at 9/11, Boston, AND this event.
+        Zachariah Qureshi, a Heritage Foundation intel trainee and Arabic speaker, was
+        within 25 feet of Kirk and was initially announced by Kash Patel as the shooter
+        before being released.
+
+    - slide_number: 23
+      type: evidence
+      title: "Acoustics and Ballistics Don't Match the Official Story"
+      content:
+        diagram: "3D model of UVU courtyard showing bullet trajectory analysis"
+        points:
+          - "Tyler Robinson was said to be to the EAST on the Losee Center roof"
+          - "A .30-06 from the east at that range would have produced exit wound and blood on the white tarp behind Kirk"
+          - "No exit wound. No blood on tarp. Inconsistent with .30-06 from Tyler's position"
+          - "Camera person spun RIGHT (toward tent) after shot, not LEFT (toward Tyler's position)"
+      speaker_notes: >
+        The acoustics and ballistics don't match the official story. Tyler Robinson was
+        said to be to the east, on the Losee Center roof.
+        A .30-06 bullet from the east at that range would have produced an exit wound and
+        thrown blood all over the white tarp behind Charlie. There was no exit wound and no
+        blood on the tarp. The camera operator instinctively spun toward the tent, not
+        toward Tyler's position.
+
+    - slide_number: 24
+      type: evidence
+      title: "The Bomb Threat at the Closer Hospital"
+      content:
+        map: "Map showing UVU, Utah Valley Hospital (closer), and Timpanogos Regional Hospital (further)"
+        facts:
+          - "Utah Valley Hospital: 3.4 miles from UVU -- Charlie was NOT taken here"
+          - "Timpanogos Regional Hospital: 2.6 miles -- Charlie was taken here instead"
+          - "A bomb scare occurred at Utah Valley Hospital at the SAME TIME Charlie was shot"
+          - "Everyone at Utah Valley Hospital had to sign NDAs"
+          - "New hospital CEO Andrew Zenger started August 25 -- Israel searched his name from Israeli IPs on August 27"
+      speaker_notes: >
+        Charlie Kirk was not taken to the closest hospital. Utah Valley Hospital was closer
+        but had a bomb scare at the exact same time Charlie was shot, and everyone there
+        had to sign NDAs. Instead, he was taken to Timpanogos Regional Hospital, where
+        a brand new CEO had started just two weeks earlier. That CEO, Andrew Zenger,
+        was searched from Israeli IP addresses on August 27th -- two days after he started.
+        This level of coordination -- a simultaneous bomb threat at the closer hospital --
+        is not something a lone 22-year-old gunman arranges.
+
+    - slide_number: 25
+      type: transition
+      title: "This Is Why We Need Federal Laws"
+      content:
+        center_text: "The evidence points to an intelligence-level operation involving multiple countries, sophisticated planning, and active cover-up by federal agencies."
+        subtext: "A lone gunman did not coordinate Egyptian military aircraft, Israeli cell phones, a HADES spy plane, drone deployments, simultaneous bomb threats, Google searches from Israeli IPs months in advance, crime scene destruction, and evidence deletion from witness phones."
+        bottom: "This demands a congressional response."
+      speaker_notes: >
+        Everything I've just shown you points to one conclusion: this was not a lone gunman.
+        A 22-year-old kid did not coordinate Egyptian military aircraft, 12 Israeli cell phones,
+        a HADES spy plane, drone deployments, a simultaneous bomb threat at the closer hospital,
+        Google searches from Israeli IPs months in advance, crime scene destruction, and
+        remote deletion of evidence from witness phones. This was an intelligence-level
+        operation. And the FBI is covering it up. That is why we need Congress to act.
+        That is why I have drafted four federal laws.
+
+    - slide_number: 26
+      type: precedent
+      title: "The Model: Epstein Files Transparency Act"
+      content:
+        two_columns:
+          left:
+            header: "What Worked"
+            bullets:
+              - "Public Law 119-38, signed into law"
+              - "Passed House 427-1"
+              - "Passed Senate by unanimous consent"
+              - "Sponsored by Rep. Thomas Massie"
+              - "Forced DOJ to release Epstein files"
+          right:
+            header: "What Failed"
+            bullets:
+              - "DOJ released only ~12,285 documents of potentially 6+ million pages by deadline"
+              - "No real enforcement mechanism for non-compliance"
+              - "No criminal penalties for withholding"
+              - "No automatic budget consequences"
+              - "Agencies exploited ambiguity to delay and limit"
+        bottom: "Our four laws fix every one of these failures."
+      speaker_notes: >
+        Our model is the Epstein Files Transparency Act, Public Law 119-38. It passed the
+        House 427 to 1 and the Senate by unanimous consent. It proved Congress CAN force
+        disclosure. But it also showed what fails. The DOJ released only about 12,000
+        documents out of potentially 6 million pages by the deadline. Why? Because there
+        were no real criminal penalties, no automatic budget cuts, no enforcement teeth.
+        Agencies exploited every ambiguity to delay and limit. Our four laws are designed
+        to fix every one of these failures. We learned from both the Epstein Act's success
+        and its shortcomings.
+
+    - slide_number: 27
+      type: law_overview
+      title: "The Four Laws: Overview"
+      content:
+        four_boxes:
+          - number: "Law 1"
+            title: "DoJ/FBI Forced Disclosure"
+            summary: "Forces ALL law enforcement to release ALL files within 30 days"
+          - number: "Law 2"
+            title: "Intelligence Services Disclosure"
+            summary: "Forces ALL intelligence agencies to release ALL files within 30 days"
+          - number: "Law 3"
+            title: "Mandatory Investigation"
+            summary: "Requires FBI to actually investigate with 20+ dedicated agents and $10M budget"
+          - number: "Law 4"
+            title: "Trusted Investigators"
+            summary: "Candace Owens, Dave Smith, Tucker Carlson lead independent investigation teams"
+      speaker_notes: >
+        Here are the four laws. Law 1 forces all law enforcement agencies to disclose
+        everything. Law 2 does the same for intelligence agencies. Law 3 requires an actual
+        investigation -- not just releasing files, but actively investigating every lead.
+        And Law 4 creates independent investigation teams led by trusted public figures
+        who have the power to access all files and publish findings. Let me walk through
+        each one.
+
+    - slide_number: 28
+      type: law_detail
+      title: "Law 1: DoJ/FBI Forced Disclosure Act"
+      content:
+        covered_agencies: "DOJ, FBI, ATF, CBP, TSA, DHS, FinCEN, all federal/state/local law enforcement"
+        key_provisions:
+          - "ALL files related to the investigation disclosed within 30 days"
+          - "Dual-track: broad catch-all mandate PLUS specific enumeration of 175+ items"
+          - "Criminal penalties: 10 years for withholding, 15 years for evidence destruction"
+          - "NO presidential override -- learned from JFK Records Act failure"
+          - "Automatic 25% budget reduction for non-compliant agencies"
+          - "Private right of action for citizens to sue for compliance"
+          - "Whistleblower protections with treble damages"
+          - "Records preservation triggered at bill INTRODUCTION, not enactment"
+          - "Anti-embarrassment clause: cannot withhold to protect reputations"
+      speaker_notes: >
+        Law 1 covers every law enforcement agency in the country. It requires all files
+        disclosed within 30 days. It uses a dual-track approach -- a broad catch-all mandate
+        that says "release everything related to this case," plus specific enumeration of
+        over 175 items so agencies can't claim they didn't know what was required. Criminal
+        penalties include 10 years for withholding and 15 years for destroying evidence.
+        There is no presidential override -- we learned from the JFK Records Act where
+        successive presidents kept withholding for 30 years. Non-compliant agencies get
+        automatic 25% budget cuts. Citizens can sue directly. And records preservation
+        is triggered the moment the bill is introduced, not when it's signed, to prevent
+        pre-passage destruction.
+
+    - slide_number: 29
+      type: law_detail
+      title: "Law 2: Intelligence Services Disclosure Act"
+      content:
+        covered_agencies: "CIA, NSA, DIA, NRO, NGA, military intelligence, FBI intel division, DHS intel, ODNI, all IC agencies per 50 U.S.C. 3003(4)"
+        key_provisions:
+          - "Release all information that could identify perpetrators"
+          - "Only permitted redaction: currently active human intelligence source identities and specific active technical collection methods"
+          - "Analytical conclusions and output information must ALWAYS be disclosed regardless of source protection"
+          - "Same enforcement mechanisms as Law 1, adapted for classification framework"
+          - "Anti-reclassification provision: cannot classify or reclassify to avoid disclosure"
+      speaker_notes: >
+        Law 2 targets the intelligence community specifically. CIA, NSA, DIA, all of them.
+        It requires release of all information that could identify who killed Charlie Kirk.
+        The only permitted redactions are currently active human intelligence source identities
+        and specific technical methods currently in use. But here's the critical part:
+        the analytical conclusions must always be disclosed. If the CIA knows who did this,
+        they can protect HOW they found out, but they cannot hide WHAT they found out.
+        And agencies cannot reclassify documents to avoid disclosure.
+
+    - slide_number: 30
+      type: law_detail
+      title: "Law 3: Mandatory Investigation Act"
+      content:
+        requirements:
+          - "Dedicated FBI team of at least 20 agents"
+          - "$10 million independent budget"
+          - "Led by senior agent with NO prior involvement in the case"
+          - "Must investigate ALL 175+ Schedule A items"
+          - "Independent external monitor appointed by Congress"
+          - "Monitor can direct investigators to pursue neglected leads"
+          - "Conflict-of-interest trigger: if evidence emerges that a covered agency was itself involved, authority transfers to independent congressional commission"
+        precedent: "1964 Mississippi Burning: FBI sent 150 agents. Charlie Kirk's case needs at least 20."
+      speaker_notes: >
+        Law 3 goes beyond disclosure. It requires the FBI to actually investigate.
+        Not the current approach where they're burying leads -- a real investigation with
+        at least 20 dedicated agents, a $10 million independent budget, and a senior agent
+        who has had no prior involvement in the case. Every single one of the 175 items
+        must be investigated. An independent congressional monitor has the power to direct
+        investigators to pursue leads they're neglecting. And here's the crucial provision:
+        if evidence emerges that the FBI itself was involved, investigation authority
+        automatically transfers to an independent congressional commission. In 1964,
+        the FBI sent 150 agents to solve Mississippi Burning. Charlie Kirk deserves at least 20.
+
+    - slide_number: 31
+      type: law_detail
+      title: "Law 4: Trusted Investigators Act"
+      content:
+        structure:
+          header: "Three Designated Trusted Investigators"
+          investigators:
+            - name: "Candace Owens"
+              teams: "1 FBI team + 1 Intelligence Community team"
+            - name: "Dave Smith"
+              teams: "1 FBI team + 1 Intelligence Community team"
+            - name: "Tucker Carlson"
+              teams: "1 FBI team + 1 Intelligence Community team"
+          total: "6 teams total"
+        powers:
+          - "Sole authority to select team members"
+          - "Full access to all agency files and systems"
+          - "Authority to compel document production and conduct forensic audits"
+          - "Power to publicly release findings"
+          - "Government employees may volunteer confidentially, bypassing chain of command"
+          - "Non-interference: up to 15 years imprisonment"
+          - "Minimum 24 months operation, cannot be terminated by any government official"
+          - "Public reports every 90 days on all 175 items"
+      speaker_notes: >
+        Law 4 creates something unprecedented: independent investigation teams led by
+        people the public trusts. Candace Owens, Dave Smith, and Tucker Carlson each get
+        an FBI team and an Intelligence Community team -- six teams total. They pick their
+        own people. They have full access to everything. They can compel documents, conduct
+        forensic audits, and publicly release findings. Government employees can volunteer
+        for these teams confidentially without going through their chain of command.
+        If anyone interferes, it's 15 years in prison. These teams cannot be shut down
+        by any government official. And they publish public reports every 90 days.
+
+    - slide_number: 32
+      type: schedule_a
+      title: "The 175 Items: Schedule A Categories"
+      content:
+        category_chart:
+          - range: "#1-#56"
+            category: "Intelligence Service Discovery"
+            examples: "Foreign aircraft, Israeli phones, spy planes, drones, pre-planning meetings"
+          - range: "#57-#61"
+            category: "FBI 302 Reports"
+          - range: "#62-#66"
+            category: "FBI Counterintelligence"
+          - range: "#67-#73"
+            category: "Cell Phone Data"
+          - range: "#74-#80"
+            category: "Airport/CBP Records"
+          - range: "#81-#91"
+            category: "Egyptian Planes & Israeli Phones"
+          - range: "#92-#104"
+            category: "Provo Airport & Financial Records"
+          - range: "#105-#112"
+            category: "Chain of Custody"
+          - range: "#113-#134"
+            category: "Surveillance, Threat Assessments, Rentals, Hotels"
+          - range: "#135-#175"
+            category: "Digital Forensics, Ballistics, Drones, TPUSA Intel, Autopsy, International"
+      speaker_notes: >
+        Each law references Schedule A -- the 175 specific items that must be disclosed
+        and investigated. These aren't vague requests. They're specific. Israeli cell phone
+        data. Egyptian aircraft records. HADES spy plane flight logs and crew manifests.
+        Drone deployment records. FBI 302 interview reports. Cell tower dumps. Airport
+        badge access lists. Financial records. Chain of custody for every piece of evidence.
+        Surveillance footage. Ballistics. The autopsy that was never performed. International
+        intelligence liaison reports. Every single one is documented in our GitHub repository.
+
+    - slide_number: 33
+      type: schedule_a_examples
+      title: "Schedule A: Sample Discovery Items"
+      content:
+        examples:
+          - number: "#1"
+            title: "HADES Spy Plane Crew & Orders"
+            description: "Full crew manifest, mission authorization, and communications for N1098L on September 10, 2025"
+          - number: "#32"
+            title: "Israeli Cell Phone Records"
+            description: "Complete records for all 12 Israeli-registered phones at UVU, including subscriber identity, call logs, location data"
+          - number: "#81"
+            title: "Egyptian Aircraft Passenger Manifests"
+            description: "All passengers, crew, and ground contacts for SU-BTT and SU-BND flights to/from Provo"
+          - number: "#105"
+            title: "Crime Scene Chain of Custody"
+            description: "Every item collected, who collected it, where it went, and full chain of custody"
+          - number: "#166"
+            title: "Autopsy / Medical Records"
+            description: "Full autopsy results, bullet trajectory analysis, wound characteristics, toxicology"
+      speaker_notes: >
+        Let me give you a few examples of what's in Schedule A. Item 1 demands the full
+        crew manifest and mission orders for the HADES spy plane. Item 32 demands records
+        for all 12 Israeli cell phones. Item 81 demands passenger manifests for the Egyptian
+        aircraft. Item 105 demands complete chain of custody for every piece of evidence.
+        Item 166 demands a proper autopsy -- which incredibly has never been performed
+        despite Utah law requiring one. Each item is specific, actionable, and designed
+        so agencies cannot wiggle out of compliance.
+
+    - slide_number: 34
+      type: enforcement
+      title: "Enforcement Teeth: Why These Laws Won't Fail"
+      content:
+        comparison_table:
+          headers: ["Problem (Epstein/JFK)", "Our Solution"]
+          rows:
+            - ["No criminal penalties", "10-15 years imprisonment for officials who withhold or destroy"]
+            - ["No budget consequences", "Automatic 25% budget reduction for non-compliant agencies"]
+            - ["Presidential override", "Explicitly prohibited -- no president can suspend or modify"]
+            - ["Vague mandates agencies exploit", "Broad catch-all PLUS 175 specific enumerated items"]
+            - ["No citizen recourse", "Private right of action -- any citizen can sue for compliance"]
+            - ["Whistleblower retaliation", "Criminal penalties for retaliation, treble damages, mandatory reinstatement"]
+            - ["Pre-passage destruction", "Records preservation triggered at bill INTRODUCTION"]
+            - ["Reclassification dodge", "Anti-reclassification provision with criminal penalties"]
+      speaker_notes: >
+        Every failure of the Epstein Act and JFK Records Act is fixed in these laws.
+        No criminal penalties? Ours have 10 to 15 years. No budget consequences? Automatic
+        25% cuts. Presidential override? Explicitly prohibited. Vague mandates? We have
+        both a broad catch-all and 175 specific items. No citizen recourse? Any American
+        can sue. Whistleblower retaliation? Criminal penalties and treble damages. Pre-passage
+        destruction? Records preservation starts when the bill is introduced. Reclassification
+        dodge? Criminal penalties for trying. These laws have real teeth.
+
+    - slide_number: 35
+      type: legal_framework
+      title: "Legal Foundation and Precedent"
+      content:
+        three_columns:
+          - header: "Constitutional Authority"
+            items:
+              - "Article I legislative and oversight powers"
+              - "Spending Clause (Article I, Section 8, Clause 1)"
+              - "Commerce Clause (Article I, Section 8, Clause 3)"
+          - header: "Key Precedent"
+            items:
+              - "Epstein Files Act (P.L. 119-38) -- structural model"
+              - "JFK Records Act (P.L. 102-526) -- cautionary example"
+              - "Brady v. Maryland (373 U.S. 83) -- prosecution must disclose"
+          - header: "Enforcement Models"
+            items:
+              - "False Claims Act qui tam provisions"
+              - "Freedom of Information Act enforcement"
+              - "Inspector General Act oversight framework"
+      speaker_notes: >
+        These laws are built on solid constitutional and legal foundations. Congress has
+        clear authority under Article I, the Spending Clause for state cooperation,
+        and the Commerce Clause for financial records and communications. Our structural
+        model is the Epstein Act, but we learn from the JFK Records Act failures. We also
+        extend Brady v. Maryland obligations -- the prosecution's duty to disclose exculpatory
+        evidence -- to FBI and intelligence agencies. The enforcement mechanisms draw from
+        proven models in the False Claims Act, FOIA, and the Inspector General framework.
+
+    - slide_number: 36
+      type: discovery
+      title: "Parallel Track: Court Discovery"
+      content:
+        case_info:
+          case: "State of Utah v. Tyler Alexander Robinson"
+          case_number: "251403576"
+          court: "Fourth Judicial District Court, Utah County"
+          judge: "Tony F. Graf, Jr."
+        discovery_goal:
+          - "Defense team to formally submit all 175 items as discovery requests"
+          - "Establish FBI and U.S. intelligence as legally recognized custodial agencies"
+          - "Apply Brady obligations at the federal and intelligence level"
+          - "Force disclosure within the court case parallel to the legislative push"
+        defense_team:
+          - "Lead: Kathryn N. Nester -- 33+ years criminal defense"
+          - "Co-counsel: Michael N. Burt -- 47+ years, defended Menendez brothers"
+          - "Co-counsel: Richard G. Novak -- 30+ years capital defense"
+      speaker_notes: >
+        Alongside the legislative effort, we're pursuing a parallel track through the
+        court case itself. State of Utah v. Tyler Robinson, Case Number 251403576.
+        We want the defense team to formally submit all 175 items as discovery requests.
+        Under Brady v. Maryland, the prosecution must disclose exculpatory evidence.
+        We're seeking to establish the FBI and intelligence agencies as custodial agencies
+        in this case, which would obligate them under Brady to hand over everything.
+        The defense team includes attorneys with combined century of capital defense experience.
+
+    - slide_number: 37
+      type: call_to_action
+      title: "What Congressman Massie Can Do"
+      content:
+        portrait: "Photo of Rep. Thomas Massie"
+        action_items:
+          - "Introduce all four bills simultaneously in the House"
+          - "The Epstein Act passed 427-1 -- this can too"
+          - "Use the Epstein Act as the template, with strengthened enforcement"
+          - "Co-sponsors needed from both parties -- this is about truth, not partisanship"
+          - "Senate companion bills for simultaneous introduction"
+          - "Records preservation is triggered at bill INTRODUCTION -- clock starts immediately"
+      speaker_notes: >
+        Representative Thomas Massie shepherded the Epstein Files Transparency Act
+        through Congress with a 427 to 1 vote. He can do the same here. These four bills
+        should be introduced simultaneously. The moment they're introduced, records
+        preservation kicks in -- agencies are put on notice that destroying evidence
+        is a federal crime. This isn't partisan. The American people deserve to know
+        who killed Charlie Kirk and why the FBI is covering it up. If the Epstein Act
+        could pass 427 to 1, these can too.
+
+    - slide_number: 38
+      type: call_to_action
+      title: "What You Can Do Right Now"
+      content:
+        action_list:
+          - icon: "phone"
+            action: "Call your Representative and both Senators -- demand they co-sponsor these bills"
+          - icon: "share"
+            action: "Share this presentation and the GitHub repository"
+          - icon: "document"
+            action: "Read the full 175 items at github.com/BryanStarbuck"
+          - icon: "megaphone"
+            action: "Follow and amplify Candace Owens, Tucker Carlson, and citizen investigators"
+          - icon: "shield"
+            action: "Support Tyler Robinson's defense team -- he deserves a real defense"
+          - icon: "eye"
+            action: "Document everything -- the FBI is watching, but so are we"
+      speaker_notes: >
+        Here's what you can do right now. Call your Representative. Call both your Senators.
+        Tell them you want the Charlie Kirk Files Forced Disclosure Act introduced immediately.
+        Share this presentation. Go to the GitHub repository and read all 175 items.
+        Follow and amplify the citizen investigators who are doing the work the FBI refuses
+        to do. Support Tyler Robinson's defense -- if he's a patsy, he deserves real defense
+        counsel, not a court-appointed attorney whose name was being searched from Israel
+        nine months before the assassination. And document everything you find. We the
+        people are the investigators now.
+
+    - slide_number: 39
+      type: summary
+      title: "The Bottom Line"
+      content:
+        three_decisions:
+          header: "Three Questions America Must Answer"
+          items:
+            - number: "1"
+              question: "Was more than one person involved?"
+              evidence: "Different person in stairwell, gun logistics impossible for Tyler alone, Egyptian planes, Israeli phones, spy planes, drones, distraction patsies, bomb threat, crime scene destruction"
+            - number: "2"
+              question: "Was there intelligence-level sophistication?"
+              evidence: "HADES spy plane, counter-UAS jamming, remote phone evidence deletion, Google searches from Israel months prior, simultaneous hospital bomb threat, pre-positioned personnel"
+            - number: "3"
+              question: "Who had the massive motivation?"
+              evidence: "Charlie broke with Israel. Netanyahu offered money, Charlie refused. Charlie said 'they will kill me.' 48 hours after his last pro-Israel criticism, he was publicly executed"
+        bottom_text: "Answer those three questions honestly. Then you know who killed Charlie Kirk."
+      speaker_notes: >
+        Here's the bottom line. You only need to answer three questions. One: was more
+        than one person involved? The evidence is overwhelming that yes, it was. Two:
+        was there intelligence-level sophistication? Spy planes, drones, counter-UAS jamming,
+        remote evidence deletion, Google searches from Israel months in advance -- yes.
+        Three: who had the massive motivation? Charlie Kirk broke with Israel. Netanyahu
+        offered him money. He refused. He said they would kill him. 48 hours after his
+        last public criticism of Israel, he was publicly executed. Answer those three
+        questions honestly, and you know who killed Charlie Kirk. Don't be the chumps
+        of 1964.
+
+    - slide_number: 40
+      type: closing
+      title: "Force the Truth. Pass the Laws."
+      content:
+        center_graphic: "Four law icons arranged around scales of justice"
+        four_laws_summary:
+          - "Law 1: Make them DISCLOSE (Law Enforcement)"
+          - "Law 2: Make them DISCLOSE (Intelligence)"
+          - "Law 3: Make them INVESTIGATE"
+          - "Law 4: Let the PEOPLE investigate"
+        quote:
+          text: "Since the beginning of TPUSA, I knew in my gut that I might get wiped out at any time... I cannot explain it... But I dream about it all the time..."
+          attribution: "Charlie Kirk"
+        contact:
+          email: "BryanStarbuck@gmail.com"
+          github: "github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"
+          youtube: "youtube.com/@HolonCitizen"
+        closing_text: "The truth will not disclose itself. Congress must act. We the People demand it."
+      speaker_notes: >
+        Charlie Kirk told people he dreamed about being killed. He knew. He said it out loud.
+        And then it happened. The truth will not disclose itself. The FBI will not investigate
+        itself. The intelligence community will not expose itself. That is why we need these
+        four laws. Law 1: make law enforcement disclose. Law 2: make intelligence disclose.
+        Law 3: make them actually investigate. Law 4: let the people investigate. The Epstein
+        Act proved Congress can do this. It passed 427 to 1. Charlie Kirk deserves the same.
+        America deserves the truth. Thank you. Please share this, call your representatives,
+        and visit the GitHub repository for the full 175-item list and the complete text
+        of all four proposed laws. Force the truth. Pass the laws.

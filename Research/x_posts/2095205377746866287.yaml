@@ -1,0 +1,78 @@
+id: '2095205377746866287'
+url: 'https://x.com/JohPersso/status/2095205377746866287'
+author:
+  username: 'JohPersso'
+  name: 'THE TRUTH'
+  id: '1640615912591044609'
+text: |
+  The Discord confession is 100% fake!
+
+  How many of the text messages are fake?
+
+  Did the agent lie under oath?
+
+  He said that the last text was sent at 7:42 PM on 9/11.
+
+  Tyler was in custody before 6:25 PM on 9/11.
+
+  So who planted these texts?
+
+  Receipts right here.
+created_at: '2026-09-02T17:41:03.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 31
+  reply_count: 12
+  like_count: 93
+  quote_count: 2
+  bookmark_count: 15
+  impression_count: 2200
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2095205335573413888'
+      duration_ms: 35668
+      width: 1280
+      height: 720
+      local_file: 'videos/2095205377746866287.mp4'
+      sha256: '72d48d0698c08454f69dd53ea621b13f85c4e1ade169d93ddf2be42ae5fbd9cc'
+      ipfs_cid: 'QmcqbMcpckXL9rpg3o7thScS74VKeqMb14pUwUMk8BtBRo'
+  images:
+    - type: photo
+      media_key: '3_2095205364962869248'
+      url: 'https://pbs.twimg.com/media/HROqLbYawAAbgHJ.jpg'
+      width: 856
+      height: 426
+      local_file: 'images/2095205377746866287_1.jpg'
+      sha256: '6a8650c62f9e1f9686e8ba784683c6c52688a365334b6651b73623f6676e0795'
+      ipfs_cid: 'QmSL81LRQ3ZuXqfBLxygWm9a1wDLkmHcNhLFQUfUq1zcxy'
+    - type: photo
+      media_key: '3_2095205372545937411'
+      url: 'https://pbs.twimg.com/media/HROqL3oXMAMfpvC.jpg'
+      width: 1080
+      height: 1467
+      local_file: 'images/2095205377746866287_2.jpg'
+      sha256: 'a6bd562eb3b4d6f04a74ab031a4dbba953a1c43724c7198f5c069acd0f27be9e'
+      ipfs_cid: 'QmZdh5qSq35yRNM12g6AKQCB1iftU5JyNGQZMq3TNMFSxk'
+quoted_status:
+  id: '2095197557278560703'
+  url: 'https://x.com/BasedSamParker/status/2095197557278560703'
+  author: '@BasedSamParker'
+  created_at: '2026-09-02T17:09:59.000Z'
+  text: |
+    BREAKING: Tyler's Defense has given us another indication that Tyler Robinson turned himself
+    by 6:25 PM on September 11th - BEFORE the alleged Discord chat confession at 7:57 PM, and
+    BEFORE the state's 7:50 PM press conference where they (allegedly) pretended to have not yet
+    caught Tyler.
+
+    How will the sloppers spin this one?
+  video:
+    duration_ms: 151951
+    width: 1080
+    height: 1350
+    local_file: 'videos/2095197557278560703.mp4'
+    sha256: '5a4d55fe221cb3d6104a8d72add813929c605b5725a30af460cd90dbf3d19d00'
+    ipfs_cid: 'QmeodGR9KobeVVaS9V35aDrZJTHnLUfrqkm5APtWwVqiox'
+investigation: 'charlie_kirk'
+added_date: '2026-09-02'
+temp_file: false

@@ -1,0 +1,35 @@
+# exclude_videos.txt — the never-publish, never-pin list for the VIDEO pipeline.
+#
+# One identifier per line, either an IPFS CID (the "Qm..." CIDv0 form) or a
+# sha256 hex digest of the media file. Blank lines and lines beginning with #
+# are ignored. Everything after a # on a line is a comment.
+#
+# WHAT THIS FILE DOES
+#
+#   * p_update_video_hierarchy.md Stage 13 emits `should_be_on_pages: []` for
+#     any entry listed here, unconditionally, however good the topical match is.
+#   * The page generator (generator/gen_videos_pages.py) must not publish a
+#     Level 5 video page for a listed entry, and must delete one that already
+#     exists.
+#   * Any future IPFS pinning job MUST filter every entry in this file out
+#     before it pins anything. Pinning publishes content to the public IPFS
+#     network and is irreversible in practice.
+#
+# WHAT BELONGS HERE
+#
+#   * Footage that continuously catches uninvolved bystanders' faces or voices.
+#   * Footage whose speaker accuses a living person of a crime in a way that
+#     cannot be safely framed on a public page.
+#   * Anything the investigation holds as private working material rather than
+#     as publishable evidence.
+#
+# This file is the gate, not a comment. An entry here is removed from the
+# published site; it is NOT removed from videos/videos.yaml, which remains the
+# complete private record.
+#
+# Seeded empty 2026-07-23 by p_update_video_hierarchy.md Stage 1.
+1f4379573e0aa5c66ca802f5ae1edfef500414169e826a4dd379dea17e6d1cd1
+# 2026-09-21 celebrating-man / curly-hair UVU attendee (private individual) - removed at owner direction
+0de6a49d777d0c5d95def8ba2709f6530741f02fa5a93a6a03d727433f4a8272
+a68af6c45171fe531ca39f2c95f7005bd960e7833aba2726458d3d66d0fe7c08
+e8b067ec8b1f0c990e7a63bba2af84035e6530426162c43338e35cb7a4b0ac31

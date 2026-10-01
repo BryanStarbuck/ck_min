@@ -1,0 +1,27 @@
+# Who Assassinated Charlie Kirk
+
+> Citizen-led investigation archive on the September 10, 2025 assassination of Charlie Kirk at Utah Valley University (UVU): evidence, timelines, court records, flight data, media, and proposed federal disclosure laws. The pages document questions and claims raised by citizen investigators alongside the official account; persons named are presumed innocent unless convicted.
+
+Every page is static HTML. The full page list is in the sitemap: https://whoassassinatedcharliekirk.com/sitemap.xml
+
+## Start here
+
+- [Home](https://whoassassinatedcharliekirk.com/): overview of the investigation and its sections
+- [Timeline](https://whoassassinatedcharliekirk.com/Timeline/overview): chronology from 2024 signals through September 10, 2025 and after
+- [Cause of Death](https://whoassassinatedcharliekirk.com/Cause_of_Death/overview): why citizen investigators conclude an explosive, not the government's .30-06 account
+- [Microphone — The Exploding Mic Theory](https://whoassassinatedcharliekirk.com/Mic/overview): video, audio and hardware evidence examined by citizen investigators
+- [Court & Trial](https://whoassassinatedcharliekirk.com/court/overview): State of Utah v. Tyler Robinson (Case No. 251403576), filings and disputes
+
+## Context
+
+- [Legal](https://whoassassinatedcharliekirk.com/Legal/overview): legal questions around the case
+- [Media](https://whoassassinatedcharliekirk.com/Media/overview): how the press covered the case
+- [Messages](https://whoassassinatedcharliekirk.com/Messages/overview): texts and messages tied to the case
+- [Maps](https://whoassassinatedcharliekirk.com/maps/overview): locations around the venue
+- [Google Searches](https://whoassassinatedcharliekirk.com/GoogleSearches/overview): search-trend evidence before and after September 10
+- [AmFest](https://whoassassinatedcharliekirk.com/Amfest/overview): AmericaFest conferences and context
+
+## Action
+
+- [New Laws (Fix)](https://whoassassinatedcharliekirk.com/Fix/overview): four proposed federal disclosure and investigation laws
+- [Your Actions Fix It](https://whoassassinatedcharliekirk.com/Your_Actions_Fix_It/overview): what citizens can do

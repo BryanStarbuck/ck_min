@@ -1,0 +1,31 @@
+id: '2104599281890111852'
+url: 'https://x.com/CrystalSmallen/status/2104599281890111852'
+author:
+  username: 'CrystalSmallen'
+  name: 'Crystal Smallen'
+  id: '1594016876954542081'
+text: |
+  John Kiriakou answering the question if he thinks that mossad had something to do with the death of Charlie Kirk. He gives quite an interesting answer. Take a listen. https://t.co/eQel6a5EnR
+created_at: '2026-09-28T15:49:05.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 6
+  reply_count: 5
+  like_count: 44
+  quote_count: 2
+  bookmark_count: 9
+  impression_count: 1446
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2104599207403491329'
+      duration_ms: 67833
+      width: 720
+      height: 1280
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2104599207403491329/img/uRk3F6NQSC7s6i1I.jpg'
+      ipfs_cid: 'QmSVsbydzKexUPQe9J9eLf7r4FnEuSkk3RPRgjUf5DBiXi'
+      sha256: '5c1f01f239c84a5879d1a3eb0a8b87edf13629fcdeeb6b989375ee0989bb2a19'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-09-28'
+temp_file: false

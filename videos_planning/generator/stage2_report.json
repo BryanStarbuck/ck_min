@@ -1,0 +1,55 @@
+{
+ "manifest_only": [
+  "2075691199575265757.mp4",
+  "Frank_Kirk_9_9_2025.mp4"
+ ],
+ "disk_no_manifest": [
+  "2026310419405504514.mp4",
+  "2038934507307343872.mp4",
+  "I Was Hired to Pave Over Charlie Kirk\u2019s Death Scene [vPrvWY6dWIw].webm",
+  "QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS.mp4",
+  "QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4.mp4",
+  "QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5.mp4",
+  "QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ.mp4",
+  "QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime.mp4",
+  "QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K.mp4",
+  "QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud.mp4",
+  "QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2.mp4",
+  "QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts.mp4",
+  "QmUAcBkhS1n151NMmYg32b9DrjYAuq2N5tcadGU1SvyBtm.mp4",
+  "QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X.mp4",
+  "QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU.mp4",
+  "QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf.mp4",
+  "QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc.mp4",
+  "QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ.mp4",
+  "QmXEPuva2HB45r5unuTx8XVzUrTxYZwP296qzeJe42NBov.mp4",
+  "QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ.mp4",
+  "QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9.mp4",
+  "QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y.mp4",
+  "QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY.mp4",
+  "QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS.mp4",
+  "QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR.mp4",
+  "QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U.mp4",
+  "QmZnbhLZHE8RNgoKiy6oYfBaXKUFsimiNzWdejg4UHuJwC.mp4",
+  "QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf.mp4",
+  "QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu.mp4",
+  "QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe.mp4",
+  "Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy.mp4",
+  "Qmd1tFNno6udyvMMhrTVscNRcoj3sPMfYNtfrkqL2JJZZj.mp4",
+  "_QwGo0LyZ3I.mp4",
+  "kirk-parents-hearing-3006.mp4"
+ ],
+ "by_origin": {
+  "videos_dir": 157,
+  "manifest_only": 2,
+  "ipfs_dir": 2,
+  "sidecar_only": 1,
+  "mirror": 325,
+  "video_list_csv": 7
+ },
+ "by_present": {
+  "video": 484,
+  "none": 9,
+  "audio_only": 1
+ }
+}

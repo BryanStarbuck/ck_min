@@ -1,0 +1,32 @@
+id: '2078917940993311136'
+url: 'https://x.com/FaithDrivUr/status/2078917940993311136'
+author:
+  username: 'FaithDrivUr'
+  name: 'Faith Driver'
+  id: '2041855852571717632'
+text: |
+  ".. WHO was this Turning Point USA employee who was TALKING with the ASSASSIN a few HOURS BEFORE Charlie Kirk was murdered???" @FinanceWolves @TPUSA @AndrewKolvet @RealCandaceO
+created_at: '2026-07-19T19:00:36.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 0
+  like_count: 9
+  quote_count: 2
+  bookmark_count: 3
+  impression_count: 519
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2078917885221654528'
+      duration_ms: 26566
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2078917885221654528/img/yj7A8uCrfhm_75r4.jpg'
+      width: 1860
+      height: 1080
+  images: []
+ipfs_video_cid: 'QmRQPGX5NXGVNuwgop1exEDgRFL6ugh7Hf883Yj6ZcBema'
+transcription_file: 'videos_transcription/2078917940993311136.md'
+site_page: 'site/docs/TPUSA/tpusa-tyler-robinson-chat.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-20'
+temp_file: false

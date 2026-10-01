@@ -1,0 +1,41 @@
+id: '2094302253855429074'
+url: 'https://x.com/AdmetosL/status/2094302253855429074'
+author:
+  username: 'AdmetosL'
+  name: 'Spirit of Admetos'
+  id: '1054040820179918848'
+text: |
+  Here we take a closer look at Tyler Robinson's alleged locations on 9/10 including UVU, a nearby Dairy Queen and Cowboy's Smokehouse to see which paths and times makes the most sense logistically.
+
+  From review its easy to see Cowboys in Panguitch could have been a stop though it would add over an hour of travel time to the trip between UVU and his home.
+
+  If it turns out the smokehouse receipt is his, then it would make less sense that he would go out far from path to home to go eat there and then drive back to UVU to retrieve his rifle.
+
+  One could argue he wanted to be a few hours from home as well as from UVU that evening, but he had to known his wanted stars wouldn't just disappear the next day.
+created_at: '2026-08-31T05:52:22.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 2
+  reply_count: 13
+  like_count: 17
+  quote_count: 2
+  bookmark_count: 8
+  impression_count: 2447
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2094300051539648512'
+      duration_ms: 122369
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2094300051539648512/img/L1Fe1V3fTuba7OX9.jpg'
+      ipfs_cid: 'QmcszYkD8H5B9ZJbigeoWdoG2uLkKAtq2zMzfKtjRzEHCk'
+      sha256: '54ccba3f30ff2c2c308c162942d6fefe49df8a5af8a0c8372553dc6b87715820'
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-31'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

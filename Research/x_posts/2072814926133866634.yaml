@@ -1,0 +1,33 @@
+id: '2072814926133866634'
+url: 'https://x.com/mistressdivy/status/2072814926133866634'
+author:
+  username: 'mistressdivy'
+  name: 'Mistress Dividend'
+  id: '1493771881589084164'
+text: |
+  https://t.co/HDaKSUKkcV
+created_at: '2026-07-02T22:49:24.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 7
+  quote_count: 0
+  bookmark_count: 3
+  impression_count: 204
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2072814861591920640'
+      duration_ms: 155100
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2072814861591920640/img/H9yEJylvpQTMibPD.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2072814861591920640/vid/avc1/576x1024/YQOdR49kg0t9Hpgp.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+video_ipfs_cid: 'QmWpQUf5HajEXF8SV3ZTSGB377HUruL7GLPUbr7ByHAQkh'
+video_filename: '2072814926133866634.mp4'
+investigation: 'charlie_kirk'
+added_date: '2026-07-02'
+temp_file: false

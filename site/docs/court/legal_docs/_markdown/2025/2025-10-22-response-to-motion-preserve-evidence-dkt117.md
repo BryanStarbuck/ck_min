@@ -1,0 +1,100 @@
+<!-- Converted from 2025/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf -->
+# 2025-10-22-response-to-motion-preserve-evidence-dkt117
+
+> **Source PDF:** `court/filings/2025/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf` — served at `/court/filings/2025/2025-10-22-response-to-motion-preserve-evidence-dkt117.pdf`  
+> **Pages:** 7  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+JEFFREY S. GRAY #5852 Utah County Attorney CHAD E. GRUNANDER # 9968 RYAN MCBRIDE # 13079 LAUREN HUNT # 14682 DAVID STURGILL # 7995 CHRISTOPHER D. BALLARD #8497 Deputy Utah County Attorneys 100 East Center Street, Suite 2100 Provo, Utah 84606 (801) 851-8026 dcourt@utahcounty.gov 
+
+Attorneys for Plaintiff 
+
+# **IN THE FOURTH JUDICIAL DISTRICT COURT UTAH COUNTY, STATE OF UTAH** 
+
+|STATE OF UTAH,<br>Plaintiff,|RESPONSE TO DEFENDANT’S<br>MOTION TO PRESERVE EVIDENCE|
+|---|---|
+|v.|Case No. 251403576|
+|TYLER JAMES ROBINSON,<br>Defendant.|Judge Tony F. Graf, Jr.|
+
+
+
+The State hereby responds to Defendant’s motion to preserve evidence. While the State agrees that it and its law enforcement agents must generally preserve all material evidence, there should be some mechanism for releasing evidence that is not exculpatory and is no longer necessary to retain. Additionally, the State should not be required to notify Defendant of any potentially destructive forensic testing. Rather, due process requires only that the State refrain from unnecessarily destroying evidence. 
+
+Although the Court has already entered an order granting Defendant’s motion, that order was entered prematurely before the State’s time to respond had run. The Court should therefore set aside its prior order and enter new order that incorporates the edits stated below.<sup>1</sup> 
+
+# **ARGUMENT** 
+
+The State agrees that it has a general duty to preserve and disclose evidence that is material to Defendant’s guilt or punishment. _See California v. Trombetta_ , 467 U.S. 479, 488-89 (1984) (“Whatever duty to Constitution imposes on the States to preserve evidence, that duty must be limited to evidence that might be expected to play a significant role in the suspect’s defense.”); Utah R. Crim. P. 16(a)(1)(F) (requiring mandatory disclosure of “all evidence favorable to the defendant that is material to guilt or punishment”). But contrary to Defendant’s suggestion, this does not mean that the State should be required to “preserve all evidence,” regardless of its materiality. Mot. at 2. There may be some evidence that is neither exculpatory nor material and will therefore be irrelevant to the trial. For example, Defendant’s family is requesting release of his car so that it can be sold and they can be relieved of the burden of making payments on the car. If the car has been fully processed and all potentially material evidence relating to the car has been collected and disclosed to the defense, then the car itself is no longer material and could be eligible for release. 
+
+Accordingly, the Court should not order that the State and its law enforcement agents “preserve all evidence,” regardless of its materiality. _See_ Mot. at 1-2. Rather, the Court should permit the release of immaterial evidence upon agreement of the parties or court order. The Court should therefore amend the first paragraph of its order on the motion to preserve evidence as follows: 
+
+> 1  The State has filed a separate motion to set aside the Court’s prematurely entered order. 
+
+2 
+
+The Court GRANTS in part Defendant, Tyler James Robinson’s Motion to Preserve Evidence and hereby ORDERS the Utah County Attorney’s Office, its agents and any law enforcement agencies involved in the investigation of this case, to preserve all material evidence in their custody or under their control, involved in the investigation of this case. <u>Notwithstanding this general order to preserve all material evidence, the Utah County Attorney’s Office may release or dispose of an item of evidence if:</u> 
+
+- <u>(1) it notifies defense counsel of its intent to release or dispose of the</u> 
+
+- <u>evidence; and</u> 
+
+- <u>(2) defense counsel does not object within 14 days of receiving notice, or</u> 
+
+- <u>defense counsel agrees to the release or disposal of the evidence.</u> 
+
+Second, the Court should not require the State “to notify defense counsel prior to any potentially destructive testing and/or examination.” Mot. at 2. Utah law, which Defendant ignores, establishes otherwise. _See State v. Bakalov_ , 1999 UT 45, ¶ 53, 979 P.2d 799; Utah Code § 77-11c401(3)(a). In _Bakalov_ , the Utah Supreme Court held that due process is not implicated merely because forensic testing will consume a piece of evidence. _See State v. Bakalov_ , 1999 UT 45, ¶ 53, 979 P.2d 799. The Defendant in _Bakalov_ complained that the trial court denied him due process during his rape prosecution because it refused to allow him to test a semen sample collected during the investigation. _Id._ ¶ 51. The _Bakalov_ court affirmed, holding that no due process violation occurred, because Bakalov refused to provide a blood sample and thus rendered the semen sample non-critical evidence. _Id._ ¶ 52. There was no way to include or exclude him from the sample. _See id._ 
+
+The _Bakalov_ court then recognized that “the possibility that the [semen] sample was … consumed in the State’s initial dye testing” “reinforced” this holding. _Id._ ¶ 53 (emphasis added). The court noted that “[t]he strictures of due process accommodate th[e] reality that “[b]iological evidence, especially when obtained in small quantities, is highly volatile, and limited chemical testing can consume an entire sample, rendering it useless to further analysis.” _Id._ The _Bakalov_ 
+
+3 
+
+court explained that destructive testing implicates due process only if “the criminal defendant can show bad faith on the part of the State.” _Id._ (citing _Arizona v. Youngblood_ , 488 U.S. 51, 58 (1988). 
+
+In _State v. Tiedemann_ , 2017 UT 22, ¶¶ 39-44, 395 P.3d 111, the Utah Supreme Court modified _Youngblood’s_ due process analysis for purposes of the State Due Process Clause. _Id._ Under _Tiedemann_ , bad faith is only one factor in a state due process analysis. But _Tiedemann_ imposes no requirement on the State to inform a defendant before conducting a forensic test that could destroy a piece of evidence. _See id._ Rather, when a defendant claims that the loss or destruction of evidence violates due process, _Tiedemann_ merely requires a court to examine, among other things, “the reason for the destruction or loss of the evidence.” _Id._ ¶ 44. 
+
+With respect to DNA evidence, Utah statute allows “[a]n evidence collecting or retaining entity” to consume an entire piece of biological evidence when necessary for testing. Utah Code § 77-11c-401(3)(a). The statute requires an entity that holds evidence to “ensure that biological evidence … is: (a) preserved in an amount and manner sufficient to: (i) develop a DNA profile.” _Id._ § 77-11c-401(3)(a)(i). But requires preservation of an amount sufficient to “allow for independent testing of the biological evidence by a defendant” only “ _if practicable_ .” _Id._ § 77-11c401(3)(a)(ii) (emphasis added). Nothing in the statute requires notice to a defendant before potentially destructive testing. _See id._ 
+
+Other jurisdictions agree that the prosecution is not required to inform a defendant before conducting potentially destructive forensic tests. _See People v. Griffin_ , 761 P.2d 103, 107-08 (Cal. 1988) (en banc) (collecting cases). “When a piece of evidence in the possession of the prosecution is destroyed because the prosecution finds it necessary to consume the evidence in order to test it, there is no due process violation.” _Id._ at 107. “The prosecution must be allowed to investigate and prosecute crime, and due process does not require that it forego investigation in order to avoid 
+
+4 
+
+destroying potentially exculpatory evidence.” _Id._ ; _see also State v. Goudeau_ , 372 P.3d 945, 96667 (Ariz. 2016) (agreeing with other courts that due process does not require notice to defense to allow “observation of DNA testing or independent testing”); _State v. Pearson_ , 678 P.2d 605, 615 (Kan. 1984) (“In the absence of fraud or bad faith on the part of the State and its investigative agents, due process does not require the State to invite the accused to participate in or to supervise testing procedures performed in the investigation of a crime, even where the amount of evidence to be tested is so small sufficient material will not remain to allow the defendant to conduct an independent analysis of the evidence.”). Rather, a “defendant’s due process rights are sufficiently protected by the opportunity to challenge the credibility of the State’s expert and validity of the testing procedures used through cross-examination or expert testimony.” _Pearson_ , 678 P.2d at 615. 
+
+Defendant’s citations to Utah Code §§ 77-11c-303(3) and 77-11c-401(5)(a) provide no support for his assertion that the prosecution must notify him before conducting potentially destructive forensic testing. _See_ Mot. at 2. Neither section addresses destructive forensic testing of evidence during a criminal investigation. _See_ Utah Code §§ 77-11c-303(3), -405(5)(a). Rather, section 77-11c-303(3) address only the return or disposal of evidence pursuant to the evidence retention schedule established in section 77-11c-301. _See_ Utah Code §§ 77-11c-301(1) (establishing the period for which an agency “shall _retain_ evidence of a felony offense”) (emphasis added); 77-11c-302(1)(a)(i) (explaining when “[a]n agency is not required to _retain_ evidence of a felony offense under Section 77-11c-301” (emphasis added); 77-11c-303(1) & (3) (addressing the process for giving notice of an intent to “return or dispose” of evidence after “an agency determines that the agency is not required to _retain_ evidence … under Subsection 77-11c-302(1)(a)(i)”) (emphasis added). 
+
+5 
+
+Likewise, section 77-11c-401(5)(a) addresses only the _disposal_ of biological evidence under a separate retention schedule for that type of evidence. _See_ Utah Code §§ 77-11c-401(2) (establishing the period that an agency “shall preserve biological evidence of a violent felony offense”); 77-11c-401(5)(a) (establishing the procedure for giving notice of an intent “to dispose of biological evidence of a violent felony offense before the day on which the period described in Subsection (2) expires”). Defendant therefore cites no authority that prevents the State from engaging in potentially destructive forensic testing or requiring the State to give him notice before engaging in such testing. Rather, as demonstrated, Utah law affirmatively disavows that requirement. _See Bakalov_ , 1999 UT 45, ¶ 53; _see also Tiedemann_ , 2017 UT 22, ¶ 44; Utah Code § 77-11c-401(3)(a)(ii). 
+
+Accordingly, the Court should amend the second paragraph of its prior order on the motion to preserve evidence as follows: 
+
+Further, this Court ORDERS that the Utah County Attorney’s Office and any law enforcement agency involved in the investigation of this case <u>is not required to notify defense counsel prior to any potentially destructive testing and/or</u> examination. However, the Utah County Attorney’s Office and investigating law <u>enforcement agencies must preserve samples of evidence for defense use, examination, and/or testing whenever possible.</u> 
+
+# **CONCLUSION** 
+
+For the foregoing reasons, this Court should enter a new order on Defendant’s motion to preserve evidence that incorporates the amendments stated above. 
+
+DATED October 22, 2025. 
+
+UTAH COUNTY ATTORNEY’S OFFICE 
+
+<u>s/ Christopher D. Ballard</u> Christopher D. Ballard Deputy Utah County Attorney 
+
+Attorneys for Plaintiff 
+
+6 
+
+# **CERTIFICATE OF SERVICE** 
+
+I certify that on October 22, 2025, I filed the foregoing RESPONSE TO DEFENDANT’S 
+
+MOTION TO PRESERVE EVIDENCE through the court’s electronic filing system, which 
+
+served a copy on all counsel of record. 
+
+<u>s/ Christopher D. Ballard</u> Christopher D. Ballard 
+
+7

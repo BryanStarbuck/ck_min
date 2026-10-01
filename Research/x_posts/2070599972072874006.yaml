@@ -1,0 +1,56 @@
+id: '2070599972072874006'
+url: 'https://x.com/iluminomoly/status/2070599972072874006'
+author:
+  username: 'iluminomoly'
+  name: 'illuminomoly'
+  id: '2001437632065343488'
+text: |
+  New photos released by Candace Owens
+
+  #charliekirk #fyp #candaceowens #erikakirk #tpusa #charliekirkinvestigation
+created_at: '2026-06-26T20:07:57.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 16
+  reply_count: 1
+  like_count: 98
+  quote_count: 0
+  bookmark_count: 12
+  impression_count: 2330
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2070599967094321152'
+      url: 'https://pbs.twimg.com/media/HLw_sxaXsAAqVA7.jpg'
+      width: 2048
+      height: 1150
+      local_file: '2070599972072874006_1.jpg'
+      ipfs_cid: 'QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe'
+      description: 'Rear bench seat with bloodstained fast-food wrappers/bags and a black utensil'
+    - type: photo
+      media_key: '3_2070599967090118656'
+      url: 'https://pbs.twimg.com/media/HLw_sxZXkAAsStO.jpg'
+      width: 2048
+      height: 1146
+      local_file: '2070599972072874006_2.jpg'
+      ipfs_cid: 'QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2'
+      description: 'Wider floor-sill shot of a pale fragment beside a black transmitter-style object with blue label (video still)'
+    - type: photo
+      media_key: '3_2070599967094222848'
+      url: 'https://pbs.twimg.com/media/HLw_sxaWMAAsJbm.jpg'
+      width: 2048
+      height: 1150
+      local_file: '2070599972072874006_3.jpg'
+      ipfs_cid: 'Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy'
+      description: 'Wide view of the captain seats showing staining with water bottles and debris on the floor'
+    - type: photo
+      media_key: '3_2070599967098445824'
+      url: 'https://pbs.twimg.com/media/HLw_sxbWoAALHjB.jpg'
+      width: 2048
+      height: 1146
+      local_file: 'DUPLICATE'
+      ipfs_cid: 'QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU'
+      description: 'Wide cabin establishing shot — byte-identical duplicate of 2070606777691816338_1.jpg already on the page; not re-embedded'
+investigation: 'charlie_kirk'
+added_date: '2026-06-26'
+temp_file: false

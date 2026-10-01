@@ -1,0 +1,38 @@
+id: '2079042475130323448'
+url: 'https://x.com/Wendy7839570959/status/2079042475130323448'
+author:
+  username: 'Wendy7839570959'
+  name: 'Wendy'
+  id: '1954645537799430144'
+text: |
+  This guy says he was told to delete this video
+created_at: '2026-07-20T03:15:27.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 16
+  reply_count: 6
+  like_count: 48
+  quote_count: 1
+  bookmark_count: 15
+  impression_count: 1494
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079042443538825216'
+      duration_ms: 76971
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079042443538825216/img/Igrciw17CN-_n8Sz.jpg'
+      width: 576
+      height: 1024
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-19'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+ipfs:
+  video_cid: 'QmXp6eL1Y6arbLTQWqVFDmybZSxFvoVvsCJPbj4AW4QpbZ'
+  video_gateway_url: 'https://ipfs.io/ipfs/QmXp6eL1Y6arbLTQWqVFDmybZSxFvoVvsCJPbj4AW4QpbZ'
+transcription_file: 'videos_transcription/2079042475130323448.md'
+site_page: 'site/docs/CoverUp/FBI_Asked_Delete_Video.mdx'

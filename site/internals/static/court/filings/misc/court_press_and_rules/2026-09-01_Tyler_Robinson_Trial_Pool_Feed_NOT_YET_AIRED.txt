@@ -1,0 +1,33 @@
+TYLER ROBINSON TRIAL POOL FEED — PLACEHOLDER NOTE (NO VIDEO DOWNLOADED)
+=======================================================================
+
+URL:            https://www.youtube.com/live/3f3EMabrrFQ
+Probed:         2026-08-31 (this fetch run)
+HTTP status:    200
+Page bytes:     1,167,188 (JavaScript shell; no media stream present)
+
+Observed page metadata (parsed from the ytInitialPlayerResponse JSON in the page):
+  meta title            : Tyler Robinson Trial Pool Feed
+  ownerChannelName      : KUTV 2 News Salt Lake City
+  isLiveContent         : true
+  liveBroadcastDetails.isLiveNow : false
+  startTimestamp        : 2026-09-01T14:30:00+00:00  (= 08:30 MDT, 1 Sep 2026)
+  publishDate           : 2026-08-28T06:48:51-07:00
+  lengthSeconds         : 0
+
+STATUS: SCHEDULED, NOT YET AIRED. As of 31 Aug 2026 there is no playable
+recording at this URL, so nothing could be downloaded. lengthSeconds = 0 and
+isLiveNow = false both confirm this.
+
+WHY IT MATTERS: this is the court-designated pool camera feed for the FINAL DAY
+of the Tyler Robinson preliminary hearing. The Utah Judiciary itself published
+this exact URL in its 28 August 2026 press notification
+("PUBLIC ATTENDANCE FOR TYLER ROBINSON PRELIMINARY HEARING", saved in this
+directory), so although the video is hosted on KUTV's YouTube channel, it is the
+court's own designated feed, not a news-outlet reproduction.
+
+ACTION FOR A HUMAN: re-check this URL after 1 Sept 2026, 08:30 MDT. If a recording
+is posted, capture it as the primary-source video of the final preliminary-hearing
+day. Also note the press release wording "The preliminary hearing will be live
+streamed" — the stream may or may not be left up as an archived VOD afterwards, so
+capture it promptly.

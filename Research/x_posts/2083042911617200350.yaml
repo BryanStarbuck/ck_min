@@ -1,0 +1,66 @@
+id: '2083042911617200350'
+url: 'https://x.com/jonaaronbray/status/2083042911617200350'
+author:
+  username: 'jonaaronbray'
+  name: 'Jon Bray'
+  id: '1678837209581993985'
+text: |
+  "Residues of military/high explosives (e.g., RDX, PETN, TNT-related compounds) have been detected on fabric after detonations or simulated post-blast conditions. One HPLC study recovered RDX at low concentrations (around 3-4 ug/g) from nylon and cotton cloth exposed in post-blast scenarios; recovery varied strongly by fabric type (better from nylon than cotton; none from denim in that work)."
+created_at: '2026-07-31T04:11:45.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 51
+  reply_count: 15
+  like_count: 373
+  quote_count: 3
+  bookmark_count: 22
+  impression_count: 5382
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2083042898249920512'
+      url: 'https://pbs.twimg.com/media/HOh0esIWMAAkd5K.jpg'
+      width: 1168
+      height: 784
+      local_file: 'images/2083042911617200350_1.jpg'
+      sha256: '74f84d944984ef9a000a5d21b07db193c29d22d3e950504806401e09e6838725'
+      ipfs_cid: 'QmfGsfEeW5c6M5y1ivwrgd3psaqjGyAD2iUc44ZWGVnNSq'
+    - type: photo
+      media_key: '3_2083042903031504896'
+      url: 'https://pbs.twimg.com/media/HOh0e98XYAArqg3.jpg'
+      width: 259
+      height: 194
+      local_file: 'images/2083042911617200350_2.jpg'
+      sha256: '65a6acfaf6ab52cb68e5ee7fae1e6d2c81da0b3ece775ba590ff92f875609469'
+      ipfs_cid: 'QmPLRmfGspN3sPz9SBdBrty8v6nF9pVCY6BtjsfXBpUdNN'
+    - type: photo
+      media_key: '3_2083042907146096641'
+      url: 'https://pbs.twimg.com/media/HOh0fNRXEAEtYDL.jpg'
+      width: 1440
+      height: 3088
+      local_file: 'images/2083042911617200350_3.jpg'
+      sha256: '7d049215577e70a49c4de015fa481f3817ce482a8da88894bf4f42b2e6a4edfb'
+      ipfs_cid: 'QmUWjLJiWpwqzNiWFSv9nAiWjuREwSN8u1pJZZZceazW8L'
+ocr_text: |
+  [Image 1] Likelihood of Explosive Residue Transfer & Detectability on Synthetic Fibers.
+  TRANSFER: HIGH - Handling or proximity to detonation readily transfers particles to synthetic
+  surfaces. Fingerprint-level and post-blast residues common.
+  TRAPPING IN FIBERS: HIGH - Nylon, polyester, and auto carpet (typically nylon or polyester blends)
+  are porous and fibrous - particles lodge between fibers and in the pile. Better retention than many
+  smooth surfaces.
+  TESTABILITY / RECOVERY: MEDIUM-HIGH - Solvent extraction (acetone/methanol) + HPLC-UV or LC-MS
+  recovers residues effectively. Nylon often shows higher recovery than cotton; polyester/auto carpet
+  also workable. Detection at low ug/g to ng levels possible when properly sampled.
+  Ranking: Nylon (high recovery) > Polyester / Auto Carpet (good-high) > Cotton (lower).
+  Footer: Based on forensic studies of post-blast and handling residues (RDX, PETN, TNT-related
+  compounds). Actual results depend on amount deposited, time, weathering, washing, and extraction
+  method. Outdoor or heavily soiled carpet reduces likelihood.
+  [Image 2] Interior rear compartment of a dark-trimmed SUV showing seating and floor covering.
+  [Image 3] Phone screenshot: men carrying Charlie Kirk toward a vehicle in the immediate aftermath.
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false
+site_pages:
+  - 'site/docs/Mic/high-explosive.mdx'
+  - 'site/docs/Mic/explosive-residue.mdx'

@@ -1,0 +1,49 @@
+overlap_id: OWENS-042
+date: 2025-09-13
+person: erika
+dir_name: 2025_09_13_KPVU_Erika_UT_provo
+evidence_basis: adsb_ground_contact
+airport:
+  code: KPVU
+  name: Provo Municipal Airport
+  city: Provo
+  state: UT
+  state_name: Utah
+  timezone: America/Denver
+  elevation_ft: 4497
+  town_population: 115162
+  town_population_source: US Census 2020
+following_plane:
+  tail: SU-BND
+  type: Gulfstream IV
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2025-09-13T18:57:40Z, source_zone: UTC}
+      to:   {utc: 2025-09-13T19:02:34Z, source_zone: UTC}
+      basis: climb_out
+      ground_points: 285
+      min_km: 0.62
+      min_alt_ft: 4500
+      first_alt_ft: 4500
+      first_km: 0.62
+      previous_heard_at_field: {utc: 2025-09-12T22:17:03Z, km: 1.29, alt_ft: null, on_ground: true, source: airplanes-live}
+      sources: adsb-lol|airplanes-live
+kirk_plane:
+  no_aircraft_in_record: true
+  claim: "Erika Kirk claimed in Provo on this date · no Kirk-party aircraft heard on the ground here"
+  queried_tails: N102DZ, N582MM, N79SC, N872RA, N40JD, N560TW, N888KG
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: recovered ADS-B traces, adsb.lol and airplanes.live. Ground contacts and near-field passes measured point by point. As of 2026-09-28."
+sources:
+  - site/docs/Planes/following/overlaps.csv
+  - site/docs/Planes/following/airports.csv
+  - site/docs/Planes/SU-BND/data/recovered/SU-BND_2025-09-13_adsb-lol_trace_full.json
+  - site/docs/Planes/SU-BND/data/recovered/SU-BND_2025-09-13_airplanes-live_trace_full.json
+  - site/docs/Planes/SU-BND/data/recovered/SU-BND_2025-09-12_airplanes-live_trace_full.json
+  - site/docs/Planes/info_graphic/code/build_info_yaml.py
+notes: >-
+  SU-BND was heard airborne within 15 km 1 time at KPVU on this date.
+  NO Kirk-party or TPUSA-linked airframe was heard on the ground at this field on this date. Queried: N582MM, N872RA, N560TW. Held by neither archive for this date: N102DZ, N79SC, N40JD, N888KG. The Kirk band is drawn hollow because the claim on this row is a PERSON IN A CITY, and a claimed itinerary is not an aircraft.
+  CLIMBING OUT: first heard at 4500 ft, 0.62 km from the field, climbing, with nothing heard earlier that UTC day. It was last heard AT THIS FIELD 20.7 hours earlier (2025-09-12T22:17:03Z, 1.29 km, on the ground); the gap is drawn as NOT HEARD. It is not a recorded departure.
+  A trace proves presence, never purpose, and never occupancy. Nothing here places any person aboard any aircraft.

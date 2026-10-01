@@ -1,0 +1,46 @@
+id: '2095336474778488986'
+url: 'https://x.com/realstewpeters/status/2095336474778488986'
+author:
+  username: 'realstewpeters'
+  name: 'Stew Peters'
+  id: '1288319695658135552'
+text: |
+  The search results showing that Butch Hibbs was Google image-searched from Fort Huachuca on 9-7-25 were wiped in real time while @AnaEscobarShow was discussing them live on-air.
+created_at: '2026-09-03T02:21:59.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 78
+  reply_count: 17
+  like_count: 301
+  quote_count: 3
+  bookmark_count: 23
+  impression_count: 12583
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2095336469489676288'
+      url: 'https://pbs.twimg.com/media/HRQhatzacAAgDHS.jpg'
+      width: 1290
+      height: 1790
+      sha256: 'f1a3f0eacb6f073fa739121e2b0dd9e37ff70e30dc196f1bd9163c0e9b5014c8'
+      ipfs_cid: 'QmQhEojGifxsTmm5n6yQ2BfWaYBn1LXtmaV3r5zYwKKdqp'
+quoted_status:
+  id: '2095169955520041090'
+  author: '@realstewpeters'
+  text: |
+    Burton "Butch" Hibbs is on the Fort Huachuca list.
+
+    Along with people like Andrew Kolvet, Brian Harpole, Justin Davis, Jacob Reses, Bradley Hansel and Johnny Moore, someone on Huachuca was expecting Butch Hibbs to arrive on base on 9/7/2025.
+  image_sha256: 'd0545943296b6347a88147eab33dc12cccd3adc1d796241db2e588e750967307'
+  note: 'image already in repo from a prior run; duplicate download deleted, existing CID QmdrbsEEntu9LU4iX46ctUtPEuD6rGPkMsMr9f4fPGDbGN reused'
+related_video:
+  post_url: 'https://x.com/AnaEscobarShow/status/2095341859757564015'
+  author: '@AnaEscobarShow'
+  filename: '2095341859757564015.mp4'
+  sha256: '1f889cc20ae371f927a463c7187f8bbcb8a3ac3c9ff2348c6c5e6dd0c57b5b37'
+  ipfs_cid: 'QmUT3UWsXgKzXEptuDpD1irPcamL9s5y4AX461vgo1VVEC'
+  note: 'The Stew Peters post carries no video. The on-air clip it describes was posted separately by Ana Escobar and is the video mirrored here.'
+investigation: 'charlie_kirk'
+added_date: '2026-09-02'
+temp_file: false

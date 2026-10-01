@@ -1,0 +1,79 @@
+<!-- Converted from 2025/10_1_25_Telephonic_Conference_64.pdf -->
+# 10 1 25 Telephonic Conference 64
+
+> **Source PDF:** `court/filings/2025/10_1_25_Telephonic_Conference_64.pdf` — served at `/court/filings/2025/10_1_25_Telephonic_Conference_64.pdf`  
+> **Pages:** 2  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+**The Order of the Court is stated below: Dated:** October 01, 2025 **At the direction of:** 01:04:06 PM /s/ TONY F GRAF JR District Court Judge 
+
+**by** 
+
+/s/ TREENA HANSEN District Court Clerk 
+
+FOURTH JUDICIAL DISTRICT - PROVO DISTRICT COURT 
+
+UTAH COUNTY, STATE OF UTAH 
+
+STATE OF UTAH, MINUTES Plaintiff, TELEPHONIC CONFERENCE. vs. Case No: 251403576 FS TYLER JAMES ROBINSON, Judge: TONY F GRAF JR Defendant. Date: September 26, 2025 
+
+# **PRESENT** 
+
+Clerk: treenah 
+
+Prosecutor: CHAD GRUNANDER 
+
+Defendant not present 
+
+Defendant's Attorney(s): KATHRYN NESTER 
+
+# **DEFENDANT INFORMATION** 
+
+Date of birth: April 16, 2003 
+
+Audio 
+
+Tape Number: Off Record 
+
+# **CHARGES** 
+
+1. AGGRAVATED MURDER - 1st Degree Felony 
+
+2. FELONY DISCHARGE OF FIREARM - CAUSING SERIOUS BODILY INJURY - 1st Degree Felony 
+
+3. OBSTRUCTION OF JUSTICE - CAPITAL/FIRST DEGREE FELONY CONDUCT - 2nd Degree Felony 
+
+4. OBSTRUCTION OF JUSTICE - CAPITAL/FIRST DEGREE FELONY CONDUCT - 2nd Degree Felony 
+
+5. TAMPERING WITH A WITNESS - 3rd Degree Felony 
+
+6. TAMPERING WITH A WITNESS - 3rd Degree Felony 
+
+7. VIOLENT OFFENSE COMMITTED IN PRESENCE OF A CHILD - Class A Misdemeanor 
+
+# **HEARING** 
+
+This matter comes before the Court for an unscheduled conference at the request of counsel. This proceeding is not recorded by FTR or Webex. 
+
+Page 1 of 2 
+
+10-01-2025 01:04 PM 
+
+CASE NUMBER: 251403576 State Felony 
+
+Counsel addressed the Court regarding issues and concerns related to Mr. Robinson s appearance in open court. 
+
+A discussion ensued regarding counsels concerns, including matters of safety. Court addresses counsel and discloses prior employment with the County Attorney's Office. Counsel affirmed that no conflict exists. 
+
+In anticipation of motions being filed concerning the defendants appearance and in consideration of the late hour, counsel have agreed that Mr. Robinson will appear virtually for the hearing scheduled on Monday, September 29, 2025, at 10:00 a.m. 
+
+The Court will notify the appropriate agencies of this change. 
+
+# **End Of Order - Signature at the Top of the First Page** 
+
+Page 2 of 2 
+
+10-01-2025 01:04 PM

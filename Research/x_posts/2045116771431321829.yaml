@@ -1,0 +1,29 @@
+id: '2045116771431321829'
+url: 'https://x.com/SteveCameronPr1/status/2045116771431321829'
+author:
+  username: 'SteveCameronPr1'
+  name: 'Steve Cameron'
+  id: '1217920461985632256'
+text: |
+  Here is recently resigned Sheriff Nate Brooksby allegedly lying to the world about the timeline concerning Tyler Robinson's surrender to the Washington County Sheriff's Office on September 11th, 2025...
+created_at: '2026-04-17T12:26:49.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 15
+  reply_count: 2
+  like_count: 77
+  quote_count: 0
+  bookmark_count: 7
+  impression_count: 2118
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2045116169573801984'
+      duration_ms: 68266
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2045116169573801984/img/yZS4vkbWWs2mmZb1.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2045116169573801984/vid/avc1/1280x720/nhbqjrFNYesTDDx2.mp4?tag=14'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+investigation: 'charlie_kirk'
+added_date: '2026-04-17'

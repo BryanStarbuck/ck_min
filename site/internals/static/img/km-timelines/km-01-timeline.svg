@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 210" width="568" height="210" role="img" aria-label="KM-01 · Wiped-out premonition likelihood timeline">
+  <defs>
+    <linearGradient id="bgKM01Wipedout" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="cvKM01Wipedout" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="55%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="568" height="210" rx="12" fill="url(#bgKM01Wipedout)" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="44" y="20" font-family="system-ui,Segoe UI,sans-serif" font-size="12" font-weight="700" fill="#0f172a">KM-01 · Wiped-out premonition</text>
+  <text x="548" y="20" text-anchor="end" font-family="system-ui,Segoe UI,sans-serif" font-size="10" fill="#64748b">bar height = relative likelihood</text>
+  <line x1="44" y1="158" x2="548" y2="158" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="38" y="50" text-anchor="end" font-family="system-ui,Segoe UI,sans-serif" font-size="8" fill="#94a3b8">high</text>
+  <text x="38" y="158" text-anchor="end" font-family="system-ui,Segoe UI,sans-serif" font-size="8" fill="#94a3b8">low</text>
+  <rect x="49.0" y="116.7" width="25.9" height="41.3" rx="2.5" fill="rgb(100,148,145)" fill-opacity="0.59"/><rect x="85.0" y="110.8" width="25.9" height="47.2" rx="2.5" fill="rgb(110,152,140)" fill-opacity="0.62"/><rect x="121.0" y="104.9" width="25.9" height="53.1" rx="2.5" fill="rgb(120,156,135)" fill-opacity="0.65"/><rect x="157.0" y="99.0" width="25.9" height="59.0" rx="2.5" fill="rgb(130,160,130)" fill-opacity="0.68"/><rect x="193.0" y="93.1" width="25.9" height="64.9" rx="2.5" fill="rgb(140,164,125)" fill-opacity="0.70"/><rect x="229.0" y="73.0" width="25.9" height="85.0" rx="2.5" fill="rgb(174,177,108)" fill-opacity="0.80"/><rect x="265.0" y="40.0" width="25.9" height="118.0" rx="2.5" fill="rgb(230,200,80)" fill-opacity="0.95"/><rect x="301.0" y="61.2" width="25.9" height="96.8" rx="2.5" fill="rgb(194,185,98)" fill-opacity="0.85"/><rect x="337.0" y="81.3" width="25.9" height="76.7" rx="2.5" fill="rgb(160,172,115)" fill-opacity="0.76"/><rect x="373.0" y="99.0" width="25.9" height="59.0" rx="2.5" fill="rgb(130,160,130)" fill-opacity="0.68"/><rect x="409.0" y="108.4" width="25.9" height="49.6" rx="2.5" fill="rgb(114,153,138)" fill-opacity="0.63"/><rect x="445.0" y="113.2" width="25.9" height="44.8" rx="2.5" fill="rgb(106,150,142)" fill-opacity="0.61"/><rect x="481.0" y="116.7" width="25.9" height="41.3" rx="2.5" fill="rgb(100,148,145)" fill-opacity="0.59"/><rect x="517.0" y="120.2" width="25.9" height="37.8" rx="2.5" fill="rgb(94,145,148)" fill-opacity="0.58"/>
+  <path d="M 62.0,116.7 L 98.0,110.8 L 134.0,104.9 L 170.0,99.0 L 206.0,93.1 L 242.0,73.0 L 278.0,40.0 L 314.0,61.2 L 350.0,81.3 L 386.0,99.0 L 422.0,108.4 L 458.0,113.2 L 494.0,116.7 L 530.0,120.2" fill="none" stroke="url(#cvKM01Wipedout)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"/>
+  <circle cx="278.0" cy="40.0" r="4.2" fill="#f59e0b" stroke="#fff" stroke-width="1.5"/>
+  <text x="278.0" y="30.0" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="11" font-weight="700" fill="#b45309">2018</text>
+  <line x1="62.0" y1="158" x2="62.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="62.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2012</text><line x1="170.0" y1="158" x2="170.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="170.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2015</text><line x1="278.0" y1="158" x2="278.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="278.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2018</text><line x1="350.0" y1="158" x2="350.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="350.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2020</text><line x1="422.0" y1="158" x2="422.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="422.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2022</text><line x1="530.0" y1="158" x2="530.0" y2="163" stroke="#64748b" stroke-width="1.2"/><text x="530.0" y="196" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif" font-size="10" font-weight="600" fill="#334155">2025</text>
+  <text x="44" y="208" font-family="system-ui,Segoe UI,sans-serif" font-size="8.5" fill="#94a3b8">Domain: 2012–2025 · Peak claim year ~2018 (Candace text dating) · multi-year premonition</text>
+</svg>

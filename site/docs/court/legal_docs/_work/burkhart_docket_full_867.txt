@@ -1,0 +1,720 @@
+1	Information, 9-16-25	PDF
+2	Probable Cause Affidavit, 9-16-25	PDF
+3	Public Safety Assessment Report, 9-16-25	PDF
+4	Bail Order, 9-16-25	PDF
+5	Return of Electronic Notification, 9-16-25	PDF
+6	Acknowledgment of Firearm Restriction, 9-16-25	PDF
+7	Order (Proposed) Pretrial Protective Order, 9-16-25	PDF
+8	Return of Electronic Notification, 9-16-25	PDF
+9	Affidavit of Indigency, 9-16-25 (Private, Not obtained)	NOT OBTAINED/NO PDF
+10	State’s Notice of Intent to Seek the Death Penalty, 9-16-25	PDF
+11	Return of Electronic Notification, 9-16-25 (Not obtained)	NOT OBTAINED/NO PDF
+12	Request for Designation of Victim Representative, 9-16-25	PDF
+13	Return of Electronic Notification, 9-16-25 (Not obtained)	NOT OBTAINED/NO PDF
+14	Order Pretrial Protective Order, 9-16-25	PDF
+15	Return of Electronic Notification, 9-16-25 (Not obtained)	NOT OBTAINED/NO PDF
+16	Return of Electronic Notification, 9-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+17	Initial Appearance, 9-22-25	PDF
+18	Return of Electronic Notification, 9-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+19	Pre-Trial Protective Order, 9-23-25 (Not obtained, duplicate of #14)	NOT OBTAINED/NO PDF
+20	Notice for Case 251403576 FS Judge: Tony F. Graf Jr., 9-23-25	PDF
+21	Return of Electronic Notification, 9-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+22	Order for Court Reporter, 9-22-25	PDF
+23	Protection Order Re: Pre-Trial and Trial Publicity, 9-22-25	PDF
+24	Order to Transport, 9-24-25	PDF
+25	Request and Order for Electronic Media Coverage of Court Proceedings, 9-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+26	Request and Order for Electronic Media Coverage of Court Proceedings, 9-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+27	Request and Order for Electronic Media Coverage of Court Proceedings, 9-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+28	Standing Decorum Order, 9-24-25	PDF
+29	Return of Service Pretrial Protective Order, 9-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+30	Protective Order Acknowledgment of Firearm Restriction, 9-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+31	Return of Electronic Notification, 9-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+32	Affidavit/Declaration Rule 8 Declaration of Kathryn N. Nester, 9-25-25	PDF
+33	Affidavit/Declaration Rule 8 Declaration of Michael N. Burt, 9-25-25	PDF
+34	Affidavit/Declaration Rule 8 Declaration of Richard G. Novak, 9-25-25	PDF
+35	Motion Pro Hac Vice to Admit Michael N. Burt, 9-25-25	PDF
+36	Motion Pro Hac Vice to Admit Richard G. Novak, 9-25-25	PDF
+37	Order (Proposed) Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+38	Order (Proposed) Admitting Michael N. Burt Pro Hac Vice, 9-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+39	Order (Proposed) Admitting Richard G. Novak Pro Hac Vice, 9-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+40	Return of Electronic Notification, 9-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+41	Order Admitting Michael N. Burt Pro Hac Vice, 9-26-25	PDF
+42	Order Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-27-25	PDF
+43	Return of Electronic Notification, 9-26-25 (Not obtained)	NOT OBTAINED/NO PDF
+44	Order Admitting Richard G. Novak Pro Hac Vice, 9-27-25	PDF
+45	Return of Electronic Notification, 9-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+46	Return of Electronic Notification, 9-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+47	Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel Michael N. Burt, 9-28-25	PDF
+48	Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel Richard G. Novak, 9-28-25	PDF
+49	Supplemental Exhibit to Rule 8 Declaration of Michael N. Burt, 9-28-25	PDF
+50	Supplemental Exhibit to Rule 8 Declaration of Richard G. Novak, 9-28-25	PDF
+51	Return of Electronic Notification, 9-28-25 (Not obtained)	NOT OBTAINED/NO PDF
+52	Order to Transport, 9-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+53	Return of Electronic Notification, 9-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+54	Return of Electronic Notification, 9-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+55	Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25	PDF
+56	Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25	PDF
+57	Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25	PDF
+58	Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25	PDF
+59	Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25	PDF
+60	Return of Electronic Notification, 9-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+61	Request for Discovery, 9-30-25	PDF
+62	Return of Electronic Notification, 9-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+63	Return of Electronic Notification, 10-1-25 (Not obtained)	NOT OBTAINED/NO PDF
+64	Telephonic Conference, 10-1-25	PDF
+65	Telephonic Conference, 10-1-25	PDF
+66	Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25	PDF
+67	Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+68	Return of Electronic Notification, 10-2-25 (Not obtained)	NOT OBTAINED/NO PDF
+69	Return of Electronic Notification, 10-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+70	Return of Electronic Notification, 10-4-25 (Not obtained)	NOT OBTAINED/NO PDF
+71	Request for Audio Recording, 10-6-25	PDF
+72	Return of Electronic Notification, 10-6-25 (Not obtained)	NOT OBTAINED/NO PDF
+73	Return of Electronic Notification, 10-7-25 (Not obtained)	NOT OBTAINED/NO PDF
+74	Copy of Video/Audio Record (completed), 10-8-25	PDF
+75	Motion to Preserve Evidence, 10-8-25	PDF
+76	Order (Proposed) Granting Motion to Preserve Evidence, 10-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+77	Return of Electronic Notification, 10-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+78	Return of Electronic Notification, 10-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+79	Motion Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25	PDF
+80	Request/Notice to Submit Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25	PDF
+81	Order (Proposed) Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+82	Return of Electronic Notification, 10-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+83	Motion (Hearing Requested) to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints and Memorandum in Support, 10-9-25	PDF
+84	Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-9-25	PDF
+85	Return of Electronic Notification, 10-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+86	Order Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+87	Return of Electronic Notification, 10-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+88	Appearance of Counsel/Notice of Limited Appearance, 10-13-25	PDF
+89	Return of Electronic Notification, 10-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+90	Request/Notice to Submit Stipulated Discovery Protective Order, 10-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+91	Motion for Discovery Protective Order (Stipulated), 10-13-25	PDF
+92	Order (Proposed) Discovery Protective Order, 10-13-25 (Not Obtained)	NOT OBTAINED/NO PDF
+93	Return of Electronic Notification, 10-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+94	Certificate of Service, 10-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+95	Return of Electronic Notification, 10-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+96	Interim Order Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-14-25	PDF
+97	Appearance of Counsel/Notice of Limited Appearance (Richard Novak), 10-14-25	PDF
+98	Return of Electronic Notification, 10-14-25 (Not obtained)	NOT OBTAINED/NO PDF
+99	Return of Electronic Notification, 10-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+100	Discovery Protective Order, 10-15-25	PDF
+101	Return of Electronic Notification, 10-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+102	Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25	PDF
+103	Order (Proposed) Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+104	Return of Electronic Notification, 10-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+105	Order Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25	PDF
+106	Return of Electronic Notification, 10-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+107	Order Granting Motion to Preserve Evidence, 10-20-25	PDF
+108	Return of Electronic Notification, 10-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+109	(Omitted from Docket - no document # 109)	NOT OBTAINED/NO PDF
+110	Return of Electronic Notification, 10-21-25 (Not obtained)	NOT OBTAINED/NO PDF
+111	Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-21-25	PDF
+112	Return of Electronic Notification, 10-21-25 (Not obtained)	NOT OBTAINED/NO PDF
+113	Order to Transport, 10-21-25	PDF
+114	Return of Electronic Notification, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+115	Defendant’s Opposition to the State of Utah’s Motion under Utah Rule of Criminal Procedure 17.5, 10-22-25	PDF
+116	Motion to Set Aside October 20, 2025 Order Granting Motion to Preserve Evidence, 10-22-25	PDF
+117	Response to Defendant’s Motion to Preserve Evidence, 10-22-25	PDF
+118	Opposition to Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-22-25	PDF
+119	Return of Electronic Notification, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+120	Return of Electronic Notification, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+121	Reply in Support of Motion re Restraints and Civilian Clothing, 10-22-25	PDF
+122	Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+123	Request/Notice to Submit Request to Submit Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+124	Order (Proposed) Order Granting Permission to File Overlength Reply, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+125	Return of Electronic Notification, 10-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+126	Return of Electronic Notification, 10-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+127	Order Granting Permission to File Overlength Reply, 10-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+128	Return of Electronic Notification, 10-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+129	Reply in Support of Motion to Strike Response to Defendant’s Motion to Appear at all In-Person Proceedings in Civilian Clothing and Without Restraints, 10-23-25	PDF
+130	Return of Electronic Notification, 10-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+131	Request and Order for Electronic Media Coverage of Court Proceedings, 10-23-25	PDF
+132	Return of Electronic Notification, 10-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+133	Updated Request and Order for Electronic Media Coverage of Court Proceedings	PDF
+134	Return of Electronic Notification, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+135	State’s Notice of Open File Policy and Invitation to Inspect Physical Evidence, 10-27-25	PDF
+136	Return of Electronic Notification, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+137	Ruling and Order Granting Defendant’s Motion to Strike and Granting in Part and Denying in Part Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-27-28	PDF
+138	Standing Decorum Order, Effective 10-30-25	PDF
+139	Not Signed Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+140	Return of Electronic Notification (Not obtained), 10-27-25	NOT OBTAINED/NO PDF
+141	Motion to Extend Time, Stipulated, 10-27-25	PDF
+142	Request/Notice to Submit Stipulated Motion to Extend Time, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+143	Order (Proposed) Granting Stipulated Motion to Extend Time, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+144	Return of Electronic Notification, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+145	Return of Electronic Notification, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+146	Order Granting Stipulated Motion to Extend Time, 10-28-25	PDF
+147	Return of Electronic Notification, 10-28-25 (Not obtained)	NOT OBTAINED/NO PDF
+148	(Omitted from docket - no document # 148)	NOT OBTAINED/NO PDF
+149	Return of Electronic Notification, 10-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+150	Request for Notice of Motions to Close Judicial Proceedings and Records, 10-30-25	PDF
+151	Return of Electronic Notification, 10-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+152	Stipulation Motion to Order Transcript and Classify Transcript and Audio as Private, 11-3-25	PDF
+153	Request/Notice to Submit Request to Submit Stipulated Motion to Order Transcript and Classify, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+154	Order (Proposed) Granting Motion to Order Transcript and Classify, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+155	Return of Electronic Notification, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+156	Request/Notice to Submit Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+157	Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25	PDF
+158	Order (Proposed) Stipulated Order: (1) Setting Aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+159	Return of Electronic Notification, 11-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+160	(Omitted from docket - no item #160)	NOT OBTAINED/NO PDF
+161	Stipulated Order: (1) Setting aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-4-25	PDF
+162	Return of Electronic Notification, 11-4-25 (Not obtained)	NOT OBTAINED/NO PDF
+163	Return of Electronic Notification, 11-5-25 (Not obtained)	NOT OBTAINED/NO PDF
+164	Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-5-25	PDF
+165	Return of Electronic Notification, 11-5-25 (Not obtained)	NOT OBTAINED/NO PDF
+166	(Previously omitted) Request And Order For Electronic Media Coverage of Court Proceedings, 10-27-25 (Not obtained)	NOT OBTAINED/NO PDF
+167	State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-6-25	PDF
+168	Return of Electronic Notification, 11-6-25 (Not obtained)	NOT OBTAINED/NO PDF
+169	Defendant Tyler James Robinson s Response to Request for Notice of Motion to Close Judicial Proceedings and Records, 11-10-25	PDF
+170	Return of Electronic Notification, 11-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+171	Order Requiring Parties to Serve All Closure of Reclassification Motions on the Media, 11-13-25	PDF
+172	Order for Transcript of October 24, 2025 Hearing, 11-13-25	PDF
+173	Media’s Notice of Service re Motion to Classify Transcript and Audio Filed November 3, 2025, 11-13-25	PDF
+174	Return of Electronic Notification, 11-13-25 (Not obtained)	NOT OBTAINED/NO PDF
+175	(Omitted from docket - no item #175)	NOT OBTAINED/NO PDF
+176	Return of Electronic Notification, 11-14-25 (Not obtained)	NOT OBTAINED/NO PDF
+177	Approved Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25	PDF
+178	Not Signed Order (Proposed) Granting Motion to Order Transcript and Classify, 11-14-25	PDF
+179	Return of Electronic Notification, 11-14-25 (Not obtained)	NOT OBTAINED/NO PDF
+180	Return of Electronic Notification, 11-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+181	Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25	PDF
+182	(Omitted from docket - no item #182)	NOT OBTAINED/NO PDF
+183	(Omitted from docket - no item #183)	NOT OBTAINED/NO PDF
+184	Return of Electronic Notification, 11-18-25 (Not obtained)	NOT OBTAINED/NO PDF
+185	Defendant Tyler James Robinson’s Response to Proposed Media Intervenors Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25	PDF
+186	Return of Electronic Notification, 11-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+187	State’s Response to Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25	PDF
+188	Return of Electronic Notification, 11-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+189	Notice for Case 251403576, 11-20-25	PDF
+190	Objection to State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order, 11-20-25	PDF
+191	Return of Electronic Notification, 11-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+192	Return of Electronic Notification, 11-21-25 (Not obtained)	NOT OBTAINED/NO PDF
+193	Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25	PDF
+194	Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25	PDF
+195	Order to Transport, 11-21-25	PDF
+196	Return of Electronic Notification, 11-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+197	Motion for Limited Intervention, 11-24-25	PDF
+198	Return of Electronic Notification, 11-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+199	Reply in Support of Motion for Limited Intervention (Proposed Media Intervenors), 11-26-25	PDF
+200	Return of Electronic Notification, 11-26-25 (Not obtained)	NOT OBTAINED/NO PDF
+201	(Omitted from docket - no item #201)	NOT OBTAINED/NO PDF
+202	(Previously omitted) Letter From Supreme Court Of Utah, 11-17-25	PDF
+203	Request/Notice to Submit State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25 (Not obtained)	NOT OBTAINED/NO PDF
+204	Reply Supporting State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25	PDF
+205	Return of Electronic Notification, 11-28-25 (Not obtained)	NOT OBTAINED/NO PDF
+206	Return of Electronic Notification, 11-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+207	Request/Notice to Submit Request to Submit for Decision Motion for Limited Intervention Doc. 165, 12-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+208	Return of Electronic Notification, 12-3-25 (Not obtained)	NOT OBTAINED/NO PDF
+209	Joint Status Report of the Parties Concerning the Redaction of Portions of the Transcript of the October 24, 2025 Sealed Hearing, 12-4-25	PDF
+210	Return of Electronic Notification, 12-4-25 (Not obtained)	NOT OBTAINED/NO PDF
+211	UOVC Restitution Notice Claim #1113665, 12-5-25	PDF
+212	Return of Electronic Notification, 12-5-25 (Not obtained)	NOT OBTAINED/NO PDF
+213	Defendant Tyler James Robinson’s Response to the Motion for Limited Intervention of Deseret News, et al. (Dkt 197), 12-8-25	PDF
+214	Return of Electronic Notification, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+215	Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25	PDF
+216	Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+217	Request/Notice to Submit Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+218	Order (Proposed) Granting Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+219	Return of Electronic Notification, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+220	Media Intervenors Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025 Hearing, 12-8-25	PDF
+221	Return of Electronic Notification, 12-8-25 (Not obtained)	NOT OBTAINED/NO PDF
+222	Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25	PDF
+223	Return of Electronic Notification, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+224	Request/Notice to Submit Motion for Limited Intervention, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+225	Order (Proposed) Granting Motion for Limited Intervention, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+226	Return of Electronic Notification, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+227	Defendant Tyler James Robinson’s Reply to Media’s Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025, 12-9-25	PDF
+228	Return of Electronic Notification, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+229	State’s Reply Supporting Stipulated Motion to Classify Transcript and Audio as Private, 12-9-25	NOT OBTAINED/NO PDF
+230	Return of Electronic Notification, 12-9-25 (Not obtained)	NOT OBTAINED/NO PDF
+231	Return of Electronic Notification, 12-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+232	**** PRIVATE **** Motion to Classify Motion to Disqualify as Private and Request for Closed Hearing, 12-10-25	NOT OBTAINED/NO PDF
+233	**** PRIVATE **** Request to Submit Motion to Classify Motion to Disqualify as Private and Request for Closed Hearing, 12-10-25	NOT OBTAINED/NO PDF
+234	**** PRIVATE **** Order (Proposed) Order Classifying Motion to Disqualify as Private Pending Closure Hearing, 12-10-25	NOT OBTAINED/NO PDF
+235	Return of Electronic Notification, 12-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+236	**** PRIVATE **** Non-Public Information Motion to Disqualify and Exhibits, 12-10-25	NOT OBTAINED/NO PDF
+237	Return of Electronic Notification, 12-10-25 (Not obtained)	NOT OBTAINED/NO PDF
+238	Return of Electronic Notification, 12-12-25 (not obtained)	NOT OBTAINED/NO PDF
+239	Ruling and Order Granting State’s Motion to Clarify Court’s Pretrial and Trial Publicity Order, 12-15-25	PDF
+240	Order Granting Motion for Leave to File Overlength Memorandum, 12-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+241	Return of Electronic Notification, 12-15-25 (Not obtained)	NOT OBTAINED/NO PDF
+242	Return of Electronic Notification, 12-16-25 (Not obtained)	NOT OBTAINED/NO PDF
+243	Motion to Order Transcript and Temporarily Classify Transcript and Audio as Private, 12-17-25	PDF
+244	Request/Notice to Submit Request to Submit Motion to Order Transcript and Temporarily Classify (Dec 11 2025 Hearing), 12-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+245	(Proposed) Order on Motion to Order Transcript and Temporarily Classify (Dec 11 2025 Hearing), 12-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+246	Return of Electronic Notification, 12-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+247	(Public Version) Motion to Disqualify, 12-17-25	PDF
+248	Return of Electronic Notification, 12-17-25 (Not obtained)	NOT OBTAINED/NO PDF
+249	Order on Motion to Order Transcript and Temporarily Classify (Dec. 11, 2025 Hearing), 12-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+250	Return of Electronic Notification, 12-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+251	Order Classifying Motion to Disqualify as Private Pending Closure Hearing, 12-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+252	Return of Electronic Notification, 12-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+253	**** PRIVATE **** TRANSADMIN TRANSCRIPT for Hearing 12-11-2025, 12-19-25 (Not obtained)	NOT OBTAINED/NO PDF
+254	Return of Electronic Notification, 12-20-25 (Not obtained)	NOT OBTAINED/NO PDF
+255	Certificate of Service, 12-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+256	Return of Electronic Notification, 12-22-25 (Not obtained)	NOT OBTAINED/NO PDF
+257	Request and Order for Electronic Media Coverage of Court Proceedings, 12-23-25	PDF
+258	Return of Electronic Notification, 12-24-25 (Not obtained)	NOT OBTAINED/NO PDF
+259	(Omitted from docket - no item #262)	NOT OBTAINED/NO PDF
+260	REVIEW/ORAL ARGUMENT, 12-24-25	PDF
+261	Return of Electronic Notification, 12-25-25 (Not obtained)	NOT OBTAINED/NO PDF
+262	(Previously omitted) Standing Decorum Order Effective December 23, 2025, 12-23-25 (Not obtained)	NOT OBTAINED/NO PDF
+263	Ruling and Order re Stipulated Motion to Classify Transcript and Audio as Private, 12-29-25	PDF
+264	Order Denying the Media’s Request to Intervene, and Standing Order for Rule 4-202.04 Notice of Motions for Classification, 12-29-25	PDF
+265	Transcript of October 24, 2025 Hearing (Redacted Transcript), 12-29-25	PDF
+266	Not Signed Order (Proposed) Granting Motion for Limited Intervention, 12-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+267	Return of Electronic Notification, 12-29-25 (Not obtained)	NOT OBTAINED/NO PDF
+268	Return of Electronic Notification, 12-30-25 (Not obtained)	NOT OBTAINED/NO PDF
+269	(Omitted from docket - no item #272)	NOT OBTAINED/NO PDF
+270	(Omitted from docket - no item #273)	NOT OBTAINED/NO PDF
+271	Return of Electronic Notification, 1-1-26 (Not obtained)	NOT OBTAINED/NO PDF
+272	Request/Notice to Submit Request to Submit Motion for Overlength Memo (Opp to Mot to Disq), 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+273	Motion for Leave to File Overlength Memorandum, 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+274	Proposed Order Granting Leave to Fil Overlength Memo (Opp to Mot to Disq), 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+275	Return of Electronic Notification, 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+276	***PRIVATE*** Non Public - Opposition to Defendant’s Motion to Disqualify the Utah County Attorney’s Office, 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+277	Return of Electronic Notification, 1-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+278	***PRIVATE*** Non-Public Information Partial Reply to Opposition to Motion to Disqualify Request to Take Evidence, 1-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+279	***PRIVATE*** Non-Public Information Acceptance of Service (All), 1-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+280	Return of Electronic Notification, 1-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+281	(Previously filed as private) Defendant Motion Filed Jan 9, 2026 wExhibits, 1-9-26	PDF
+282	***PRIVATE*** Motion to Classify as Private Defendant’s Motion Filed Jan 9 2026 wExhibits, 1-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+283	***PRIVATE***Request/Notice to Submit Motion to Classify Jan 9 2026 Motion, 1-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+284	***PRIVATE*** Order (Proposed) on Motion to Classify as Private Jan 9 2026, 1-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+285	Return of Electronic Notification, 1-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+286	Opposition to Defendant’s Motion to Disqualify the Utah County Attorney’s Office, 1-10-26	PDF
+287	Return of Electronic Notification, 1-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+288	Subpoena for Sgt. David Hull, 1-12-26	PDF
+289	Return of Electronic Notification, 1-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+290	Partial Reply to Opposition to Motion to Disqualify (Public), 1-12-26	PDF
+291	Return of Electronic Notification, 1-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+292	Order on Motion to Classify as Private Jan 9 2026, 1-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+293	Return of Electronic Notification, 1-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+294	Proposed Order Granting Leave to File Overlength Memo (Opp to Mot to Disq), 1-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+295	Return of Electronic Notification, 1-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+296	Order to Transport (Hearing 1/16/26), 1-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+297	Return of Electronic Notification, 1-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+298	(Previously omitted) Order To Transport, 10-21-25 (Not obtained)	NOT OBTAINED/NO PDF
+299	News Media’s Memorandum Opposing Motion to Classify Defendant’s Motion filed January 9, 2026, 1-15-26	PDF
+300	Return of Electronic Notification, 1-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+301	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+302	**** PRIVATE **** Non-Public Information Motion to Exclude Cameras, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+303	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+304	Motion for Overlength (Motion to Exclude), 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+305	Request/Notice to Submit Request to Submit Motion for Overlength, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+306	(Proposed) Order on Motion for Overlength, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+307	Motion to Classify (Motion to Exclude), 1-16-26	PDF
+308	Request/Notice to Submit Motion to Classify (Motion to Exclude), 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+309	(Proposed) Order on Motion to Classify (Motion to Exclude, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+310	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+311	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+312	(Corrected) Motion for Overlength (Motion to Exclude), 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+313	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+314	Victim Representative’s Invocation of the Speedy Trial Act, 1-16-26	PDF
+315	Return of Electronic Notification, 1-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+316	Request and Order for Electronic Media Coverage of Court Proceedings, 1-22-26	PDF
+317	Reply in Support of Motion to Classify as Private - Jan 9, 1-22-26	PDF
+318	Return of Electronic Notification, 1-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+319	Return of Electronic Notification, 1-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+320	News Media’s Memorandum Opposing Motion to Classify re: Motion to Exclude Cameras (Filed January 16, 2026), 1-23-26	PDF
+321	Return of Electronic Notification, 1-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+322	New Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 1-23-26	PDF
+323	(Proposed) Order Amending Standing Order for Rule 4-202.01 Notice of Motions for Classification, 1-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+324	Return of Electronic Notification, 1-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+325	Order on Motion for Overlength, 1-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+326	Return of Electronic Notification, 1-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+327	Defendant Tyler James Robinson’s Notice of Objection to the State of Utah’s Proposed Exhibit 4.1; Memorandum of Points and Authorities, 1-27-26	PDF
+328	Return of Electronic Notification, 1-27-26 (Not obtained)	NOT OBTAINED/NO PDF
+329	TRANSADMIN TRANSCRIPT for Hearing 1-16-26, 1-28-26 (Not obtained)	NOT OBTAINED/NO PDF
+330	Request and Order for Electronic Media Coverage and Court Proceedings, 1-28-26	PDF
+331	Return of Electronic Notification, 1-29-26 (Not obtained)	NOT OBTAINED/NO PDF
+332	News Media’s Motion for Attorneys Eyes Only Access to Closure Motions, 1-29-26	PDF
+333	News Media’s Motion for Leave to File Sur-Reply Opposing Motion to Classify Defendant’s Motion filed January 9, 2026, 1-29-26 (Not obtained)	NOT OBTAINED/NO PDF
+334	News Media’s Sur-Reply Opposing Motion to Classify Defendant’s Motion Filed January 9, 2026, 1-29-26	PDF
+335	Request/Notice to Submit (Amended) re Defendant’s Motion to Classify Defendant’s Motion filed January 9, 2026 (Not obtained)	NOT OBTAINED/NO PDF
+336	Return of Electronic Notification, 1-29-26 (Not obtained)	NOT OBTAINED/NO PDF
+337	State’s Opposition to Motion to Classify Defendant’s Motion Filed January 9, 2026 as Private, 1-29-26	PDF
+338	Return of Electronic Notification, 1-29-26 (Not obtained)	NOT OBTAINED/NO PDF
+339	Memorandum in Response to Defendant’s Objection to Exhibit 4.1, 1-29-26	PDF
+340	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+341	Defendant’s Reply in Support of Motion to Classify Motion to Exclude, 1-30-26	PDF
+342	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+343	State’s Opposition to Defendants Motion to Classify Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom as Private, 1-30-26	PDF
+344	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+345	Defendant Tyler Robinson’s Renewed Request that this Court Refer the Motion to Disqualify to the Utah Attorney General Pursuant to Utah Code 17-68-304; Memorandum of Points and Authorities, 1-30-26	PDF
+346	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+347	Opposition to Motion to Exclude Cameras (Provisional Opposition Filed by the News Media), 1-30-26	PDF
+348	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+349	State’s Motion for Leave to File Overlength Memorandum, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+350	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+351	State’s Memorandum Opposing Defendant’s Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom, 1-30-26	PDF
+352	Attachment A, 1-30-26	PDF
+353	Attachment B, 1-30-26	PDF
+354	Attachment C, 1-30-26	PDF
+355	Attachment D, 1-30-26	PDF
+356	Attachment E, 1-30-26	PDF
+357	Attachment F, 1-30-26	PDF
+358	Attachment G, 1-30-26	PDF
+359	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+360	Attachment H, 1-30-26	PDF
+361	Attachment H, 1-30-26 (*Not a duplicate, the item is misnumbered*)	PDF
+362	Return of Electronic Notification, 1-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+363	State’s Opposition to Defendant’s Renewed Request to Refer the Motion to Disqualify to the Utah Attorney General, 2-2-26	PDF
+364	Return of Electronic Notification, 2-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+365	Proffer of Facts re Closure of Portions of Evidentiary Hearing on Motion to Disqualify UCAO, 2-2-26	PDF
+366	Return of Electronic Notification, 2-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+367	Notice Concerning Media Access, 2-2-26	PDF
+368	Return of Electronic Notification, 2-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+369	Order for Transport, 2-3-26	PDF
+370	Return of Electronic Notification, 2-4-26 (Not obtained)	NOT OBTAINED/NO PDF
+371	Defendant’s Response to News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 2-4-26	PDF
+372	Return of Electronic Notification, 2-4-26 (Not obtained)	NOT OBTAINED/NO PDF
+373	State’s Response to News Media’s Motion to Amend Standing Order for Rule 4-202.04 Motions for Classification, 2-5-26	PDF
+374	Return of Electronic Notification, 2-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+375	Defendant’s Reply to State’s Opposition to Motion to Classify Defendant’s Motion Filed Jan 9, 2026 as Private, 2-5-26	PDF
+376	Return of Electronic Notification, 2-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+377	Request/Notice to Submit News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 2-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+378	Return of Electronic Notification, 2-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+379	Not Signed (Proposed) Amended Standing Order for Rule 2-202.04 Notice of Motions for Classification, 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+380	Not Signed (Proposed) Order on Motion to Classify (Motion to Exclude), 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+381	Return of Electronic Notification, 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+382	Return of Electronic Notification, 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+383	Reply to State’s Opposition to Motion to Classify Motion to Exclude Cameras, 2-6-26	PDF
+384	Return of Electronic Notification, 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+385	Memorandum State’s Response to News Media’s Motion for Attorney’s Eyes Only Access to Closure Motions, 2-6-26	PDF
+386	Return of Electronic Notification, 2-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+387	Notice of Lodging: Redacted 12112025 Hearing Transcript, 2-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+388	**** SEALED **** Filed: 12112025 Hearing Transcript Redacted, 2-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+389	Return of Electronic Notification, 2-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+390	Opposition to Defendant Tyler James Robinson s Memorandum in Opposition to News Media s Motion for Attorneys Eyes Only Access to Closure Motions, 2-12-26	PDF
+391	Return of Electronic Notification, 2-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+392	Request/Notice to Submit News Media s Motion for Attorneys Eyes Only Access to Closure Motions, 2-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+393	Return of Electronic Notification, 2-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+394	Request and Order for Electronic Media Coverage of Court Proceedings, 2-19-26 (Not obtained)	NOT OBTAINED/NO PDF
+395	Return of Electronic Notification, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+396	**** PRIVATE **** Filed: Non-Public Information Reply in Support of Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom (Evidentiary Hearing Requested), 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+397	**** PRIVATE **** Filed: Motion to Classify Motion to Classify Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+398	**** PRIVATE **** Filed: Motion for Permission to File Over-Length: Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+399	**** PRIVATE **** Filed: Request/Notice to Submit Request to Submit Motion for Permission to File Over-Length Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+400	**** PRIVATE **** Filed: Order (Proposed) Order on Motion for Permission to File Over-Length Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+401	Return of Electronic Notification, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+402	Correction to Certificate of Service, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+403	(Previously omitted from docket) Appellate Court Document (Order), 1-2-26	PDF
+404	Return of Electronic Notification, 2-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+405	Return of Electronic Notification, 2-21-26 (Not obtained)	NOT OBTAINED/NO PDF
+406	Order to Appear for Hearing, 2-23-26	PDF
+407	Order on Motion for Permission to File Overlength Reply in Support of Motion to Exclude, 2-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+408	Return of Electronic Notification, 2-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+409	Exhibit List - In Person Oral Argument, 2-23-26	PDF
+410	Oral Argument / Evidentiary Hearing, 2-23-26	PDF
+411	Standing Decorum Order, Effective February 24, 2026, 2-23-26	PDF
+412	Order on February 3, 2026 Hearing Transcript, 2-23-26	PDF
+413	Standing Order on Redacting and Filing Transcripts, 2-23-26	PDF
+414	Rulings and Orders Granting News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification; Granting News Media’s Motion for Attorneys Eyes Only Access to Closure Motions; and Amended Standing Order, 2-23-26	PDF
+415	Return of Electronic Notification, 2-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+416	Filed: TRANSADMIN TRANSCRIPT for Hearing 02-03-2026, 2-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+417	Ruling and Order Denying Defendant’s Motion to Disqualify Utah County Attorney’s Office, 2-24-26	PDF
+418	Return of Electronic Notification, 2-25-26 (Not obtained)	NOT OBTAINED/NO PDF
+419	Request for Copy of Audio Records, 2-25-26	NOT OBTAINED/NO PDF
+420	(Previously omitted) Appellate Court Document - Notice of Decision, 1-5-26	PDF
+421	Return of Electronic Notification, 2-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+422	Defendant Tyler James Robinson s Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 2-26-26	PDF
+423	Return of Electronic Notification, 2-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+424	Fee Payment, 3-3-26 (Not obtained - admin entry only)	NOT OBTAINED/NO PDF
+425	Return of Electronic Notification, 3-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+426	News Media Memorandum Opposing Motion to Classify Reply in Support of Motion to Exclude Cameras, 3-6-26	PDF
+427	Return of Electronic Notification, 3-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+428	State’s Opposition to Defendant s Motion to Classify Reply in Support of Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom as Private, 3-6-26	PDF
+429	Return of Electronic Notification, 3-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+430	Order To Transport (3/13/2026), 3-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+431	Return of Electronic Notification, 3-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+432	Request and Order for Electronic Media Coverage of Court Proceedings, 3-10-26	PDF
+433	News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26	PDF
+434	Request/Notice to Submit News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+435	(Proposed) Proposed Order Granting News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+436	Return of Electronic Notification, 3-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+437	News Media Supplemental Opposition to Motion to Exclude Cameras, 3-10-26	PDF
+438	Return of Electronic Notification, 3-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+439	Return of Electronic Notification, 3-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+440	Request/Notice to Submit for Decision Defendant s Motion to Classify Defendant s Motion Filed January 9, 2026 as Private, 3-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+441	Return of Electronic Notification, 3-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+442	UOVC Restitution Notice Claim#1113572, 3-11-26	PDF
+443	Return of Electronic Notification, 3-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+444	Request and Order for Electronic Media Coverage of Court Proceedings, 3-11-26	PDF
+445	State’s Response to Defendant s Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 3-11-26	PDF
+446	Return of Electronic Notification, 3-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+447	Return of Electronic Notification, 3-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+448	**** PRIVATE **** Filed: News Media Memorandum Opposing Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 3-12-26 (Not obtained, not available)	NOT OBTAINED/NO PDF
+449	Return of Electronic Notification, 3-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+450	(Previously omitted) New Media's Supplemental Memorandum Opposing Motion To Classify Defendant's Motion Filed January 9, 2026, 3-10-26	PDF
+451	(Omitted from docket - no item #454)	NOT OBTAINED/NO PDF
+452	(Omitted from docket - no item #455)	NOT OBTAINED/NO PDF
+453	Proposed Order Granting News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+454	Return of Electronic Notification, 3-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+455	Return of Electronic Notification, 3-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+456	(Omitted from docket - No Item #459)	NOT OBTAINED/NO PDF
+457	Rulings And Orders On Classification And Closure Motions, 3-13-26	NOT OBTAINED/NO PDF
+458	Return of Electronic Notification, 3-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+459	Notice of Expert (Dr. Ruva), 3-18-26	PDF
+460	Return of Electronic Notification, 3-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+461	(Omitted from docket - No Item #464)	NOT OBTAINED/NO PDF
+462	Return of Electronic Notification, 3-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+463	Defendant Tyler James Robinson’s Motion to Vacate or Continue Preliminary Hearing with Addenda, 3-27-26	PDF
+464	Return of Electronic Notification, 3-27-26 (Not obtained)	NOT OBTAINED/NO PDF
+465	(Redacted) Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom, 3-30-26	PDF
+466	Return of Electronic Notification, 3-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+467	Return of Electronic Notification, 3-31-26 (Not obtained)	PDF
+468	Notice of Subpoena Duces Tecum (Utah County Sheriff s Department), 4-1-26	NOT OBTAINED/NO PDF
+469	Return of Electronic Notification, 4-1-26 (Not obtained)	NOT OBTAINED/NO PDF
+470	Order to Transport, 4-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+471	Request for Discovery Defendant Tyler James Robinson s Supplemental Request for Discovery, 4-3-26	PDF
+472	Return of Electronic Notification, 4-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+473	Memorandum in Opposition to Defendant’s Motion to Vacate the May 18 Preliminary Hearing (dckt 466), 4-3-26	PDF
+474	Return of Electronic Notification, 4-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+475	Return of Electronic Notification, 4-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+476	Request/Notice to Submit Defendant Tyler James Robinson s Request to Submit Motion to Exclude Cameras, TV Cameras and Microphones from the Courtroom, Oppositions, and Reply (Hearing Scheduled), 4-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+477	Return of Electronic Notification, 4-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+478	Notice of Expert (Dr. Edelman), 4-6-26	PDF
+479	Amended Notice of Exert (Dr. Ruva), 4-6-26	PDF
+480	Return of Electronic Notification, 4-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+481	Return of Electronic Notification, 4-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+482	Return of Electronic Notification, 4-7-26 (Not obtained)	NOT OBTAINED/NO PDF
+483	Notice of Appearance as Counsel of Record, 4-8-26	PDF
+484	Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Jeffrey A. Neiman, 4-8-26	PDF
+485	Request/Notice to Submit for Decision Re Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Jeffrey A. Neiman, 4-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+486	Order (Proposed) Granting Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission, 4-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+487	Return of Electronic Notification, 4-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+488	Filed: TRANSADMIN TRANSCRIPT for Hearing 03-13-2026, 4-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+489	Filed: TRANSADMIN TRANSCRIPT for Hearing 02-24-2026, 4-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+490	Defendant Tyler James Robinson’s Reply in Support of Motion to Vacate or Continue Preliminary Hearing, 4-10-26	PDF
+491	Return of Electronic Notification, 4-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+492	State’s Objection to Defendant’s Supplemental Request for Discovery, 4-10-26	PDF
+493	Return of Electronic Notification, 4-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+494	Return of Electronic Notification, 4-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+495	Corrected Notice of Subpoena Duces Tecum to Utah County Sheriff’s Office, 4-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+496	Return of Electronic Notification, 4-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+497	Request and Order for Electronic Media Coverage of Court Proceedings, 4-14-26	PDF
+498	Order Granting Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission, 4-14-26	PDF
+499	Return of Electronic Notification, 4-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+500	Return of Electronic Notification, 4-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+501	Motion for OSC for Contempt and Motion to Compel, 4-16-26	PDF
+502	Declaration of Counsel in Support of OSC, 4-16-26	PDF
+503	Return of Electronic Notification, 4-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+504	Return of Electronic Notification, 4-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+505	UOVC Restitution Notice Claim #1113630, 4-27-26	NOT OBTAINED/NO PDF
+506	Return of Electronic Notification, 4-27-26 (Not obtained)	NOT OBTAINED/NO PDF
+507	Opposition to Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Related to the Alleged Contempt, 4-30-26	PDF
+508	Return of Electronic Notification, 4-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+509	***Unavailable***Transcript of: Motion Hearing (4/17/26)	NOT OBTAINED/NO PDF
+510	Motion in Limine to Close Portions of Preliminary Hearing and Seal Particular Exhibits, 5-1-26	PDF
+511	Return of Electronic Notification, 5/1/26 (Not obtained)	NOT OBTAINED/NO PDF
+512	Supplemental Notice re: State’s Evidence at Preliminary Hearing, 5-1-26	PDF
+513	Return of Electronic Notification, 5-1-26 (Not obtained)	NOT OBTAINED/NO PDF
+514	Return of Electronic Notification, 5-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+515	**** PRIVATE **** Non-Public Information Defendant’s Status Report, 5-4-26 (Not obtained)	NOT OBTAINED/NO PDF
+516	Return of Electronic Notification, 5-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+517	(Omitted from docket - No item #120)	NOT OBTAINED/NO PDF
+518	Order to Appear, 5-5-26	PDF
+519	Return of Electronic Notification, 5-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+520	State’s Preliminary Hearing Witness and Exhibit List, 5-6-26	PDF
+521	Return of Electronic Notification, 5-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+522	Defendant Tyler James Robinson’s Motion in Limine to Preclude the Utilization of Art. I sec. 12 and Rule 1102 to Sanction the Admissibility of Hearsay Evidence to Establish Probable Cause at the Prelim, 5-6-26	PDF
+523	Return of Electronic Notification, 5-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+524	Reply to Opposition to Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Relating to the Alleged Contempt, 5-7-26	PDF
+525	Return of Electronic Notification, 5/7/26 (Not obtained)	NOT OBTAINED/NO PDF
+526	Request/Notice to Submit Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Relating to the Alleged Contempt, 5-7-26 (Not obtained)	NOT OBTAINED/NO PDF
+527	Return of Electronic Notification, 5-7-26 (Not obtained)	NOT OBTAINED/NO PDF
+528	Objection to Defendant s Motion in Limine to Prelude the Utilization of Article I, Section 12 of the Utah Constitution and Rule 1102 of the Utah Rules of Evidence at the Preliminary Hearing, 5-8-26	PDF
+529	Objection to Defendant s Motion in Limine to Close Portions of the Preliminary Hearing and Seal Exhibits, 5-8-26	PDF
+530	Return of Electronic Notification, 5-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+531	Ruling and Order on Defendant's Motion to Vacate or Continue Preliminary Hearing Pending Discovery and to Permit Constitutionally Adequate Time for Preparation, 5-8-26	PDF
+532	Ruling and Order on Defendant's Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom (Docket 305) and Standing Order on Electronic Media Coverage Requests, 5-8-26	PDF
+533	Certificate of Service: Notice to Attorney General, 5-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+534	Return of Electronic Notification, 5-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+535	Return of Electronic Notification, 5-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+536	(Omitted from docket - no item # 539)	NOT OBTAINED/NO PDF
+537	Request and Order for Electronic Media Coverage of Court Proceedings, 5-11-26	PDF
+538	Return of Electronic Notification, 5-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+539	Ruling on the Record, 5-12-26	PDF
+540	Return of Electronic Notification, 5-13-26 (Not obtained)	NOT OBTAINED/NO PDF
+541	Order to Transport, 5-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+542	Return of Electronic Notification, 5-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+543	Opposition to Defendant’s Motion to Close Portions of Preliminary Hearing and Seal Exhibits, 5-15-26	PDF
+544	Return of Electronic Notification, 5-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+545	State’s Response to Tyler James Robinson’s Motion in Limine, 5-15-26	PDF
+546	Return of Electronic Notification, 5-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+547	Corrected State’s Response to Tyler James Robinson’s Motion in Limine, 5-15-26	PDF
+548	Return of Electronic Notification, 5-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+549	Reply in Support of Motion to Close/Seal Portions of Preliminary Hearing, 5-18-26	PDF
+550	Return of Electronic Notification, 5-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+551	Return of Electronic Notification, 5-20-26 (Not obtained)	NOT OBTAINED/NO PDF
+552	Request and Order for Electronic Media Coverage of Court Proceedings, 5-19-26	PDF
+553	Return of Electronic Notification, 5-21-26 (Not obtained)	NOT OBTAINED/NO PDF
+554	Opposition to Defendant’s Motion to Preclude Hearsay at Preliminary Hearing, 5-27-26	PDF
+555	Return of Electronic Notification, 5-27-26 (Not obtained)	NOT OBTAINED/NO PDF
+556	Notice of Filing: Petition for Permission to Appeal from Interlocutory Order, 5-29-26	PDF
+557	Return of Electronic Notification, 5-29-26 (Not obtained)	NOT OBTAINED/NO PDF
+558	Defendant Tyler James Robinson's Motion to Stay Pending Interlocutory Review, 5-31-26	PDF
+559	Return of Electronic Notification, 5-31-26 (Not obtained)	NOT OBTAINED/NO PDF
+560	Ruling and Order Denying Defendant's Motion in Limine to Close Portions of the Preliminary Hearing Testimony and Seal Preliminary Hearing Exhibits, 6-1-26	PDF
+561	Ruling and Order Granting Defendant's Motion for Order to Show Cause (Docket 504) and Denying Request to Compel Discovery, 6-1-26	PDF
+562	(Omitted from docket - No item #565)	NOT OBTAINED/NO PDF
+563	(Omitted from docket - No item #566)	NOT OBTAINED/NO PDF
+564	Return of Electronic Notification, 6-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+565	Motion for Permission to File Over-Length Reply in Support of Motion in Limine (re Hearsay), 6-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+566	Request/Notice to Submit Request to Submit Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+567	Reply in Support of Defendant’s Motion in Limine to Preclude (re Hearsay), 6-3-26	PDF
+568	(Proposed) Order on Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-3-26	NOT OBTAINED/NO PDF
+569	Return of Electronic Notification, 6-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+570	Order on Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+571	Return of Electronic Notification, 6-5-26 (Not obtained)	NOT OBTAINED/NO PDF
+572	Opposition to Motion to Stay Pending Interlocutory Review, 6-6-26	PDF
+573	Return of Electronic Notification, 6-6-26 (Not obtained)	NOT OBTAINED/NO PDF
+574	Order to Transport, 6-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+575	Return of Electronic Notification, 6-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+576	Reply in Support of Defendant Tyler James Robinson’s Motion to Stay Pending Interlocutory Review (Dkt 561), 6-9-26	PDF
+577	Return of Electronic Notification, 6-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+578	Request/Notice to Submit Defendant Tyler James Robinson’s Motion to Stay Pending Interlocutory Review, 6-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+579	Return of Electronic Notification, 6-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+580	Acceptance of Service (J. Gray), 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+581	Acceptance of Service (C. Ballard - Witness), 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+582	Acceptance of Service (C Ballard - SDT), 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+583	Return of Electronic Notification, 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+584	Request/Notice to Submit Motion in Limine to Preclude Hearsay, 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+585	Return of Electronic Notification, 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+586	UOVC Restitution Notice Claim #1113637, 6-11-26	NOT OBTAINED/NO PDF
+587	Return of Electronic Notification, 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+588	(Omitted - No item #591)	NOT OBTAINED/NO PDF
+589	(Omitted - No item #592)	NOT OBTAINED/NO PDF
+590	Return of Electronic Notification, 6-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+591	Return of Electronic Notification, 6-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+592	Utah Attorney General’s Notice of Intent Not to Respond to Constitutional Challenge, 6-12-26	PDF
+593	Return of Electronic Notification, 6-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+594	Return of Electronic Notification, 6-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+595	(Omitted from docket - no item #302)	NOT OBTAINED/NO PDF
+596	Audio Request Media/MP3 Request for Copy of Audio Recording, 6-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+597	Return of Electronic Notification, 6-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+598	Opposition to Application for Certificate of Attendance of Out-of-State Witness, 6-16-26	PDF
+599	Return of Electronic Notification, 6-16-26 (Not obtained)	NOT OBTAINED/NO PDF
+600	Order to Appear, 6-17-26	PDF
+601	Objection to Defendant s Request to Remove the Death Penalty as a Sanction in the Event the Court Grants the Contempt Motion, 6-17-26	PDF
+602	Return of Electronic Notification, 6-17-26 (Not obtained)	NOT OBTAINED/NO PDF
+603	Return of Electronic Notification, 6-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+604	Request and Order for Electronic Media Coverage of Court Proceedings, 6-18-26	PDF
+605	Request and Order for Electronic Media Coverage of Court Proceedings - Preliminary Hearing, 6-18-26	PDF
+606	Reply in Support of Application for Certificate for Attendance of Out-of-State Witness, 6-18-26	PDF
+607	Request/Notice to Submit Request to Submit Application for Certificate, 6-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+608	Return of Electronic Notification, 6-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+609	Opposition to State’s Uninvited Objection to Defendant s Request to Remove the Death Penalty as a Sanction in the Event the Court Grants the Contempt Motion, 6-18-26	PDF
+610	Return of Electronic Notification, 6-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+611	Return of Electronic Notification, 6-19-26 (Not obtained)	NOT OBTAINED/NO PDF
+612	Defendant Tyler James Robinson s Second Supplemental Request for Discovery, 6-19-26	PDF
+613	Return of Electronic Notification, 6-19-26 (Not obtained)	NOT OBTAINED/NO PDF
+614	(Omitted from Docket - no item #621)	NOT OBTAINED/NO PDF
+615	Return of Electronic Notification, 6-19-26 (Not obtained)	NOT OBTAINED/NO PDF
+616	Opposition to Defendant Tyler James Robinson’s Opposition to Electronic Media Request for the Preliminary Hearing, 6-21-26	PDF
+617	Return of Electronic Notification, 6-21-26 (Not obtained)	NOT OBTAINED/NO PDF
+618	Order Regarding Defendant's Application for Certificate for Attendance of Out-of-State Witness and State's Motion to Quash Subpoena, 6-22-26	PDF
+619	Notice of Filing News Media Response to Defendant’s Petition for Permission to Appeal Interlocutory Order, 6-22-26	PDF
+620	Return of Electronic Notification, 6-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+621	Return of Electronic Notification, 6-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+622	Request for Copy of Audio Record (Completed), 6-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+623	Ruling on the Record, 6-23-26	PDF
+624	Ruling And Order On Defendant's Motion In Limine To Preclude Utilization Of Article I, Section 12 Of The Utah Constitution And Rule 1102 Of The Utah Rules Of Evidence To Sanction The Admissibility Of Heresy Evidence To Establish Probable, 6-23-26	PDF
+625	Minute Entry Order RE: Electronic Devices In Courtroom Prohibited During Preliminary Hearing, 6-23-26	PDF
+626	Request and Order for Electronic Media Coverage of Court Proceedings - Salt Lake Tribune, 6-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+627	Request and Order for Electronic Media Coverage of Court Proceedings - Deseret News, 6-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+628	Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the Preliminary Hearing (Dkt 633), 6-24-26	PDF
+629	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+630	News Media Response to Defendant s Opposition to Electronic Media Request for the Preliminary Hearing, 6-24-26	PDF
+631	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+632	Request/Notice to Submit Opposition to Electronic Media Request for Preliminary Hearing, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+633	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+634	Request and Order for Electronic Media Coverage of Court Proceedings - Associated Press, 6-23-26 (Not obtained)	NOT OBTAINED/NO PDF
+635	Defendant Tyler James Robinson’s Opposition to EMC Order for the Preliminary Hearing (Dkt 634), 6-24-26	PDF
+636	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+637	Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the Prelim (Dkt 641), 6-24-26	PDF
+638	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+639	Order To Appear, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+640	Opposition to Defendant’s Motion to Classify Application for Certificate to Secure Out-of-State Witness (News Media s Opposition), 6-24-26	PDF
+641	Return of Electronic Notification, 6-24-26 (Not obtained)	NOT OBTAINED/NO PDF
+642	(Omitted from docket - no item #649)	NOT OBTAINED/NO PDF
+643	Return of Electronic Notification, 6-25-26 (Not obtained),	NOT OBTAINED/NO PDF
+644	News Media Response to Defendant Opposition to EMC Orders for the Preliminary Hearing (Still Photography), 6-25-26	PDF
+645	Return of Electronic Notification, 6-25-26 (Not obtained)	NOT OBTAINED/NO PDF
+646	Request/Notice to Submit Oppositions to EMC Orders for the Preliminary Hearing, 6-25-26 (Not obtained)	NOT OBTAINED/NO PDF
+647	Return of Electronic Notification, 6-25-26 (Not obtained)	NOT OBTAINED/NO PDF
+648	Request and Order for Electronic Media Coverage of Court Proceedings, 6-26-26 (still photography)	PDF
+649	Audio Request for Listen Only Link, 6-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+650	Return of Electronic Notification, 6-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+651	Ruling And Order On Defendant's Motion For an Order To Show Cause For Contempt Of Court, 6-26-26	NOT OBTAINED/NO PDF
+652	Notice of Filing Petition for Permission to Appeal from Two Interlocutory Orders,6-26-26	PDF
+653	Return of Electronic Notification, 6-26-26 (Not obtained)	NOT OBTAINED/NO PDF
+654	(Omitted from docket - no item #661)	NOT OBTAINED/NO PDF
+655	(Omitted from docket - no item #662)	NOT OBTAINED/NO PDF
+656	Return of Electronic Notification, 6-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+657	Ruling And Order On Defendant's Objections To Electronic Media Requests, 6-30-26	PDF
+658	Order To Transport, 6-30-26 (Not obtained)	NOT OBTAINED/NO PDF
+659	Return of Electronic Notification, 7-1-26 (Not obtained)	NOT OBTAINED/NO PDF
+660	RULING ON THE RECORD, 7-1-26	NOT OBTAINED/NO PDF
+661	News Media Motion to Amend Minute Entry Order to Allow Use of Portable Electronic Devices by the News Media and Their Counsel, 7-1-26	PDF
+662	Return of Electronic Notification, 7-1-26 (Not obtained)	NOT OBTAINED/NO PDF
+663	Return of Electronic Notification, 7-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+664	Completed Audio Request for Listen Only Link, 7-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+665	Response to Defendant’s Second Supplemental Request for Discovery, 7-2-26	PDF
+666	Return of Electronic Notification, 7-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+667	Reply in Support of Motion to Classify Application as Private, 7-2-26	PDF
+668	Return of Electronic Notification, 7-2-26 (Not obtained)	NOT OBTAINED/NO PDF
+669	Ruling And Order Denying News Media Motion To Amend Minute Entry Order, 7-2-26	NOT OBTAINED/NO PDF
+670	Return of Electronic Notification, 7-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+671	Defendant’s Standing Objections to State’s Exhibits, 7-3-26	PDF
+672	Return of Electronic Notification, 7-3-26 (Not obtained)	NOT OBTAINED/NO PDF
+673	News Media Amended Motion to Allow Portable Electronic Devices, 7-4-26	PDF
+674	Return of Electronic Notification, 7-4-26 (Not obtained)	NOT OBTAINED/NO PDF
+675	(Omitted from docket - no item #682)	NOT OBTAINED/NO PDF
+676	Return of Electronic Notification, 7-7-26 (Not obtained)	NOT OBTAINED/NO PDF
+677	PRELIMINARY HEARING, 7-8-26	PDF
+678	Supplemental Notice Concerning Access to Evidence Presented in Open Court, 7-8-26	PDF
+679	Return of Electronic Notification, 7-8-26 (Not obtained)	NOT OBTAINED/NO PDF
+680	Return of Electronic Notification, 7-9-26 (Not obtained)	NOT OBTAINED/NO PDF
+681	Request for Speedy Disposition and Prompt Bindover, 7-10-26	PDF
+682	Return of Electronic Notification, 7-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+683	Return of Electronic Notification, 7-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+684	Request for Copy of Audio Recording, 7-14-26 (Not obtained)	NOT OBTAINED/NO PDF
+685	Return of Electronic Notification, 7-15-26 (Not obtained)	NOT OBTAINED/NO PDF
+686	PRELIMINARY HEARING - DAY 2, 7-21-26	PDF
+687	PRELIMINARY HEARING, 7-21-26	PDF
+688	PRELIMINARY HEARING, 7-21-26	PDF
+689	Return of Electronic Notification, 7-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+690	Memorandum in Support of Preliminary Hearing Bindover, 7-28-26	PDF
+691	Return of Electronic Notification, 7-28-26 (Not obtained)	NOT OBTAINED/NO PDF
+692	UOVC Restitution Notice Claim#1113669, 8-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+693	Return of Electronic Notification, 8-10-26 (Not obtained)	NOT OBTAINED/NO PDF
+694	Defendant Tyler James Robinson's Preliminary Hearing Briefing, 8-11-26	PDF
+695	Return of Electronic Notification, 8-11-26 (Not obtained)	NOT OBTAINED/NO PDF
+696	UOVC Restitution Notice Claim#1113669 - UPDATED UOVC Claim Notice a/o 8/12/2026, 8-12-26 (Not obtained)\	NOT OBTAINED/NO PDF
+697	Return of Electronic Notification, 8-12-26 (Not obtained)	NOT OBTAINED/NO PDF
+698	Request and Order for Electronic Media Coverage of Court Proceedings, 8-18-26	PDF
+699	Request and Order for Electronic Media Coverage of Court Proceedings, 8-18-26	PDF
+700	State’s Reply Supporting Preliminary Hearing Bindover, 8-18-26	PDF
+701	Return of Electronic Notification, 8-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+702	Return of Electronic Notification, 8-18-26 (Not obtained)	NOT OBTAINED/NO PDF
+703	**** PRIVATE **** Motion to Classify Motion to Classify Unredacted Oppositions as Protected, 8-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+704	**** PRIVATE **** Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 710), 8-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+705	**** PRIVATE **** Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 711), 8-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+706	Return of Electronic Notification, 8-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+707	Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 710)_Redacted, 8-22-26	PDF
+708	Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 711), 8-22-26	PDF
+709	Return of Electronic Notification, 8-22-26 (Not obtained)	NOT OBTAINED/NO PDF
+710	Minute Entry Order RE: Electronic Device In Courtroom Prohibited During September 1, 2026 Hearing, 8-27-26	PDF
+711	Standing Decorum Order, Effective August 28, 2026, 8-27-26	PDF
+712	News Media Opposition to Defendant Motion to Classify Unredacted Oppositions to EMC Orders for the September 1, 2026 Hearing, 8-27-26	PDF
+713	News Media Consolidated Response to Defendant Opposition to EMC Orders for the September 1, 2026 Hearing, 8-27-26	PDF
+714	Return of Electronic Notification, 8-27-26 (Not obtained)	NOT OBTAINED/NO PDF
+715	Return of Electronic Notification, 8-28-26 (Not obtained)	NOT OBTAINED/NO PDF
+716	Defendant Tyler James Robinson’s Discovery Status Report, 8-28-26	PDF
+717	Return of Electronic Notification, 8-28-26 (Not obtained)	NOT OBTAINED/NO PDF
+718	Amended Standing Decorum Order, Effective August 28, 2026, 8-28-26	PDF
+719	Return of Electronic Notification, 8-28-26	NOT OBTAINED/NO PDF
+720	Order to Transport, 8-31-26	NOT OBTAINED/NO PDF

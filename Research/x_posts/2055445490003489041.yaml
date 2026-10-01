@@ -1,0 +1,46 @@
+id: '2055445490003489041'
+url: 'https://x.com/FurkanGozukara/status/2055445490003489041'
+author:
+  username: 'FurkanGozukara'
+  name: 'Furkan Gözükara'
+  id: '2965822391'
+text: |
+  BOMBSHELL: Prominent journalist Stew Peters exposes a massive Zionist conspiracy. He confirms Charlie Kirk completely rejected a staggering 1 BILLION dollar Israeli bribe.
+
+  He reveals the money was immediately accepted by his organization right after his suspicious death.
+created_at: '2026-05-16T00:29:27.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 497
+  reply_count: 27
+  like_count: 1203
+  quote_count: 8
+  bookmark_count: 94
+  impression_count: 11630
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2055445251897044992'
+      duration_ms: 56000
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2055445251897044992/img/lJQSXWrqH_Qey5kv.jpg'
+      width: 1920
+      height: 1080
+      best_variant_url: 'https://video.twimg.com/amplify_video/2055445251897044992/vid/avc1/1920x1080/sZCVaQ8kkl7to0Yl.mp4'
+      local_filename: '2055445490003489041.mp4'
+      ipfs_cid: 'QmRctS1DC9ZU8U9qzy9FVmCGmLDsCWKgNMgcapzcK5SsSQ'
+  images: []
+investigation: 'charlie_kirk'
+section: 'Israel'
+site_page: 'site/docs/Israel/billion.mdx'
+ck_section: 'Israel'
+added_date: '2026-05-16'
+temp_file: false
+notes: |
+  Speaker in video: Stew Peters. The X post is by @FurkanGozukara who is amplifying
+  the Peters segment. Original Peters program/episode not identified in the post.
+  Peters references Candace Owens as the source for identifying "Pierre" as the
+  alleged Israeli offeror.
+
+  Defamation-sensitive: contains allegations against Erika Kirk (living person)
+  and TPUSA (litigious entity). Site page (billion.mdx) wraps all claims with
+  strong attribution to Peters and notes Peters' own "opinion" framing.

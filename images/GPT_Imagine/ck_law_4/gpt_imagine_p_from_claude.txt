@@ -1,0 +1,45 @@
+Intended use: editorial blog header image and social-media share image for a political-investigation longform piece. The piece argues that an intelligence service was behind a high-profile public assassination and that a proposed federal law — the Trusted Investigators Act — is the mechanism for independent civilians to investigate it.
+
+Aspect ratio: 16:9 landscape. Resolution: 2048 x 1152. Quality: high. Style: serious editorial illustration with photographic compositing, in the visual tradition of a New York Times opinion-section illustration or a political-thriller film poster. Matte digital painting with photographic textures and high tonal contrast. Not cartoon, not anime, not chibi, not meme, not photorealistic news photo, not glossy advertising.
+
+Composition: a two-subject split-frame editorial layout.
+
+On the FRAME LEFT side of the image: a clean-cut American man in his early thirties, dark hair, neatly groomed, light skin, wearing a dark navy suit and crisp white dress shirt with no tie, holding a black handheld microphone in his right hand at chin height, captured mid-speech, three-quarter view facing slightly toward the right side of the frame, intent and earnest expression. He is shot from chest-up. He is an unnamed archetype of a young American conservative campus speaker. Do not depict a recognizable likeness of any real living person. Do not name anyone.
+
+Background behind the frame-left subject: an outdoor Utah Valley University style campus courtyard — an open paved plaza, modern mid-rise university buildings with light brick and glass facades visible in the middle distance, scattered students walking and standing in groups in the background, daytime light, clear bright sky, a soft late-summer warmth. Suggest a public outdoor tabling event without depicting any tent, table, signs, banners, weapons, violence, blood, or any indication of an attack. The setting is calm and ordinary.
+
+On the FRAME RIGHT side of the image: a serious investigative journalist archetype, an American man in his forties, short dark hair lightly graying at the temples, wearing a dark charcoal blazer over a plain dark shirt, no tie, examining a small stack of documents and photographs he is holding in both hands, head tilted slightly downward, eyes focused on the documents, three-quarter view facing slightly toward the left side of the frame. He is shot from chest-up. He is an unnamed archetype of one of the trusted civilian investigators. Do not depict a recognizable likeness of any real living person.
+
+Background behind the frame-right subject: a dim, cool, blue-tinted interior investigation workspace. A wall of pinned photographs and printed documents, several of which have visible black redaction bars across their text. Surveillance-style printed images. A wall-mounted geographic map with several small red pins clustered in one region. A corkboard with thin red string connecting items between pins. An open laptop on a desk in the lower foreground showing a glowing screen with a curving aircraft flight path drawn over a faint radar-style background. Low-key indoor lighting from a single warm desk lamp, with cool blue ambient fill from off-screen.
+
+Across the UPPER THIRD of the image, centered above the two subjects, place a horizontal row of four stylized monolithic intelligence-agency plaques. Each plaque is a flat rectangular block, matte dark navy almost black, with a thin desaturated steel-gray border, no seals, no eagles, no globes, no real government insignia of any kind. Each plaque contains a single short word in heavy white block-letter sans-serif typography, all caps, centered, verbatim, perfectly legible. The four plaques in order from left to right read exactly:
+
+"NSA"
+"CIA"
+"FBI"
+
+The plaques are evenly spaced and roughly equal in size. They sit against a darkened band of the sky / upper background. They feel institutional and impersonal, not heroic.
+
+From the bottom edge of each of the four agency plaques, a thin white DASHED line emerges and arcs across the frame, converging on the frame-right investigator. The four dashed lines should clearly bend rightward and downward, all of them ending at or just above the documents the investigator is holding, suggesting the investigator is the locus where evidence from each agency is being traced and exposed. The dashed lines should be clearly visible against the background but thin enough that the eye reads the two subjects first. None of the dashed lines should touch, cross over, or originate from the frame-left subject — he is the subject of the investigation, not the investigator.
+
+Directly beneath the frame-right investigator, place a solid black horizontal rectangular caption bar. The bar spans only the width of the frame-right subject area, roughly the right third of the image — it does NOT extend across the full image width. Inside the bar, render the following two words verbatim, in clean bold white sans-serif block-letter typography, all caps, centered horizontally within the bar:
+
+"TRUSTED INVESTIGATORS"
+
+The typography should be crisp and legible at small sizes, with high contrast against the black bar. No drop shadow. No decorative flourishes. Render every letter exactly as written above with no extra characters, no misspellings, and no additional words.
+
+Lighting and palette: the frame-left half uses warm natural daylight, slightly desaturated, golden-hour-leaning, conveying an open outdoor public event. The frame-right half uses cool, blue-tinted, low-key indoor lighting, conveying a private investigative workspace. The upper plaques and dashed lines occupy a neutral darker band that transitions between the two halves. Overall color palette is muted and serious, with red accents only on the map pins, the corkboard string, and faintly on the redaction bars. Avoid any color or lighting that reads as celebratory, upbeat, glossy, or advertorial. The mood should read as somber, investigative, and determined — like a thriller poster about state-level corruption.
+
+Composition priorities: the two human subjects must be the strongest focal points. The agency plaques and dashed lines should be the second-strongest visual element. The two backgrounds should support the subjects without overwhelming them. Leave a small amount of negative space around the frame-right caption bar so the typography reads cleanly. Subject of frame left and subject of frame right should be roughly equal in head size and prominence.
+
+Negative constraints — do NOT include any of the following:
+
+No recognizable likeness, named depiction, or implied portrait of any real living person, including but not limited to Charlie Kirk, Candace Owens, Tucker Carlson, Tulsi Gabbard, Steve Bannon, Megyn Kelly, or any other public figure. Both human subjects in the image are fictional archetypes only.
+No real government agency seals, eagles, globes, sun rays, anchors, or any other emblem associated with actual intelligence services. The plaques contain only the plain three-or-four-letter text as quoted above.
+No real news organization logos, no real corporate logos, no real political-party logos.
+No weapons of any kind, no firearms, no knives, no projectiles, no spent casings, no scopes.
+No blood, no wounds, no bodies, no signs of violence, no signs of an attack, no panic, no running crowd, no emergency vehicles, no police tape.
+No visible dates, no years, no calendar text, no clock faces with specific times, no additional text anywhere in the image other than the four agency plaques and the caption bar quoted above.
+No watermark, no signature, no caption-bar text other than "TRUSTED INVESTIGATORS", no agency-plaque text other than the four words quoted above.
+No cartoon, anime, chibi, meme, comic-book, vaporwave, neon, glitch, retro-arcade, sticker, or low-poly styling.
+No glossy advertising sheen, no lens flare overlays, no heavy bokeh, no overexposed highlights.

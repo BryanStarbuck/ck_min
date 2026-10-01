@@ -1,0 +1,201 @@
+---
+displayed_sidebar: docs
+title: "The Foreign-Carrier Route — And Why A Court Would Likely Refuse It"
+sidebar_label: "Foreign Carrier Records & MLAT"
+description: "A state trial court cannot subpoena a foreign telecom, and a criminal defendant cannot compel an MLAT request. We would serve the demand anyway, docket the refusal as evidence, and then answer the same question from the domestic tower dumps the State already holds. Theoretical exercise."
+keywords:
+  - Charlie Kirk
+  - Tyler Robinson
+  - capital defense
+  - State v Robinson
+  - AI defense attorney
+  - MLAT
+  - foreign carrier records
+  - tower dump
+image: "/img/docusaurus-social-card.jpg"
+hide_table_of_contents: true
+---
+
+{/* Full-bleed marker: activates the site-wide full-width + text-wrap
+    layout in custom.css. Scoped via CSS :has(). */}
+<div className="ck-full-bleed" />
+
+<a href="/court/ai_attorney/overview" style={{display:'inline-block', marginBottom:'1rem',
+padding:'0.35rem 0.9rem', background:'#1a73e8', color:'#fff',
+borderRadius:'4px', textDecoration:'none', fontSize:'0.9rem'}}>← AI Defense Attorney</a>
+
+# The Foreign-Carrier Route — And Why A Court Would Likely Refuse It
+
+:::caution Legal Disclaimer
+**Tyler Robinson is charged, not convicted**, and is **presumed innocent**. Nothing on this page states as fact that any living person committed a crime, destroyed evidence, or acted improperly. Court filings in this case are subject to a **gag order** and **sealing**, so the public record is incomplete by design.
+:::
+
+## The One Thing We Would Do Differently
+
+> **Serve the foreign-carrier demand knowing it will almost certainly be refused, put the refusal on the docket, and then prove the same fact from the domestic tower dumps the State already holds — because a foreign handset roaming in Orem registers on a United States network, not a foreign one.**
+
+This is the weakest instrument in this whole section, and this page says so on its face. A Utah state trial court's process does not reach a telecom incorporated in another country. A criminal defendant cannot make the United States government open a treaty channel. Anyone telling you a defense lawyer can subpoena a foreign carrier and get an answer is describing a film, not a courtroom.
+
+We would serve it anyway, and the reason is narrow and honest. **A refusal is an answer.** A dated demand met by a dated refusal creates a record of what could not be obtained and who declined to obtain it. That record is admissible-adjacent in a way the underlying data never was: it supports an argument that the jury is being asked to convict on the output of an inquiry the defense was not permitted to inspect. That is [Route 2](/court/ai_attorney/method) reasoning, and Route 2 needs no alternative perpetrator at all.
+
+Then comes the part that makes this page worth publishing. **The defense does not actually need the foreign carrier's records.** Roaming works by putting the visiting device on the *host* network. When a handset with a foreign SIM operates in Orem, it attaches to a T-Mobile, AT&T or Verizon tower, and the host network writes that attachment into its own records — including the device's IMSI. The first three digits of an IMSI are the Mobile Country Code, which identifies the *home* network: 310 through 316 is the United States, 425 is Israel, 460 is China, 250 is Russia, 432 is Iran. So the question "were devices on foreign home networks present in the courtyard" is answerable **entirely from material the State obtained in September 2025 and produced in discovery** — with no foreign process of any kind.
+
+That is not a clever reading of the warrant. It is how the technology works, and the State's own warrant says so. A network cannot serve a visiting device without first identifying it, so it writes the visitor into a register kept for exactly that purpose. The demand therefore converts from something a court would refuse into something a court grants without much thought: an order that the State produce, from returns it already possesses, a count of distinct device identifiers broken out by home network. The sibling instrument, [Cell-Site And Tower-Dump Discovery](/court/ai_attorney/cell-site-and-tower-dump-discovery), is where that reachable demand properly lives. This page exists to explain why the unreachable version is not the way in, and to make the refusal count for something if anyone serves it anyway.
+
+Underneath all of it sits one question that is narrow, answerable and grantable, and it is the question this instrument should be reduced to whenever a judge looks impatient: **what was collected, what was analysed, and what happened to the difference.** Collection and analysis are not the same act. A carrier can hand over a spreadsheet of a hundred thousand rows and nobody need ever open it. The defense is entitled to know which of those rows a human being looked at, under what tasking, and what became of the rest. That question requires no treaty, no foreign court, no unmasking of anybody, and no theory about who did the killing.
+
+**GATEWAY.** Nothing on this page may be used to argue that a foreign service carried out the killing until the court has first granted leave for an alternative-perpetrator defense. That sequence is not optional and it is set out at [Alternative-Perpetrator Notice](/court/ai_attorney/alternative-perpetrator-notice). Run in the wrong order, this demand is quashed in a paragraph and the defense spends credibility it will need later. Run in the right order — or confined, as below, to a records question about what was collected versus what was analysed — it is an ordinary discovery dispute.
+
+## What The Defense Team Did Instead
+
+The archive we hold contains **no filing that seeks foreign-carrier records, an MLAT request, or letters rogatory**. It holds 374 PDFs against 867 known docket entries, of which only 258 ever had a public PDF at all, so that absence is a statement about our material and nothing more.
+
+What the archive *does* show is the same friction one border closer to home. The defense filed an **Application for Certificate for Attendance of Out-of-State Witness under Utah Code § 77-21-3** to compel live preliminary-hearing testimony from Lance Twiggs, who is out of state. The State opposed it and moved to quash. Judge Graf resolved both in a **Decision and Order dated June 22, 2026** (docket 625). Note the shape of that fight: even the *domestic* interstate mechanism — a uniform act adopted by every state precisely so this would work — produced full briefing, an opposition, a motion to quash and an eleven-page ruling. Utah Code § 77-21-3 reaches sister states. It does not reach abroad. There is no uniform act for that.
+
+Neither the Application itself nor the State's Motion to Quash is in the archive; both were classified private. That is one of the confirmed broken chains in our holdings, not a gap in the court's file.
+
+On the two days for which we hold **certified** transcripts — preliminary hearing Day 4 on July 9, 2026 and Day 5 on July 10, 2026 — a full-text search returns **zero occurrences** of *tower*, *cell site*, *CSLI*, *carrier*, *Verizon*, *AT&T*, *T-Mobile*, *roaming*, *IMSI* or *subscriber*. The certified record we hold does not show any of those lines being pursued on those days. Days 1, 2 and 3 exist here only as machine transcriptions of the pool feed and are not the record.
+
+Two further facts about the warrant set bear directly on this instrument, and both are about our archive rather than about anyone's conduct. First, the warrants we hold run from **3212261** to **3229461**, and **there is nothing after October 6, 2025** — so whether any later process issued to any carrier, domestic or foreign, is simply not visible from here. Second, alongside the three-carrier tower dump the State obtained warrant **3212601** for **anonymized geofence data from Google**, returned September 23, 2025. That is a second, entirely domestic route to the same population question, and it reaches devices by account rather than by carrier — which means it does not care what country the SIM came from either.
+
+The scope of that transcript search should be stated exactly, because the honesty of the claim depends on it. We searched the full text of both certified days, including the word indices the reporter appended. Day 4 runs 278 pages and covers Agent Brian Davis, Sergeant Jennifer Faumuina and the ATF firearms examiner; Day 5 covers the ATF DNA analyst. Device evidence was discussed at length on Day 4 — *Cellebrite* appears eight times, *extraction* six, *phone* thirty — so the record is not silent about handsets. It is silent about **networks**. Every carrier and cell-site term returns zero.
+
+Those filings are gagged and partly sealed, and the discovery corpus itself will never be filed.
+
+## Where This Belongs In The Case
+
+| Stage of the case | When that stage runs | Status of this step |
+|---|---|---|
+| Preservation and Rule 16 demand on domestic returns | From the initial appearance onward; available since September 2025 | Not visible on the public record |
+| Letters rogatory application to the trial court | Available now; runs 12–24 months with no guaranteed result | No public application |
+| Executive MLAT request through DOJ Office of International Affairs | Not available to a defendant at any stage | Structurally closed to us |
+| Motion in limine / Rule 702 on any device analysis | After bind-over, before trial | Not yet due — the case has not been bound over |
+
+## Witness Or Discovery Target
+
+| How it would be done | Target | Took the stand? | Status on the public record |
+|---|---|---|---|
+| Rule 16 demand and motion to compel — **reachable**, domestic | The unredacted tower-dump returns for warrant **3212941**, served on T-Mobile, AT&T and Verizon, returned **October 9, 2025** as "Tower Dump data from all three carriers" | n/a | Warrant and return are public; the returned data is not |
+| Cross-examination — witness testified on a certified day | Jennifer Faumuina, State Bureau of Investigation crime-scene sergeant, on evidence routing and what was submitted for which analysis | Yes — July 7 and **July 9, 2026 (certified)** | Certified Day 4 shows no cell-site or carrier questioning |
+| Cross-examination — witness testified on a certified day | Agent Brian Davis, on the device chain: seizure, transport to the Regional Computer Forensic Laboratory, Cellebrite download, routing to a fusion-centre analyst | Yes — July 8 and **July 9, 2026 (certified)** | Certified Day 4 records that he was **passed with no cross-examination** |
+| Records custodian subpoena — **likely refused**, foreign entity | A foreign mobile network operator with no United States presence | No | No public demand; a state subpoena does not reach it |
+| Records custodian subpoena — **arguably reachable** | A United States subsidiary, roaming clearinghouse, or United States point of presence of a foreign operator | No | No public demand; this is the one genuinely open thread |
+| Letters rogatory through the trial court to a foreign court | The foreign court, not the carrier | n/a | No public application |
+| Court order directing the State to request an MLAT | Utah County Attorney; the request itself would be made by DOJ | n/a | No public motion; a defendant cannot compel one |
+
+## The Questions That Were Not Asked
+
+Addressed to **Sergeant Jennifer Faumuina**, whose Day 4 testimony is certified:
+
+1. Sergeant, warrant 3212941 commanded three carriers to produce a tower dump for four locations around the Losee Center. Did the State receive that material?
+2. That warrant asked for the **IMSI** of every device that registered on those towers. Was the IMSI field populated in the returns, or was it removed?
+3. The warrant also asked for **Visitor Location Register** records — the register a network writes when a device from a different home network attaches to it. Did any return include that register?
+4. Was anyone ever asked to sort the returned identifiers by Mobile Country Code — that is, to separate devices whose home network is outside the United States?
+5. The face of that warrant carries a notice requiring the **anonymization of all devices**. Who performed the anonymization: the carrier, or the State?
+6. Does anonymizing a device remove the Mobile Country Code, or only the subscriber's name and number?
+
+Addressed to **Agent Brian Davis**, whose Day 4 testimony is certified, on the foundation questions rather than the content:
+
+7. Agent, you testified that a Cellebrite extraction was performed and that you personally reviewed it. You also testified you do not perform extractions yourself. Is that right?
+8. You told the court you do not believe you spoke with the laboratory personnel who performed that extraction. Is that still your testimony?
+9. So for the mechanics of how that data was obtained, you are describing work done by people you have not spoken to, from a report written by someone else?
+10. Of the material returned by the carriers in this case, do you know what fraction was analysed rather than simply received and stored?
+11. Was any request made to any foreign carrier, by anyone, in this investigation?
+12. If such a request was made and refused, would that refusal be in the case file the defense received?
+
+Reserved for a carrier records custodian, if the State calls one at trial — a stage not yet reached, so nothing here has been missed:
+
+13. Does your company's tower-dump export include the IMSI field by default, or is it added on request?
+14. When your company anonymizes a reverse-location return, which fields are altered, and is the alteration reversible by your company?
+15. Does the export include devices that merely registered on the tower without placing a call, a text, or a data session?
+16. For a device whose home network is not yours, what does your network record at the moment of attachment, and how long do you keep it?
+
+## Why A Defense Attorney Would Want This
+
+Take the legal machinery honestly, because pretending it is friendlier than it is helps nobody.
+
+**Subpoena power.** Utah Rule of Criminal Procedure 14 issues process that runs within Utah. Utah Code § 77-21-3, the Uniform Act to Secure the Attendance of Witnesses from Without a State, extends the reach to sister states through their courts. Neither reaches a company incorporated abroad, and this case has already shown that even the sister-state route draws an opposition and a motion to quash.
+
+**MLAT.** A Mutual Legal Assistance Treaty request is made by the **executive branch**, transmitted through the **Department of Justice, Criminal Division, Office of International Affairs**. It is not a court process and it is not a party's process. Most MLATs contain an express clause stating that the treaty creates no rights enforceable by private parties, and federal courts have applied that language to defendants who asked to compel one. **A criminal defendant has no right to an MLAT request.** That is the wall, and it is a real one.
+
+**Letters rogatory.** These are genuinely available to a party in principle. The trial court issues a request to a foreign court, transmitted through the Department of State under 28 U.S.C. § 1781. Two problems. First, they routinely take a year or more and can be declined outright, so in a capital case with a speedy-trial posture they are a promise no lawyer should make to a client. Second, the Hague Evidence Convention — the instrument people reach for — governs **civil or commercial** matters and does not apply to a criminal prosecution.
+
+**Preservation, which is a separate problem from production.** A defendant cannot send an **18 U.S.C. § 2703(f)** preservation letter; the statute gives that power to a governmental entity. What a defendant can do is move the court on day one for an order **directing the State** to send them, and to send them to every carrier the investigation touches, including any United States affiliate of a foreign operator. That motion is cheap, it asks the State to do something it has an independent interest in doing, and it is very hard for a prosecutor to oppose out loud. It is also the only lever that exists before the retention windows close, and once they close no treaty, no letter and no order recovers the data.
+
+**Two independent grounds for refusal, either one sufficient.** The **Stored Communications Act**, 18 U.S.C. §§ 2701–2712, bars a provider from disclosing content to anyone but a governmental entity through the statute's own routes, and has no exception for a criminal defense subpoena; it also restricts non-content subscriber records the same way. Separately, foreign data-protection law supplies its own bar — **Article 48 of the GDPR** expressly says a foreign court order is not by itself a lawful basis for transfer absent an international agreement such as an MLAT, and Israel's Protection of Privacy Law, 5741-1981, operates to similar effect. So the foreign carrier can refuse under United States law, and refuse again under its own.
+
+**The one thread that is actually reachable.** Where a foreign operator has a United States subsidiary, a roaming clearinghouse relationship, or any United States point of presence, personal jurisdiction over *that* entity may exist and ordinary process may run against it. This should not be oversold: what such an entity typically holds is settlement and clearing records, not subscriber content, and it will still raise the Stored Communications Act. But it is the single demand in this family that a court could grant, and it is worth making for that reason alone.
+
+**What a refusal actually buys.** This is the part most people skip, and it is the only reason to serve an instrument you expect to lose. A demand served and refused produces four things the case did not have before: a dated record that the defense sought the material; a dated record of who declined and on what stated ground; a foundation for arguing at trial that the investigative picture the jury is shown was assembled by people the defense could not question; and, if the refusal comes from the executive branch rather than from the foreign entity, a concrete instance of a federal decision that reached this courtroom only secondhand. That last one matters in this case more than in most, because exactly one FBI witness has testified live across five days of preliminary hearing, the **defense** called her, and she was a laboratory examiner. No federal case agent has been crossed at all.
+
+**And then the pivot, which is where the value is.** None of the above is necessary to answer the question. The State already holds the answer. Warrant **3212941**, signed September 11, 2025, ordered T-Mobile, AT&T and Verizon to produce, for four locations around the Losee Center on September 8 and September 10, 2025, the "registration/connection records, the **IMSI and IMEI** of the number associated with the cell site(s) (tower(s) dumped)," together with "any available HSS (Home Subscriber Server), HLR (Home Local Registry), **VLR (Visitor Local Registry)** records showing subscriber equipment that was idle but still connected." The Visitor Location Register is, by definition, the register of devices that are *not* home to that network. The return, executed October 9, 2025, reads: "Tower Dump data from all three carriers."
+
+The defense's own [Discovery Status Report of August 28, 2026](/court/legal_docs/overview) records that returns from carriers "such as AT&T and Verizon" contain cell-site location information, and that "in this case there are at least **25,253** location records." A fair reading question follows immediately, and it is a question, not an accusation: the warrant went to three carriers and the return says three carriers, so where in the production is the third one. That is exactly the kind of narrow, grantable, records-only demand this thesis should live on, and it belongs with the sibling instrument on cell-site and tower-dump discovery rather than here.
+
+> **SUBPOENA RIDER — SCHEDULE A** (to be served with a Rule 16 demand on the State, not on any foreign entity)
+>
+> 1. The complete, unredacted returns produced under Utah search warrant no. **3212941** by T-Mobile USA and its subsidiaries, AT&T Mobility and its subsidiaries, and Cellco Partnership d/b/a Verizon Wireless and its subsidiaries, in native machine-readable form as the warrant required, together with every Cell Site List and Records Key transmitted with them.
+> 2. For each returned record, the IMSI field as produced, or, if that field was removed or tokenised, a written statement identifying who removed it, on what date, under what instruction, and whether the original remains in existence.
+> 3. All HSS, HLR and VLR register extracts produced under that warrant.
+> 4. A count, by Mobile Country Code, of distinct IMSI values appearing in the returns for each of the four warrant locations and time windows, or, in the alternative, leave for a defense analyst to derive that count from the native files under the existing protective order.
+> 5. The same count for a control window at the same locations on a date with no event, sufficient to establish a base rate.
+> 6. Every communication between the State, any federal agency, and any carrier concerning the scope, anonymisation, or withholding of any part of those returns.
+> 7. A statement of whether any request for records was directed to any non-United States carrier in this investigation, by whom, on what date, and what response was received — including a refusal.
+> 8. The complete return produced under Utah search warrant no. **3212601** (anonymized geofence data, Google), together with the anonymisation methodology applied to it.
+> 9. An identification of every carrier, clearinghouse or roaming intermediary to which a preservation request was sent under 18 U.S.C. § 2703(f) in this investigation, with dates, and the response to each.
+> 10. If the State contends any item above is outside its possession, custody or control, a statement identifying the agency that holds it and the date the State last requested it.
+
+**Day-one date:** **2025-09-15.** Our attorney would have served the Rule 16 demand at paragraphs 1 through 6 within three days of the initial appearance, and moved the same week for an order directing the State to issue **18 U.S.C. § 2703(f)** preservation letters to every carrier touched by the investigation, including the United States point of presence of any foreign operator. The urgency is not ours; it is the State's own. Detective Carle's affidavit of September 11, 2025 told the magistrate that this material "is also subject to deletion from the service providers within a very short time period." Roaming and visitor-register records are among the shortest-lived data any carrier holds — days to weeks, not years, and far shorter than the call-detail records people picture. By the time of the preliminary hearing in July 2026, ten months had passed. Anything the carriers did not hand over in the autumn of 2025 is now gone from the carriers, and the only surviving copy is whatever sits inside the State's 12.1 terabyte production.
+
+## The Honest Counterargument
+
+**The strongest one first: a foreign Mobile Country Code proves nothing about anybody.** Utah Valley University enrolls thousands of students, and a public political event on a campus at midday draws visitors, journalists, exchange scholars, tourists and people who simply bought a SIM abroad. A count of foreign-home-network devices in a 1,900-foot radius, taken without a control window on an ordinary day at the same towers, is a number with no denominator. It is the single most misusable figure in this entire investigation, and a defense that puts it before a jury without the control count is handing the prosecution a cross-examination it will enjoy.
+
+**The anonymization order may have already defeated the method.** The face of warrant 3212941 carries a notice that "any warrant issued must require the anonymization of all devices associated with the reverse-location information." If the carriers complied by tokenising or removing the IMSI, the Mobile Country Code goes with it, and the whole pivot on this page collapses into a motion to unmask that a court may well refuse on the privacy grounds the notice exists to protect. We would not know which until we saw the returns, and that uncertainty should be stated to the client before a dollar is spent.
+
+**The published foreign-phone figures are not evidence.** The counts of 12, 16 and 44 devices circulating publicly trace to a single open-source analyst who has published no dataset and no methodology, and whose own graphic was labelled a recreation. This site catalogues those claims at Foreign Phones at UVU precisely as claims. A defense lawyer who adopts them without independent derivation from the carrier returns is borrowing someone else's unverified arithmetic in a capital case.
+
+**Declining to cross a foundation witness is a real tactic, not an oversight.** The certified Day 4 transcript records that Agent Davis was passed without cross-examination. At a Utah preliminary hearing, where Rule 1102 and article I, section 12 allow the State to establish probable cause on hearsay — a point this defense litigated and lost in the June 23, 2026 ruling — cross-examining a conduit witness mostly teaches the State where its foundation is thin, in time to fix it before trial. Saving it is orthodox capital practice.
+
+**The Stored Communications Act is not an obstacle a judge invented to frustrate this defense.** It is a privacy statute, and the devices in a tower dump belong overwhelmingly to students, staff and members of the public who were at a campus event and have done nothing. The anonymisation notice on the face of warrant 3212941 exists for them. Any argument this defense makes for unmasking has to be made in full view of that, and a court is entitled to insist that the defense show why a Mobile Country Code count cannot be produced without identifying a single person. The honest answer is that it can be — which is why the count, and not the identities, is what the rider asks for.
+
+**The State may have already run the sort and found nothing.** If the returns were produced with IMSI intact, an analyst sorting by Mobile Country Code is an afternoon's work, and a fusion centre with the file has every reason to have done it. A defense demand that produces a negative result, in a case where the defense theory has been publicly associated with a foreign-nexus claim, hands the prosecution a clean rebuttal exhibit. That risk is real and it should be weighed before the demand is served, not after.
+
+**And the ranking is against us.** This is a priority-5 instrument. The same judicial goodwill spent on an unwinnable foreign demand would buy a residue panel, an independent autopsy review, or a Rule 702 hearing on the toolmark comparison — each of which goes at the mechanism of death rather than at the population of a courtyard. A defense attorney who files this first, rather than fourteenth, has misread the room. Publishing the instrument is still worth doing, because a reader who understands why it fails will stop demanding it and start demanding the thing next door that works.
+
+## Sources On This Site
+
+* [Cell-Site And Tower-Dump Discovery — the reachable sibling demand](/court/ai_attorney/cell-site-and-tower-dump-discovery)
+* [Alternative-Perpetrator Notice — the gateway](/court/ai_attorney/alternative-perpetrator-notice)
+* [Putting FBI Agents On The Stand](/court/ai_attorney/fbi-agents-on-the-stand)
+* [The Halted Federal Inquiry Subpoena](/court/ai_attorney/nctc-halted-inquiry-subpoena)
+* [Brady Enforcement And Sanctions](/court/ai_attorney/brady-enforcement-and-sanctions)
+* [Cell Tower, Phone Data & Movement Timeline](/Timeline/cell-tower-phone-data-timeline)
+* [Forensic Phone Extraction](/court/Phone_Extraction)
+* [Robinson's Phone & Devices](/court/Robinson_Phone_Devices)
+* [Lance Twiggs' Phone](/court/Twiggs_Phone)
+* [Cellebrite](/court/Cellebrite)
+* Foreign Phones at UVU
+* Sixteen Israeli-Registered Phones at UVU
+* Israeli Phones & Bumblehive
+* Israeli Tech In The Investigation
+* Technology & Surveillance
+* Coverup — Foreign Involvement
+* Joe Kent And The Halted Foreign Inquiry
+* [Court Legal Documents Archive](/court/legal_docs/overview)
+* [Day 4 — Preliminary Hearing, July 9, 2026](/court/Days_in_Court/2026-07-09-prelim-day-4)
+* [Bind-Over Argument — September 1, 2026](/court/Days_in_Court/2026-09-01-bindover-argument)
+
+---
+
+:::danger Theoretical Exercise Only
+**This page is a theoretical exercise.** It is a written simulation of how an idealised defense attorney might approach this case. **We make no claim that there is any problem with the current defense attorney**, with any member of the defense team, or with any decision they have made.
+
+Real capital defense is conducted under a **gag order**, with **sealed filings**, and on the basis of **full discovery that the public has never seen**. Counsel of record know facts we do not. A step described here as "not on the public record" may already have been taken privately, may have been considered and rejected for good reason, or may not yet be due at this stage of the case. Silence in the public record is **not** evidence of a failure.
+
+Nothing here is legal advice, a criticism of any licensed attorney, or an allegation of professional misconduct.
+:::
+
+{/* CK_AUTHOR_CREDIT */}
+
+*This website's author is [@HolonCitizen](https://x.com/HolonCitizen) on X and [YouTube/@HolonCitizen](https://www.youtube.com/@HolonCitizen). Follow me there.*

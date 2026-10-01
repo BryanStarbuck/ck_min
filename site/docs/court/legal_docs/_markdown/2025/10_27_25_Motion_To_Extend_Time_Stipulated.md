@@ -1,0 +1,68 @@
+<!-- Converted from 2025/10_27_25_Motion_To_Extend_Time_Stipulated.pdf -->
+# 10 27 25 Motion To Extend Time Stipulated
+
+> **Source PDF:** `court/filings/2025/10_27_25_Motion_To_Extend_Time_Stipulated.pdf` — served at `/court/filings/2025/10_27_25_Motion_To_Extend_Time_Stipulated.pdf`  
+> **Pages:** 3  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (UT #13967) NESTER LEWIS PLLC 40 S 600 E Salt Lake City, UT  84102 (801) 535-4375 kathy@nesterlewis.com 
+
+Richard G. Novak, _pro hac vice_ RICHARD G. NOVAK, APLC 65 North Raymond Avenue, Suite 320 Pasadena, CA 91103 Telephone: 626-578-1175 
+
+Michael N. Burt, _pro hac vice_ LAW OFFICE OF MICHAEL BURT PC 1000 Brannan Street Suite 400 San Francisco, California 94103 Telephone: 415-522-1508 
+
+Attorneys for Tyler James Robinson 
+
+IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT 
+
+IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH 
+
+|STATE OF UTAH,<br>Plaintiff,<br>vs.|STIPULATED MOTION TO EXTEND<br>TIME<br>Case No.  251403576|
+|---|---|
+|TYLER JAMES ROBINSON,|Honorable Tony F. Graf, Jr.|
+|Defendant.||
+
+
+
+COMES NOW Defendant, Tyler James Robinson, by and through undersigned counsel, with 
+
+the stipulation of counsel for the State of Utah, and respectfully moves this Honorable Court to enter 
+
+an Order extending the deadlines for Mr. Robinson to file his Response to the State’s Motion to Set 
+
+1 
+
+Aside October 20, 2025, Order Granting Motion to Preserve Evidence and his Reply to the State’s Response to Defendant’s Motion to Preserve Evidence. In support, Mr. Robinson submits the following: 
+
+1. On October 8, 2025, the defense filed a Motion to Preserve Evidence. [Doc. 75] 
+
+2. On October 20, 2025, the Court entered an Order granting the Motion to Preserve Evidence. [Doc. 107] 
+
+3. On October 22, 2025, the State filed a Motion to Set Aside October 20, 2025, Order Granting Motion to Preserve Evidence [Doc. 116] and a Response to Defendant’s Motion to Preserve Evidence. [Doc. 117] 
+
+4. Mr. Robinson’s response to the State’s Motion to Set Aside the Court’s order and his reply to the State’s Response to Defendant’s Motion to Preserve Evidence are currently due on October 29, 2025. 
+
+5. The parties are in negotiation attempting to reach an agreement on a proposed, stipulated order to submit to the Court. The parties need additional time to discuss the terms of the proposed, stipulated order. 
+
+6. If the parties are unable to reach an agreement, the parties are jointly requesting that the deadline for the defense to submit their response and reply be extended until November 5, 2025. 
+
+DATED this 27th day of October, 2025. 
+
+# Respectfully submitted, 
+
+By: _<u>/s/ Kathryn N. Nester</u>_ Kathryn N. Nester ATTORNEY FOR TYLER JAMES ROBINSON 
+
+2 
+
+# CERTIFICATE OF SERVICE 
+
+This is to certify that a true and correct copy of the foregoing was served via the Court’s 
+
+electronic filing system on the 27th day of October, 2025, which served all attorneys of record. 
+
+_<u>/s/ Kathryn N. Nester</u>_ Kathryn N. Nester 
+
+3

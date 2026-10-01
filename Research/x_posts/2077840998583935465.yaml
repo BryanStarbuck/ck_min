@@ -1,0 +1,37 @@
+id: '2077840998583935465'
+url: 'https://x.com/realstewpeters/status/2077840998583935465'
+author:
+  username: 'realstewpeters'
+  name: 'Stew Peters'
+  id: '1288319695658135552'
+text: |
+  The day after exposing the Fort Huachuca image search data, every person we mentioned had their results completely wiped. DIA, CENTCOM, Crane & Kirk security figures — all gone. People we didn't name still show up. We're clearly hitting something they don't want seen.
+created_at: '2026-07-16T19:41:13.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 129
+  reply_count: 22
+  like_count: 651
+  quote_count: 8
+  bookmark_count: 42
+  impression_count: 12044
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2077840649265483778'
+      duration_ms: 89483
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2077840649265483778/img/iDxX9V_0QNVm_ibn.jpg'
+      width: 1280
+      height: 698
+      ipfs_cid: 'Qmc5XpXRZ8fPBTLsvMx66kcB6RyywTs48WALsPo7nXdLRn'
+      local_file: 'videos/2077840998583935465.mp4'
+  images: []
+transcription: 'videos_transcription/2077840998583935465.md'
+investigation: 'charlie_kirk'
+added_date: '2026-07-16'
+temp_file: false
+site_pages:
+  - 'site/docs/GoogleSearches/fort-huachuca-image-searches.mdx'
+  - 'site/docs/GoogleSearches/dia-search-patterns.mdx'
+  - 'site/docs/GoogleSearches/centcom-search-patterns.mdx'
+  - 'site/docs/GoogleSearches/crane-search-patterns.mdx'

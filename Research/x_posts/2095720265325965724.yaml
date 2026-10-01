@@ -1,0 +1,47 @@
+id: '2095720265325965724'
+url: 'https://x.com/shiloheffort/status/2095720265325965724'
+author:
+  username: 'shiloheffort'
+  name: 'shiloh.mp4_'
+  id: '708907636553609216'
+text: |
+  Hey wait a min .. 🤔 https://t.co/Gzc8VI2xXp
+created_at: '2026-09-04T03:47:02.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 19
+  reply_count: 37
+  like_count: 137
+  quote_count: 2
+  bookmark_count: 70
+  impression_count: 20308
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2095720195096780800'
+      duration_ms: 19500
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2095720195096780800/img/8V2q5gjzUTX0FwbD.jpg'
+      local_file: 'videos/2095720265325965724.mp4'
+      ipfs_cid: 'QmTjhHGBMZEfeWNwuDjnNs4SaLwP9QX61ixY2DFgmFrtwP'
+      sha256: 'c7271f012bae799fc1bed53e8d882bf84d980d6a2c47acd6bc3723c5a79f26b3'
+  images:
+    - type: photo
+      media_key: '3_2095720194907717633'
+      url: 'https://pbs.twimg.com/media/HRV-aeYWQAEeZ6E.jpg'
+      width: 2048
+      height: 947
+      local_file: 'images/2095720265325965724_1.jpg'
+      ipfs_cid: 'QmUyvvDU85oAKwpAbjMhU5VTJL7ZH2Xu6GprXGSUGxmFYd'
+      sha256: 'cf00a1934dee90c2244a2ffcfc27bcaeb86df287728c905133c7bd00f4af18b4'
+ocr_text: |
+  Rick Cutler / Justin Davis / Blake Gibson / Blake Harruff / Alex Faria /
+  Richard Bracey / Chester (Claude) Barnes / Dan Flood / Pierce Beck /
+  Todd Espy / Brian Harpole
+transcription: |
+  Um, we upped the manpower, uh, to 12, and then we had actually a 13 there that
+  came in the, in the dry party. And so, uh, but yeah, we, we upped it based on
+  nothing because it's like, uh, that we're in a kind of a place where we don't
+  want to be, um,
+investigation: 'charlie_kirk'
+added_date: '2026-09-04'
+temp_file: false

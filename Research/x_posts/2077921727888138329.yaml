@@ -1,0 +1,62 @@
+id: '2077921727888138329'
+url: 'https://x.com/ZREIKMIESTER/status/2077921727888138329'
+author:
+  username: 'ZREIKMIESTER'
+  name: 'Ali Zreik'
+  id: '1969930173031370752'
+text: |
+  Diagram step by step how the molten hot LiPO battery pierced into Charlies neck, and how the the PCB followed into his neck sleeve see it in slowmotion as well.
+created_at: '2026-07-17T01:02:00.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 12
+  reply_count: 11
+  like_count: 31
+  quote_count: 2
+  bookmark_count: 17
+  impression_count: 4066
+quoted_status:
+  id: '2077825821176103376'
+  author: '@ZREIKMIESTER'
+  text: |
+    Melted into the polyester shirt are battery fragments and Rode microphone clip parts. They cleaned up the body before delivering it to the hospital.
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2077921655788027904'
+      duration_ms: 14388
+      width: 1080
+      height: 1788
+      local_file: 'videos/2077921727888138329_1.mp4'
+      ipfs_cid: 'QmQK5HHckHYVhKPBPAQpHNo9KbYgJSW1ziKLHF9k6WA3a7'
+  images:
+    - type: photo
+      media_key: '3_2077921651681857537'
+      url: 'https://pbs.twimg.com/media/HNZCu5-XEAElFow.jpg'
+      width: 1920
+      height: 1016
+      local_file: 'images/2077921727888138329_1.jpg'
+      ipfs_cid: 'QmedrrPge7Bj8vUN6xxq1Zfz1CgwuY6xGAtWFFbU4tmg4R'
+    - type: photo
+      media_key: '3_2077921719885467649'
+      url: 'https://pbs.twimg.com/media/HNZCy4DXkAEGf5m.jpg'
+      width: 2000
+      height: 2000
+      local_file: 'images/2077921727888138329_2.jpg'
+      ipfs_cid: 'QmYUXCQekcx6wZwMos7b82LQTJJxoWYKTBukycmTw7dLvq'
+    - type: photo
+      media_key: '3_2077921724608212993'
+      url: 'https://pbs.twimg.com/media/HNZCzJpW8AESybC.jpg'
+      width: 1080
+      height: 2340
+      local_file: 'images/2077921727888138329_3.jpg'
+      ipfs_cid: 'QmUs5GUoZQcuFprX2oM6UD2ubKZgbKDWdMhcjCarFcU8Y3'
+investigation: 'charlie_kirk'
+added_date: '2026-07-17'
+temp_file: false
+note: |
+  Mic/LiPO-battery explosion theory. Author diagrams a claimed sequence in which
+  a lithium-polymer battery and PCB from the RODE lavalier transmitter allegedly
+  pierced Charlie Kirk's neck. Silent slow-motion video (no transcript). Charlie
+  Kirk is deceased. Attributed, unverified theory — competing rifle-shot account
+  is the official finding.

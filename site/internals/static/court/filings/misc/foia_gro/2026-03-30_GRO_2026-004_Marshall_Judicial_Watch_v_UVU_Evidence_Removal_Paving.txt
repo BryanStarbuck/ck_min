@@ -1,0 +1,293 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2026-004
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 142256 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+WILLIAM MARSHALL, Petitioner, v.
+
+UTAH VALLEY UNIVERSITY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2026-004
+
+By this appeal, Petitioner William Marshall, on behalf of Judicial Watch, Inc., seeks access to records held by Respondent, Utah Valley University ("UVU").
+
+BACKGROUND
+
+On November 20, 2025, Mr. Marshall submitted a record request under the Government Records Access and Management Act ("GRAMA") to UVU. Mr. Marshall requested all records "related to the destruction and/or removal of evidence and/or materials from the site of the assassination of Charlie Kirk on September 10, 2025." Charlie Kirk died from a gunshot wound he received during the event at UVU on September 10, 2025. Mr. Marshall also requested all records "related to the paving operation that occurred at the site on the UVU campus." Mr. Marshall specified that the requested records should include UVU police/security personnel emails and text messages, reports, directives, contractor invoices and authorizations, communications among UVU officials about the work including emails and texts, and contractor estimates, invoices, purchase orders "and all related records."
+
+On December 15, 2025, the UVU Records Officers denied Mr. Marshall's request, stating that the request lacked reasonable specificity regarding what was meant by "evidence" or "materials" and failed to provide specific departments or key terms to search. UVU further asserted that even if the request was specific, responsive records would be protected pursuant to Utah Code § 63G-2-305(10)(a)-(c) because their release could reasonably be expected to interfere with ongoing enforcement proceedings and the right to a fair trial. Regarding the request for estimates, invoices, or purchase orders related to a paving operation at UVU, the Records Officer stated UVU had "conducted a reasonable search and found no records responsive to your request."
+
+On December 16, 2025, Mr. Marshall filed an appeal with UVU Vice President Val Peterson, arguing that his request was "sufficiently and reasonably described as to be manageable." In an email dated January 8, 2026, Vice President Peterson granted Mr. Marshall's appeal in part. UVU provided Mr. Marshall with some records regarding the paving operation and the removal of materials, but redacted certain information pursuant to Utah Code § 63G-2-305(11) (life or safety of an individual) and § 63G-2-302(2)(d) (personal privacy). Mr. Peterson also clarified that UVU possessed a police report relating to the collection of evidence, but withheld it under § 63G-2-305(10)(a)-(c) citing the ongoing criminal investigation. Mr. Peterson added that in regard to other portions of the records request, "there are no responsive records."
+
+On January 9, 2026, Mr. Marshall filed an appeal of this decision with the Government Records Office ("Office"), arguing that UVU's search was inadequate and that records regarding the mere removal of materials should have no bearing on ongoing criminal proceedings. After the filing of the appeal, Tyler Robinson, the suspect charged with the aggravated murder of Mr. Kirk, filed a Request for Intervention, which was granted by the Director of the Office ("Director") on February 5, 2026. Utah County, the prosecuting entity, also filed a Request for Intervention, which was granted by the Director on March 6, 2026.
+
+On March 19, 2026, the Director held a public hearing at which the parties were allowed to present their evidence and arguments. Mr. Marshall argued that UVU's search was inadequate because it failed to search the UVU Police Department or Vice President Peterson's office, relying solely on Frank Young in Facilities Planning. Mr. Marshall also argued that incomplete text chains and missing invoices suggested the search was deficient. UVU responded that its search was reasonably targeted because UVUPD had no involvement in the site cleanup, Frank Young was the individual who actually coordinated the cleanup and paving, and no invoice for pavers existed. After having carefully considered the parties' presentations, including an in camera review of the withheld and redacted records, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. GRAMA specifies that in response to a request for records, a government entity "shall conduct a reasonable search for a requested record." Utah Code § 63G-2-201(7)(b). Additionally, a person making a records request must identify the record being requested with "reasonable specificity." Utah Code § 63G-2-201(6)(b).
+
+2. GRAMA also specifies that a "record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). Records that are designated as "private," "protected," or "controlled," are not public. See Utah Code §§ 63G-2-201(3)(a), -302, -303, -304 and -305.
+
+3. Records created or maintained for criminal enforcement purposes are protected non-public records if properly classified by a governmental entity, and release of the records would create a danger of depriving a person of a right to a fair trial or impartial hearing. Utah Code § 63G-2-305(10)(c). Records the disclosure of which would jeopardize the life or safety of an individual are protected records if properly classified by a governmental entity. Utah Code § 63G-2-305(11). Records the disclosure of which would jeopardize the security of governmental property from damage, theft, or other appropriation or use contrary to law or public policy, are protected records if properly classified by a governmental entity. Utah Code § 63G-2-305(12). Additionally, records containing data on individuals the disclosure of which constitutes a clearly unwarranted invasion of personal privacy are private records if properly classified by a governmental entity. Utah Code § 63G-2-302(2)(d).
+
+4. After having carefully considered the arguments and evidence presented by the parties, the Director finds that UVU conducted a reasonable search for the requested records. GRAMA requires a search to be reasonable, not exhaustive. UVU met its burden by submitting evidence that it targeted its search to Frank Young, the Associate Vice President of Facilities Planning, who was directly responsible for coordinating the cleanup and paving operations following the incident. Furthermore, UVU appropriately determined that a search of UVUPD communications was not reasonably likely to yield responsive records because UVUPD did not participate in the removal of evidence or site cleanup. Regarding Mr. Marshall's assertion that paving invoices and estimates are missing, UVU provided a reasonable explanation that such records do not exist because UVU did not pay for the paving work. Therefore, Mr. Marshall has not met his burden to show that UVU's search efforts were deficient or that additional responsive records are being concealed.
+
+5. During the appeal process, UVU clarified that a police report initially identified by the CAO as potentially responsive (and withheld under § 63G-2-305(10)) is, upon closer review, non-responsive. The report pertains exclusively to the collection of evidence, not the destruction or removal of evidence and materials as explicitly framed in Mr. Marshall's request. Mr. Marshall conceded during the hearing that he was not seeking the investigative reports gathered by police, but rather records concerning the site cleanup. Therefore, the Director finds that the police report falls outside the scope of the request and is not at issue in this appeal.[1]
+
+6. An in camera review of the disputed records shows that the redactions made by UVU in its supplemental production were appropriate. UVU properly classified the identities of individuals involved in the cleanup as protected and private pursuant to Utah Code §§ 63G-2-305(11) and -302(2)(d) due to the heightened public interest, ongoing conspiracy theories, and resulting threats to life and safety. For these same reasons, UVU properly withheld a single vendor payment check in full under Utah Code §§ 63G-2-305(11) and -305(12) to protect the vendor's identity and banking information. At the hearing, Mr. Marshall conceded that he was not particularly interested in such information. Thus, the Director finds that the interests favoring restriction of access to this sensitive identifying information outweigh any public interest in its disclosure.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner, William Marshall, on behalf of Judicial Watch, Inc., is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 30th day of March 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+1. Intervenors stated that their concerns regarding the protection of fair trial rights and ongoing criminal investigations under § 63G-2-305(10) were primarily related to disclosure of investigation reports and evidence which Mr. Marshall concedes are not at issue.
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

@@ -1,0 +1,52 @@
+id: '2082642579070546381'
+url: 'https://x.com/MsJaneDoeUKnow/status/2082642579070546381'
+author:
+  username: 'MsJaneDoeUKnow'
+  name: 'JaneDoeUKnow'
+  id: '1874158366723104773'
+text: |
+  DISCORD MESSAGES
+
+  Tyler Robinson:
+
+  "Hey guys, I have bad news for you all. it was me at UVU yesterday. im sorry for all of this. im surrendering through a sheriff friend in a few moments."
+
+  "it was [me]... look at the pictures from the surveillance footage. it was me. ... im serious."
+
+  Tyler Robinson is GUILTY! It was him on the roof of the Losee Building taking the shot.
+created_at: '2026-07-30T01:40:59.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 31
+  reply_count: 27
+  like_count: 143
+  quote_count: 1
+  bookmark_count: 5
+  impression_count: 5422
+media_from_quoted_status:
+  quoted_status_id: '2082616890149789847'
+  quoted_status_url: 'https://twitter.com/aburkhartlaw/status/2082616890149789847'
+  quoted_author: '@aburkhartlaw'
+  quoted_text: 'Also another Discord message.'
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2082616844733849600'
+      url: 'https://pbs.twimg.com/media/HObw_HGbIAAGuQ_.png'
+      width: 822
+      height: 164
+      local_file: 'images/2082642579070546381_1.png'
+      ipfs_cid: 'QmPywgVxNUV56ZWLYxqvMueu9t3dvZLxDgRA5LH3jaozgt'
+      sha256: 'be8560405013223eb3bc4194f8c5437d9fd9e5fd5717b829e94044826e6073a8'
+ocr_text: |
+  "Hey guys. I have bad news for you all. it was me at UVU yesterday. im sorry for
+  all of this. im surrendering through a sheriff friend in a few moments." State's Ex.
+  16.2 at 1.
+
+  "it was [me]. ... look at the pictures from the surveillance footage. it was me. ...
+  im serious." State's Ex. 16.2 at 2.
+site_page: 'site/docs/Tyler_Robinson/Messages/discord-messages.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false

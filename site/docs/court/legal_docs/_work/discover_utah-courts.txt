@@ -1,0 +1,225 @@
+# LANE: Utah state court system (utcourts.gov, XChange, 4th District Provo, appellate)
+# Case: State of Utah v. Tyler James Robinson, No. 251403576
+# Run date: 2026-08-31
+# Every URL below was actually probed. Status shown is what was actually observed.
+
+================================================================
+PASS 1 — utcourts.gov structure
+================================================================
+https://www.utcourts.gov/                                            200 (188,373 b)
+https://legacy.utcourts.gov/                                         200 (21,227 b)
+https://www.utcourts.gov/robots.txt                                  200
+https://legacy.utcourts.gov/robots.txt                               406 (bot-blocked even w/ UA; legacy host is picky on /robots.txt only)
+https://www.utcourts.gov/sitemap.xml                                 200 (249,186 b) — full site URL list
+https://www.utcourts.gov/en/about/media.html                         404
+https://www.utcourts.gov/news  /en/news.html  /newsroom               404 404 404
+
+SITEMAP RESULT: the utcourts.gov sitemap contains NO case-specific pages. There is
+NO "notable case" / "high profile case" / "cases of public interest" document page
+on utcourts.gov for 251403576 or for any other case. Searched sitemap for
+robinson|kirk|high.profile|notable|public.interest — zero hits.
+
+================================================================
+PASS 2 — records / how-to pages (all 200)
+================================================================
+https://www.utcourts.gov/en/court-records-publications.html                                  200
+https://www.utcourts.gov/en/court-records-publications/records/court-records.html            200
+https://www.utcourts.gov/en/court-records-publications/records/xchange.html                  200
+https://www.utcourts.gov/en/court-records-publications/records/xchange/subscribe.html        200
+https://www.utcourts.gov/en/court-records-publications/records/xchange/coverage.html         (listed in sitemap)
+https://www.utcourts.gov/en/court-records-publications/records/xchange/faq.html              (listed in sitemap)
+https://www.utcourts.gov/en/court-records-publications/records/request-a-court-record.html   200
+https://www.utcourts.gov/en/court-records-publications/records/transcripts.html              200
+https://www.utcourts.gov/en/court-records-publications/records/court-records/digital-recordings.html 200
+https://www.utcourts.gov/en/court-records-publications/records/court-records/appellate.html  200
+https://www.utcourts.gov/content/dam/media/docs/Request_for_Record.pdf                       200 (116,597 b, application/pdf) <-- the actual request form
+
+XCHANGE (subscription, PAID):
+  portal:  https://pubapps.utcourts.gov/XchangeWEB/XchangeWebServlet
+           -> redirects 200 to https://xchange.utcourts.gov/XchangeWEB/XchangeWebServlet
+  subscribe by emailing signed agreement to xchange@utcourts.gov, approval ~48 business hrs
+  Monthly account: $25 setup + $40/mo, 500 searches free, $0.35/extra search, $1.00 PER DOCUMENT
+  One-time/guest:  $10 + $0.35/search + $1.00/document
+  Coverage: "All district court public documents available in electronic format and
+  filed since July 1, 2010 are available on Xchange."  <-- this is the ONE route that
+  reaches EVERY non-sealed filing in 251403576 including everything after Apr 2026.
+
+REQUEST A COURT RECORD (clerk, paid, no subscription):
+  Form: Request for Court Record — https://www.utcourts.gov/content/dam/media/docs/Request_for_Record.pdf
+  Copies $0.25/sheet; electronic media $15/unit; audio/video $15 per half-day of testimony;
+  staff time first 15 min free then $15-$100/hr; email delivery $5 for <=10 pages then $0.50/page.
+  Response usually within 10 business days.
+
+TRANSCRIPTS (separate system — this is the route to hearing transcripts):
+  https://pubapps.utcourts.gov/TranscriptWEB/publicrequest.jsp    200 (24,379 b)
+  Statutory rates, quoted verbatim from that page:
+    $6.00/page regular (within 30 days)  ~ approx $250.00 per court hour
+    $7.50/page 14 calendar days
+    $9.00/page 7 calendar days
+    $10.50/page 1-3 day
+    $12.00/page 24 hour
+  Page also offers "Request Audio Copy" and "Court Contact Information".
+
+AUDIO/VIDEO RECORDINGS: request from the court where the hearing was held; fee per
+Rule 4-202.08; $15 per half day of testimony; media = data CD (up to 27 hrs) or audio CD (80 min).
+
+================================================================
+PASS 3 — court calendar (legacy.utcourts.gov/cal/)
+================================================================
+https://legacy.utcourts.gov/cal/                        200 (65,820 b)
+https://legacy.utcourts.gov/cal/search.php              200 — GET params: t=c|p|j|a, c=<case#>, d=<date>, loc=<code>
+Provo District Court location code = 2550D  (Provo Justice Court = 2552J)
+  search.php?t=c&d=today&loc=2550D              200 (823,289 b) — returns real calendar rows
+  search.php?t=c&c=251403576&d=&loc=            200 (29,836 b)  — NO RESULTS
+  search.php?t=c&d=09/01/2026&loc=2550D         200 (32,175 b)  — NO RESULTS, zero "robinson"
+CONCLUSION: case 251403576 does NOT appear on the public calendar search. The calendar
+only covers "the next 30 days" and this case is evidently suppressed from / not listed in
+the public calendar feed. Calendar is not a document source anyway.
+
+================================================================
+PASS 4 — appellate courts
+================================================================
+Appellate Docket Search: https://pubapps.utcourts.gov/CourtsPublicWEB/index.jsp?option=DOCKET
+  200 (4,350 b) — FREE but CAPTCHA-GATED (captchaEntry field + JS required). Scripted access
+  cannot get past it. HUMAN ROUTE.
+Appellate briefs: pending cases -> appellate clerks' office in person; closed cases -> Utah State
+  Law Library / Utah State Archives / BYU / U of U law libraries.
+Law & Motion files (everything filed in an appellate case that is not a brief):
+  Utah Supreme Court 2009-current at the appellate clerks' office.
+  https://www.utcourts.gov/en/courts/court-types/appellate-courts/appellate-hours-location.html
+Appellate oral argument recordings:
+  https://legacy.utcourts.gov/opinions/streams/?court=sup   (Supreme Court, Feb 2004-current)
+  https://legacy.utcourts.gov/opinions/streams/?court=coa   (Court of Appeals, Oct 2005-current)
+
+================================================================
+PASS 5 — Utah Courts PRESS NOTIFICATIONS (the actual media page)
+================================================================
+This is the "media/press" page the Utah Judiciary actually runs. It is on the LEGACY host
+and is NOT in the utcourts.gov sitemap, which is why it does not show up in normal navigation.
+https://legacy.utcourts.gov/utc/news/            200 (66,034 b)
+https://legacy.utcourts.gov/utc/news/2026/       200 (66,221 b)
+https://legacy.utcourts.gov/utc/news/2026/07/    200 (39,744 b)
+https://legacy.utcourts.gov/utc/news/2026/08/    200 (45,607 b)
+Swept every month 2025/09 through 2026/08. EXACTLY TWO Robinson notices exist:
+
+ 1) https://legacy.utcourts.gov/utc/news/2026/07/06/public-information-regarding-the-tyler-robinson-preliminary-hearing/
+    200 (43,188 b). "PUBLIC INFORMATION REGARDING THE TYLER ROBINSON PRELIMINARY HEARING",
+    posted July 6 2026. Prelim hearing week of July 6-10 2026 at the Fourth District Courthouse,
+    Provo. 14 public seats. Decorum order terms. No documents linked.
+
+ 2) https://legacy.utcourts.gov/utc/news/2026/08/28/public-attendance-for-tyler-robinson-preliminary-hearing/
+    200 (42,873 b). "PUBLIC ATTENDANCE FOR TYLER ROBINSON PRELIMINARY HEARING", posted
+    Aug 28 2026. FINAL DAY of the preliminary hearing, 10:00 a.m. local, Provo Courthouse,
+    12 public seats, wristbands from 9:00 a.m.
+    *** LINKS THE OFFICIAL LIVE STREAM: https://youtube.com/live/3f3EMabrrFQ ***
+
+ https://www.youtube.com/live/3f3EMabrrFQ   200 (1,254,895 b)
+   <title>Tyler Robinson Trial Pool Feed - YouTube</title>
+   "ownerChannelName":"KUTV 2 News Salt Lake City"
+   This is the COURT-DESIGNATED POOL CAMERA FEED, linked from the Utah Judiciary's own
+   press release. Primary-source video of the preliminary hearing. Free, no login.
+
+
+================================================================
+PASS 6 — the Utah Judiciary MEDIA page (found via legacy 404 page footer link)
+================================================================
+https://www.utcourts.gov/en/media/media.html                      200 (95,043 b)
+  MEDIA CONTACT: Tania Mashburn, Administrative Office of the Courts — taniam@utcourts.gov
+  (she is the byline "author/taniam" on both Robinson press notifications)
+  Electronic Media Coverage request form (Adobe Sign, live):
+    https://utsign.na3.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAX5lr2AcOwgVXv5xcRg9DVVP4UxrmBrmqct5sbrljVWXJyA2rxglvW-CVgerEGuvY*
+    200 (51,714 b). THIS is the form that produced the ~15 "Request And Order For
+    Electronic Media Coverage" PDFs already in our 2025/2026 inventory.
+  Rule 4-401.01 electronic media coverage: https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=4-401.01  200
+  Rule 4-401 media in courtroom:           https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=4-401
+  Media protocol for cameras (PDF):        https://www.utcourts.gov/content/dam/media/docs/media_protocol_cameras.pdf   200 (109,076 b)
+  Media Guide to Utah State Courts (PDF):  https://www.utcourts.gov/content/dam/media/media_guide/docs/MediaGuide.pdf  200 (1,715,553 b)
+  Appellate photography policy (PDF):      https://www.utcourts.gov/content/dam/media/docs/AppellateCourtsPhotographyPolicy.pdf
+  Press release archive:                   https://legacy.utcourts.gov/utc/news/     200
+  Media policies/resources page:           https://www.utcourts.gov/en/media/media/Media-Policies-Resources.html  200
+  Media access Q&A:                        https://www.utcourts.gov/en/media/media/access-qa.html                200
+  Records rules: 4-202.02 classification / 4-202.03 access / 4-202.04 requests /
+                 4-202.05 denials / 4-202.08 fees — all at
+                 https://legacy.utcourts.gov/rules/view.php?type=ucja&rule=<n>   (4-202.08 = 200, 22,768 b,
+                 effective 11/1/2025, "Fees for records, information, and services")
+
+================================================================
+PASS 7 — appellate: is there a PUBLISHED order?  NO.
+================================================================
+Utah appellate opinion full-text search (free, works with a plain GET):
+  https://legacy.utcourts.gov/opinions/search/?zoom_query=<q>&type=&zoom_per_page=20&zoom_and=1&zoom_sort=0
+  q="Robinson"        200 — 433 results, ALL unrelated older State v. Robinson cases
+  q="Tyler Robinson"  200 — 24 results, all incidental word matches
+  q="251403576"       200 — "No results found."
+CONCLUSION: the Utah Supreme Court's orders in this case are UNPUBLISHED. Confirmed there are
+TWO of them, both denying petitions for permission to appeal an interlocutory order, signed by
+Associate Chief Justice Jill Pohlman, reported ~2-3 July 2026 (one on cameras in the courtroom
+for the prelim; one on admitting recorded/video testimony of an out-of-state witness). Neither
+has a publicly reported appellate docket number. They are NOT in our inventory (we hold only
+1_2_26_Appellate_Order_Denying_Interlocutory_Review.pdf and 1_5_26_Appellate_Notice_Of_Decision.pdf).
+Route to them: the CAPTCHA-gated appellate docket search, or the appellate clerk's office.
+
+APPELLATE CLERK (from https://www.utcourts.gov/en/courts/court-types/appellate-courts/appellate-hours-location.html, 200):
+  450 South State Street, 5th Floor, Salt Lake City
+  Utah Supreme Court, PO Box 140210, Salt Lake City UT 84114-0210
+  (801) 578-3900 | supremecourt@utcourts.gov | courtofappeals@utcourts.gov | 8-5 M-F
+  Pending-case briefs and Law & Motion files (everything filed that is not a brief),
+  Supreme Court 2009-current, are held here.
+
+================================================================
+PASS 8 — negative results, recorded so nobody re-runs them
+================================================================
+https://www.utcourts.gov/en/media/media/high-profile.html    404
+https://legacy.utcourts.gov/highprofile/                     200 BUT SOFT-404 ("We couldn't find
+                                                             your page"). NOTE: legacy.utcourts.gov
+                                                             serves HTTP 200 for missing pages —
+                                                             never read a 200 from that host as a hit.
+https://legacy.utcourts.gov/utc/robinson/                    404
+https://legacy.utcourts.gov/utc/dist4/                       404
+https://legacy.utcourts.gov/directory/                       200 soft-404
+https://www.utcourts.gov/en/courts/court-types/dist/dist-sites/orders.html   200 — District Court
+   standing orders page carries ONLY 3rd and 6th District administrative orders. Nothing case-specific,
+   nothing for the 4th District, nothing for 251403576.
+Wayback CDX for utcourts.gov URLs matching robinson|kirk:  EMPTY (no such URL ever archived).
+utcourts.gov site search (/content/utcourts/us/en/search-results.html?zoom_query=...) is a JS SPA;
+   scripted fetch returns only the 91 KB shell with zero results embedded. Not usable from curl.
+
+================================================================
+BOTTOM LINE FOR THIS LANE
+================================================================
+The Utah state court system publishes NO case documents for 251403576 anywhere on
+utcourts.gov or legacy.utcourts.gov. There is no notable-case / high-profile-case
+document page. Everything this lane offers is a PAID or IN-PERSON route:
+  1. Xchange subscription  -> every public filing since 7/1/2010, $1 per document. THE route
+     for the May-2026-onward gap (prelim hearing, bind-over briefs, contempt ruling, camera orders).
+  2. Request for Court Record form to the Provo clerk -> copies at $0.25/sheet.
+  3. TranscriptWEB -> the ONLY route to hearing TRANSCRIPTS, $6.00/page regular.
+  4. Audio/video of a hearing -> $15 per half-day of testimony from the Provo court.
+  5. Appellate docket search (free, CAPTCHA) -> the two July 2026 Pohlman orders.
+  6. Free and immediately usable: the court-linked YouTube pool feed of the preliminary hearing.
+
+================================================================
+PASS 9 — verification of the two live assets
+================================================================
+https://www.youtube.com/live/3f3EMabrrFQ    200 (1,254,895 b)
+  title "Tyler Robinson Trial Pool Feed"; ownerChannelName "KUTV 2 News Salt Lake City"
+  "isLiveContent":true  "liveBroadcastDetails":{"isLiveNow":false
+  "startTimestamp":"2026-09-01T14:30:00+00:00"   "publishDate":"2026-08-28T06:48:51-07:00"
+  HONEST STATUS: this is a SCHEDULED live broadcast for 1 Sept 2026, NOT yet an archived
+  video. As of this run (31 Aug 2026) there is no playable recording at that URL yet. It is
+  the court-designated pool camera and is linked from the Utah Judiciary's own press release,
+  so it should become the primary-source recording of the final prelim day once it airs.
+
+Provo District Court official contact, from the State of Utah Public Notice Website
+(https://www.utah.gov/pmn/sitemap/publicbody/4857.html  200, 18,335 b — a state .gov, and
+the entity is listed as "Judicial Council > Administrative Office of the Courts > District
+Court (Fourth District : Utah County)"):
+  Contact name: Debbie Jacobsen
+  Email:  debbiej@utcourts.gov
+  Phone:  (801) 429-1000
+  Address: 137 N Freedom Blvd, Provo, UT 84601
+  (This is the contact of record for the Provo District Court as a public body. The
+  utcourts.gov directory page is a JS search widget and returns nothing to curl.)
+NOTE: that same Public Notice page does publish court-filed PDF ATTACHMENTS for the Provo
+District Court — but only probate/conservatorship "Notice of Petition and Hearing" filings.
+Nothing criminal, nothing for 251403576.

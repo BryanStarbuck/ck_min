@@ -1,0 +1,86 @@
+overlap_id,dir_name,person,following_tail,kirk_tail,airport_code,date,times_status,drawable,built_date,skip_reason
+OWENS-001,,,SU-BTT,,KJFK,2022-10-05,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-002,,,SU-BTT,,KORD,2022-10-20,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-003,,,SU-BTT,,KBOS,2022-11-01,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-004,,,SU-BTT,,KICT,2022-11-13,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-005,,,SU-BTT,,KILG,2022-11-17,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-043,,,SU-BTT,,KILG,2022-11-25,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-044,,,SU-BTT,,KORD,2022-12-05,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-006,,,SU-BTT,,KSTL,2022-12-20,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-007,,,SU-BTT,,KBGR,2022-12-27,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-045,,,SU-BTT,,KICT,2023-01-12,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-008,,,SU-BTT,,KATL,2023-01-15,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-009,,,SU-BTT,,KILG,2023-02-10,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-046,2023_02_25_KSUS_Erika_MO_st_louis,Erika,SU-BTT,,KSUS,2023-02-25,complete,yes,2026-09-28,
+OWENS-047,,,SU-BTT,,KOMA,2023-03-15,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-048,,,SU-BTT,,KILG,2023-03-27,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-010,,,SU-BTT,,KSTL,2023-04-01,none,no,,"TPUSA event with neither Kirk claimed present - outside this template, which draws one following aircraft against one Kirk side (a measured window for SU-BTT DOES exist at this field on this date)"
+SITE-001,,,SU-BTT;SU-BND,,KSTL/KCPS/KSUS,2023-04-02,none,no,,"this row names a metro area (KSTL/KCPS/KSUS), not one field"
+OWENS-011,2023_04_06_KILG_Erika_DE_wilmington,Erika,SU-BTT,,KILG,2023-04-06,complete,yes,2026-09-28,
+OWENS-012,,,SU-BTT,,KICT,2023-04-14,none,no,,archives hold this tail for this date but it was not at the claimed field (SU-BTT closest 27.58 km)
+OWENS-013,2023_04_20_KILG_Erika_DE_wilmington,Erika,SU-BTT,,KILG,2023-04-20,complete,yes,2026-09-28,
+EXTRA-003,,,SU-BTT,,KTOP,2023-04-23,none,no,,"TPUSA event with neither Kirk claimed present - outside this template, which draws one following aircraft against one Kirk side"
+OWENS-049,,,SU-BTT,,KICT,2023-04-25,none,no,,"TPUSA event with neither Kirk claimed present - outside this template, which draws one following aircraft against one Kirk side"
+OWENS-014,2023_05_03_KCPS_Erika_IL_cahokia,Erika,SU-BND,,KCPS,2023-05-03,complete,yes,2026-09-28,
+OWENS-015,,,SU-BND,,CYYR,2023-05-09,none,no,,archives hold this tail for this date but it was not at the claimed field (SU-BND closest 1062.56 km)
+OWENS-050,,,SU-BND,,KSTL,2023-05-12,none,no,,archives hold this tail for this date but it was not at the claimed field (SU-BND closest 7034.48 km)
+OWENS-051,,,SU-BTT,,KICT,2023-06-08,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-016,,,SU-BND,,KPVU,2023-06-12,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-052,,,SU-BND,,KILG,2023-06-25,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-017,,,SU-BTT,,KLNK,2023-07-25,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+EXTRA-005,,,SU-BTT,,KLNK,2023-08-25,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-018,,,SU-BTT,,KILG,2023-09-03,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-019,,,SU-BTT,,KSMF,2024-01-10,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-020,,,SU-BTT,,KOMA,2024-02-09,none,no,,"TPUSA event with neither Kirk claimed present - outside this template, which draws one following aircraft against one Kirk side (a measured window for SU-BTT DOES exist at this field on this date)"
+SITE-002,,,SU-BTT,,KLNK,2024-02-11,none,no,,"TPUSA event with neither Kirk claimed present - outside this template, which draws one following aircraft against one Kirk side"
+OWENS-021,2024_02_14_KILG_Erika_DE_wilmington,Erika,SU-BTT,,KILG,2024-02-14,complete,yes,2026-09-28,
+OWENS-053,,,SU-BTT,,KSTL,2024-03-10,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-022,,,SU-BTT,,KICT,2024-03-18,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-054,,,SU-BTT,,KICT,2024-03-22,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-023,2024_03_29_KICT_Charlie_KS_wichita,Charlie,SU-BTT,,KICT,2024-03-29,complete,yes,2026-09-28,
+OWENS-024,2024_04_03_KICT_Charlie_KS_wichita,Charlie,SU-BTT,,KICT,2024-04-03,complete,yes,2026-09-28,
+SITE-003,2024_04_03_KICT_Charlie_KS_wichita,Charlie,SU-BTT,,KICT,2024-04-03,complete,yes,2026-09-28,
+EXTRA-002,,,,,KOMA,2024-04-09,none,no,,no following tail named on this row
+OWENS-055,,,SU-BTT,,KOMA,2024-04-15,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-025,2024_04_19_KPVU_Erika_UT_provo,Erika,SU-BND,,KPVU,2024-04-19,complete,yes,2026-09-28,
+OWENS-026,2024_04_23_KPVU_Charlie_UT_provo,Charlie,SU-BTT,,KPVU,2024-04-23,complete,yes,2026-09-28,
+SITE-004,2024_04_23_KPVU_Charlie_UT_provo,Charlie,SU-BTT,,KPVU,2024-04-23,complete,yes,2026-09-28,
+OWENS-027,2024_04_28_KILG_Erika_DE_wilmington,Erika,SU-BTT,,KILG,2024-04-28,complete,yes,2026-09-28,
+OWENS-056,,,SU-BND,,KSTL,2024-05-03,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-057,,,SU-BND,,KSTL,2024-05-10,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-058,,,SU-BTT,,KLNK,2024-06-18,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-059,,,SU-BTT,,KICT,2024-07-05,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-028,,,SU-BTT,,KOMA,2024-07-20,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-060,,,SU-BTT,,KOMA,2024-07-25,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-029,,,SU-BTT,,KOMA,2024-08-17,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+EXTRA-001,,,,,KLNK,2024-09-14,none,no,,no following tail named on this row
+OWENS-030,,,SU-BND,,KPVU,2024-12-08,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-031,,,SU-BTT,,KICT,2025-01-12,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-061,,,SU-BTT,,KICT,2025-01-12,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-032,,,SU-BTT,,KICT,2025-01-17,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-062,,,SU-BTT,,KOMA,2025-02-08,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-033,,,SU-BTT,,KICT,2025-03-15,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-063,,,SU-BTT,,KICT,2025-03-15,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-034,,,SU-BTT,,KICT,2025-03-22,none,no,,"neither free archive holds a trace for SU-BTT on this date - a coverage fact, not an absence"
+OWENS-064,,,SU-BND,,KPVU,2025-04-19,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+EXTRA-007,,,,,KLNK,2025-04-29,none,no,,no following tail named on this row
+OWENS-035,2025_05_23_KPVU_Charlie_UT_provo,Charlie,SU-BND,,KPVU,2025-05-23,complete,yes,2026-09-28,
+OWENS-065,2025_05_23_KPVU_Charlie_UT_provo,Charlie,SU-BND,,KPVU,2025-05-23,complete,yes,2026-09-28,
+OWENS-036,,,SU-BTT,,KOMA,2025-06-18,none,no,,archives hold this tail for this date but it was not at the claimed field (SU-BTT closest 10139.55 km)
+OWENS-037,,,SU-BND,,KPVU,2025-07-07,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+OWENS-066,,,SU-BND,,KPVU,2025-07-07,none,no,,"neither free archive holds a trace for SU-BND on this date - a coverage fact, not an absence"
+EXTRA-004,,,,,KOMA,2025-07-11,none,no,,no following tail named on this row
+OWENS-038,2025_07_20_KOMA_Erika_NE_omaha,Erika,SU-BTT,,KOMA,2025-07-20,complete,yes,2026-09-28,
+OWENS-067,2025_07_20_KLNK_Erika_NE_lincoln,Erika,SU-BTT,,KLNK,2025-07-20,complete,yes,2026-09-28,
+OWENS-039,2025_08_17_KOMA_Erika_NE_omaha,Erika,SU-BTT,,KOMA,2025-08-17,complete,yes,2026-09-28,
+OWENS-040,2025_09_04_KPVU_Charlie_UT_provo,Charlie,SU-BTT,,KPVU,2025-09-04,complete,yes,2026-09-28,
+EXTRA-006,2025_09_10_KPVU_Charlie_UT_provo,Charlie,SU-BND,N102DZ,KPVU,2025-09-10,complete,yes,2026-09-28,
+OWENS-041,2025_09_10_KPVU_Both_UT_provo,Both,SU-BTT,N102DZ,KPVU,2025-09-10,complete,yes,2026-09-28,
+SITE-005,2025_09_10_KILG_Erika_DE_wilmington,Erika,SU-BTT,,KILG,2025-09-10,complete,yes,2026-09-28,
+SITE-006,2025_09_10_KPVU_Charlie_UT_provo,Charlie,SU-BND,N102DZ,KPVU,2025-09-10,complete,yes,2026-09-28,
+OWENS-042,2025_09_13_KPVU_Erika_UT_provo,Erika,SU-BND,,KPVU,2025-09-13,complete,yes,2026-09-28,
+UNPUB-001,,,SU-BTT or SU-BND,,,UNKNOWN,none,no,,no date on this row - there is no window to measure
+UNPUB-002,,,SU-BTT or SU-BND,,,UNKNOWN,none,no,,no date on this row - there is no window to measure
+UNPUB-003,,,SU-BTT or SU-BND,,,UNKNOWN,none,no,,no date on this row - there is no window to measure
+UNPUB-004,,,SU-BTT or SU-BND,,,UNKNOWN,none,no,,no date on this row - there is no window to measure
+UNPUB-005,,,SU-BTT or SU-BND,,,UNKNOWN,none,no,,no date on this row - there is no window to measure

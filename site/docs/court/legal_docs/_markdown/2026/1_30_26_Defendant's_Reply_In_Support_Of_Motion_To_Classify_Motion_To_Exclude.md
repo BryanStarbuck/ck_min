@@ -1,0 +1,111 @@
+<!-- Converted from 2026/1_30_26_Defendant's_Reply_In_Support_Of_Motion_To_Classify_Motion_To_Exclude.pdf -->
+# 1 30 26 Defendant's Reply In Support Of Motion To Classify Motion To Exclude
+
+> **Source PDF:** `court/filings/2026/1_30_26_Defendant's_Reply_In_Support_Of_Motion_To_Classify_Motion_To_Exclude.pdf` — served at `/court/filings/2026/1_30_26_Defendant's_Reply_In_Support_Of_Motion_To_Classify_Motion_To_Exclude.pdf`  
+> **Pages:** 8  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+Kathryn N. Nester (UT #13967) NESTER LEWIS PLLC 40 S 600 E Salt Lake City, UT  84102 Telephone: 801-535-4375 Email: kathy@nesterlewis.com Richard G. Novak, _pro hac vice_ RICHARD G. NOVAK, APLC 65 North Raymond Avenue, Suite 320 Pasadena, CA 91103 Telephone: 626-578-1175 Email: richard@rgnlaw.com 
+
+Michael N. Burt, _pro hac vice_ LAW OFFICE OF MICHAEL BURT PC 1000 Brannan Street Suite 400 San Francisco, California 94103 Telephone: 415-522-1508 Email: MB@michaelburtlaw.com 
+
+Staci Visser (UT #14358) BROWN, BRADSHAW & MOFFAT 422 N 300 W Salt Lake City, UT 84103 Telephone: 801-532-5297 Email: staci@brownbradshaw.com 
+
+_Attorneys for Tyler James Robinson_ 
+
+# IN THE FOURTH JUDICIAL DISTRICT COURT, PROVO DEPARTMENT IN AND FOR THE COUNTY OF UTAH, STATE OF UTAH 
+
+|STATE OF UTAH,<br>Plaintiff,|**DEFENDANT TYLER JAMES ROBINSON’S**<br>**REPLY IN SUPPORT OF MOTION TO**<br>**CLASSIFY MOTION TO EXCLUDE**|
+|---|---|
+|vs.|**(HEARING REQUESTED)**|
+|TYLER JAMES ROBINSON,|Case No.  251403576|
+|Defendant.|Honorable Tony F. Graf, Jr.|
+
+
+
+Page **1** of **8** 
+
+Defendant, Tyler James Robinson, by and through counsel of record, hereby files this reply 
+
+in support of his _Motion to Classify Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom as Private_ , filed January 16, 2026. _See_ Dkt. 310. This reply responds to the _News Media’s Memorandum Opposing Motion to Classify re: Motion to Exclude Cameras (Filed January 16, 2026)_ , filed January 23, 2026. _See_ Dkt. 323. 
+
+# **This Is Not a “Secret Prosecution.”** 
+
+The News Media frames its opposition to Mr. Robinson’s motion with the absurd assertion that the defense seeks to litigate this case in “secret.” Nothing is further from the truth. Mr. 
+
+Robinson properly seeks to safeguard his right to a fair trial by not making public the contents of the motion. _See_ U.S. Const. amends VI, XIV; Utah Const. art. I, § 12. 
+
+Mr. Robinson does not deny that there is a public right of access to judicial proceedings. Rather, Mr. Robinson asserts (as he has in the past) that this qualified right, when properly 
+
+weighed against his constitutional right to a fair trial and reliable penalty proceeding guaranteed by the United States and Utah Constitutions, is overwhelming overcome. _See State v. Archuleta_ , 857 P.2d 234, 237 (Utah 1993) (“Even if a qualified right of access to a criminal proceeding or judicial records does exist, that right is not absolute.”); _Globe Newspaper Co. v. Superior Court for Norfolk County_ , 457 U.S. 596, 606 (1982) (“Although the right of access to criminal trials is of constitutional statute, it is not absolute.”); _see also State v. Allgier_ , 2011 UT 47, ¶ 14, 258 P.3d 589 (“Even when the UCJA creates a presumptive right of access to a particular document, the public’s ability to access the document is not absolute.”). As reasoned by the Utah Supreme Court: 
+
+Although a general common law right of access exists, like the First Amendment right, it is not absolute. Under the common law, a court in its discretion may seal documents if the public’s right of access is outweighed by competing interests. Competing interests include protecting the integrity of ongoing investigations 
+
+Page **2** of **8** 
+
+and proceedings, the privacy of those involved, and the defendant’s right to a fair trial. 
+
+_Archuleta_ , 857 P.2d at 240-41 (internal quotation marks and footnotes omitted); _see also_ Utah R. Jud. Admin. 4-202.04(6)(A)-(B) (requiring the court to make findings and conclusions about records and “identify and balance the interests favoring opening and closing the record”). 
+
+In the motion to classify, Mr. Robinson raises issues concerning publication of private information, including information on file with the court as private; concerns that republication will impact the integrity of the proceedings because the News Media have previously used court filings to engage with potential witnesses; and the concern that republication endangers Mr. Robinson’s right to a fair trial and reliable penalty phase, should that ultimately become necessary. 
+
+**_First_** , specific to Mr. Robinson’s right to a fair trial and reliable penalty phase, the motion to classify seeks to eliminate the predictable and further prejudicial _republication_ of the litany of already prejudicial electronic media articles, videos, and “expert” commentary by paid pundits that has been generated by the News Media. The underlying motion demonstrates exactly how any further electronic media coverage of court proceedings cannot be reconciled with the important interests of ensuring the fundamental fairness of the process and preserving the dignity and decorum of the proceedings. 
+
+This Court and the News Media need only look to the News Media’s own publications since September 10, 2025 to note the overwhelming emphasis on matters that have no bearing whatsoever on the public’s ability to see how the justice system works, how this Court makes its decisions, and the role of the press in ensuring confidence in the public that _justice_ is indeed being done. Rather, the News Media uses their platforms to, for example, call for Mr. Robinson’s death, to have “body language experts” make irrelevant and entirely unscientific claims about Mr. 
+
+Page **3** of **8** 
+
+Robinson’s character,<sup>1</sup> and to transmit video worldwide that is in clear violation of the Court’s 
+
+orders—video that will exist on the internet regardless of what is done after the fact to modify it. 
+
+In the past, counsel for the News Media have washed their hands of the content of coverage in this case, claiming that it can’t control what others do with the footage and videos after they are published. It is entirely disingenuous for the News Media to lay blame for harmful content emanating from their electronic publication of courtroom proceedings on secondary or subsequent publishers. Counsel should be fully aware that their clients, the News Media, are just as to blame as secondary or subsequent publishers for the harmful coverage that in no way enlightens the judicial process for the public nor affords Mr. Robinson the right to a public proceeding contemplated by both the United States and Utah State Constitutions. Rather than being a beacon for truth and openness, the News Media have simply become a financial investor in this case, seeking to turn a profit at the expense of allowing this case to proceed as the Constitution requires— _both_ public and fair. Importantly, the public right of access is a qualified right. Mr. Robinsons’ rights are not qualified. They are absolute. 
+
+Thus, in ruling on the motion to classify, this Court should recognize that the republication of descriptions and links to the overwhelming evidence of false and prejudicial claims and theories circulated by the News Media is unduly prejudicial and compromises the integrity of the proceedings.<sup>2</sup> _See Archuleta_ , 857 P.2d at 239-41 (holding trial court properly sealed documents 
+
+1 These media publications are on file with defense counsel and will be made available to counsel for the State, counsel for the News Media, and the Court. 
+
+> 2 The Court is no doubt cognizant of the fact that publication of the motion with the many embedded media references will simply generate even more views of the offending coverage, and more revenue for the News Media. Neither Mr. Robinson nor this Court should be used as cogs that facilitate that revenue machine. This is precisely what the public filing of the motion itself will lead to. 
+
+Page **4** of **8** 
+
+containing “inadmissible and possibly inaccurate information,” noting, “[t]he Press is certainly entitled to attend preliminary hearings in appropriate circumstances and to report all that occurs there.”); _Supernova Media, Inc. v. Pia Anderson Dorius Reynard & Moss, LLC_ , 2013 UT 7, ¶ 58, 297 P.3d 599 (court has discretion to seal documents if right of access is outweighed by competing interests; “Competing interests include protecting the integrity of ongoing investigations and proceedings, the privacy of those involved, . . . the defendant’s right to a fair trial” (quoting Utah Code J. Admin. R. 4-202(2)). Where the motion recounts false, misleading, and prejudicial media claims, the reasoning of the Utah Supreme Court in _Archuleta_ rings true, “[g]iven the documents’ inflammatory and speculative nature, . . . a substantial probability exists that alternatives to closure [will not] adequately protect[ ] defendants’ right to a fair trial.” 857 P.2d at 239; _see also KearnsTribune Corp., Publisher of Salt Lake Tribune v. Lewis_ , 685 P.2d 515, 519 (Utah 1984) (right of access to evidence outweighed by reasonable probability of prejudice in publicizing transcript of hearing to “screen out unreliable or illegally obtained evidence”).<sup>3</sup> 
+
+**_Second,_** the integrity of the proceedings is endangered by republication. The News Media have already shown that they intend to insert themselves into the case in ways that impact future proceedings. As noted in the motion to exclude, the News Media have already used case filings to engage with potential witnesses and public officials who have then inserted themselves into the case in ways that are unfairly prejudicial to Mr. Robinson. _See_ Dkt. 310, at 2-3. The News Media have likewise used the motion to classify at issue here, and their own responsive filing, as a way to 
+
+3 Mr. Robinson pushes back on the notion that republication of false, misleading, and harmful information is somehow exempt from the analysis of competing interests. If anything, republication creates exponential harm by increasing speculation and adding unwarranted credulity to the information where there should be none. While Mr. Robinson has the burden of establishing that he is entitled to the relief he seeks in the motion to exclude, neither the Utah Constitution nor the United States Constitution require him to sacrifice both his right to a fair trial and his interests in the integrity of the judicial process in order to make that showing. 
+
+Page **5** of **8** 
+
+incorrectly inform the public that Mr. Robinson’s case is becoming a “secret prosecution” despite the Court’s adamant representations, both in word in action, that the Court has taken and will continue to take seriously the balancing of the right of access with Mr. Robinson’s constitutional rights. _See, e.g._ , Pat Reavy, _Media argues Tyler Robinson capital murder case can’t be a ‘secret prosecution_ ,’ KSL.COM (Jan. 23, 2026 at 12:23p.m.), 
+
+<u>https://www.ksl.com/article/51437492/media-argues-tyler-robinson-capital-murder-case-cant-be-asecret-prosecution. The News Media offered no meaningful response to Mr. Robinson’s argument</u> concerning the material impact of publication and republication on the future of the case. 
+
+Further, notwithstanding the News Media’s convenient misinterpretation, Mr. Robinson 
+
+does not claim that he cannot receive a fair trial simply because his case is high profile. Mr. Robinson does claim he cannot receive a fair trial if the News Media is allowed to continue pursuing its monetary interests in this case under the guise of the public’s right of access, at the expense of Mr. Robinson’s constitutional rights and the integrity and dignity of the Court. It is for these reasons that Mr. Robinson seeks to classify the motion to exclude and it is for these reasons that Mr. Robinson will continue to engage in the classification process as much as is necessary to assert and protect the integrity of the proceedings, the privacy interests at issue, and, most importantly, his right to a fair trial. 
+
+# **CONCLUSION** 
+
+The _de minimis_ limitation on public access arising from maintaining the motion to exclude as private is overwhelmingly outweighed by the Court’s obligation to protect Mr. Robinson’s right to a fair trial as well as the integrity of the judicial proceedings. 
+
+RESPECTFULLY SUBMITTED this 30<sup>th</sup> of January, 2026. 
+
+_<u>/s/ Kathryn N. Nester /s/ Michael N. Burt</u>_ Kathryn N. Nester Michael N. Burt 
+
+Page **6** of **8** 
+
+_<u>/s/Richard G. Novak /s/ Staci Visser</u>_ Richard G. Novak Staci Visser _Attorneys for Defendant, Tyler James Robinson_ 
+
+Page **7** of **8** 
+
+# **CERTIFICATE OF SERVICE** 
+
+This is to certify that a true and correct copy of the foregoing was served via the Court’s electronic filing system on the 30th day of January, 2026, which served all attorneys of record. 
+
+_<u>/s/ Staci Visser</u>_ 
+
+8

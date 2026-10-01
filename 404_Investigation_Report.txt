@@ -1,0 +1,428 @@
+====================================================================
+  GOOGLE SEARCH CONSOLE 404 INVESTIGATION - whoassassinatedcharliekirk.com
+  Report generated: 2026-07-04
+  Repo: ~/BGit/Bryan_git/charlie-kirk   Branch: main   HEAD: 7f57867
+====================================================================
+
+
+==================  SUMMARY (READ THIS FIRST)  ==================
+
+* No rogue actor. Every structural change that broke these URLs was
+  committed by Bryan Starbuck <Bryan@thestarbucks.com>. The other
+  contributors (sahiljoshi690, rafin-whitehat, Prakash, racetrack0616,
+  Bikash) only made small content edits - none of them moved, renamed,
+  or deleted any of these pages. The "damage" is self-inflicted from
+  routine reorganization commits, not sabotage.
+
+* Your two pages you care about - /Fix/Law1 and /Fix/Law2 - were NOT
+  deleted. They were MOVED into a "disabled" folder in ONE commit:
+
+      Commit : 3640428  ("Bryan 20")
+      Author : Bryan Starbuck <Bryan@thestarbucks.com>
+      Date   : 2026-05-15 11:27:50 -0700
+      Action : renamed site/docs/Fix/{Law1,Law2,Law3,Law4}.mdx
+               ->  site/docs/Fix/disabled/{Law1,Law2,Law3,Law4}.mdx
+
+  Because Docusaurus builds the URL from the file path, moving the
+  files into disabled/ changed their URLs from /Fix/Law1 to
+  /Fix/disabled/Law1. Docusaurus also EXCLUDES nothing named
+  "disabled" by default, but the OLD URLs /Fix/Law1 and /Fix/Law2 no
+  longer exist, so Google gets a 404. The files are intact on disk and
+  can be restored in seconds (git mv them back to site/docs/Fix/).
+
+* The 21 reported 404s fall into 5 buckets:
+
+    A) MOVED / RENAMED (real 404, old URL dead)   -> Fix/Law1, Fix/Law2,
+         Autopsy overview, media_response, Videos/cameras surveillance
+    B) BLOG TURNED OFF (blog: false)              -> /blog, /blog/authors,
+         /blog/Research/raw/based_sam_parker_posts
+    C) STILL EXISTS TODAY (stale 404, will clear   -> Motive/Tyler_Robinson_
+         on Google recrawl)                          Alleged_Motive,
+                                                      intelligence/overview,
+                                                      other_topics/overview
+    D) ARCHIVED to /trash/ ("Archive" section)    -> the 9 /trash/... URLs.
+         Files still exist in the repo. You said you don't care about
+         most of these; see note in Bucket D.
+    E) DEPLOY HEALTH (background risk)            -> the repo has a history
+         of failed GitHub Pages builds ("Unblock GitHub Pages deploy",
+         "downgrade broken-link check"). A failed build makes Google keep
+         seeing the last good deploy, which turns any newly-moved page
+         into a 404. Worth confirming the last Actions run went green.
+
+* THE ONE THING TO FIX (per your priority): restore Fix/Law1 and
+  Fix/Law2. They are the only pages here that you clearly want live and
+  that were moved out of the way by a single reorg commit.
+
+
+==================  DETAIL - EVERY URL, ONE BY ONE  ==================
+
+Legend:
+  WHAT   = what happened to it
+  MOVED? = yes/no and to where
+  WHO    = git author of the change
+  WHEN   = commit date
+  COMMIT = short hash + message
+  NOW    = current status / how to fix
+
+
+-------- BUCKET A : MOVED / RENAMED (real 404) --------
+
+[1] https://whoassassinatedcharliekirk.com/Fix/Law2        (crawled Jun 29)
+    WHAT   : Moved out of its published folder into a "disabled" folder.
+    MOVED? : YES. site/docs/Fix/Law2.mdx -> site/docs/Fix/disabled/Law2.mdx
+    WHO    : Bryan Starbuck <Bryan@thestarbucks.com>
+    WHEN   : 2026-05-15 11:27:50 -0700
+    COMMIT : 3640428  "Bryan 20"
+    NOW    : File exists at site/docs/Fix/disabled/Law2.mdx (11 KB, intact).
+             Old URL /Fix/Law2 is dead. FIX: git mv it back to
+             site/docs/Fix/Law2.mdx (or add a redirect Law2 -> new home).
+
+[2] https://whoassassinatedcharliekirk.com/Fix/Law1        (crawled Jun 29)
+    WHAT   : Same event as Law2 - moved into disabled/ in the same commit.
+    MOVED? : YES. site/docs/Fix/Law1.mdx -> site/docs/Fix/disabled/Law1.mdx
+    WHO    : Bryan Starbuck <Bryan@thestarbucks.com>
+    WHEN   : 2026-05-15 11:27:50 -0700
+    COMMIT : 3640428  "Bryan 20"
+    NOW    : File exists at site/docs/Fix/disabled/Law1.mdx (8.7 KB, intact).
+             Same fix as Law2. (Law3 and Law4 were moved too, in case you
+             want all four back.)
+    HISTORY: Before this, Law1 lived a normal life - created 2025-10-19
+             (docs/Fix/Law1.md), renamed .md -> .mdx on 2026-04-19
+             (b79e390), path-split docs/ -> site/docs/ on 2026-04-05
+             (f54f0b6), edited a few times, then archived on 2026-05-15.
+
+[3] https://whoassassinatedcharliekirk.com/Shooting_Locations/Charlie/Autopsy/overview
+                                                           (crawled Jun 29)
+    WHAT   : The Autopsy overview page was relocated as the Autopsy content
+             was reorganized under a new parent section (Medical/).
+    MOVED? : YES. Its current home is site/docs/Medical/Autopsy/overview.mdx
+             The last relocation was Charlie/Autopsy -> Medical/Autopsy.
+    WHO    : Bryan Starbuck <Bryan@thestarbucks.com>
+    WHEN   : 2026-06-26 04:43:19 -0700
+    COMMIT : c9ecfe6  "Bryan 26 Tower"  (R100 Charlie/Autopsy/overview.mdx
+             -> Medical/Autopsy/overview.mdx)
+    NOW    : Live at /Medical/Autopsy/overview. The old
+             /Shooting_Locations/Charlie/Autopsy/overview path no longer
+             exists (that whole Shooting_Locations wrapper is gone). FIX:
+             add a redirect from the old path to /Medical/Autopsy/overview.
+
+[4] https://whoassassinatedcharliekirk.com/media_response/overview
+                                                           (crawled Jun 30)
+    WHAT   : There is no top-level media_response section anymore. The
+             media-response content sits in the Archive (/trash/).
+    MOVED? : YES (archived). Content lives at
+             site/docs/trash/media_response/overview.mdx. (A separate,
+             unrelated page /Media/Media_Response also exists.)
+    WHO    : Bryan Starbuck (part of the ongoing move-into-trash reorg)
+    WHEN   : the trash/media_response folder has existed since the
+             docs/ -> site/docs/ split (2026-04-05, f54f0b6) and earlier.
+    NOW    : Old URL /media_response/overview 404s. If you want it public,
+             move it out of trash/; otherwise leave archived.
+
+[5] https://whoassassinatedcharliekirk.com/Videos/cameras/UVU_Surveillance
+                                                           (crawled Jun 29)
+    WHAT   : The UVU surveillance-camera page now lives directly under
+             /cameras/, not under /Videos/cameras/.
+    MOVED? : YES (effectively). Current file:
+             site/docs/cameras/UVU_Surveillance.mdx, added fresh on
+             2026-06-27 (commit 94f7bab "Bryan 27 Laptop"). There is no
+             Videos/cameras/ path in current git history, so the
+             /Videos/cameras/... URL Google holds is an older location
+             that no longer resolves.
+    WHO    : Bryan Starbuck <Bryan@thestarbucks.com>
+    WHEN   : 2026-06-27 22:56:33 -0700 (current file add)
+    NOW    : Live at /cameras/UVU_Surveillance. FIX: add a redirect from
+             /Videos/cameras/UVU_Surveillance -> /cameras/UVU_Surveillance.
+
+
+-------- BUCKET B : BLOG TURNED OFF --------
+
+The entire Docusaurus blog was disabled. This single setting killed every
+/blog/* URL at once.
+    SETTING: blog: false   (in site/docusaurus.config.ts)
+    WHO    : Bryan Starbuck <Bryan@thestarbucks.com>
+    WHEN   : 2026-05-05 05:51:30 -0700
+    COMMIT : 9b12a16  "Bryan 13"
+
+[6] https://whoassassinatedcharliekirk.com/blog              (crawled May 8)
+    WHAT   : Blog index. Gone because blog is disabled.
+    NOW    : 404 by design. To restore, re-enable the blog in config.
+
+[7] https://whoassassinatedcharliekirk.com/blog/authors      (crawled Feb 25)
+    WHAT   : Blog authors page. Gone with the blog.
+    NOW    : 404 by design.
+
+[8] https://whoassassinatedcharliekirk.com/blog/Research/raw/based_sam_parker_posts
+                                                             (crawled Jan 7)
+    WHAT   : An old blog post that had been generated from Research/raw
+             source. Gone with the blog. (The underlying content now lives
+             as a doc at /trash/social_media_analysis/based_sam_parker_posts.)
+    NOW    : 404 by design.
+
+
+-------- BUCKET C : STILL EXISTS TODAY (stale 404) --------
+
+These three files exist RIGHT NOW at the exact crawled path. They should
+return 200 on a fresh crawl. The 404 is stale - most likely from an old
+build-failure window (the repo shows a 2026-04-16 commit 6193752
+"Unblock GitHub Pages deploy: fix MDX parse errors" - during broken
+builds Google would have hit 404s). Action: in GSC, click "Validate Fix"
+and request re-index. If they still 404 live, it is a deploy problem
+(see Bucket E), not a missing file.
+
+[9]  /Motive/Tyler_Robinson_Alleged_Motive    (crawled Mar 24)
+     File present continuously at site/docs/Motive/Tyler_Robinson_Alleged_
+     Motive.mdx. Last edited 2026-06-27. Should be live.
+
+[10] /intelligence/overview                    (crawled Mar 19)
+     File present at site/docs/intelligence/overview.mdx. Last edited
+     2026-06-27. Should be live.
+
+[11] /other_topics/overview                    (crawled Mar 6)
+     File present at site/docs/other_topics/overview.mdx. Last edited
+     2026-06-27. Should be live. (Note: most of the old other_topics
+     content was archived to /trash/other_topics/; the top-level page is
+     now a slim overview.)
+
+
+-------- BUCKET D : ARCHIVED to /trash/ (you said low priority) --------
+
+All nine of these files STILL EXIST in the repo under site/docs/trash/...
+at the exact crawled URL, and trash/ is NOT excluded from the build - it
+even appears in the generated sitemap. So on a healthy deploy they should
+serve 200. Their 404s (dated Feb-Mar) line up with the period when content
+was being shuffled into the Archive section and builds were failing.
+
+Because these live in the "Archive" (trash) section by design, and you
+said you don't care about the trash pages, the recommended action is: do
+nothing, or mark them "noindex" so Google stops reporting them. They are
+not evidence of damage - they are archived-on-purpose pages.
+
+  [12] /trash/social_media_analysis/ryan_matta_media_posts   (Mar 29) - EXISTS
+  [13] /trash/social_media_analysis/john_cullen_posts        (Mar 10) - EXISTS
+  [14] /trash/technology_surveillance/overview               (Mar 9)  - EXISTS
+  [15] /trash/organizations_groups/donald_trump_support      (Mar 5)  - EXISTS
+  [16] /trash/political_context/overview                     (Feb 24) - EXISTS
+  [17] /trash/aircraft_flight_analysis/overview              (Feb 22) - EXISTS
+  [18] /trash/campus_university/student_reactions            (Feb 13) - EXISTS
+  [19] /trash/timeline_events/12_27_mt_shooting_time         (Feb 13) - EXISTS
+  [20] /trash/legal_investigation/fbi_witness_intimidation   (Feb 11) - EXISTS
+
+  (All confirmed present via git ls-files at HEAD.)
+
+
+-------- BUCKET E : DEPLOY HEALTH (background risk, not one URL) --------
+
+Signals found during this investigation:
+  * The local site/build/ (dated Jun 30) is partial: it contains only 16
+    built trash HTML pages although the sitemap lists ~100 trash URLs, and
+    it contains NO Fix pages at all. A partial/failed build is exactly what
+    produces mass 404s in production.
+  * Commit history includes 6193752 "Unblock GitHub Pages deploy: fix MDX
+    parse errors, downgrade broken-link check" - proof the site has broken
+    the deploy before.
+  * When a Docusaurus/GitHub-Pages build fails, Pages keeps serving the
+    LAST good build. Any page you moved or added since that last good build
+    then 404s even though the source file is correct on main.
+
+ACTION: confirm the most recent GitHub Actions "pages.yml" run is green.
+If the latest deploy failed, that alone explains the Bucket C and D
+"file-exists-but-404" cases, and a successful rebuild fixes them.
+
+
+==================  RECOMMENDED ACTIONS (priority order)  ==================
+
+1. Restore Fix/Law1 and Fix/Law2 (your stated priority):
+     git mv site/docs/Fix/disabled/Law1.mdx site/docs/Fix/Law1.mdx
+     git mv site/docs/Fix/disabled/Law2.mdx site/docs/Fix/Law2.mdx
+   (and Law3/Law4 if you want all four). Then rebuild + redeploy.
+
+2. Add redirects for the genuinely-moved pages so old backlinks survive:
+     /Shooting_Locations/Charlie/Autopsy/overview -> /Medical/Autopsy/overview
+     /Videos/cameras/UVU_Surveillance             -> /cameras/UVU_Surveillance
+     /media_response/overview  -> /trash/media_response/overview (or new home)
+   (Add to the redirects[] array in site/docusaurus.config.ts.)
+
+3. Confirm the latest GitHub Pages build is green. If not, fix the build -
+   that clears most of the "file exists but 404" cases (Buckets C and D).
+
+4. Blog URLs (/blog, /blog/authors, /blog/Research/...): these are 404 on
+   purpose (blog: false). Leave as-is, or re-enable the blog if you want
+   them back.
+
+5. Trash URLs: you don't care about them - either leave them (they should
+   serve once the build is healthy) or add noindex so GSC stops flagging.
+
+====================================================================
+  APPENDIX - CHANGES BY EACH NON-BRYAN CONTRIBUTOR
+====================================================================
+
+Bottom line up front: NONE of the five accounts below caused any of the
+21 reported 404s. Every URL that broke was moved/renamed/disabled by
+Bryan Starbuck's own reorganization commits (documented above). These
+five accounts did site setup, deployment plumbing, broken-link fixes,
+and one big early content-seeding pass - all in Oct-Nov 2025 (plus one
+Feb 2026 deploy tweak). What follows is the complete list of every
+change each of them made, pulled from git history across all branches.
+
+
+==================  SAHILJOSHI690 - READ THIS FIRST  ==================
+
+Identities : sahiljoshi690 <sahiljoshi@herolabs.ai>
+             sahiljoshi690 <84909325+sahiljoshi690@users.noreply.github.com>
+Active     : 2025-10-13  to  2025-11-19
+Volume     : 17 commits | +26,645 lines added | -3,954 lines removed
+Role       : Original site builder. He scaffolded the whole Docusaurus
+             site, wired up deployment, and did the single largest
+             content-seeding pass. By far the biggest contributor after
+             Bryan. He did delete things - but they were demo junk, a
+             stray typo file, and the private master file - not any of
+             the pages in the 404 report.
+
+Did he delete anything?  YES - five deletion events:
+  * 2025-10-14 (71f790b) "Removed unnecessary folders and files": deleted
+    the Docusaurus DEMO content that ships with a new scaffold -
+    docs/intro.md, docs/tutorial-basics/* (6 files), docs/tutorial-extras/*
+    (4 files + 2 images), and src/pages/index.tsx. Pure cleanup of
+    boilerplate. Harmless.
+  * 2025-11-14 (7511389) "updates": deleted CNAME and docs/charlie-kirk.md.
+    (CNAME was re-added by rafin-whitehat; the custom-domain file churned
+    a lot in this period.)
+  * 2025-11-18 (be3f95d) "changes": deleted Research/Charlie_Kirk.txt - the
+    private master investigation file. He had just ADDED it four days
+    earlier (e688e2f, 2025-11-14) and then removed it and gitignored it
+    (561d303) so it would stop being committed into the public repo. This
+    was the RIGHT call - that file is private and must not ship publicly.
+  * 2025-11-19 (a3bb61c): deleted "docs/Charlie/overview.md]" (a stray file
+    with a trailing "]" typo in its name) and
+    docs/Topics3/Possible_) _Cover-up/overview.md (an old malformed path).
+    Both were cleanup of broken filenames.
+
+Did he change wording?  YES - massively, but all early foundational content:
+  * 2025-11-19 (a3bb61c) is his signature commit: it ADDED dozens of new
+    pages (After/, Before/, Israel/, Killer/, Motive/, People/, Timeline/
+    subpages) and edited ~40 overview pages for "clarity and consistency."
+    Notably he CREATED docs/Motive/Tyler_Robinson_Alleged_Motive.md - one
+    of the pages in your 404 list (it still exists today; its 404 is stale,
+    not his doing).
+  * 2025-11-18 (de20d8e) "level 2 pages": reworded ~23 overview.md pages.
+  * 2025-11-14 (e688e2f): content updates to ~11 pages (Before, Charlie,
+    Israel, Killer, Motive, Tyler_Robinson subpages).
+  * He also EDITED docs/Fix/Law1.md and docs/Fix/Law2.md (in a3bb61c) -
+    but he only edited their text; he did NOT move or delete them. Bryan
+    moved those into disabled/ months later (see main report).
+
+Infrastructure / renames he did:
+  * 2025-10-13 (474b6b0): initial Docusaurus scaffold (created config,
+    package.json, sidebars.ts, demo blog + tutorial docs).
+  * 2025-10-13 (37941fb): moved the entire project up out of a nested
+    charlie-kirk/ subfolder to the repo root (40+ R100 pure renames).
+  * 2025-10-14 (8ca28a8): CREATED .github/workflows/pages.yml - the
+    GitHub Pages deploy workflow the site still uses.
+  * 2025-10-14 (1bc831f, 765af8f): edited docusaurus.config.ts (site URL).
+  * 2025-10-14 (79cf7f1): updated README.md.
+  * 2025-11-12 (4817fcc, 22ca52a): renamed two Research/Topics files to
+    replace ":" with "_" in the filename (12:27 -> 12_27, 12:23 -> 12_23)
+    so they'd be filesystem-safe.
+  * Merge commits: 67a5fe8, 6dd4412 (PRs #4 and #5 from chages_by_sahil).
+
+Impact on the 404 report:  NONE of his changes broke any reported URL. He
+CREATED some of them (e.g. Tyler_Robinson_Alleged_Motive).
+
+
+==================  RAFIN-WHITEHAT - READ THIS FIRST  ==================
+
+Identity  : rafin-whitehat <99549928+rafin-whitehat@users.noreply.github.com>
+Active    : 2025-10-14 (all five commits in a single ~6-minute window)
+Volume    : 5 commits | +7 lines | -5 lines
+Role      : Custom-domain (CNAME) setup. Trivial plumbing only.
+
+Every change he made:
+  * fce578b "Create CNAME": added CNAME at repo root.
+  * aede211 "Create CNAME": added src/pages/CNAME.
+  * d4253da "Create CNAME": added static/CNAME.
+  * 7b849dc "Delete src/pages/CNAME": DELETED the src/pages/CNAME he had
+    just added (it was in the wrong place).
+  * b347ee8 "Update docusaurus.config.ts": one-line config tweak.
+
+Did he delete anything?  Only the misplaced CNAME file he had created
+seconds earlier. No content pages touched.
+Did he change wording?   No - no doc/content pages touched at all.
+Impact on the 404 report: NONE.
+
+
+==================  PRAKASH (PrakashWH) - READ THIS FIRST  ==================
+
+Identities : Prakash <pnlwlusts@gmail.com>
+             PrakashWH <prakash@whitehatengineering.com>
+Active     : 2025-10-20  to  2025-10-31
+Volume     : 5 commits (incl. 2 merges) | +75 lines | -28 lines
+Role       : Deployment fixes and broken-link cleanup. No content deletions.
+
+Every change he made:
+  * 2025-10-20 (8ba5e89) "Deployment issue fix": edited docs/Charlie/
+    overview.md, docs/charlie-kirk.md, and sidebars.ts.
+  * 2025-10-20 (ade3962) "added missing files, fixed broken links": ADDED
+    docs/Topics3/overview.md; edited Research/Big_write_up.md,
+    docs/charlie-kirk.md, docs/index.html, docs/index.md,
+    docusaurus.config.ts, sidebars.ts.
+  * 2025-10-31 (e7a8133) "broken links issue fix": edited docs/charlie-kirk.md.
+  * Merge commits: f90593d (PR #1), 4e56122 (PR #2).
+
+Did he delete anything?  No deletions at all.
+Did he change wording?   Yes - link fixes and small edits to charlie-kirk.md,
+                         index pages, and two overview pages. Low volume.
+Impact on the 404 report: NONE.
+
+
+==================  RACETRACK0616 - READ THIS FIRST  ==================
+
+Identity  : racetrack0616 <racetrack0616@gmail.com>
+Active    : 2025-10-21  to  2025-10-22
+Volume    : 2 commits | +35 lines | -3 lines
+Role      : Broken-link fixes. No deletions.
+
+Every change he made:
+  * 2025-10-21 (65af675) "Fix broken links": ADDED docs/Medical/
+    data_manipulation_and_cell_forensics.md; edited docs/charlie-kirk.md.
+  * 2025-10-22 (476c1fd) "Fix broken links": edited docs/charlie-kirk.md.
+
+Did he delete anything?  No.
+Did he change wording?   Yes - minor edits to charlie-kirk.md, plus he
+                         added one new Medical page.
+Impact on the 404 report: NONE.
+
+
+==================  BIKASH (BikashWhitehat) - READ THIS FIRST  ==================
+
+Identity  : BikashWhitehat <bikash@endtherig.com>
+Active    : 2026-02-09 (single commit)
+Volume    : 1 commit | +39 lines | -35 lines
+Role      : Deployment plumbing only. No content touched.
+
+Every change he made:
+  * 2026-02-09 (8579730) "chore: add env variables support for deployment":
+    edited .github/workflows/pages.yml and docusaurus.config.ts.
+
+Did he delete anything?  No content files. (Net -35 lines were config lines
+                         swapped for env-variable versions in the two build
+                         files.)
+Did he change wording?   No doc/content pages touched.
+Impact on the 404 report: NONE.
+
+
+==================  APPENDIX CONCLUSION  ==================
+
+* All content moves/renames/disables that produced the 21 GSC 404s were
+  Bryan Starbuck's commits (main report above).
+* The five accounts here did: initial build + deploy setup (sahiljoshi690),
+  domain setup (rafin-whitehat), deploy/link fixes (Prakash, racetrack0616),
+  and a deploy env tweak (Bikash).
+* The only deletions among all five were: Docusaurus demo/boilerplate,
+  misplaced CNAME files, the private master Charlie_Kirk.txt (correctly
+  pulled from the public repo), and two stray typo-named files. None of
+  those are pages in your 404 list.
+
+====================================================================
+  END OF REPORT
+====================================================================

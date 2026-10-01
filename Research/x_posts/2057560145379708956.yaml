@@ -1,0 +1,38 @@
+id: '2057560145379708956'
+url: 'https://x.com/ShadowofEzra/status/2057560145379708956'
+author:
+  username: 'ShadowofEzra'
+  name: 'Shadow of Ezra'
+  id: '1608459779239706627'
+text: |
+  Dan Merrell, the contractor hired to pave over Charlie Kirk's assassination scene, says he received "the call" under an emergency order to cover the area immediately.
+
+  Merrell claims the Utah governor and Kash Patel's FBI wanted the crime scene paved over without delay.
+
+  "This is above our pay grade... the governor and the FBI said they want this by Monday."
+created_at: '2026-05-21T20:32:20.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 683
+  reply_count: 106
+  like_count: 1919
+  quote_count: 60
+  bookmark_count: 463
+  impression_count: 93145
+attachments:
+  videos:
+    - type: video
+      media_key: '7_2057560093659480064'
+      duration_ms: 71579
+      preview_image_url: 'https://pbs.twimg.com/ext_tw_video_thumb/2057560093659480064/pu/img/QaOgT0jvGBetKy-b.jpg'
+      width: 1064
+      height: 576
+      ipfs_cid: 'QmRroFnN6ku7scJcNZXgTprhf8723Zic5oiBiRNogqHTRm'
+      local_filename: '2057560145379708956.mp4'
+      variants:
+        - url: 'https://video.twimg.com/ext_tw_video/2057560093659480064/pu/vid/avc1/1064x576/bspl8lFX7XEUcd1l.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+investigation: 'charlie_kirk'
+added_date: '2026-05-21'
+temp_file: false

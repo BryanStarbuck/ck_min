@@ -1,0 +1,35 @@
+id: '2078118925586338287'
+url: 'https://x.com/BlakeBednarz/status/2078118925586338287'
+author:
+  username: 'BlakeBednarz'
+  name: 'Blake'
+  id: '1247212586069827592'
+text: |
+  Did anyone catch Agent David Hull for the State of Utah testify on the change of clothes atop the Losee Center’s roof last week? I sure didn’t. We need a follow up to what you witnessed and spoke on @GovCox.
+created_at: '2026-07-17T14:05:36.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 26
+  reply_count: 20
+  like_count: 171
+  quote_count: 1
+  bookmark_count: 34
+  impression_count: 8219
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2078118121907355648'
+      duration_ms: 107766
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2078118121907355648/img/w1f1V7LYQi4Avkkx.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2078118121907355648/vid/avc1/3840x2160/XzhJ4OGisCuFI-r-.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 25128000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-17'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

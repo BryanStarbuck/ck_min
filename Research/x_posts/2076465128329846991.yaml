@@ -1,0 +1,39 @@
+id: '2076465128329846991'
+url: 'https://x.com/charlie_ward77/status/2076465128329846991'
+author:
+  username: 'charlie_ward77'
+  name: 'Dr Charlie Ward'
+  id: '2046619477308014592'
+text: |
+  BREAKING 🚨: Witness claims he knew the man police arrested for allegedly sh00ting Charlie Kirk: "And I turn and look and they're arresting a guy of [person's name]. Yeah, I know the guy. I don't think he did. I think they arrested the wrong guy. I think whoever did it was a good sh00ter, a sharp sh00ter. It was one sh0t... We need to find out who did this."
+
+  FOLLOW ME, THE NEXT DROP WILL BE SHOCKING.
+created_at: '2026-07-13T00:34:00.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 10
+  reply_count: 10
+  like_count: 105
+  quote_count: 0
+  bookmark_count: 69
+  impression_count: 329072
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2076465034088132608'
+      duration_ms: 52012
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2076465034088132608/img/8mPa99UnhOPNXqtf.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2076465034088132608/vid/avc1/1920x1068/opE1YNJs6eq9Qgm1.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+video_ipfs_cid: 'QmZHropnv47SNw2XBeaNNTfB8RAqv4nPcE1AbVTQNvdZJV'
+transcription_file: 'videos_transcription/2076465128329846991.md'
+investigation: 'charlie_kirk'
+added_date: '2026-07-13'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

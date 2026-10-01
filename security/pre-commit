@@ -1,0 +1,14 @@
+#!/bin/sh
+# Blocks a commit that carries a credential. Installed by:
+#     security/install_hooks.sh
+#
+# Scans ONLY the staged files, so it is fast. Findings print the file and line
+# number, never the value. To commit anyway (you had better be sure):
+#     git commit --no-verify
+repo=$(git rev-parse --show-toplevel) || exit 0
+[ -f "$repo/security/scan_secrets.py" ] || exit 0
+python3 "$repo/security/scan_secrets.py" --staged || {
+  echo
+  echo "COMMIT BLOCKED by security/pre-commit."
+  exit 1
+}

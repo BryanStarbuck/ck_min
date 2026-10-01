@@ -1,0 +1,33 @@
+id: '2055025567255191600'
+url: 'https://x.com/rustyrockets/status/2055025567255191600'
+author:
+  username: 'rustyrockets'
+  name: 'Russell Brand'
+  id: '19562228'
+text: |
+  https://t.co/pcbikmTiWK
+  (Post is a video-only attachment with no body text.)
+created_at: '2026-05-14T20:40:50.000Z'
+lang: 'zxx'
+public_metrics:
+  retweet_count: 221
+  reply_count: 96
+  like_count: 1968
+  quote_count: 4
+  bookmark_count: 409
+  impression_count: 49083
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2055025473495683072'
+      duration_ms: 285374
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2055025473495683072/img/3MFsQi2MaIObF6bA.jpg'
+      width: 1920
+      height: 1080
+      ipfs_cid: 'Qma3dQgv74Lr1W6yipQU8SUZYY7WNch7P18XQ9ah15rTP2'
+      local_filename: '2055025567255191600.mp4'
+investigation: 'charlie_kirk'
+section: 'Israel'
+target_page: 'site/docs/Israel/overview.mdx'
+added_date: '2026-05-15'
+temp_file: false

@@ -1,0 +1,43 @@
+id: '2079275082648809861'
+url: 'https://x.com/ArtifexMemor/status/2079275082648809861'
+author:
+  username: 'ArtifexMemor'
+  name: 'Artifex Memoriarum'
+  id: '1252326476554186752'
+text: |
+  We have found another, longer cut of the infamous "Kolvet Guilt" clip…
+
+  Listen for yourselves.
+
+  Did @AndrewKolvet make an innocent mistake, or say something he shouldn't have? 🧐
+
+  Feels like guilt and grief are two POLAR opposite emotions but, hey, I'm not a therapist 🤷‍♂️
+created_at: '2026-07-20T18:39:45.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 89
+  reply_count: 22
+  like_count: 557
+  quote_count: 7
+  bookmark_count: 71
+  impression_count: 31651
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079275053867585536'
+      duration_ms: 18239
+      width: 1080
+      height: 714
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079275053867585536/img/b6ApoITBo6No-pb6.jpg'
+  images: []
+ipfs:
+  video_filename: '2079275082648809861.mp4'
+  video_cid: 'Qmah14bm4ngcXo9FrXpLkApAHd7YtpdAHDfMiVc3LPC65m'
+quoted_status: 'https://twitter.com/artifexmemor/status/2072538401916801035'
+investigation: 'charlie_kirk'
+added_date: '2026-07-21'
+temp_file: false
+notes: >
+  Per user instruction: video only — no transcription, no post text added to
+  the site page or Charlie_Kirk.txt. Video embedded on
+  site/docs/People/andrew-kolvet.mdx.

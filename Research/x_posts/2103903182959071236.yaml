@@ -1,0 +1,37 @@
+id: '2103903182959071236'
+url: 'https://x.com/SammyTherese/status/2103903182959071236'
+author:
+  username: 'SammyTherese'
+  name: 'Samantha Therese'
+  id: '3309551639'
+text: |
+  OMG HOLD the FUCKING PHONE! Caleb Chilcutt was asked to leave the area 30 fucking seconds before Charlie was murdered !? Why!? according to Caleb!? What!? Who told him to leave the area and why!? #charliekirk @RealCandaceO @buckleycarlson @BasedSamParker @baroncoleman please do not rip my research if you use the clip and properly credit thank you @DiligentDenizen @ProjectConstitu
+created_at: '2026-09-26T17:43:02.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 149
+  reply_count: 35
+  like_count: 583
+  quote_count: 16
+  bookmark_count: 213
+  impression_count: 55951
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2103894250228158465'
+      duration_ms: 10033
+      width: 1180
+      height: 2556
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2103894250228158465/img/ZbE9NV6awdK5sryV.jpg'
+      local_file: 'videos/2103903182959071236.mp4'
+      ipfs_cid: 'Qmf73VuTpkMeiHWvyKvQrxFZFtu8mzehfVC8u2E8mWEmAR'
+      sha256: '978a223b4a163fc92f9d355b78caecabb773d859505d941f59fc92a0f966e6b6'
+  images: []
+note: 'Video is a phone screen recording of a Facebook video posted by an account shown as "Foundation for Indi..." (name truncated) captioned "The student who invited #charl..."'
+investigation: 'charlie_kirk'
+added_date: '2026-09-27'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

@@ -1,0 +1,50 @@
+id: '2074570091673649274'
+url: 'https://x.com/ArtifexMemor/status/2074570091673649274'
+author:
+  username: 'ArtifexMemor'
+  name: 'Artifex Memoriarum'
+  id: '1252326476554186752'
+  bio: "you've probably seen my work | part time autist, full time American | prev. @tpusa, @charliekirk11, @humaneventslive | whitegoysummer"
+text: |
+  🧐 [image] (quote-linking https://twitter.com/artifexmemor/status/2074384266948157736)
+created_at: '2026-07-07T19:03:48.000Z'
+lang: 'qme'
+public_metrics:
+  retweet_count: 62
+  reply_count: 9
+  like_count: 250
+  quote_count: 5
+  bookmark_count: 19
+  impression_count: 7905
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2074570088628584448'
+      url: 'https://pbs.twimg.com/media/HMpagQpbgAALCBE.jpg'
+      width: 1320
+      height: 1297
+      local_file: 'images/2074570091673649274_1.jpg'
+      ipfs_cid: 'QmVA7WhYwAvFXe7rjdrgrRwdCJpprLG39vrS3Xp8PK2otq'
+      ipfs_gateway_url: 'https://ipfs.io/ipfs/QmVA7WhYwAvFXe7rjdrgrRwdCJpprLG39vrS3Xp8PK2otq'
+ocr_text: |
+  Jack Posobiec @Jack... · 02.04.22
+  "Military sent me down to Ft Huachuca couple times for training. We used to walk
+  over the border to get lunch in Nogales. Then there's that time I took Tanya to
+  Juarez. That was a great livestream and we almost got deported (her fault not mine)"
+  [Quoting a reply "THEY CALL ME MR. TIBBS! · 02.04.22 — Replying to @JackPosobiec —
+  Ever been to Southern border?"]
+  Tyler Bowyer @tylerbowyer · 2d (CIRCLED)
+  "jack stop going to huachuca"
+analysis: |
+  Fort Huachuca, AZ is the U.S. Army Intelligence Center of Excellence / home of the
+  Military Intelligence Corps. @ArtifexMemor (former TPUSA/Charlie Kirk staffer) circulated
+  this Feb 2022 exchange as a pointer to Jack Posobiec's documented Naval intelligence
+  background. Both Posobiec and Bowyer are living public figures. The exchange is banter;
+  nothing in it connects either to the Sept 10 2025 assassination. Relevant to the site's
+  intelligence-services-connections theme as CONTEXT only, not accusation.
+site_pages_created:
+  - site/docs/People/jack-posobiec.mdx
+  - site/docs/People/tyler-bowyer.mdx
+investigation: 'charlie_kirk'
+added_date: '2026-07-07'
+temp_file: false

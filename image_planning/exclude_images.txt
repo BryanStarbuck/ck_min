@@ -1,0 +1,143 @@
+# exclude_images.txt — sha256 of images that must NEVER be published.
+#
+# Read by generator/gen_photos_pages.py. An excluded sha256 gets no page and no
+# copy under site/internals/static/img/evidence/; if either already exists it is
+# deleted on the next run. Excluding here does NOT remove the entry from
+# images/images.yaml, formerly image_planning/hierarchy_images.yaml (that file is
+# read-only to the page generator) — it is
+# the publish-time gate, so the exclusion survives every regeneration.
+#
+# Format: one sha256 per line. Text after '#' is a comment.
+#
+# ---------------------------------------------------------------------------
+# PRIVATE / PERSONAL MATERIAL — swept into the mirror by accident, has nothing
+# to do with the investigation. Publishing these exposed account identifiers,
+# balances, card details, booking codes, email addresses and the names and
+# faces of private individuals. The page prose omitted those details, but the
+# IMAGE ITSELF was served full-size at a public URL, so prose care was not
+# sufficient. Pulled 2026-07-22.
+# ---------------------------------------------------------------------------
+
+cdfbfa9a7187adda0d85097b309530abcd57ddf57990c0bb007ce271236caa4e  # university student billing portal, completed transaction
+25ce52feb9989e3841cba718aa1e203ab168c4ceea003afd37aa248f0f32550d  # same billing portal, payment-method step
+fed2df8998e04a356aea056e25e2e313b71a4cd2f3b909b9d665143a1d9c2002  # airline booking confirmation with confirmation codes
+71544028956d7f3791c7495d16bf8ffbffae7c7e66ed938eb19e6f70f7bcd0cd  # video-call participant list, 15 named people
+92e6f533decd83c5d53417a7c5eb6aa083d864f668c3cfbf20da38bc1e6f1b8c  # private investment platform, payment history
+abfc74e598dbea40fbe29c0278397f314da8fa939cf8e2a7bbe82c4bcf8c9504  # insurance / claims billing table
+70ba758feee2825bb1b35724571dc040cb062ea332e43e3f14e60c57cded495d  # health savings account dashboard, balance + card details
+069910f01049dec25677f742fb5ead2176ed6cd6c5725d7ef0b58aa1d6519425  # internal video-production app, backend screen
+3e32ecdd7947b345c5aa86af73eb9f288a755f02e787c93f85cf38f1e0038346  # internal production task spreadsheet
+18a68283285032469c1dc29b4770109ebc646b6e8daf5a4564e5646dd774ef94  # same production task spreadsheet, second capture
+5579888e7f346d03b97d5720991e699a0580dfc493b2fdf96f89aaa6288c72c4  # 20-tile video conference grid, participants' faces
+
+# ---------------------------------------------------------------------------
+# OUR OWN MEME DRAFTS NAMING LIVING OFFICIALS — not evidence. The 14 files below
+# are the working versions of ONE graphic (mirror path Spy_Plane/MEMEs/Versions/
+# SpyPlane_2, files Slide1-Slide15). Every slide carries byte-identical text;
+# Slide1 has a typo ("send the N1098L") corrected to "sent" in the rest. They are
+# this project's own production scratch, so publishing them as an evidence
+# cluster misrepresented the corpus — and they were filed under Aircraft and
+# Flight Evidence, three levels deep, rather than with commentary graphics.
+#
+# They also caption two living, serving FBI officials by name onto a screaming-
+# goose meme template in an accusatory frame. Same lesson as the block above:
+# the IMAGE is the payload at a public URL, so careful page prose is not
+# protection. Excluded 2026-07-22 instead of writing cluster prose for them.
+# Excluding all 14 empties the SpyPlane_2 node, which also drops the
+# MEMEs and Versions cluster pages above it (they held no images of their own).
+# ---------------------------------------------------------------------------
+
+0fdcfd26a52a6e1da3b5ddafd9443145e125352d3654d8cff6af9dc5433739ee  # Slide1 - meme draft, typo version ("send")
+838c38025a858900b60b2dc754c1c0148b33cc855261ea66ce36e0f9d3d6f3eb  # Slide2 - meme draft
+816bac33d988f4570e44e2f45b27558ea905b4a978942fcc420d1aa1b174af6b  # Slide3 - meme draft
+785df2976cadfef7efba0732c9c588fccdf8ed8d24972c544cf8398f7629a0d6  # Slide4 - meme draft
+32c32d48370aa155523c5149a71b3f54686629ecdcc62a0e7a45e9a808745222  # Slide5 - meme draft
+c09297079da50a28e092c06e31fe3e676f8087aec4892a787f40a349e3be3900  # Slide6 - meme draft
+2fd572d1055c2596e89f501ea48bdcc20f466167d147abf859184282d2422133  # Slide7 - meme draft
+a0a7818b909f9d3ddda60de515201f35251485bdb4f1a1f04ceaa29609bd8598  # Slide9 - meme draft
+72711b5293b7dd47c3139fed7198ec0249cd59e96e7e69ddf6fd84900d24d3ba  # Slide10 - meme draft
+b92254e4c91a4e0debf12fe8b897951bd97dd72bd2e0a7c51611652f4ce4d543  # Slide11 - meme draft
+80951b08b62917f963373e9260c5058c4f8633c01bca34303431f5afbb65694d  # Slide12 - meme draft
+9cd0077ffa9a7f78f30a6f4a2789363d5269ecfd539813550c05bced8fb2f5d1  # Slide13 - meme draft
+d27b00c57b79ad6dc543bb26f56619b84d9133123e2d8391ea151b0f8d16120c  # Slide14 - meme draft
+5a425e6d9679e66b43985ef09f64e1a3a0f018037b8438ea487e3f308c0caa5f  # Slide15 - meme draft, final version
+
+# ---------------------------------------------------------------------------
+# OFF-TOPIC MATERIAL — voter-fraud / election content and other non-CK topics
+# swept into the Unfiled Backlog. Not about the September 10, 2025 shooting.
+# The 45 voter-fraud images were MOVED to the holon voter_fraud investigation
+# (holon/pub/investigations/voter_fraud/images/from_charlie_kirk/). Pulled 2026-07-22.
+# ---------------------------------------------------------------------------
+04ff4b4ac7f880908ebf75aad77aa067b518d9b4d4314783e44f54268f02b0ab  # voter fraud -> holon: Post on a Cancelled Fulton County Records Hearing
+1be1c35209e125b4477d899b97e68e5926a32040fa7b78c82f2a3cf83e95c7d1  # voter fraud -> holon: Post on a Florida Phantom Voter Report
+1d303e85784501fab305be158f6c235e12de15e541e5f07c65003a6cc1d6f1cf  # voter fraud -> holon: Post on Records Said to Show a Registration Scheme
+200d3da8d0531692a80ad5e6e3277ac66a05e34ff25a4a6aabbc9f10d69868ff  # voter fraud -> holon: Post on Voting Machines Down in Three Districts
+285496d499d74baf654d3a2c4e3449f0509887f12168e0765a47fe408a7676f6  # voter fraud -> holon: Post on Georgia 2020 Election Claims
+3f3437d20c4e480cac75256817335d60a50c6934104d5142f412f93d03701b77  # voter fraud -> holon: Post on Arizona 2020 Ballot and Software Claims
+44e83f3bc8937a2143f5fd49f4244d2d81a869cc01d553a32c5965754684e6c8  # voter fraud -> holon: Second Post on the Arizona Hearing Claims
+4884c98884d071edbd1e18748fb6d7feef612d58cf120d7fde9b6941bbd991db  # voter fraud -> holon: Post Comparing New Jersey Vote Totals
+5504721b91ce5286e86287b93aaeff3c1f5d4934a35bafd5ee6e3c505f338c64  # voter fraud -> holon: Post Listing Attorneys General and an Advocacy Group
+5cbc1c4360deeb56abfaf825a8f1623e0c902cf10ab90580b91b77b7afc27ea2  # voter fraud -> holon: Post on Arizona Hearing Testimony Claims
+6012a62f306b372c37f1070b9cb1fcd2acf32e962a6f74c14489f1f6ef2e252f  # voter fraud -> holon: Post on Georgia Affidavits From 2020
+62930174741ccd0da20bd7c13d8d876b4f19670e92a970e07446616d7d21d52f  # voter fraud -> holon: Single Post on a Gstaad Whistleblower Meeting
+6533d04deb8ac9ec50ff769b0cc7bbf86ae83ce112da48f84fe153810da3f391  # voter fraud -> holon: Post Quoting a Maricopa Audit Document
+65d84b500dfdd6a33154033002ab5ee7934d8f08ed5a78fcc944283d71c2df42  # voter fraud -> holon: Post Relaying a 2022 Poll Worker Account
+6779df5cbddac37a00f8298a79308465de6ad014adead17f1efe519eea0931d2  # voter fraud -> holon: Post on Fulton County Hand Count Discrepancies
+693772296b6b987e1197c6235692efebe29afa55fc69c75e0e36291a3df2b722  # voter fraud -> holon: Official Confirmation on the Chester County Poll Books
+6c41d7f0ec181d4b428055e018d017924fba0a5d43a5b4b35d53d7006dee5584  # voter fraud -> holon: Michigan Cumulative Vote Chart
+6d7c9654f5385c03223ce3dd9ad9700ec61b5f0c3e974c9d1cadddaf4ce90d27  # voter fraud -> holon: Post on Maine Ballots Found in a Package
+7b6ab559bd3d4703fce4283aa4359f97c91c44df379397d39f34831f08237679  # voter fraud -> holon: Post Claiming Pre-Filled Mail Ballots
+805eda53651107ee153b3faf5dd1ff149be6d7a4be2c995267a970557c56e0d2  # voter fraud -> holon: Election Fraud Claim With a Posted Rebuttal
+8160ef3477bdc9021587a96f18421e7a44cecfa3d09b2608cd665bee6093adda  # voter fraud -> holon: Post on Claimed Foreign Election Interference
+85199e4b47d991e8e4e7b196a9c331d21957d3e066f3b5d4fa895bcfdd5bcf59  # voter fraud -> holon: Post on Fulton County Ballot Duplication Claims
+89602ae861ce17ed86c203a282246d42dce31386002b1ab47882e327d5745de2  # voter fraud -> holon: Post Alleging Pre-Filled Ballots at a Polling Place
+93c85b5e9609d0b13026bc4d05306ecbbe7146ed73ac0180561954633f8c0859  # voter fraud -> holon: Post on a Nevada Federal Election Inquiry
+997898dfc577ab136a7f19c4d0b2c8db093d50b5d1742dfe09e98dc4ad8d35d6  # voter fraud -> holon: Post on a Fulton County Elections Board Meeting
+9a8ab3421829e50e3fc2ba08cfdf0f1b5c186b5ed7d2eabe9b29d0aecc5be9d5  # voter fraud -> holon: Arizona 2020 Audit Background With Results Table
+aadc1cf7d80d6927a0597c795c59900809448773346c8aa79580b09ccd1a5b22  # voter fraud -> holon: Post on Fulton County Ballot Access Claims
+aef300a1d99ba326e63dfb213a1ccd3833ed2fd24c0df5787588e7f0ef213ab2  # voter fraud -> holon: Follow-Up Post on the Attorneys General Emails
+b357099d8979fac83b624460c513398063b3982c72e007cbc5fe68e25cf161c4  # voter fraud -> holon: Post on an Email Chain About a Hidden Network
+c27c4731ff7833e4e404f9e44a4a2e86949148c16fa428111f250ec127fe6c4b  # voter fraud -> holon: Long Thread on Claimed 2024 Election Operations
+c8e58d0f4c467f38d7d81c9e243071d2ba31f305604086fb1e1345e9f78f05eb  # voter fraud -> holon: Post on a Postal Service Ballot Sample Request
+cb4dcb8b5d09e13dc5f6387f8e34ee20aa200ad9d89f1756aa6b7b41f8aad8aa  # voter fraud -> holon: Post on a 2021 California Recall Vote Tally
+d172fd000fee976b5a62f25cb64a6ed428fe3f9a63ff14aee59dc94da96183e0  # voter fraud -> holon: Post on a Voting Systems Company Rebrand
+d1785f2c4947943f2118263098d6f594641858e532884a6b6682bd4f37bea06c  # voter fraud -> holon: Post on Boarded Windows at a 2020 Count
+d1e0759d0151d69c5d5f477096ffa56f2c2036d4485acb516dd250c03615d641  # voter fraud -> holon: Post on an Arizona Signature Match Claim
+d37de024a9b6f749e2d9fb351ad810e7d83bdc4fc9fa6b70519bb8acfc554678  # voter fraud -> holon: Post on Colorado County Results Being Pulled
+d9f1142464d8f9dc56b89caa12ec487cb11c51796a7aeb5043f98c1496b5f6b8  # voter fraud -> holon: Post Quoting a Venezuelan Official on Records
+de15ea7e06b7b2d83036bf1977644792201ee48395bec4bf49258355646d6dff  # voter fraud -> holon: Press Release on the Voting Systems Acquisition
+e06d79d74bbccdac9155a64174afe95c0169b915aa9e930c4b3135afe3e1f130  # voter fraud -> holon: Post on Detroit Surveillance Footage Claims
+e57ad3e1867c6ca13d8ad5abc3be846b45a0c7c8f0b12a0fb7decf2b8760802a  # voter fraud -> holon: Post on Chester County Polling Book Problems
+e6299dab09495f4f9b48549c7d2278b1895ae1b7d448f360e8d8bf4e9f8a2eb7  # voter fraud -> holon: Post on a Nevada Criminal Referral Claim
+ea55f1068547e0c495fc3875b36a2aa94981d82b4a2510e941e1f164279d747b  # voter fraud -> holon: Post on a California Ballot Legal Memo
+eb93df7385098f03129bcd0c208dbcc688930e72e537d0f5fcbc05f79efb0319  # voter fraud -> holon: Careful Rebuttal to an Election Fraud Book
+f2dada9120a272a063000d2a39885092433555311d786239256cf647ffce4d31  # voter fraud -> holon: Post on New Jersey Voter Roll Growth
+ff82d3d7bbec30694393178776340dbd5f0f4819e0d9f4a53415eb547b4dd371  # voter fraud -> holon: Post Quoting a Book Passage on Vote Shaving
+# --- off-topic, removed from CK (no destination) ---
+82e100bd12d7212f2a135582b74bb991fb9fa5df0844de36240b0002af17467d  # off-topic: X Profile Screenshot with an Epstein Files Repost
+ff90d60c1e365c050a9df26c501178b7dc06259655e5fdc8d332393ad372dadf  # off-topic: Search Trend Claim About the Bondi Beach Attack
+
+# ---------------------------------------------------------------------------
+# Skyler Baird cluster — 2026-07-23.
+# ONLY the single image below is excluded. It is a TikTok repost of a CNN clip
+# with an accusatory text overlay stamped across the frame; the overlay is the
+# accusation, so the image cannot be published even with a caption around it.
+# UPDATE 2026-09-19: the Robbie Parker PBS screenshots and the Baird/Parker
+# side-by-side comparison are now banned in images/ban_images.csv. Robbie Parker
+# must not appear on the site. Skyler Baird's own broadcast and selfie frames
+# stay on the site.
+# ---------------------------------------------------------------------------
+
+5ab069b43fe4e708895664c46a1d4b8fea796498072c0fde4eb84a81c420062e  # TikTok repost with accusatory text overlay stamped on the frame
+
+# ---------------------------------------------------------------------------
+# TPUSA "predicted-assassination" stadium-rental screenshot. AI-search
+# screenshot alleging TPUSA booked State Farm Stadium in advance (May 2025) in
+# a rental agreement that supposedly foretold the Sept 10 2025 assassination.
+# Unproven foreknowledge accusation against TPUSA (a living organization); the
+# claim is stamped into the image with red overlays and cannot be cropped out.
+# The stadium was the legitimate Sept 21 2025 memorial venue. Also listed in
+# images/ban_images.csv. Removed at user request 2026-07-23.
+# ---------------------------------------------------------------------------
+
+f34e75eab44d5e31a0fdbd1cefd5f230bb466d74cafba8d0bf46e812183bde9f  # TPUSA/State Farm Stadium "predicted assassination" rental-agreement screenshot

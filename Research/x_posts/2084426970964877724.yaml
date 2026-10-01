@@ -1,0 +1,44 @@
+id: '2084426970964877724'
+url: 'https://x.com/SenseReceptor/status/2084426970964877724'
+author:
+  username: 'SenseReceptor'
+  name: 'Sense Receptor'
+  id: '1356015027862401024'
+text: |
+  NEW: Marjorie Taylor Greene gives her opinion on the Charlie Kirk assassination:
+
+  "I am very much compelled by the lapel-mic stories... and I've shot a .30-06... and I know the damage that that bullet does... so it's hard for me to go along with the traditional narrative"
+
+  "I think there's more there, and I think the investigation seems to have been held back, and I don't think we have the full story"
+
+  "[But] I just haven't waded into it... there's just a lot there that's very questionable. The way his team reacted so quickly, pulling out SD cards, just going around collecting so much equipment and evidence, as Charlie Kirk is bleeding out, and then paving over the area literally two days later"
+
+  "But... you won't find me on social media debating these things. Because guess what? I wasn't at the crime scene. I wasn't there. I wasn't an eyewitness. I'm not in the courtroom"
+
+  "So I'm not saying that I'm an authority on the matter, but I do question a lot of things, and I think it'd be ridiculous for anyone to not question at this point. Where we are in our history to not question things, is, I would consider that unintelligent"
+
+  @FmrRepMTG @BrandonStraka
+created_at: '2026-08-03T23:51:31.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 63
+  reply_count: 42
+  like_count: 438
+  quote_count: 3
+  bookmark_count: 90
+  impression_count: 27706
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2084425717472002048'
+      duration_ms: 229390
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2084425717472002048/img/8Z8BHIaACFxGELVA.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2084425717472002048/vid/avc1/1920x1080/HGvInbu8454TRgmY.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-08-04'
+temp_file: false
+subject: 'Marjorie Taylor Greene comments on Charlie Kirk assassination'

@@ -1,0 +1,33 @@
+All 19 targets downloaded and verified. Final state:
+
+**KEPT: 200 files, 268,318,612 bytes, 0 failures.**
+Destination: `/Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/github-community-mirrors/`
+Log: `/Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_github-community-mirrors.txt`
+
+**manifests/ (item 1) — 1 file, 572,004 B**
+`2026-08-31_CharlieFiles_Full_File_Manifest.json` — 572,004 B, valid JSON, enumerates all 367 mirror files.
+
+**burkhart/ (items 2–8) — 8 files, 3,251,540 B**
+- `2026-08-31_Burkhart_..._docket.html` 788,478 B + `.txt` 81,736 B — docket page. Confirmed the raw parse reaches 8-31-26; the earlier WebFetch "ends Feb 2026" summary was indeed a truncation.
+- `2026-07-08_PRELIMINARY_HEARING_Minute_Entry.pdf` 729,039 B
+- `2026-07-10_Request_Speedy_Disposition_and_Prompt_Bindover.pdf` 93,068 B
+- `2026-07-28_Memorandum_Supporting_Preliminary_Hearing_Bindover_State.pdf` 319,679 B (~29p)
+- `2026-08-11_Defendant_Robinson_Preliminary_Hearing_Briefing.pdf` 389,135 B
+- `2026-08-18_State_Reply_Supporting_Preliminary_Hearing_Bindover.pdf` 277,548 B
+- `2026-08-28_Defendant_Robinson_Discovery_Status_Report.pdf` 572,857 B (~17p)
+
+**charliefiles/case-files/ (items 9, 10, 14) — all 77 case-file PDFs.** Includes the three named targets: `2026-06-26_court_ruling-contempt-order-to-show-cause.pdf` 918,590 B (~20p, the one Burkhart lists as "Not obtained"), `2026-06-01_court_ruling-grant-osc-deny-compel-discovery.pdf`, and `2026-01-09_defense_motion-prohibit-alteration-bullet-jacket-fragment.pdf` 1,369,739 B (PDF 1.7 with compressed object streams — valid `%%EOF`; a strings-based page count reads 0 on it, which is the encoding, not damage).
+
+**charliefiles/uvu-grama-records/ (item 15) — 4 files, 61,143,778 B.** Production 2 is the large one at 47,681,866 B.
+
+**charliefiles/transcripts/ (items 11, 12) — all 13 `transcripts/court/` files, 29,862 lines.** Prelim Days 1–5 present (Day 4 largest at 9,129 lines); plus Contempt Evidentiary, Twiggs Subpoena, Camera Access, both Disqualification parts, Initial Appearance, Dec 11, and the index.
+
+**charliefiles/exhibits/ (item 13) — 59 PNGs: day1 8, day2 18, day3 1, day4 32 (~109 MB).** Exhibit 24 burnt confession note, Exhibit 30 known DNA sample, Exhibit 31, Exhibit 32, the "inconclusive" bullet-analysis explanation, each engraved cartridge case separately, gun-in-bushes, the clothing-change and limp stills, and the Robinson/Twiggs texts.
+
+**grabien/ (items 16–19) — 2 files + 36 filings PDFs.** Archive page 333,678 B HTML + 212,415 B extracted text; the exhibit ledger survives the extraction (128 ADMITTED, 2 NOT ADMITTED, 19 not-broadcast, 4 screens-only markers). Filings keep docket numbers in filenames, including `2025-12-15-ruling-clarify-publicity-order-dkt242.pdf` 233,601 B (~3p) and `2025-12-17-motion-to-disqualify-ucao-dkt250.pdf` 2,744,947 B (~47p).
+
+**FAILURES: none.**
+
+One correction worth flagging, since the first pass reported 42 failures that were not real: those were a bug in my own fetch harness, not any host. I inserted `-e <referer>` at argv index 3, which landed between `-A` and its value, so curl consumed `-e` as the User-Agent and treated the referer and UA strings as extra URLs — binary PDF bytes then hit stdout and the wrapper died decoding them as UTF-8. It affected exactly and only the referer-sending requests (6 Burkhart + 36 Grabien). After the fix all 42 fetched cleanly on the first retry. No host in this lane blocked, throttled, or refused us.
+
+No routes need a human here. The one real gap is upstream: Burkhart marks 525 further docket entries "Not obtained" — those exist only behind Utah XChange, which is paid, so I did not attempt them.

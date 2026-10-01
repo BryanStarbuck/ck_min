@@ -1,0 +1,87 @@
+---
+displayed_sidebar: docs
+title: "How Phones Could Be Tracked from Utah to Islamabad"
+sidebar_label: "How Phones Are Tracked"
+description: "The three ways a phone seen at UVU could be recognized again at the Serena Hotel — carrier/SIGINT records, IMSI-catchers, and commercial advertising location data — what 'Israeli-registered' means, and what each method can and cannot prove."
+keywords:
+  - phone tracking
+  - SIGINT
+  - IMSI catcher
+  - advertising ID location data
+  - Israeli-registered phones
+  - Serena Hotel
+image: "/img/docusaurus-social-card.jpg"
+hide_table_of_contents: true
+---
+
+{/* Full-bleed marker */}
+<div className="ck-full-bleed" />
+
+<a href="/serena_hotel/overview" style={{display:'inline-block', marginBottom:'1rem',
+padding:'0.35rem 0.9rem', background:'#1a73e8', color:'#fff',
+borderRadius:'4px', textDecoration:'none', fontSize:'0.9rem'}}>← Serena Hotel</a>
+
+# How Phones Could Be Tracked from Utah to Islamabad
+
+For the Serena claim to be true, someone had to recognize the **same device** twice, seven months and 12,000 km apart. There are only a few ways that can be done. Each leaves different records and has different weak points. Knowing which method was used tells you which records to ask for ([Records That Would Settle It](./records_to_settle)).
+
+## What "Israeli-registered" can mean
+
+* **An Israeli SIM.** Every SIM carries a country code (MCC). Israel's is **425**. A phone with an Israeli SIM that roams onto a foreign network announces that code to the network.
+* **An account opened in Israel.** This is how Candace Owens put it: "personal cell phone accounts that were opened in Israel." That could mean the carrier account, or an app or advertising profile whose home country is Israel.
+* **A device whose data says "Israel."** In commercial location data, the device's country is often inferred from its language, carrier, or where it usually spends the night.
+
+These are different things. A traveler of any nationality can carry an Israeli SIM, and an Israeli can carry a local or third-country SIM. "Israeli-registered" says where the account came from, not who is holding the phone.
+
+## Method 1: Carrier and signals-intelligence records
+
+When a roaming phone attaches to a network, the network logs its **IMSI** (subscriber ID) and **IMEI** (handset ID). An agency with access to those logs in both places, the U.S. for UVU and Pakistan for Islamabad, can match the identifiers. This is the version the **NSA** / **Bumblehive** story implies. It is also the most conclusive: a matched IMSI/IMEI pair is close to proof that it was the same phone.
+
+One complication belongs to Pakistan. Pakistan has **no diplomatic relations with Israel** ([Wikipedia: Pakistani passport](https://en.wikipedia.org/wiki/Pakistani_passport)). If Pakistani carriers have no roaming agreement with Israeli carriers, an Israeli SIM could not register on a Pakistani network at all. It would have to use Wi-Fi, a satellite link, or another country's SIM. If that is right, a detection in Islamabad more likely came from Method 3, or from Pakistan's own security services, than from ordinary roaming.
+
+## Method 2: IMSI-catchers (fake cell towers)
+
+An **IMSI-catcher** pretends to be a cell tower and collects the identifiers of every phone nearby. Tony Seruga wrote that "dozens" of them were active around UVU on September 10. He believed most were law-enforcement units deployed during the manhunt. A high-security venue like the Serena, run by Pakistani security and U.S. advance teams, would very likely have its own. Either way, the records sit with the operator of the catcher, not with the public.
+
+## Method 3: Commercial advertising location data
+
+Phone apps sell precise GPS points tagged with an **advertising ID**. Data brokers package these, and analysts can query: *which devices were in this polygon at this time, and where else have they been?* This is how private analysts count crowds and trace devices without any government access. Seruga's earlier public work fits this pattern. His March 2025 posts counted "20,189 devices" at a rally and profiled their attendance at past events ([X, @TonySeruga](https://x.com/TonySeruga/status/1903677337406992400)). His Serena post describes an automated alert: "Our system just alerted us."
+
+What this method can show:
+
+* That the same advertising ID was at UVU on September 10, 2025 and inside a location polygon in Islamabad on April 10, 2026.
+* The device's inferred home country, language and carrier.
+
+What it cannot show on its own:
+
+* **Who** carried the phone. Advertising IDs are pseudonymous, although the NSA "Bumblehive" argument is that they can be de-anonymized.
+* **Which building** exactly, if the GPS fix is loose. The Serena sits next to the Foreign Ministry, embassies, and the One Constitution Avenue tower ([The Red Zone](./red_zone)).
+* **Whether the phone was working at all** inside a venue that restricted phones ([Who Could Get Inside](./hotel_lockdown_access)). Phones left in hotel rooms still report location.
+
+## Reading the claim with this in mind
+
+The accounts use the phrases "raw GPS data," "our system just alerted us," and a separate, smaller "NSA-filtered" count. Read together, they suggest a **commercial-data** trace for the Serena half and an alleged **government SIGINT** count for the UVU half. They are two different evidence chains, and each needs its own records. The posts do not say which applies. Asking the source that directly is the fastest way to move the claim forward.
+
+## Related Areas
+
+<div style={{display:'grid', gridTemplateColumns:'1fr 1fr', gap:'0.5rem 2rem',
+marginTop:'0.5rem'}}>
+<div>
+
+* Technology and surveillance in the case
+* Drones reported over the event
+* [Google search patterns before the event](/GoogleSearches/overview)
+
+</div>
+<div>
+
+* Proof of intelligence-service indicators
+* [Israel IP search-pattern claims](/GoogleSearches/israel-ip-search-patterns)
+* How X de-boosts citizen investigators
+
+</div>
+</div>
+
+{/* CK_AUTHOR_CREDIT */}
+
+*This website's author is [@HolonCitizen](https://x.com/HolonCitizen) on X and [YouTube/@HolonCitizen](https://www.youtube.com/@HolonCitizen). Follow me there.*

@@ -1,0 +1,45 @@
+overlap_id: PAIR-SU-BND-N79SC-2025-09-10
+date: 2025-09-10
+person: kirk_side
+dir_name: 2025_09_10_KPVU_KirkSide_UT_provo_N79SC_SU_BND
+evidence_basis: adsb_ground_contact
+airport:
+  code: KPVU
+  name: Provo Municipal Airport
+  city: Provo
+  state: UT
+  state_name: Utah
+  timezone: America/Denver
+  town_population: 115162
+  town_population_source: US Census 2020
+following_plane:
+  tail: SU-BND
+  type: Gulfstream IV
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2025-09-05T19:14:29Z, source_zone: UTC}
+      to:   {utc: 2025-09-13T18:57:48Z, source_zone: UTC}
+      basis: flight_record
+      sources: FlightAware AeroAPI, restated in flightaware_derived/us_flights.csv
+kirk_plane:
+  tail: N79SC
+  label_lead: "N79SC, second Learjet at the Kirks' events"
+  type: Learjet 60
+  operator: Private / Kirk party
+  segments:
+    - from: {utc: 2025-09-11T02:23:37Z, source_zone: UTC}
+      to:   {utc: 2025-09-11T02:56:09Z, source_zone: UTC}
+      basis: ground_contact
+      ground_points: 203
+      sources: airplanes-live
+axis:
+  from: {utc: 2025-09-11T00:23:37Z, source_zone: UTC}
+  to: {utc: 2025-09-11T04:56:09Z, source_zone: UTC}
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: SU-BND from FlightAware's flight record (landing from a local loop on 5 Sep; at the field since 23 May, arrival to next departure, inferred, not watched); N79SC from recovered ADS-B traces (first and last heard on the ground). As of 2026-09-28."
+caption: "SU-BND on the ground at Provo Municipal Airport per its flight record; N79SC as heard by volunteer receivers, a minimum. A shared ramp shows two aircraft at one airport. It places no person aboard either, and no record here ties this jet to either Kirk on this date."
+sources:
+  - site/docs/Planes/following/apis/proprietary/data/flightaware_derived/us_flights.csv
+  - site/docs/Planes/following/apis/public_open_source/data/analysis/master_proximity.csv
+  - site/docs/Planes/info_graphic/code/build_pair_yaml.py

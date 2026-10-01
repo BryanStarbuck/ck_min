@@ -1,0 +1,115 @@
+{
+ "buckets": {
+  "1": [
+   "Influencers"
+  ],
+  "2": [
+   "People"
+  ],
+  "3": [
+   "Suspicious"
+  ],
+  "4": [
+   "Charlie",
+   "Messages",
+   "Tent",
+   "Other",
+   "Witnesses"
+  ],
+  "5": [
+   "Timeline",
+   "distraction_people",
+   "Gun_Bullet",
+   "Gov_Mind_Control",
+   "cameras",
+   "Motive",
+   "Your_Actions_Fix_It",
+   "political_context"
+  ],
+  "6": [
+   "laws",
+   "GoogleSearches",
+   "Law_Enforcement",
+   "Security_Team",
+   "Legal",
+   "US_Intelligence_Assisted",
+   "security_law_enforcement"
+  ],
+  "7": [
+   "Tyler_Robinson",
+   "After",
+   "UVU",
+   "intelligence",
+   "Killer",
+   "Tyler_Robinson_Not_Assassin",
+   "analysis_documentation",
+   "social_media_analysis"
+  ],
+  "8": [
+   "TPUSA",
+   "Topics3",
+   "Consciousness_Control",
+   "Iran",
+   "Before",
+   "Topic-Analyses",
+   "campus_university",
+   "technology_surveillance"
+  ],
+  "9": [
+   "court",
+   "Media",
+   "Locations",
+   "Proof_Intel_Services",
+   "Drones",
+   "Electrocution",
+   "Cause_of_Death",
+   "gov"
+  ],
+  "10": [
+   "Medical",
+   "Israel",
+   "FBI",
+   "Proof_Not_Tyler",
+   "Suspects",
+   "Theories",
+   "Companies_Organizations",
+   "government_organizations"
+  ],
+  "11": [
+   "CoverUp",
+   "Amfest",
+   "Israel_Main_Suspect",
+   "Censorship",
+   "US_Intelligence",
+   "Defamation",
+   "maps",
+   "Topics",
+   "legal_investigation"
+  ],
+  "12": [
+   "Mic",
+   "Planes",
+   "Fix",
+   "Roof",
+   "key_individuals",
+   "Narrative",
+   "organizations_groups",
+   "Vote",
+   "other_topics"
+  ]
+ },
+ "totals": {
+  "1": 291,
+  "2": 217,
+  "3": 135,
+  "4": 124,
+  "5": 124,
+  "6": 124,
+  "7": 124,
+  "8": 124,
+  "9": 123,
+  "10": 123,
+  "11": 123,
+  "12": 123
+ }
+}

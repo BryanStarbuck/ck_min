@@ -1,0 +1,52 @@
+overlap_id: OWENS-038
+date: 2025-07-20
+person: erika
+dir_name: 2025_07_20_KOMA_Erika_NE_omaha
+evidence_basis: adsb_ground_contact
+airport:
+  code: KOMA
+  name: Eppley Airfield
+  city: Omaha
+  state: NE
+  state_name: Nebraska
+  timezone: America/Chicago
+  elevation_ft: 984
+  town_population: 486051
+  town_population_source: US Census 2020
+following_plane:
+  tail: SU-BTT
+  type: Dassault Falcon 7X
+  operator: Egyptian / foreign VIP
+  segments:
+    - from: {utc: 2025-07-20T16:33:18Z, source_zone: UTC}
+      to:   {utc: 2025-07-20T16:35:50Z, source_zone: UTC}
+      basis: near_field_pass
+      ground_points: 60
+      min_km: 3.48
+      min_alt_ft: 1425
+      sources: adsb-lol|airplanes-live
+    - from: {utc: 2025-07-20T22:06:06Z, source_zone: UTC}
+      to:   {utc: 2025-07-20T22:07:59Z, source_zone: UTC}
+      basis: near_field_pass
+      ground_points: 128
+      min_km: 1.33
+      min_alt_ft: 1575
+      sources: adsb-lol|airplanes-live
+kirk_plane:
+  no_aircraft_in_record: true
+  claim: "Erika Kirk claimed in Omaha on this date · no Kirk-party aircraft heard on the ground here"
+  queried_tails: N102DZ, N582MM, N79SC, N872RA, N40JD, N560TW, N888KG
+times_status: complete
+as_of: 2026-09-28
+source_line: "Source: recovered ADS-B traces, adsb.lol and airplanes.live. Ground contacts and near-field passes measured point by point. As of 2026-09-28."
+sources:
+  - site/docs/Planes/following/overlaps.csv
+  - site/docs/Planes/following/airports.csv
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2025-07-20_adsb-lol_trace_full.json
+  - site/docs/Planes/SU-BTT/data/recovered/SU-BTT_2025-07-20_airplanes-live_trace_full.json
+  - site/docs/Planes/info_graphic/code/build_info_yaml.py
+notes: >-
+  SU-BTT was heard airborne within 15 km 2 times at KOMA on this date.
+  NO Kirk-party or TPUSA-linked airframe was heard on the ground at this field on this date. Queried: N582MM, N79SC, N872RA, N560TW. Held by neither archive for this date: N102DZ, N40JD, N888KG. The Kirk band is drawn hollow because the claim on this row is a PERSON IN A CITY, and a claimed itinerary is not an aircraft.
+  A hatched window is an AIRBORNE pass near the field - an approach, a departure climb or an overflight. It is not evidence the aircraft landed. Closest approach and lowest altitude heard, per pass: 3.48 km at 1425 ft; 1.33 km at 1575 ft.
+  A trace proves presence, never purpose, and never occupancy. Nothing here places any person aboard any aircraft.

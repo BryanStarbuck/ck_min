@@ -1,0 +1,287 @@
+##########################
+# Instructions:
+* Make these changes to both CS_Before.yaml and CS_After.yaml. 
+* Make these changes in the filename, link text and key_label. Update spaces as approriate.
+* Look in ~/BGit/act3/charlie-kirk/Prompts/Grow_Content_Structure/p_Level_2.txt to understand things better but don't carry out those instructions.
+
+* When doing a change, see if the destination of the change already exists. In that case, combine the two into the unified final location. Make sure there aren't any duplicate entries in Level 2 or Level 3 in the final Yaml.
+
+
+
+##########################
+# Changes
+
+* Change under Level_2 "Fix". 
+  * From: "Investigation Reforms Needed".  To: "Law #1: Out Existing Collected Information"
+  * From: "Security Protocol Improvements".  To: "Law #2: FBI & DoJ Required to Investigate and Release (CK)"
+  * From: "Congressional Action Needed".  To: "Law #3: US Intel & US Military Required to Investigate and Release (CK)"
+
+
+
+* Change under Level_2 "Locations". 
+  * From: "Dairy Queen Sighting".  To: "Dairy Queen"
+  * From: "Autopsy Findings".  To: "Autopsy"
+
+
+* Change under Level_2 "Videos". 
+  * From: "TPUSA 4K Footage".  To: "TPUSA Video Footage"
+  * From: "Red Zone Cameras".  To: "UVU Video Footage"
+
+
+
+
+* Change these Level_2 
+  * From: "Intelligence".  To: "Intelligence Services"
+  * From: "Government Organizations".  To: "Governments"
+  * From: "Legal Investigation".  To: "Legal"
+  * From: "Property & Locations".  To: "Locations"
+  * From: "Aircraft Flight Analysis".  To: "Planes"
+  * From: "Campus University".  To: "UVU University"
+  * From: "Conspiracy Theories".  To: "Theories"
+  * From: "Media Response".  To: "News"
+  * From: "Social Media Analysis".  To: "Social Media"
+  * From: "Timeline Events".  To: "Timeline"
+  * From: "Tyler".  To: "Tyler Robinson"
+  * From: "Charlie".  To: "Charlie Kirk"
+  * From: "Gun_Bullet".  To: "Gun"
+
+
+
+* Change these Level_3 
+  * From: "Tyler".  To: "Tyler Robinson"
+  * From: "Charlie".  To: "Charlie Kirk"
+
+
+* Change under Level_2 Categories "Israel". 
+  * From: "Israeli Presence And Connectivity Claims".  To: "List of Charlie breaking from Israel Narrative Control"
+  * From: "Israeli Search Patterns Claims".  To: "Israelis at UVU"
+  * From: "Motive And Political Context".  To: "Mossad History of Assassinations"
+  * From: "Timeline of Israel Related Events".  To: "Timeline wrt Israel"
+  * From: "Donor Pressure".  To: "Donors"
+  * From: "Netanyahu Connections".  To: "Benjamin Netanyahu"
+  * From: "Pro-Israel Figures And Confrontations".  To: "Pro-Israel Figures"
+  * From: "France Connection".  To: "France to Israel Connections"
+  * From: "Egypt Connection".  To: "Egypt to Israel Connection"
+  * From: "Donor Pressure".  To: "Donors"
+  * From: "Donor Pressure".  To: "Donors"
+  * From: "Donor Pressure".  To: "Donors"
+  * From: "Donor Pressure".  To: "Donors"
+
+
+
+* Change under Level_2 Categories "Tyler_Robinson". 
+  * From: "Timeline Day Of Shooting".  To: "Timeline (Tyler Robinson)"
+  * From: "xxxx".  To: "yyyy"
+
+* Change under Level_2 Categories "Planes". 
+
+
+
+##########################
+# Deletions
+
+* Delete these Level_2 
+  * Delete: "Political Context"
+
+
+* Delete in Level_3 "Tyler_Robinson".  Only delete these under "Israel" Level 2. Don't delete them from any other Level_2.
+  * Delete Level 3: "Recruited", "Background And History", "Background And History".
+  * Delete Level 3:
+  * Delete Level 3:
+  * Delete Level 3:
+
+
+* Delete in Level_3 "Israel".  Only delete these under "Israel" Level 2. Don't delete them from any other Level_2.
+  * Delete Level 3: "NSA Cellphone Claims", "Plane SU-BTT Egyptian", "Mossad Theories", "Chain Of Evil Theory", "Wilmington DE Operations"
+  * Delete Level 3:  "France PM Meeting Trump", "AIPAC Political Control", "Wilmington DE Operations"
+  * Delete Level 3:  
+  * Delete Level 3:  
+  * Delete Level 3:  
+  
+  
+  
+
+
+* Delete in Level_3 "Locations".  
+  * Delete Level 3: "Construction Site" and "Ballistics Medical Contradictions"
+
+
+##########################
+# Add or Imporve CATEGORIES under a Level 2.
+
+* This is to ADD or IMPROVE the Level 2 CATEGORIES under "Media"
+* Make these Categories: "News", "Podcasters", "Influencers", "X Influencers", "Instagram Influencers", "YouTubers"
+* If there are duplicates between "For_REVIEW_AI" and "_APPROVED" or "_REJECTED" 
+  then remove the duplicates. The highest priority version to keep is _REJECTED,
+  second is _APPROVED.
+* Do NOT "remove duplicates" if the "Level_2" is under one of the "LEVEL_3_...".
+  * Example, if "Tyler Robinson" it is under "LEVEL_2_APPROVED"
+
+
+
+##########################
+# Add:
+
+
+* Add these Level_2 Categories in "Fix":  (If they aren't in there already)
+  * Add: "Law #4: Investigate and Release if Foreign Countries Have or Try for Chain-of-Control (FBI & US Intel)"
+  * Add: "Law #5: Trusted List (Tucker / Candace / etc) Get working Group to Investigate FBI + US Intel. Allowed to Release information."
+  * Add: "Law #6: FBI & US Intel will release yearly report if any foreign country is attempting to build a Chain-of-Control over US"
+  * Add: "Law #7: US Inteligence sharing (or giving access to) US Citizen collected data in bulk with a foreign country is disallowed"
+
+
+
+* Add these Level_2 Categories in "Videos":  (If they aren't in there already)
+  * Add: "YouTube Videos"
+  * Add: "Instagram Videos"
+  * Add: "Twitter Videos"
+  * Add: "Facebook Videos"
+  * Add: "Censor-Proof Storage"
+  * Add: "Needed Videos"
+
+
+* Add these Level_2:  (If they aren't in there already)
+  * Add: "Court"
+  * Add: "Your Actions Fix It"
+  * Add: "Proof Intel Services"
+  * Add: "Proof Not Tyler"
+  * Add: "Bullet"
+  * Add: "Ballistics"
+
+
+* Add these Level_2 Categories in "Planes":  (If they aren't in there already)
+  * Add: "SU-BND (Blue plane) (Egyptian Plane)"
+  * Add: "SU-BTU (Egyptian Plane)"
+  * Add: "SU-BTU (Egyptian Plane)"
+  * Add: "SU-BTV (Egyptian Plane)"
+  * Add: "SU-BGM (Egyptian Plane)"
+  * Add: "N888KG (US)"
+  * Add: "N59906 (MARC, Private Image Collection)"
+  * Add: "N40JD (Beechcraft)"
+  * Add: "99-0404"
+  * Add: "T7ELL"
+  * Add: "EJM36"
+
+
+
+
+* Add these Level_2 Categories in "Court":  (If they aren't in there already)
+  * Add: "Court Case", "Judge", "Court Files"
+  * Add: "Prosecutors", "Defense Lawyers"
+  * Add: "Missing Discovery", "Discovery"
+  * Add: "Expert Witnessses", "Missing Expert Witnesses"
+  * Add: "Evidence (Included)", "Evidence (Missing)"
+  * Add: "Cover-up Risks", "Sealed Records", "Gag Order"
+  
+
+* Add these Level_2 Categories in "People":  (If they aren't in there already)
+  * Add: "Distraction People"
+  * Add: "Military People"
+  * Add: "TPUSA People"
+  * Add: "Podcasters People"
+  * Add: "YouTubers People"
+  * Add: "Influencers People"
+  * Add: "FBI People"
+  * Add: "Law Enforcement People"
+  * Add: "Reporters People"
+  * Add: "Charlie Kirk Related"
+  * Add: "Tyler Robinson Related"
+  * Add: "Egyption Related"
+  * Add: "France Related"
+  * Add: "Israel Related"
+  * Add: "US Gov Related"
+
+
+
+
+* Add in Level_2 "Locations".  (If they aren't in there already)
+  * Add Level 3: "Provo Airport"
+
+  * Add Level 3: "Wilmington Airport"
+
+  * Add Level 3: "Provo Airport"
+
+  * Add Level 3: "Salt Lake City International Airport"
+
+  * Add Level 3: "Tyler Robinson Apartment"
+
+  * Add Level 3: "UVU"
+
+  * Add Level 3: "UVU Courtyard"
+
+  * Add Level 3: "UVU Rainbow Hall"
+
+  * Add Level 3: "UVU Tent"
+
+  * Add Level 3: "UVU Roof Tops"
+
+  * Add Level 3: "UVU South Stairs"
+
+  * Add Level 3: "UVU Security Zone"
+
+  * Add Level 3: "UVU Behind Tent"
+
+  * Add Level 3: "Hospital"
+
+
+  * Add Level 3: "France"
+
+  * Add Level 3: "Egypt"
+
+  * Add Level 3: "Israel"
+
+  * Add Level 3: "920 North King St, Wilmington DE"
+
+  * Add Level 3: "TPUSA Offices"
+
+  * Add Level 3: "Memorial Service"
+
+  * Add Level 3: "Memorial Service"
+
+  * Add Level 3: "Biggs Army Airfield"
+
+  * Add Level 3: "Robert Gray Army Airfield"
+
+  * Add Level 3: "Hospital"
+
+  * Add Level 3: "Lieutenant Colonels Meeting"
+
+  * Add Level 3: "Minot Air Force Base"
+
+  * Add Level 3: "Lincoln Nebraska"
+
+  * Add Level 3: "Hamptons New York"
+
+  * Add Level 3: "Camp Riley"
+
+  * Add Level 3: "Nashville"
+
+  * Add Level 3: "Fort Huachuca"
+
+
+
+
+* Add in Level_2 "Medical".  (If they aren't in there already)
+
+  * Add Level 3: "Spine"
+
+  * Add Level 3: "Autopsy"
+
+  * Add Level 3: "Medical Examiner Report"
+
+  * Add Level 3: "Medical Examiner"
+
+  * Add Level 3: "Doctor"
+
+  * Add Level 3: "Head of the Hospital"
+
+  * Add Level 3: "Trip to Hospital"
+
+  * Add Level 3: "Treatment before Hospital"
+
+  * Add Level 3: "Body Transportation"
+
+
+
+
+

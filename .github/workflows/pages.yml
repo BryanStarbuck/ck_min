@@ -1,0 +1,53 @@
+name: Build and Deploy (GitHub Pages)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      # Full history (blobless) so Docusaurus reads each page's real git date.
+      # A shallow clone stamped all 5,652 sitemap lastmods and every "Last updated"
+      # line with the build date, which teaches Google to ignore our lastmod.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          filter: blob:none
+      # Rename detection would lazily download blobs on a blobless clone while
+      # Docusaurus runs `git log --name-status`; dates do not need it.
+      - run: git config diff.renames false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run build
+        env:
+          DOCUSAURUS_URL: ${{ vars.DOCUSAURUS_URL }}
+          DOCUSAURUS_BASE_URL: ${{ vars.DOCUSAURUS_BASE_URL }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/build
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

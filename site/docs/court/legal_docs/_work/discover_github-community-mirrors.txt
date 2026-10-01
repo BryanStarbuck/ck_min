@@ -1,0 +1,351 @@
+# LANE: github / community mirrors  — discovery log
+# started 2026-08-31T23:23:11Z
+# case 251403576 State of Utah v. Tyler James Robinson
+
+===== GH SEARCH REPOS =====
+--- gh search repos: 251403576 ---
+[]
+
+--- gh search repos: Tyler Robinson court documents ---
+[]
+
+--- gh search repos: Charlie Kirk court filings ---
+[]
+
+--- gh search repos: Charlie Kirk assassination documents ---
+[]
+
+--- gh search repos: Tyler Robinson docket ---
+[]
+
+--- gh search repos: Charlie Kirk docket ---
+[]
+
+--- gh search repos: utah v robinson ---
+[]
+
+--- gh search repos: charlie kirk investigation ---
+[]
+
+===== GH SEARCH CODE =====
+--- gh search code: 251403576 ---
+[{"path":"Input_Documents/9_23_25_Notice.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_23_25_Notice.md"},{"path":"Input_Documents/9_25_25_Michael_N.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Michael_N.md"},{"path":"other/List_Of_Laws.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTY1NjUyMzQ1","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose","url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"},"url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose/blob/cafcbf243cf30926d504e8239385e6a2bc891364/other/List_Of_Laws.md"},{"path":"Input_Documents/10_6_25_Request_For_Audio_Recording.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_6_25_Request_For_Audio_Recording.md"},{"path":"Input_Documents/10_8_25_Motion_To_Preserve_Evidence.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_8_25_Motion_To_Preserve_Evidence.md"},{"path":"Input_Documents/9_16_25_Return_Of_Electronic_Notification.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_16_25_Return_Of_Electronic_Notification.md"},{"path":"Input_Documents/10_13_25_Notice_Of_Appearance_Staci_Visser.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_13_25_Notice_Of_Appearance_Staci_Visser.md"},{"path":"code/facts/countries/usa/states/utah/facts_utah.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTk4NDM0NTY5","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Philosophers_Stone","url":"https://github.com/BryanStarbuck/Philosophers_Stone"},"url":"https://github.com/BryanStarbuck/Philosophers_Stone/blob/633cf7dc648ee8a73333b1d3efb3c4398d1c1acd/code/facts/countries/usa/states/utah/facts_utah.txt"},{"path":"Input_Documents/10_14_25_Notice_Of_Appearance_Richard_Novak.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_14_25_Notice_Of_Appearance_Richard_Novak.md"},{"path":"Input_Documents/11_20_25_Notice_Of_In_Person_Review_Hearing.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/11_20_25_Notice_Of_In_Person_Review_Hearing.md"},{"path":"Input_Documents/9_16_25_Return_Of_Electronic_Notification_2.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_16_25_Return_Of_Electronic_Notification_2.md"},{"path":"claude.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTY1NjUyMzQ1","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose","url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"},"url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose/blob/cafcbf243cf30926d504e8239385e6a2bc891364/claude.md"},{"path":"Input_Documents/9_16_25_Acknowledgment_Of_Firearm_Restriction.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_16_25_Acknowledgment_Of_Firearm_Restriction.md"},{"path":"Input_Documents/10_27_25_Notice_Of_State's_Open_File_Policy.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_27_25_Notice_Of_State's_Open_File_Policy.md"},{"path":"ANSWERS_SUMMARY.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/ANSWERS_SUMMARY.md"},{"path":"Input_Documents/11_13_25_Motion_To_Reclassify_Transcript.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/11_13_25_Motion_To_Reclassify_Transcript.md"},{"path":"Input_Documents/9_25_25_Richard_G.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Richard_G.md"},{"path":"code/laws/communities/charlie_kirk/laws_charlie_kirk.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTk4NDM0NTY5","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Philosophers_Stone","url":"https://github.com/BryanStarbuck/Philosophers_Stone"},"url":"https://github.com/BryanStarbuck/Philosophers_Stone/blob/633cf7dc648ee8a73333b1d3efb3c4398d1c1acd/code/laws/communities/charlie_kirk/laws_charlie_kirk.txt"},{"path":"Input_Documents/10_8_25_Copy_Of_Video_Audio_Record_Completed.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_8_25_Copy_Of_Video_Audio_Record_Completed.md"},{"path":"Input_Documents/10_9_25_Proposed_Order_Allowing_Civilian_Clothing.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_9_25_Proposed_Order_Allowing_Civilian_Clothing.md"},{"path":"code/facts/communities/charlie_kirk/facts_charlie_kirk.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTk4NDM0NTY5","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Philosophers_Stone","url":"https://github.com/BryanStarbuck/Philosophers_Stone"},"url":"https://github.com/BryanStarbuck/Philosophers_Stone/blob/633cf7dc648ee8a73333b1d3efb3c4398d1c1acd/code/facts/communities/charlie_kirk/facts_charlie_kirk.txt"},{"path":"Input_Documents/9_30_25_Notice_Of_Appearance_Lauren_Hunt_For_State.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_30_25_Notice_Of_Appearance_Lauren_Hunt_For_State.md"},{"path":"Input_Documents/9_30_25_Notice_Of_Appearance_Ryan_Mcbride_For_State.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_30_25_Notice_Of_Appearance_Ryan_Mcbride_For_State.md"},{"path":"other/people.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTY1NjUyMzQ1","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose","url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"},"url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose/blob/cafcbf243cf30926d504e8239385e6a2bc891364/other/people.md"},{"path":"Input_Documents/9_30_25_Notice_Of_Appearance_David_Sturgill_For_State.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_30_25_Notice_Of_Appearance_David_Sturgill_For_State.md"},{"path":"Input_Documents/9_28_25_Supp_Exhibit_To_Motion_Re_Phv_Of_Michael_Burt.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_28_25_Supp_Exhibit_To_Motion_Re_Phv_Of_Michael_Burt.md"},{"path":"Input_Documents/9_30_25_Notice_Of_Appearance_Chad_Grunander_For_State.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_30_25_Notice_Of_Appearance_Chad_Grunander_For_State.md"},{"path":"Input_Documents/10_9_25_Request_To_Submit_Motion_For_Overlength_Brief.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_9_25_Request_To_Submit_Motion_For_Overlength_Brief.md"},{"path":"Input_Documents/10_27_25_Motion_To_Extend_Time_Stipulated.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_27_25_Motion_To_Extend_Time_Stipulated.md"}]
+
+--- gh search code: Tyler James Robinson ---
+[{"path":"Input_Documents/9_23_25_Notice.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_23_25_Notice.md"},{"path":"content/statements/statement-5721b15357d2.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-5721b15357d2.md"},{"path":"content/statements/statement-a2a35e1127ad.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-a2a35e1127ad.md"},{"path":"content/statements/statement-9e4c24f34534.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-9e4c24f34534.md"},{"path":"content/statements/statement-288df0a22458.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-288df0a22458.md"},{"path":"content/statements/statement-3ea73e4564df.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-3ea73e4564df.md"},{"path":"content/statements/statement-8993d11905eb.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-8993d11905eb.md"},{"path":"content/statements/statement-ac0e06512d64.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-ac0e06512d64.md"},{"path":"content/statements/statement-e7d6cbc3ac14.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-e7d6cbc3ac14.md"},{"path":"content/statements/statement-bd38410d0efa.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-bd38410d0efa.md"},{"path":"content/statements/statement-7654c362de7a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-7654c362de7a.md"},{"path":"content/statements/statement-1e91be18fe6a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-1e91be18fe6a.md"},{"path":"content/statements/statement-794379542e52.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-794379542e52.md"},{"path":"content/statements/statement-2fd648461ebd.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-2fd648461ebd.md"},{"path":"content/statements/statement-b1337a03eb04.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-b1337a03eb04.md"},{"path":"content/statements/statement-4deeeaf38be1.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-4deeeaf38be1.md"},{"path":"content/statements/statement-66f945dd09e3.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-66f945dd09e3.md"},{"path":"content/statements/statement-aebd5ec91482.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-aebd5ec91482.md"},{"path":"content/statements/statement-fdfb65f0c458.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-fdfb65f0c458.md"},{"path":"content/statements/statement-68838edab26a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-68838edab26a.md"},{"path":"knowledge/people/tyler-robinson.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzEyNDM1NzYx","isFork":false,"isPrivate":false,"nameWithOwner":"paramireze-afk/authors-assistant","url":"https://github.com/paramireze-afk/authors-assistant"},"url":"https://github.com/paramireze-afk/authors-assistant/blob/3a93d2bdf50351cbd1784b2f8a85b72f5250a525/knowledge/people/tyler-robinson.md"},{"path":"content/statements/statement-04029db0325a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-04029db0325a.md"},{"path":"CURSOR.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMDU2NzE2ODcw","isFork":false,"isPrivate":false,"nameWithOwner":"araguaci/tributo-a-charlie-kirk","url":"https://github.com/araguaci/tributo-a-charlie-kirk"},"url":"https://github.com/araguaci/tributo-a-charlie-kirk/blob/8e5568f3316afcf9a863e5701011b1061fb8248e/CURSOR.md"},{"path":"content/statements/statement-15a49ac5fed3.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-15a49ac5fed3.md"},{"path":"Input_Documents/9_25_25_Michael_N.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Michael_N.md"},{"path":"content/statements/statement-b34cd0916393.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-b34cd0916393.md"},{"path":"content/timestamps/ep-q7f8r-THr84/t-00-06-50.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-q7f8r-THr84/t-00-06-50.md"},{"path":"content/timestamps/ep-EtLHqDbxqks/t-00-24-19.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-EtLHqDbxqks/t-00-24-19.md"},{"path":"content/timestamps/ep-7ERqbYElOfs/t-00-42-07.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-7ERqbYElOfs/t-00-42-07.md"},{"path":"content/timestamps/ep-q7f8r-THr84/t-00-13-23.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-q7f8r-THr84/t-00-13-23.md"}]
+
+--- gh search code: Kathryn Nester ---
+[{"path":"content/relationships/rel-a36e06f56ad4.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-a36e06f56ad4.md"},{"path":"content/entities/person-kathryn-nester.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/entities/person-kathryn-nester.md"},{"path":"content/entities/gpe-quantico-virginia.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/entities/gpe-quantico-virginia.md"},{"path":"content/relationships/rel-5786ffbc641a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-5786ffbc641a.md"},{"path":"content/statements/statement-f32233b3deb7.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-f32233b3deb7.md"},{"path":"content/statements/statement-21140e8acdfb.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-21140e8acdfb.md"},{"path":"content/statements/statement-df02243d0db3.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-df02243d0db3.md"},{"path":"Data/Articles/nytimes931.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnk0MTUxODc2ODM=","isFork":false,"isPrivate":false,"nameWithOwner":"tranbamanh229289/hubble","url":"https://github.com/tranbamanh229289/hubble"},"url":"https://github.com/tranbamanh229289/hubble/blob/847918f838e44949f1da36f66ba5ebd801fe8c70/Data/Articles/nytimes931.txt"},{"path":"content/statements/statement-a0a8cf63a5c5.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-a0a8cf63a5c5.md"},{"path":"Input_Documents/9_25_25_Michael_N.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Michael_N.md"},{"path":"content/timestamps/ep-nPhCKwJ6ye8/t-01-31-37.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-nPhCKwJ6ye8/t-01-31-37.md"},{"path":"content/timestamps/ep-kaWtDuoY_ns/t-00-12-32.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-kaWtDuoY_ns/t-00-12-32.md"},{"path":"content/timestamps/ep-aPOyk1i2LOc/t-01-09-31.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-aPOyk1i2LOc/t-01-09-31.md"},{"path":"content/timestamps/ep-4JxgOclKzqg/t-00-24-37.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-4JxgOclKzqg/t-00-24-37.md"},{"path":"content/timestamps/ep-4JxgOclKzqg/t-00-25-21.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-4JxgOclKzqg/t-00-25-21.md"},{"path":"content/timestamps/ep-kaWtDuoY_ns/t-00-14-40.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-kaWtDuoY_ns/t-00-14-40.md"},{"path":"content/timestamps/ep-aPOyk1i2LOc/t-01-22-11.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-aPOyk1i2LOc/t-01-22-11.md"},{"path":"content/timestamps/ep-aPOyk1i2LOc/t-01-00-56.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-aPOyk1i2LOc/t-01-00-56.md"},{"path":"content/timestamps/ep-E7P2ShoYDUA/t-00-33-46.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-E7P2ShoYDUA/t-00-33-46.md"},{"path":"content/statements/statement-c4c56eb41213.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-c4c56eb41213.md"},{"path":"Input_Documents/9_25_25_Rule_8_Declaration_Of_Kathryn_Nester.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Rule_8_Declaration_Of_Kathryn_Nester.md"},{"path":"Input_Documents/9_25_25_Richard_G.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Richard_G.md"},{"path":"other/people.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTY1NjUyMzQ1","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose","url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose"},"url":"https://github.com/BryanStarbuck/Charlie_Kirk_175_Critical_To_Expose/blob/cafcbf243cf30926d504e8239385e6a2bc891364/other/people.md"},{"path":"Input_Documents/11_20_25_Notice_Of_In_Person_Review_Hearing.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/11_20_25_Notice_Of_In_Person_Review_Hearing.md"},{"path":"backup_site/temp.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzExNTk4OTQy","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/offline_ck_site","url":"https://github.com/BryanStarbuck/offline_ck_site"},"url":"https://github.com/BryanStarbuck/offline_ck_site/blob/71eb9ffcd520e5c6ea6c10e4a266aeb6326c5884/backup_site/temp.txt"},{"path":"backup_site/site/docs/court/defense-team.mdx","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzExNTk4OTQy","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/offline_ck_site","url":"https://github.com/BryanStarbuck/offline_ck_site"},"url":"https://github.com/BryanStarbuck/offline_ck_site/blob/71eb9ffcd520e5c6ea6c10e4a266aeb6326c5884/backup_site/site/docs/court/defense-team.mdx"},{"path":"backup_site/knowledge/Google_Searches.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzExNTk4OTQy","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/offline_ck_site","url":"https://github.com/BryanStarbuck/offline_ck_site"},"url":"https://github.com/BryanStarbuck/offline_ck_site/blob/71eb9ffcd520e5c6ea6c10e4a266aeb6326c5884/backup_site/knowledge/Google_Searches.txt"},{"path":"backup_site/site/docs/People/kathryn-nester.mdx","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzExNTk4OTQy","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/offline_ck_site","url":"https://github.com/BryanStarbuck/offline_ck_site"},"url":"https://github.com/BryanStarbuck/offline_ck_site/blob/71eb9ffcd520e5c6ea6c10e4a266aeb6326c5884/backup_site/site/docs/People/kathryn-nester.mdx"},{"path":"content/episodes/ep-kaWtDuoY_ns.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/episodes/ep-kaWtDuoY_ns.md"},{"path":"backup_site/changes.txt","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMzExNTk4OTQy","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/offline_ck_site","url":"https://github.com/BryanStarbuck/offline_ck_site"},"url":"https://github.com/BryanStarbuck/offline_ck_site/blob/71eb9ffcd520e5c6ea6c10e4a266aeb6326c5884/backup_site/changes.txt"}]
+
+--- gh search code: Tony F. Graf ---
+[{"path":"README.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/README.md"},{"path":"content/relationships/rel-728196f2153f.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-728196f2153f.md"},{"path":"content/entities/person-tony-f-graf-jr.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/entities/person-tony-f-graf-jr.md"},{"path":"content/relationships/rel-a511ff49f6d0.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-a511ff49f6d0.md"},{"path":"content/relationships/rel-b81b67b85fc2.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-b81b67b85fc2.md"},{"path":"content/relationships/rel-2be57c89e8af.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/relationships/rel-2be57c89e8af.md"},{"path":"content/statements/statement-7598cb56fa1a.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-7598cb56fa1a.md"},{"path":"content/statements/statement-e5d2de99bd4c.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-e5d2de99bd4c.md"},{"path":"parties.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/parties.md"},{"path":"Input_Documents/9_25_25_Michael_N.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Michael_N.md"},{"path":"content/timestamps/ep-adJ4LNGp84I/t-00-06-32.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-adJ4LNGp84I/t-00-06-32.md"},{"path":"content/timestamps/ep-adJ4LNGp84I/t-00-05-48.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-adJ4LNGp84I/t-00-05-48.md"},{"path":"content/timestamps/ep-ds6umq1rHAw/t-00-16-15.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-ds6umq1rHAw/t-00-16-15.md"},{"path":"content/timestamps/ep-9CuC1yf8-PU/t-00-25-38.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/timestamps/ep-9CuC1yf8-PU/t-00-25-38.md"},{"path":"timeline.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/timeline.md"},{"path":"content/statements/statement-a2cda7235882.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTEwNzYzODQ1","isFork":false,"isPrivate":false,"nameWithOwner":"cherki82/candace","url":"https://github.com/cherki82/candace"},"url":"https://github.com/cherki82/candace/blob/b9e86264f6ffb52ae3b05afd5eab7f27320feb7d/content/statements/statement-a2cda7235882.md"},{"path":"lawsuit/README.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/lawsuit/README.md"},{"path":"lawsuit/court-documents.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/lawsuit/court-documents.md"},{"path":"web/i18n/es/content/home.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/web/i18n/es/content/home.md"},{"path":"Input_Documents/10_6_25_Request_For_Audio_Recording.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_6_25_Request_For_Audio_Recording.md"},{"path":"Input_Documents/10_8_25_Motion_To_Preserve_Evidence.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_8_25_Motion_To_Preserve_Evidence.md"},{"path":"web/i18n/zh-Hant/content/home.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/web/i18n/zh-Hant/content/home.md"},{"path":"web/i18n/zh-Hans/content/home.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/web/i18n/zh-Hans/content/home.md"},{"path":"Input_Documents/10_13_25_Notice_Of_Appearance_Staci_Visser.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_13_25_Notice_Of_Appearance_Staci_Visser.md"},{"path":"Input_Documents/10_14_25_Notice_Of_Appearance_Richard_Novak.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_14_25_Notice_Of_Appearance_Richard_Novak.md"},{"path":"Input_Documents/10_27_25_Notice_Of_State's_Open_File_Policy.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/10_27_25_Notice_Of_State's_Open_File_Policy.md"},{"path":"web/lib/structured-data-extras.mjs","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/web/lib/structured-data-extras.mjs"},{"path":"Input_Documents/11_13_25_Motion_To_Reclassify_Transcript.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/11_13_25_Motion_To_Reclassify_Transcript.md"},{"path":"web/i18n/es/content/lawsuit.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMjU3Nzg4OTQw","isFork":false,"isPrivate":false,"nameWithOwner":"sihekuang/where-is-my-lego","url":"https://github.com/sihekuang/where-is-my-lego"},"url":"https://github.com/sihekuang/where-is-my-lego/blob/99c5bba218b055b4c31805cf579998a9cd77682b/web/i18n/es/content/lawsuit.md"},{"path":"Input_Documents/9_25_25_Richard_G.md","repository":{"id":"MDEwOlJlcG9zaXRvcnkxMTI1NTQzNjQ0","isFork":false,"isPrivate":true,"nameWithOwner":"BryanStarbuck/AIAttorney","url":"https://github.com/BryanStarbuck/AIAttorney"},"url":"https://github.com/BryanStarbuck/AIAttorney/blob/b504d915c8f175476d96d1540d1af9681691611b/Input_Documents/9_25_25_Richard_G.md"}]
+
+
+===== GITHUB RESULTS ANALYSIS (2026-08-31) =====
+gh CLI authenticated as BryanStarbuck. Scopes: gist, read:org, repo, workflow.
+
+gh search repos -- ALL of these returned ZERO results:
+  "251403576" / "Tyler Robinson court documents" / "Charlie Kirk court filings"
+  "Charlie Kirk assassination documents" / "Tyler Robinson docket" / "Charlie Kirk docket"
+  "utah v robinson" / "charlie kirk investigation"
+  (sanity-checked: `gh search repos "charlie kirk"` DOES return results, so the
+   tool works; there is genuinely no public repo named/described as a docket mirror.)
+
+gh search code hits, distinct repos:
+  BryanStarbuck/AIAttorney            (37) -- OURS, private
+  BryanStarbuck/offline_ck_site        (5) -- OURS, private
+  BryanStarbuck/Charlie_Kirk_175...    (4) -- OURS, private
+  BryanStarbuck/Philosophers_Stone     (3) -- OURS, private
+  cherki82/candace                    (57) -- THIRD PARTY, see below
+  sihekuang/where-is-my-lego          (10) -- FALSE POSITIVE (LEGO "Reckless Ben
+                                             vs BAM" lawsuit; unrelated case)
+  tranbamanh229289/hubble              (1) -- Data/Articles/nytimes931.txt, news corpus
+  paramireze-afk/authors-assistant     (1) -- knowledge/people/tyler-robinson.md
+  araguaci/tributo-a-charlie-kirk      (1) -- tribute site, no docs
+
+cherki82/candace  https://github.com/cherki82/candace
+  86.6 MB, 41,359 files, pushed 2026-08-31T22:06Z (ACTIVE TODAY), 0 stars, no description.
+  Quartz static-site knowledge graph built from Candace Owens episode transcripts:
+  content/entities/, content/statements/, content/relationships/, content/events/,
+  content/episodes/, content/timestamps/.
+  Contains entity pages person-kathryn-nester.md, person-tony-f-graf-jr.md,
+  org-utah-fourth-district-court.md, and dated event notes running into JULY 2026,
+  e.g. event-2026-07-07-court-witness-says-exhibit-12-compilatio*.
+  *** CONTAINS ZERO PDFs (verified: recursive tree grep '\.pdf$' == 0 matches). ***
+  VERDICT: NOT a document mirror. Derived/secondary commentary only. Useful as a
+  LEAD for what happened at the ~July 2026 preliminary hearing, NOT a primary source.
+
+################################################################################
+##  *** PRIMARY FIND: CharlieFiles.com  (Obsidian Publish community mirror) ***
+################################################################################
+Discovered via WebSearch on "251403576 Robinson court documents download".
+
+  Public URL : https://charliefiles.com   -> 302 -> https://publish.obsidian.md/charliefiles
+               (curl -sL -A "$UA" -> HTTP 200; SPA shell 2,204 bytes)
+  www variant: https://www.charliefiles.com  -> curl exit 000 (no DNS/TLS). Use apex only.
+  Site UID   : 545fd2e08a9cfdf36ea131e5b2e326e5
+  Asset host : publish-01.obsidian.md
+
+HOW TO ENUMERATE / DOWNLOAD (no login, no payment, no bypass -- these are the
+site's own documented public endpoints, referenced in its own page source):
+  manifest : https://publish-01.obsidian.md/cache/545fd2e08a9cfdf36ea131e5b2e326e5
+             -> HTTP 200, 572,004 bytes, JSON object; keys = every file path.
+  one file : https://publish-01.obsidian.md/access/545fd2e08a9cfdf36ea131e5b2e326e5/<URL-ENCODED PATH>
+             -> HTTP 200, correct Content-Type (application/pdf, text/markdown).
+
+MANIFEST CONTENTS: 367 entries -> 195 .md, 81 .pdf, 79 .png, 6 .jpg, 6 .svg
+  documents/case-files/  77   the raw PDFs
+  documents/filings/     77   one .md summary page per filing (what it argues,
+                              the other side, why it matters) linking to its PDF
+  documents/records/      4   UVU GRAMA record productions (NOT court filings)
+  exhibits/              91   incl. exhibits/court-docs/day {1..4} ph/ = PRELIM
+                              HEARING EXHIBIT IMAGES (59 PNGs)
+  transcripts/court/     13   hearing transcripts
+  preliminary hearing/    5   Day 1-5 pages
+  theories/ 37, people/ 26, articles/ 17, evidence/ 14
+
+VERIFICATION PERFORMED (not assumed):
+  * All 102 PDF + transcript paths probed individually with a ranged GET
+    (curl -r 0-0, real browser UA, 0.25s spacing).
+    RESULT: 102 of 102 returned HTTP 206. ZERO failures. ZERO 403s.
+  * Full-body spot downloads confirmed real content, not HTML error pages:
+      2026-06-26_court_ruling-contempt-order-to-show-cause.pdf
+        -> 200, 918,590 bytes, "PDF document, version 1.3, 20 pages"
+      2026-07-11_victim_family-statement-speedy-bindover.pdf
+        -> 200,  93,068 bytes, "PDF document, version 1.3, 3 pages"
+      transcripts/court/2026-07-06 - Preliminary Hearing Day 1 Transcript.md
+        -> 200, 353,120 bytes, UTF-8 text
+
+WHY THIS IS THE HIGH-VALUE HIT -- it lands on all four target categories:
+ (a) MAY 2026 AND LATER: 29 PDFs dated 2026-05-01..2026-07-11, plus
+     2026-04-16_defense_declaration-counsel-support-osc.pdf.
+     Our inventory stops at 4/10/26, so ALL 30 are NEW TO US. Includes the
+     specifically-requested items:
+       - contempt rulings ...... 2026-06-01_court_ruling-grant-osc-deny-compel-discovery.pdf
+                                 2026-06-26_court_ruling-contempt-order-to-show-cause.pdf
+       - camera/publicity ...... 2026-05-08_court_ruling-deny-exclude-cameras-standing-media-order.pdf
+                                 2026-05-12_court_minute-entry-rulings-continue-and-exclude.pdf
+       - bind-over ............. 2026-07-11_victim_family-statement-speedy-bindover.pdf
+       - interlocutory appeal .. 2026-06-11_defense_petition-permission-appeal-interlocutory.pdf
+                                 2026-06-12_court_ruling-deny-stay-pending-interlocutory-appeal.pdf
+       - prelim hearing set-up . 2026-05-06_state_prelim-witness-and-exhibit-list.pdf
+                                 2026-05-06_defense_motion-in-limine-preclude-1102-hearsay.pdf
+                                 2026-06-23_court_ruling-deny-preclude-1102-hearsay-prelim.pdf
+ (c) TRANSCRIPTS -- 13, none of which we hold. Most valuable:
+       2026-07-06/07/08/09/10 Preliminary Hearing Day 1-5 Transcripts (all five days)
+       2026-06-12 Contempt Evidentiary Hearing Transcript
+       2026-06-22 Twiggs Subpoena Hearing Transcript
+       2026-06-01 Camera Access Ruling Transcript
+       2026-01-16 + 2026-02-03 Disqualification Hearing Parts One & Two
+       2025-12-11 December 11 Hearing; 2025-09-16 Initial Appearance
+     NOTE: these are automated speaker-labelled transcriptions of the Court TV
+     video with verification notes -- they are NOT certified court reporter
+     transcripts. Treat as secondary/derived. The CERTIFIED transcripts remain
+     a gap (see human routes).
+ (d) EXHIBITS -- exhibits/court-docs/day N ph/ = 59 PNG images of exhibits shown
+     in open court at the July 2026 preliminary hearing:
+       day 1 ph  (8): Olsen voluntary statement pp.1-3, Farnsworth camera
+                      statement, Nest doorbell video stills, line-of-sight
+       day 2 ph (18): surveillance stills (garage/stairwell/rooftop, clothing
+                      changes, the limp), State Exhibit 31 DNA items reviewed,
+                      DNA level-of-support Robinson & Twiggs
+       day 3 ph  (1): Robinson in custody after surrender
+       day 4 ph (32): bullet analysis incl. "inconclusive" explanation, 30-cal
+                      class ID, engraved cartridge cases (each engraving its own
+                      image), Exhibit 24 burnt handwritten confession note,
+                      Exhibit 30 known DNA sample, Exhibit 32, gun-in-bushes
+                      photos, target sheet, and ~10 Robinson/Twiggs text messages
+ (b) FULLER VERSIONS of things we hold only in part:
+       2026-01-09_defense_motion-prohibit-alteration-bullet-jacket-fragment.pdf
+         <- THIS IS "the January 9, 2026 motion" whose classification our
+            inventory has SIX filings fighting about (1_23_26, 1_29_26, 1_30_26,
+            2_5_25, 3_10_26, 3_13_26) while never holding the motion itself.
+       2025-12-22_state_notice-intent-nondestructive-testing.pdf  (not in inventory)
+       2026-04-30_state_opposition-to-motion-to-show-cause.pdf    (not in inventory)
+       2026-01-08 partial reply on disqualification + request to take evidence
+       Docket printouts we do not hold at all: 2025-10-29 full printout,
+         2025-11-06_docket.pdf, 2025-11-20_docket.pdf, docket_full-printout.pdf
+
+ BONUS CATEGORY NOT IN OUR INVENTORY AT ALL -- UVU GRAMA productions:
+       documents/records/2026-06 - UVU Charlie Kirk Records - Production 1 (cleanup texts).pdf
+       documents/records/2026-07 - UVU ... Production 2 (GRAMA appeal, declarations, emergency payment).pdf
+       documents/records/2026-07 - UVU Records Prod 2 pg 49 - Emergency Payment (cleanup for shooting incident).pdf
+       documents/records/2026-07 - UVU Records Prod 2 pgs 3-10 - AG Statement of Facts.pdf
+     These bear directly on the site-cleanup / paving-over line of inquiry.
+
+PROVENANCE / CAVEAT (from its own "About This Project" page): CharlieFiles is an
+analysis site that assigns verdicts (FALSE / MISLEADING / UNSUPPORTED / PARTLY
+TRUE / FABRICATED / OPEN) to circulating claims. It states it prefers primary
+sources. It is a THIRD-PARTY REPUBLISHER: the PDFs are re-hosted copies, not
+court-served originals, so for anything load-bearing the copy should still be
+matched against the court's own record. The hearing transcripts are explicitly
+machine-generated, not certified.
+
+################################################################################
+##  *** SECOND MAJOR FIND: Andrea Burkhart Substack -- THE docket archive ***
+################################################################################
+  Page : https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+         curl -sL -A "$UA" -> HTTP 200, 788,478 bytes.
+  PDFs : https://andreaburkhart.substack.com/api/v1/file/<uuid>.pdf  (Substack file API)
+
+  *** CAUTION: WebFetch on this page LIED. It reported "377+ docket entries" and
+  "Documents dated May 2026 or later: NONE found. Latest entries Feb 5 2026."
+  That is WRONG -- it summarised a truncated slice of a 788KB page. Parsing the
+  RAW HTML shows the archive runs 2025-09-16 -> 2026-08-31 (TODAY). Do not trust
+  a WebFetch summary of a long page; parse the bytes. ***
+
+  STRUCTURE: an <ol> of docket entries, "<title>, <M-D-YY>", each optionally
+  followed by a Substack file-embed with a Download link. Burkhart's own note:
+  "Documents that I have not purchased are listed but designated as 'Not obtained.'"
+  -> she buys them off Utah XChange, so the list doubles as a COMPLETE DOCKET MAP
+     including the items nobody has bought yet.
+
+  PARSED (after removing the page's embedded-JSON duplicate copy):
+     784 docket entries total
+     259 with a downloadable PDF
+     525 listed but "Not obtained"
+     72 entries dated 2026-05-01 or later that HAVE a PDF   <-- the whole gap
+  Saved: _work/mirror_burkhart_docket.tsv  (date, size, title, pdf_url)
+
+  VERIFIED DOWNLOADS (full GET, real browser UA, file(1) confirmed):
+    Memorandum in Support of Preliminary Hearing Bindover, 7-28-26
+        -> 200, 319,679 bytes, PDF 1.7, 28 pages      *** BIND-OVER BRIEF ***
+    Defendant Tyler James Robinson's Preliminary Hearing Briefing, 8-11-26
+        -> 200, 389,135 bytes, PDF 1.6                *** BIND-OVER BRIEF ***
+    State's Reply Supporting Preliminary Hearing Bindover, 8-18-26
+        -> 200, 277,548 bytes, PDF 1.7, 19 pages      *** BIND-OVER BRIEF ***
+    Defendant's Discovery Status Report, 8-28-26 -> 200, 572,857 bytes, PDF 1.7
+    PRELIMINARY HEARING - DAY 2 (minute entry), 7-21-26 -> 200, 728,371 b, 3 pp
+
+  This single source closes the ENTIRE May-August 2026 gap, including the three
+  bind-over briefs the task names, the 6-26-26 contempt ruling, the interlocutory
+  appeal petition and stay fight, all the prelim in-limine practice, and the
+  run-up to the SEPTEMBER 1, 2026 oral argument (tomorrow) -- Standing Decorum
+  Order eff. 8-28-26, Amended Standing Decorum Order eff. 8-28-26, Minute Entry
+  re electronic devices for the 9-1-26 hearing, Discovery Status Report 8-28-26.
+
+  Corroboration of primacy: the community blog tumblr.com/tylerrobinsoncase (200)
+  states plainly that Burkhart is "the only person uploading Tyler's legal
+  filings". That blog hosts NO documents itself -- it links to Burkhart. Its
+  author says they keep a personal archive and use archive.org/archive.ph.
+
+
+################################################################################
+##  *** THIRD FIND: Grabien News -- hand-cleaned prelim transcripts + exhibit log
+################################################################################
+  Archive : https://news.grabien.com/robinson-prelim-archive/   200, 333,678 bytes
+  Story   : https://news.grabien.com/story/tyler-robinson-case-made-searchable-transcripts-exhibits-rulings-court
+            200, 25,583 bytes
+  PDFs    : https://news.grabien.com/robinson-prelim-archive/filings/<name>.pdf
+
+  ONE page carrying 206,828 chars of visible text, with anchors #day1..#day5,
+  #transcript, #exhibits, #witnesses, #rulings, #filings, #tracker, #summary.
+
+  WHY IT MATTERS AND HOW IT DIFFERS FROM CharlieFiles:
+   * Its transcripts are HAND-CLEANED ("every session of testimony transcribed and
+     cleaned by hand"), speaker-labelled with clock timestamps, e.g.
+       "08:26 -> The Court (Graf) ... Calling case 251403576, State of Utah versus
+        Tyler James Robinson." then appearances by Grunander/McBride/Sterk for the
+        State and Nester/Burt/Novak/Visser for the defense, and the court noting
+        the presence of Erika Kirk.
+     CharlieFiles' transcripts are AUTOMATED. Neither is a certified transcript,
+     but where the two disagree, Grabien is the more carefully produced text.
+   * *** EXHIBIT LOG / LEDGER *** -- "Every exhibit offered Day 1, with the
+     defense's objection basis and the court's disposition", with status chips
+     ADMITTED / NOT ADMITTED / PUBLISHED-COURT / PUBLISHED-MEDIA / PLAYED /
+     SCREENS ONLY / NOT BROADCAST, and the cases cited in the rulings
+     (State v. Purcell, 711 P.2d 243; State v. Weger). This is the exhibit-by-
+     exhibit provenance record -- target (d) -- and NOTHING else found has it.
+   * 36 self-hosted filing PDFs WITH DOCKET NUMBERS IN THE FILENAME (dkt3, dkt4,
+     dkt75, dkt242, dkt406...). Docket numbers are the join key back to the
+     official record; neither our inventory nor CharlieFiles carries them.
+
+  VERIFIED: all 36 filings/*.pdf probed individually -> 36/36 HTTP 206, zero
+  failures. Full-GET spot checks:
+    2025-12-15-ruling-clarify-publicity-order-dkt242.pdf -> 200, 233,601 b, 3 pp
+        *** This is the DECEMBER 2025 pretrial-publicity/gag order the task brief
+        names. Our inventory has the 9-22-25 order but NOT this one. ***
+    2025-12-17-motion-to-disqualify-ucao-dkt250.pdf -> 200, 2,744,947 b, PDF 1.7
+        *** the underlying disqualification motion; we hold only the 1-12-26 reply
+    2025-09-10-da-press-release-after-shooting.pdf -> 200, 99,805 b, 1 p
+  Also not in our inventory: 2025-09-22-da-press-release-trial-team.pdf,
+    2026-01-02-utsc-order-denying-interlocutory-dkt406.pdf,
+    2026-02-03-minute-order-disqualification-hearing-dkt413.pdf.
+  Saved: _work/mirror_grabien_filings.tsv
+
+  robots.txt not restrictive for this path; requests spaced 0.2s.
+
+
+################################################################################
+##  RULED OUT / DEAD ENDS IN THIS LANE
+################################################################################
+* GitHub/GitLab repo mirror -- DOES NOT EXIST. See GITHUB RESULTS ANALYSIS above.
+  No repo of filings; the only code-search hits are our own private repos plus
+  one unrelated LEGO lawsuit and a Candace Owens transcript knowledge-graph.
+* archive.org uploaded item collections -- NONE.
+  advancedsearch.php q=("Tyler Robinson" OR "Charlie Kirk") AND (court OR docket
+  OR filings OR transcript) -> HTTP 200, numFound 149, but every hit is TV news
+  captures (CSPAN3/BBCNEWS/KTVU/PRESSTV), YouTube rips, podcasts, or federal
+  bankruptcy dockets for DIFFERENT people named Robinson
+  (gov.uscourts.utb.442526 "Corlan Tyler Robinson", gov.uscourts.almb.229380
+  "Clayton Tyler Robinson"). No document set for case 251403576.
+* IPFS pinned collection -- NONE FOUND. Searched for CIDs published alongside a
+  document set; results returned only DocumentCloud/news pages, no CID anywhere.
+  Nothing probed because nothing was ever named. Recorded as absent, not blocked.
+* Google Sheets / published docket-tracker spreadsheet -- NONE for this case.
+  The one sheet surfaced, "Shadow Docket Tracker (last updated 3.17.2026)"
+  docs.google.com/spreadsheets/d/1NlOz74MS1jDe5G__1-JZnDydsycFYZeFZZ1JIgBLK8o
+  is a US SUPREME COURT shadow-docket tracker -- unrelated to 251403576.
+* kirkarchive.com -- 200, and it IS a real case archive (sitemap: /timeline
+  /people /evidence /narratives /robinson /legacy /connections /sources /matrix
+  /wire /contradictions /sept1 /press), but it hosts NO primary documents.
+  Scraped /sources and /evidence for outbound links: the ONLY primary-document
+  link on either page is
+  https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf
+  -- which we ALREADY HOLD (TJR_Information_49872215e3.pdf). Everything else is
+  news citations (PBS, AP, KSL, Courthouse News, NY Post, Snopes, FBI press page).
+  Secondary analysis, not a mirror. robots.txt disallows /api/ and /news/ (respected).
+* tumblr.com/tylerrobinsoncase -- 200, community blog, hosts NO documents; it is
+  a pointer to Burkhart. Useful only as corroboration of who the real source is.
+* riettedeklerk.substack.com -- day-by-day narrative reports of the prelim
+  (e.g. /p/tyler-robinson-court-case-report, /p/day-5-wrap-up-tyler-robinson-
+  preliminary). Commentary, not documents. Confirms the Sept 1 2026 oral-argument
+  briefing schedule. NOT probed for downloadable filings.
+* cherki82/candace, sihekuang/where-is-my-lego, tranbamanh229289/hubble,
+  paramireze-afk/authors-assistant, araguaci/tributo-a-charlie-kirk -- see above.
+
+## OUT OF LANE (handed to the sibling agents, deliberately not pursued here):
+   DocumentCloud project 224251, Scribd, Rev.com, Court TV, static.foxnews.com,
+   kutv.com/resources/pdf, Utah XChange. These recur constantly in search results
+   for this case; they belong to the documentcloud-scribd, hearings-transcripts,
+   and utah-courts lanes.
+
+################################################################################
+##  LANE SUMMARY -- community & researcher mirrors
+################################################################################
+The GitHub premise was wrong for this case: there is NO repo mirror. But the lane
+paid off anyway through three non-GitHub community archives, all free, all
+verified, all covering the May-Aug 2026 window we are missing:
+
+  1. andreaburkhart.substack.com  -- 259 downloadable PDFs, 784-entry docket map,
+     runs to 2026-08-31. THE source for the bind-over briefs. Best coverage.
+  2. charliefiles.com (Obsidian)  -- 81 PDFs + 13 hearing transcripts + 59 prelim
+     exhibit images, machine-enumerable via /cache/ + /access/. Best for exhibits.
+  3. news.grabien.com             -- hand-cleaned Day 1-5 transcripts + an
+     exhibit ledger with objections/rulings + 36 docket-numbered PDFs.
+     Best transcript quality; only source with docket numbers.
+
+Overlap is partial, not total -- take all three. Burkhart has filings CharlieFiles
+lacks; CharlieFiles has the UVU GRAMA productions and exhibit images Burkhart
+lacks; Grabien has the Dec-2025 publicity order and docket numbers neither has.
+
+ALL THREE ARE THIRD-PARTY REPUBLISHERS. None is the court's own record, and none
+of the transcripts is a certified court-reporter transcript. For anything
+load-bearing, match the copy against the official record.
+
+Manifests written for the parent agent:
+  _work/mirror_burkhart_docket.tsv       784 rows (date, size, title, pdf_url)
+  _work/mirror_charliefiles_manifest.tsv 367 rows (path, direct_url)
+  _work/mirror_grabien_filings.tsv        36 rows (status, type, path, full_url)
+
+Log complete. $(date -u +%Y-%m-%dT%H:%M:%SZ)

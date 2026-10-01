@@ -1,0 +1,41 @@
+id: '2094072330238492858'
+url: 'https://x.com/Mark93541946/status/2094072330238492858'
+author:
+  username: 'Mark93541946'
+  name: 'THE HOMELESS RABBIT'
+  id: '1602456688954675202'
+text: |
+  They won't debate this. They won't even bring it up. Two bullet holes one in his neck one in the shirt.... You won't hear this on SPACES.  Honestly.... I can't blame them.
+  You can't debate something that's  undebatable
+created_at: '2026-08-30T14:38:44.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1086
+  reply_count: 155
+  like_count: 10086
+  quote_count: 36
+  bookmark_count: 5134
+  impression_count: 793791
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2087924635761307648'
+      duration_ms: 4533
+      width: 886
+      height: 1920
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2087924635761307648/img/C7EX8yY2S8WFj_Lq.jpg'
+      ipfs_cid: 'QmQjb72pZ79ajbXCHBh8T4swaC1EzXXgMFBWwnb4FqVcwY'
+      cid_v1: 'bafybeibds6ublaln73nwhfwolxrjuk3n2lbdibnoltzlvb3wwykxoqx3e4'
+      sha256: 'a912fec50de46c09e82d0e032b0ea58343ab6d65c42b1ab33651a091ab94c06e'
+      has_audio: true
+  images: []
+transcription: |
+  Not counting gang violence. Great.
+investigation: 'charlie_kirk'
+added_date: '2026-08-31'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: '2087924670074925073'
+  quoted_status_url: 'https://x.com/US_did_911/status/2087924670074925073'
+  quoted_author: '@US_did_911'
+  note: 'X reports media_source_tweet_id 2087924670074925073. yt-dlp FAILED on the reposting URL ("No video could be found in this tweet") and SUCCEEDED against the media-source URL.'

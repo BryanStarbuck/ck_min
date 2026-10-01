@@ -1,0 +1,41 @@
+id: '2081152995429954013'
+url: 'https://x.com/timotheeology/status/2081152995429954013'
+author:
+  username: 'timotheeology'
+  name: 'Timothy Gordon (Rules for Retrogrades Show)'
+  id: '1063961320532324353'
+text: |
+  This Israel-CK fallout timeline is devastating
+
+  I've been told that facts don't care about your feelings, and this timeline seems to confirm it
+
+  @CarriePrejean1
+  @RealCandaceO https://t.co/CGqPIqqEUb
+created_at: '2026-07-25T23:01:54.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 278
+  reply_count: 52
+  like_count: 1712
+  quote_count: 13
+  bookmark_count: 508
+  impression_count: 53855
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2081145555560869888'
+      url: 'https://pbs.twimg.com/media/HOG22z0WsAAfflH.jpg'
+      width: 1170
+      height: 1753
+      local_file: 'images/2081152995429954013_1.jpg'
+      sha256: 'dc07b5bd5c4a7214a003b71c7905fad6b32e888da22f9b08f39f18e65095d68d'
+      ipfs_cid: 'QmTAahP39Qq6RCML16Xuk2LYrukQEmhPUg5XrYw1LxN8Wu'
+ocr_text_extracted: true
+site_pages:
+  - 'site/docs/Israel/overview.mdx'
+  - 'site/docs/Timeline/overview.mdx'
+  - 'site/docs/Timeline/israel-events-pressure-timeline.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-26'
+temp_file: false

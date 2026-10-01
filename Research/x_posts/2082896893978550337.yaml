@@ -1,0 +1,43 @@
+id: '2082896893978550337'
+url: 'https://x.com/Villgecrazylady/status/2082896893978550337'
+author:
+  username: 'Villgecrazylady'
+  name: 'Mel'
+  id: '1277594966705963009'
+text: |
+  That's exactly what I thought too. Plus check out this Chopper 5 footage from about an hour after.
+  The disturbance in the roof gravel is significantly farther back than described. I always wondered
+  how he got so far from the edge before the audience even ducked in the Hall of Flags clip... makes
+  a lot more sense if he was laying 10 feet back to begin with.
+created_at: '2026-07-30T18:31:32.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 61
+  reply_count: 19
+  like_count: 597
+  quote_count: 3
+  bookmark_count: 60
+  impression_count: 45668
+replying_to:
+  status_id: '2082891498601808188'
+  author: '@DavidTaylorUSA'
+  text: |
+    @Villgecrazylady This video and the one Candace posted shows the person at least 5-6 ft back from
+    the edge. There is no way he could have had a line of sight to where Charlie was sitting. Not from
+    this position. It's impossible.
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2082896832821096448'
+      duration_ms: 13420
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2082896832821096448/img/QxK1vhYxVMzltw_n.jpg'
+      width: 2342
+      height: 1320
+      local_file: '~/BGit/Bryan_git/charlie-kirk/videos/2082896893978550337.mp4'
+      sha256: 'a23cb7c75cf33cc35f3f1c58f8486b7f503690ca490c6e6893ccf494741df77e'
+      ipfs_cid: 'QmQptVYBi7Q4xWHKnmmxEm5JkJJRaqXSTYKrJxbqBwR2gx'
+  images: []
+site_page: 'site/docs/Videos/Vid_UVU_Venue/Vid_Roof_Runner_Clips/Vid_Chopper5_Roof_Gravel_2082896.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-30'
+temp_file: false

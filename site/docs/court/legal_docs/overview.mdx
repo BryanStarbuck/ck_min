@@ -1,0 +1,173 @@
+---
+displayed_sidebar: docs
+title: "Legal Documents — State v. Robinson"
+sidebar_label: "Legal Documents"
+sidebar_position: 1
+description: "Primary source filings in State of Utah v. Tyler Robinson, case 251403576 — the documents obtained so far, the acquisition list for those still missing, and where each one should be reachable."
+keywords:
+  - Charlie Kirk
+  - Tyler Robinson
+  - capital defense
+  - State v Robinson
+  - AI defense attorney
+  - legal documents
+  - court filings
+  - case 251403576
+image: "/img/docusaurus-social-card.jpg"
+hide_table_of_contents: true
+---
+
+{/* Full-bleed marker: activates the site-wide full-width + text-wrap
+    layout in custom.css. Scoped via CSS :has(). */}
+<div className="ck-full-bleed" />
+
+<a href="/court/overview" style={{display:'inline-block', marginBottom:'1rem',
+padding:'0.35rem 0.9rem', background:'#1a73e8', color:'#fff',
+borderRadius:'4px', textDecoration:'none', fontSize:'0.9rem'}}>← Court & Trial</a>
+
+# Legal Documents — State v. Robinson
+
+:::caution Legal Disclaimer
+**Tyler Robinson is charged, not convicted**, and is **presumed innocent**. Nothing on this page states as fact that any living person committed a crime, destroyed evidence, or acted improperly. Court filings in this case are subject to a **gag order** and **sealing**, so the public record is incomplete by design.
+:::
+
+## What This Directory Is
+
+**Legal Documents** is the primary-source layer under [Court & Trial](/court/overview). Everything else in the court section — the [day pages](/court/Days_in_Court/overview), the [witness roster](/court/people-on-witness-stand), the [AI defense attorney](/court/ai_attorney/overview) exercise — is written from press accounts, pool reporting and transcripts. This directory is where the **filings themselves** go, so that any claim made elsewhere can be checked against the document rather than against a report of the document.
+
+Case: **State of Utah v. Tyler James Robinson**, Case No. **251403576**, Fourth Judicial District Court, Provo Department, before the **Honorable Tony F. Graf Jr.**
+
+## What Is Held Now
+
+| | |
+|---|---|
+| Docket entries known to exist | **867** |
+| Of those, marked private or sealed on the docket | 62 |
+| Docket entries for which a public PDF was ever posted anywhere | 258 |
+| **Primary-source PDFs held in this archive** | **374** |
+| Machine-readable Markdown conversions | 378 |
+| Preliminary hearing transcript words held | ~197,600 |
+| Preliminary hearing exhibit images held | 91 |
+
+The count of documents held is higher than the count of docket entries with a
+public PDF because the archive also holds search-warrant affidavits, GRAMA
+productions, appellate orders and transcripts that are not numbered docket
+entries in the trial court.
+
+The full working index — every file, what it says, its page count, its size and
+its SHA-256 — is `site/docs/court/legal_docs/tracking.txt` in the repository.
+That file also carries the gap list and the acquisition routes.
+
+## The Preliminary Hearing
+
+The preliminary hearing ran five days in July 2026 before Judge Graf. Two
+independent sources agree the days were **6, 7, 8, 9 and 10 July 2026**.
+
+**Certified transcripts** — prepared by the court reporter, Phoebe S. Moorhead,
+RDR, CRR — are held for **Day 4** (278 pages) and **Day 5** (97 pages) only.
+
+For **Days 1, 2 and 3** the archive holds only commercial transcriptions of the
+court-authorized pool video feed. These are useful for searching and for finding
+where in the record something was said. They are **not the certified record and
+must not be cited as one.**
+
+## Documents Still To Obtain
+
+462 of the 867 docket rows have no public copy. Most of those are clerical —
+Returns of Electronic Notification and Requests to Submit. Stripping the
+clerical noise leaves **119 substantive filings** that nobody outside the court
+holds. The largest and most consequential clusters:
+
+| Missing | Why it matters |
+|---|---|
+| The disqualification motion and its exhibits, unredacted (dockets 236, 276, 278) | The largest body of sealed substantive material on the docket. Only the public 47-page version is held. |
+| The motion to exclude cameras, unredacted (dockets 302, 396) | Held only in redacted form. The redacted material is the expert declaration and the survey data underneath it. |
+| Eight hearing transcripts | Including preliminary hearing Days 1–3, and the 17 April 2026 hearing, which the docket itself marks unavailable. |
+| All hearing audio | Judge Graf ordered the 24 October 2025 sealed-hearing audio released in redacted form. No copy has ever been published anywhere. |
+| The State's 34 preliminary hearing exhibits | Named with Bates numbers on the State's own exhibit list. None are held as documents. |
+| Expert reports | Served in discovery, never filed, therefore never public. |
+| Warrants after 6 October 2025 | A second Apple production of roughly 170 GB arrived in August 2026, so a 2026 warrant exists and is not held. |
+| Everything from 1 September 2026 | Bind-over argument was set for that date. It had not happened when this page was written. |
+
+There is also a documented **numbering anomaly** in the State's own exhibit
+list: it runs 1 through 16.4, jumps to 19, then 20–25, then 30–34. Exhibits 17,
+18, 26, 27, 28 and 29 are absent from the list. Whether they were withdrawn,
+renumbered or held back is an open question the certified transcripts should
+answer.
+
+## Where To Get Them
+
+| Route | Reaches | Cost |
+|---|---|---|
+| **Utah Xchange** | Every non-sealed filing at once — the only route that closes the whole gap | $10 one-time account + $0.35/search + **$1.00 per document**; about $150 for the 119 substantive filings |
+| **Audio recordings**, form 1100GE to `recordingrequest4th@utcourts.gov` | Hearing audio, including the redacted 24 Oct 2025 recording | **$15.00 per half-day** plus media — by far the cheapest primary-source route |
+| **Noteworthy Reporting LLC**, (801) 634-5549 | Certified transcripts for preliminary hearing Days 1–3 | $6.00/page at 30-day service, roughly $250 per court hour |
+| **Fourth District Court clerk**, Provo | Certified copies, and a written ruling on any request for an unredacted version | $0.25/sheet; a written denial under Rule 4-202.05 is itself a citable record |
+| **GRAMA** to the Utah County Attorney | Agency records rather than filings | Free to file; appeal refusals to the State Records Committee |
+| **Utah appellate docket search** | The two July 2026 Supreme Court orders denying interlocutory review | Free, but CAPTCHA-gated, so it must be done by a person |
+
+## A Note On Two Things That Look Like Censorship And Are Not
+
+Two hosts failed during the sweep that produced this page, and both failures
+were tested against unrelated control URLs before anything was concluded:
+
+* The Utah County Attorney's case-update page returns 404 and the site's whole
+  content backend returns 503. **The backend root itself returns 503**, so this
+  is a site-wide outage, not a takedown of this case's material.
+* The Internet Archive's playback layer returned 503 and 429 throughout.
+  Unrelated control snapshots failed identically. The Archive's *index* layer
+  stayed up and confirms the captures still exist.
+
+Neither is evidence of suppression, and neither is described as such anywhere in
+this archive. Running that control test is what separates an outage from a
+cover-up, and it is run every time.
+
+## How Documents Are Stored In This Repository
+
+Three locations, and they are not interchangeable:
+
+* **The PDFs** live in `site/internals/static/court/filings/`, which Docusaurus
+  copies verbatim into the build. They are served at `/court/filings/...` and
+  can be linked from any page.
+* **Machine-readable text** lives in `site/docs/court/legal_docs/_markdown/`
+  (one Markdown file per PDF) and `_text/` (plain text and the hearing
+  transcripts). Both directory names begin with an underscore, so Docusaurus
+  excludes them from the built site.
+* **Pages describing documents** go in `site/docs/court/legal_docs/`, which is
+  this directory.
+
+A PDF placed under `site/docs/` is **not** served and will 404 for every real
+visitor while appearing to work locally.
+
+The Markdown conversions were produced with `pymupdf4llm`, which reads the PDF's
+own layout objects and emits real tables — which matters because the exhibit
+lists and witness lists are column data. Seventeen of the court's signed orders
+are image-only PDFs carrying digital signatures; those were OCR'd to a separate
+text file so that **every original PDF still carries its intact signature.**
+Where a Markdown conversion and the PDF differ, the PDF governs.
+
+## Honest Statement Of Completeness
+
+This archive holds 374 primary-source documents against a docket of 867 entries.
+Judged against *every* docket row that is not clerical, it is close to complete
+for everything that has ever been made public, and it is missing everything that
+has not — which is the sealed material, the exhibits, the expert reports, the
+audio, and most of the transcripts.
+
+The honest summary is that **the public record of this case has been assembled
+about as far as it can be without spending money at the courthouse.** The
+remaining routes are priced, named and ranked in `tracking.txt`. The cheapest
+one that would move the needle most is the audio: $15 per half-day for
+recordings that nobody has ever published.
+
+## Related
+
+* [Court & Trial](/court/overview)
+* [Days in Court](/court/Days_in_Court/overview)
+* [Preliminary Hearing transcripts](/court/Preliminary_Hearing/overview)
+* [AI Defense Attorney](/court/ai_attorney/overview)
+* [Score Card](/court/score_card/overview)
+
+{/* CK_AUTHOR_CREDIT */}
+
+*This website's author is [@HolonCitizen](https://x.com/HolonCitizen) on X and [YouTube/@HolonCitizen](https://www.youtube.com/@HolonCitizen). Follow me there.*

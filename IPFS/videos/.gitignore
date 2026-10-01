@@ -1,0 +1,4 @@
+# Ignore all files in this directory (large video files pulled via IPFS)
+# The .gitignore itself is committed so the directory is tracked in git.
+*
+!.gitignore

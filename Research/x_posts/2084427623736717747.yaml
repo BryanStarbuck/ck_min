@@ -1,0 +1,56 @@
+id: '2084427623736717747'
+url: 'https://x.com/darlenamirarchi/status/2084427623736717747'
+author:
+  username: 'darlenamirarchi'
+  name: 'Darlena Mirarchi'
+  id: '1584173557407514626'
+text: |
+  @ProjectConstitu I found a treasure trove on the guy
+created_at: '2026-08-03T23:54:06.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 0
+  reply_count: 0
+  like_count: 4
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 280
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2084426399578746880'
+      url: 'https://pbs.twimg.com/media/HO1exENWcAAJ6FQ.jpg'
+      width: 946
+      height: 2048
+      ipfs_cid: 'QmScRLzFAjjury8brygpNZJYbAV61G4eHV8kk2GsAihxFH'
+    - type: photo
+      media_key: '3_2084426399595536384'
+      url: 'https://pbs.twimg.com/media/HO1exERWoAAEnaR.jpg'
+      width: 946
+      height: 2048
+      ipfs_cid: 'QmR7ybQUbThzcm1Ha4ryAJWTUyY4WnnonG1Cu9B2xqqu2T'
+    - type: photo
+      media_key: '3_2084426399582982144'
+      url: 'https://pbs.twimg.com/media/HO1exEOXEAA3_yb.jpg'
+      width: 946
+      height: 2048
+      ipfs_cid: 'QmXJKiYPpv36eXXm41Bt4gyZ4HZ11gGknkzKMYFcGbg7Tn'
+    - type: photo
+      media_key: '3_2084426399608152064'
+      url: 'https://pbs.twimg.com/media/HO1exEUXIAAvTp2.jpg'
+      width: 946
+      height: 2048
+      ipfs_cid: 'Qmch4VFniTLTPMK8d4XtZ3rtstgobmuYZBKBdEFyapBF89'
+media_from_quoted_status:
+  quoted_status_id: '2084426404096053542'
+  quoted_status_url: 'https://x.com/darlenamirarchi/status/2084426404096053542'
+  quoted_author: '@darlenamirarchi'
+  quoted_text: |
+    This is Alan Robertson.  The second man on the roof with Bailey.  Of course he has a military pedigree
+ocr_text: |
+  USU STATE Veterans Resource Office — Alan Robertson
+  Alan Robertson is a full-time police officer with USU Police and has been with our agency for a little under a year. He has also worked as an officer with North Park Police and for several years with San Bernardino police in California. He spent 5 years in the military and was in the USMC Infantry w/ 1st Battalion 5th Marines. Deployments include Combat (Afghanistan) and Humanitarian (Japan/Southeast Asia) Squad Leader/Team Leader. In the short time he has been with USU Police his leadership has shown, he is now a Field Training Officer (FTO) and has initiated a new field training program which we had implemented and are currently using with our new officers. He has been assigned as one of our three new officers in training. His leadership is exemplary, and it shows his commitment to the department and the University. He will be attending a certification class to become one of our firearms Instructors soon. He is an individual that "raises the bar" and holds himself to a high standard and is willing to help other officers and students. He is calm and collected during high stress situations and a great example to others.
+investigation: 'charlie_kirk'
+added_date: '2026-08-04'
+temp_file: false

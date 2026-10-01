@@ -1,0 +1,33 @@
+id: '2080879127033430307'
+url: 'https://x.com/SwordTruth/status/2080879127033430307'
+author:
+  username: 'SwordTruth'
+  name: 'Sword Truth'
+  id: '1585763035016097792'
+text: |
+  Tyler Bowyer says "We brought Mikey McCoy in as Charlie Kirk's Handler" https://t.co/1KPzf5wkuH
+created_at: '2026-07-25T04:53:39.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 38
+  reply_count: 14
+  like_count: 212
+  quote_count: 2
+  bookmark_count: 15
+  impression_count: 22681
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2080839293778472960'
+      duration_ms: 26061
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2080839293778472960/img/kyydxsdSBEtbSWzs.jpg'
+      ipfs_cid: 'QmanDK8AkXN3b24Q4fQcYms5QmmrhpjBSGPEQLUDYzytNk'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2080839330222727528'
+  quoted_status_url: 'https://x.com/SupCitizen/status/2080839330222727528'
+  quoted_author: '@SupCitizen'
+  quoted_text: 'Uhhh, what? Tyler referred to Mikey as Charlie''s handler. Watch Jack''s reaction. Wtf was that.'
+investigation: 'charlie_kirk'
+added_date: '2026-07-25'
+temp_file: false

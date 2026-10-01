@@ -1,0 +1,45 @@
+id: '2070597252133818558'
+url: 'https://x.com/RealTruthJustic/status/2070597252133818558'
+author:
+  username: 'RealTruthJustic'
+  name: 'LindsMac. —Real Truth Real Justice'
+  id: '288037372'
+text: |
+  Could this be it
+note: 'Quote-tweet with no own media. Quotes @DanCampbel44604/status/2070549604777533869.'
+created_at: '2026-06-26T19:57:09.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1
+  reply_count: 4
+  like_count: 9
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 861
+quoted_post:
+  id: '2070549604777533869'
+  url: 'https://x.com/DanCampbel44604/status/2070549604777533869'
+  author:
+    username: 'DanCampbel44604'
+    name: "God's chosen person"
+    id: '2011578330022363144'
+  text: |
+    @baroncoleman [image]
+  created_at: '2026-06-26T16:47:49.000Z'
+  attachments:
+    images:
+      - type: photo
+        media_key: '3_2070549595948462080'
+        url: 'https://pbs.twimg.com/media/HLwR4yRWMAAKPPn.png'
+        width: 845
+        height: 748
+        original_file: 'NOT KEPT — original screenshot contained burned-in accusatory text naming living people; removed.'
+        cropped_file: '2070597252133818558_1_cropped.png'
+        cropped_ipfs_cid: 'QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS'
+        cropped_width: 845
+        cropped_height: 478
+        description: 'Annotated still of the SUV interior labeling occupants (Dan, Justin, Brian Mericle, Frank, Rick Cutler). Cropped to remove the original poster accusatory text. Names are unverified social-media identifications.'
+ocr_note: 'Burned-in text in the original screenshot was an unverified accusation against living people and has been removed; it is not retained.'
+investigation: 'charlie_kirk'
+added_date: '2026-06-26'
+temp_file: false

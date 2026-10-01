@@ -1,0 +1,96 @@
+
+Level_2_Hierarchy:
+  # These are what the AI created. Not yet approved or rejected
+  # The yaml property is the Key_Label (underscores and no spaces or special characters). The value for that yaml property is the text of the Docusaurus markdown link. The sub-property will either be "URL" for URLs to external websites.  Or it will have the sub-property "Link" which is the link in Docusaurus markdown terms.
+  # The top level is like "LEVEL_2_For_REVIEW_AI_Created". AI adds new ideas to "For_Review". 
+  # The human reviewer will move them to "LEVEL_2_APPROVED" or "LEVEL_2_REJECTED". We won't
+  # have anything on our site under "LEVEL_2_REJECTED".
+  # Everything under "LEVEL_2_APPROVED" is good to create on our website.
+  # The 2nd yaml level property "Level_2" has that yaml value say which Level 2 category
+  #  of this site this goes under.
+  # the 2nd yaml level, such as "List_of_Individuals" is the Key_Label for the Level 2 page.
+  # The yaml value for that is the title for it.
+  # Under there can be Link or URL on the value of the markdown link.
+  LEVEL_2_For_REVIEW_AI_Created:
+    - List_of_Individuals: "List of Individuals"
+        Link: "/People/overview.md"
+
+
+  LEVEL_2_APPROVED:
+    - TPUSA: "TPUSA"
+        Link: "/TPUSA/overview.md"
+
+  LEVEL_2_REJECTED:
+    - Bad_Bad: "Bad Bad"
+
+
+
+
+Level_3_Hierarchy:
+  # These are what the AI created. Not yet approved or rejected
+  # The yaml property is the Key_Label (underscores and no spaces or special characters). The value for that yaml property is the text of the Docusaurus markdown link. The sub-property will either be "URL" for URLs to external websites.  Or it will have the sub-property "Link" which is the link in Docusaurus markdown terms.
+  # The top level is like "LEVEL_3_For_REVIEW_AI_Created". AI adds new ideas to "For_Review". 
+  # The human reviewer will move them to "LEVEL_3_APPROVED" or "LEVEL_3_REJECTED". We won't
+  # have anything on our site under "LEVEL_3_REJECTED".
+  # Everything under "LEVEL_3_APPROVED" is good to create on our website.
+  # The 2nd yaml level property "Level_2" has that yaml value say which Level 2 category
+  #  of this site this goes under.
+  # the 3rd yaml level, such as "Recruited" is the Key_Label for the Level 3 page.
+  # The yaml value for that is the title for it.
+
+  ## CATEGORIES For Level 2 Tyler
+  LEVEL_3_CATEGORIES_FOR_REVIEW:
+    - Level_2: "Tyler"
+      - Key_Label: "Recruited"
+          Title: "Recruited"
+          Link: "/Tyler/Recruited.md"
+
+
+  LEVEL_3_CATEGORIES_APPROVED:
+    - Level_2: "Tyler"
+      - Key_Label: "Girlfriend"
+          Title: "Girlfriend"
+          Link: "/Tyler/Girlfriend.md"
+
+  LEVEL_3_CATEGORIES_REJECTED:
+    - Level_2: "Tyler"
+      - Key_Label: "Bad Bad"
+          Title: "Bad Bad"
+          Link: "/Tyler/Bad_Bad.md"
+
+
+
+  ## ITEMS For Level 2 Tyler
+  Level_3_ITEMS_For_REVIEW_AI_Created:
+    - Level_2: "Tyler"
+      - Key_Label: "Recruited"
+          Title: "Recruited"
+          Link: "/Tyler/Recruited.md"
+
+
+  Level_3_ITEMS_APPROVED:
+    - Level_2: "Tyler"
+      - Key_Label: "Girlfriend"
+          Title: "Girlfriend"
+          Link: "/Tyler/Girlfriend.md"
+
+  Level_3_ITEMS_REJECTED:
+    - Level_2: "Tyler"
+      - Key_Label: "Bad Bad"
+          Title: "Bad Bad"
+          Link: "/Tyler/Bad_Bad.md"
+
+
+
+
+# SWAP
+# The yaml property is what to NOT use. The value is what to use instead. This will have underscores for spaces.
+SWAP_PHRASES:
+  - Bad_Phrase: "Instead use this"
+
+
+
+# DO NOT USE
+# Do not use any of these
+DO_NOT_USE:
+  - Bad_Bad_Bad: This is too vauge

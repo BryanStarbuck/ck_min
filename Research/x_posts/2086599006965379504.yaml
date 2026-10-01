@@ -1,0 +1,36 @@
+id: '2086599006965379504'
+url: 'https://x.com/ArtifexMemor/status/2086599006965379504'
+author:
+  username: 'ArtifexMemor'
+  name: 'Artifex Memoriarum'
+  id: '1252326476554186752'
+text: |
+  "you just see it hit his chest"
+
+  EXCUSE ME, WHAT?
+created_at: '2026-08-09T23:42:25.000Z'
+public_metrics:
+  retweet_count: 58
+  reply_count: 22
+  like_count: 438
+  quote_count: 6
+  bookmark_count: 56
+  impression_count: 11426
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2086551651846938625'
+      duration_ms: 35933
+      width: 3840
+      height: 2160
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2086551791139688796'
+  quoted_status_url: 'https://x.com/NihiloX/status/2086551791139688796'
+  quoted_author: '@NihiloX'
+ipfs:
+  video_cid: 'QmQrAoTcV8XXLk6XvVeD8oJd3CawvpAdyXJ5hZcnqDDEuK'
+site_page: 'site/docs/Witnesses/hit-his-chest-blood-squirt.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-10'
+temp_file: false

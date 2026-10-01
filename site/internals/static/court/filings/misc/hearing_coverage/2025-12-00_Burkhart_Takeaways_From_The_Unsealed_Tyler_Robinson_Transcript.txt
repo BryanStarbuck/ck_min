@@ -1,0 +1,155 @@
+Andrea Burkhart — 'Takeaways from the unsealed Tyler Robinson transcript' (source page for the Oct 24 2025 redacted transcript, the Dkt 23 motion, and the 6-page scanned order)
+Source: https://andreaburkhart.substack.com/p/takeaways-from-the-unsealed-tyler
+Retrieved: 2026-08-31 (HTTP 200, 420784 bytes of HTML)
+Saved as readable text extracted from the page HTML.
+==============================================================================
+
+Legal Color Commentary with Andrea Burkhart
+
+Subscribe Sign in
+
+Takeaways from the unsealed Tyler Robinson transcript
+
+What was hidden, what wasn't, and what the defense really thinks of all the theories surrounding the case.
+
+Andrea Burkhart
+
+Dec 31, 2025
+
+18
+
+2
+
+Share
+
+On October 24th, the State, the defense, and Judge Graf met in a closed session to argue Tyler Robinson’s motion to permit Mr. Robinson to appear in court in civilian clothing and without shackles. The hearing was closed, and the transcript of the hearing initially sealed, because of concerns about publicizing details of the courtroom security measures put into place. But following a media request to unseal the transcript, Judge Graf agreed that targeted redaction would be sufficient to protect the safety interests at stake, and the redacted transcript has now been released. You can read the whole thing here .
+
+You can also read the order detailing the redactions here . Below, I present all of the redactions as they were justified, as well as the proposed redactions that were rejected by Judge Graf as unjustified.
+
+Subscribe
+
+What was redacted
+
+The court’s order unsealing the transcript details each redaction specifically and identifies the justification for it. The vast majority of the redactions are predicated on security considerations , with all but one of the total redactions falling under this category.
+
+The first four redactions deal with security measures at the closed hearing itself - the defense wanted Mr. Robinson to have one hand unshackled so that he could take notes during the hearing, and the court inquired into the feasibility of doing so. After input from the bailiff, it appears the defense request was accommodated.
+
+The next set of redactions occur in the context of the defense’s argument that shackling decisions need to be based on information that is individual to the defendant, not a generalized practice applied to an entire class of defendants. That argument references two separate areas of concern to the defense : (1) Circumstances surrounding Mr. Robinson’s arrest, incarceration, and court appearances, and (2) Activity by third-parties creating security concerns that should not be attributed to Mr. Robinson.
+
+1. Circumstances surrounding Mr. Robinsons’ arrest, incarceration, and court appearances.
+
+On the first point, the defense first discusses the courtroom setting:
+
+Next, it addresses security decisions made in the context of Mr. Robinson’s arrest and their subsequent revision. It appears to me that this argument likely relates to Mr. Robinson’s first appearance in suicide prevention clothing and a later determination that he no longer presents a suicide risk warranting protections while in custody.
+
+The defense points out that due to cameras in the courtroom and the public release of Mr. Robinson’s booking photo, the public has already seen images of him in jail clothing.
+
+The State argues for remote hearings to minimize Mr. Robinson’s personal appearances in court.
+
+And the Sheriff expressed concern about the possibility that Mr. Robinson could change clothes during a commotion in court, while acknowledging that there is typically more commotion during other court hearings where more people are present.
+
+The defense responded to this suggestion with unconcealed derision.
+
+And lastly, the State responded to what appears to be a suggestion from the defense set forth in the last redaction.
+
+(2) Activity by third-parties creating security concerns
+
+Additional redactions were made to parts of the defense argument that security risks posed by third-parties and attributed to the public interest in the case should not mean that Mr. Robinson is treated as more of a threat, because he is not responsible for the actions of those third-parties.
+
+A second redaction on the topic of “noise” outside the courtroom appeared to address the number and interest of courtroom spectators.
+
+Besides the security-based redactions, Judge Graf approved only one redaction on the grounds of protecting a privacy interest , and that was the same redaction already approved on security grounds addressing “When Mr. Robinson was first arrested …” That a privacy interest supports this redaction contributes to my conclusion that this redaction likely addresses suicide-prevention measures taken by the jail when Mr. Robinson was first booked. The rest of the redactions - your guess is as good as mine.
+
+What wasn’t redacted
+
+Judge Graf did not agree with six of the proposals for redaction that both of the parties had agreed to. Two requests on privacy grounds were rejected, and four requests on the grounds of jeopardizing Mr. Robinson’s right to a fair trial were rejected.
+
+On privacy grounds, first, Judge Graf did not agree that the defense’s reference to “wacky phone calls and e-mails, people telling me what they think happened here,” implicated a protected privacy interest.
+
+Nor did he agree that defense’s reference to the possibility of an innocent family member “getting the e-mails that I’m getting right now” was personal or sensitive enough to justify redaction from the public record.
+
+As to the requests to redact statements to protect Mr. Robinson’s right to a fair trial , Judge Graf disagreed that any of them were justified, concluding that all of the information identified is already in the public arena. The proposed but rejected redactions include:
+
+(1) The fact that Mr. Robinson is alleged to have changed his clothes during the crime;
+
+(2) The fact (presented by the defense) that Mr. Robinson surrendered himself to law enforcement, with his parents and a retired deputy sheriff neighbor.
+
+The order also makes it clear that the neighbor is the “non-party participant” referenced in the hearing, which - if you watched the hearing with me - choice of language caught my attention because the term “participant” tends to imply a participant in the crime. However, it appears Judge Graf used the term more broadly to refer to the neighbor as simply a participant in the related events , as he also characterizes the neighbor as a “non-party witness” in his written order, and there is no other reference to a third-party participant of any kind in either the transcript or the proposed redactions.
+
+Noticeable revelations from the transcript.
+
+What stands out the most to me by far is the defense’s dismissiveness of the “crazies” - their word, not mine - who have felt compelled to share their theories of the case with the very defense team members who have direct access to the discovery and to what Mr. Robinson has to say, and who are therefore in a far superior position to know what happened. I can only imagine what a bizarro-world experience it is to be lectured by the ignorant like this, and I’m sure they are aware that they themselves will inevitably fall under suspicion of conspiring with “them,” whoever they are, to prevent “the truth,” whatever that is, from “coming out,” whatever that means besides the public vetting of evidence in which they are first-hand participants.
+
+Mr. Robinson’s attorney Richard Novak pulled no punches when he first discussed what he referred to as “ noise ” surrounding the case, attributing it to “conspiracy theorists,” “wacky calls and e-mails,” “crazies,” and “fringe people.”
+
+And if the characterizations weren’t enough to make his thoughts about the theories flying from those who lack the knowledge of the case that he has evident, he makes a point to distance himself from this activity, noting specifically, “We’re not talking to crazies” - in other words, the defense has nothing to do with the many theories circling about Charlie Kirk’s murder and disavows them.
+
+Indeed, as I opined once what it must be like for the defense to be dealing with the widespread proliferation of theories and sleuthing around the case, the defense appears to have a love-hate relationship with the public interest in this case. As defense attorneys, they are duty-bound to make reasonable efforts to identify and pursue leads that could undermine the prosecution; but the slew of misinformation amounts to a mountain of chaff to sort through in the hopes of finding a useful kernel or two, and the task only becomes more burdensome the more time elapses without producing anything that helps their case. The defense probably feels like they’re drowning in sunk costs already.
+
+Another interesting tidbit I gleaned from the transcript is the cavalier attitude on the part of Christopher Ballard, one of the deputy prosecuting attorneys assigned to the case, to treating the First Amendment rights of court observers as a bargaining chip to get what the State wants. Rather than simply dressing Mr. Robinson in civilian clothes for court, the prosecutor suggested that the court could simply remove cameras and then ban all the spectators from reporting on his appearance.
+
+This casual suggestion flies in the face of the fact that prior restraints affecting the reporting of criminal proceedings have been effectively outlawed since the U.S. Supreme Court decided Nebraska Press Association v. Stuart in 1976. In that case, the U.S. Supreme Court established a test that must be satisfied to justify a ban on reporting and further noted that such a ban faces a “heavy burden” to be found legitimate. While declining to hold that such restrictions will always be unconstitutional, the Stuart Court makes it clear that only a rare such order will pass muster - Stuart itself involved an order prohibiting the publication of evidence and testimony presented at the defendant’s preliminary hearing, matters which are far more likely to affect a prospective juror’s opinion on guilt than awareness that the defendant is detained pretrial.
+
+Now, we might excuse Mr. Ballard as being simply appallingly ignorant about individual rights and operating under the naive impression that his idea to avoid the problem by shutting up all the reporters was a unique stroke of genius. But that’s hard to buy when just over a week later, Mr. Ballard was the signatory to the State’s motion to clarify the court’s gag order , which relied on Stuart to support its argument that the order was overbroad and procedurally deficient. Instead, the inference this state of affairs suggests is that Mr. Ballard knows perfectly well that gagging the press is not a viable option to mitigate the prejudice of Mr. Robinson’s presentation in the court as a shackled inmate, but he’s still content to try to violate the rights of the public if he thinks he can get away with it.
+
+Another thing that stands out to me is how behind schedule the defense is with their motions. Since this October hearing, the defense has filed four separate briefs opposing media involvement in the case, and it appears that prioritizing the efforts to battle the media’s attempts to increase transparency has come at the cost of more proactive matters. At the beginning of the hearing, the defense identified three motions that it had already been discussing with the State - a motion to eliminate all videorecording of court hearings, a motion to modify the pretrial publicity order, and a motion to disqualify the Utah County Prosecuting Attorney’s office. And the defense reiterated multiple times that they expected to file all of those motions before Thanksgiving , anticipating a hearing date in early January.
+
+As of today, however, only one of these motions has been filed - the motion to disqualify the Utah County Attorney’s Office was filed on December 17th, nearly three weeks after Thanksgiving. That motion is expected to be argued on January 16th, giving the State less than a month, during the holiday season, to respond. At the closure hearing on December 11th, the defense also wanted to address their anticipated motion to expand the gag order on January 16th, but that motion has yet to be filed and it seems unlikely that there will be adequate time for a response at this point. There is still a hearing date set aside on February 3rd that was originally for the motion to ban cameras, so perhaps there is still time for both of the remaining motions to be filed and argued as anticipated, but there seems little question that the schedule is getting tight.
+
+It is undoubtedly true that this is a very busy period for the defense as the discovery continues to ramp up and there is now a May date for the preliminary hearing to prepare for. Still, I can’t help but notice the effort dedicated to winning a victory-in-name-only over the media’s involvement (the defense will still have to serve the media with any requests to seal documents or close hearings, but the media isn’t formally recognized as a limited party by intervention) when all of these other priorities were identified more than two months ago and remain mostly undone. It makes me wonder if the defense sees the media as more of an adversary than the State in this prosecution.
+
+The last thing that caught my attention in the transcripts is a small bit of insight into the ongoing investigation in the case. During a discussion of the discovery process, the prosecutor described the volume of video surveillance footage from UVU that investigators were working through, proceeding backwards in time from September 10th.
+
+While it isn’t surprising to me to have confirmation that investigators will be working diligently to retrace Tyler Robinson’s movements in the days leading up to the assassination, and to look for evidence of him casing the scene, it speaks to how much of the case is only put together after the identification and arrest of Mr. Robinson , and therefore after the initial probable cause is submitted. Knowing that three full days have been set aside for the preliminary hearing, this implies that we can expect to see far more evidence than what was described in the probable cause affidavit - and if we don’t, we can expect the defense to be calling out the fruitlessness of the later investigative efforts.
+
+Transparency remains the best medicine.
+
+Having now seen what was discussed at the closed hearing, it’s striking how little of what was said ultimately justified excluding the public from the process. And in hindsight, the amount of extra time and effort the whole pursuit of secrecy took - from designating the transcript as private to reviewing the transcript to conferring over redactions to holding a two-hour hearing over redactions to finalizing and releasing redactions - surely seems like a lot of squeeze for so little juice.
+
+While I definitely don’t think we’ve seen the last closed hearing in the case, between Judge Graf’s now habitual preference for as much openness as possible, even when the parties disagree, and the extra effort required to conceal a miniscule portion of the process, I do hope that this process has served to discourage these attempts to exclude the public. The minimal redaction ultimately needed underscores for me how much easier and more efficient it would be to simply address these issues of concern at sidebar, so that the less justifiable grounds can be screened out early and more time can be dedicated to litigating the important issues that will need to be resolved before trial can take place.
+
+Although his record isn’t perfect, Judge Graf remains one of the best defenders of courtroom transparency that I’ve seen on the bench in a long time. Here’s hoping the trend continues to improve.
+
+Legal Color Commentary with Andrea Burkhart is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+Subscribe
+
+18
+
+2
+
+Share
+
+Previous Next
+
+Discussion about this post
+
+Comments Restacks
+
+Jessica Drew
+
+Jan 1
+
+Could this overwrought emphasis on excluding the press be an argument for ineffective counsel on (post-conviction) appeal? Seems like such misplaced resources at this point.
+
+Reply
+
+Share
+
+1 reply by Andrea Burkhart
+
+1 more comment...
+
+Top Latest Discussions
+
+No posts
+
+Ready for more?
+
+Subscribe
+
+© 2026 Andrea Burkhart · Privacy ∙ Terms ∙ Collection notice
+
+Start your Substack Get the app
+
+Substack is the home for great culture

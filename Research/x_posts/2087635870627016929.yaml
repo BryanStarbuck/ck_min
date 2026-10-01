@@ -1,0 +1,35 @@
+id: '2087635870627016929'
+url: 'https://x.com/alleytopfiles/status/2087635870627016929'
+author:
+  username: 'alleytopfiles'
+  name: 'Alley Files'
+  id: '1993892913957490692'
+text: |
+  And this …. @iamcoachcolin
+  Where are all the videos that day? https://t.co/3ZDSKPvD6K
+created_at: '2026-08-12T20:22:32.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 248
+  reply_count: 39
+  like_count: 1175
+  quote_count: 10
+  bookmark_count: 334
+  impression_count: 39240
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2087635712728248320'
+      duration_ms: 75613
+      width: 1050
+      height: 1548
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2087635712728248320/img/jygZPJmTF26djGtR.jpg'
+  images: []
+ipfs:
+  cid: 'QmQBcMjT7PvPUQXfgR6Vhm3oMzAHaHZCgJvXY6DNcJot7D'
+  sha256: '75e07b2cc44d3af2d26dfc696e9c54bd6514b6bd7b73a7846e2c6e00750d56d6'
+  public_verified: true
+transcription_file: '~/BGit/Bryan_git/charlie-kirk/videos_transcription/2087635870627016929.md'
+investigation: 'charlie_kirk'
+added_date: '2026-08-13'
+temp_file: false

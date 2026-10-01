@@ -1,0 +1,22 @@
+# Already-compressed evidence: do not try to compress or delta it.
+#
+# ~15,500 tracked files in this repo are gzip/JPEG/PNG/PDF streams. Git's default
+# zlib pass and delta search cannot shrink them — measured on 3,000 of the
+# geo_sweep .json.gz traces, the default pack was 146,283,926 bytes and a pack
+# with compression and delta disabled was 146,284,199 bytes. That is a 273-byte
+# "saving" across 146 MB (0.0002%) bought with double the packing CPU. On a
+# single .gz blob, git's zlib pass makes the object 0.04% LARGER than the input.
+#
+# `binary` = -diff -merge -text: never line-diff or eol-convert these, which also
+# stops a stray text conversion from corrupting a byte of evidence.
+# `-delta` skips the delta search that cannot pay off on compressed streams.
+
+*.gz    binary -delta
+*.jpg   binary -delta
+*.jpeg  binary -delta
+*.png   binary -delta
+*.webp  binary -delta
+*.mp4   binary -delta
+*.webm  binary -delta
+*.pdf   binary -delta
+*.zip   binary -delta

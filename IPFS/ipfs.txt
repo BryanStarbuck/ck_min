@@ -1,0 +1,1803 @@
+
+# 2046200409476489659_1.jpg — @MuppetMasher · 2026-04-20
+# Jeremy Gallman identified as TPUSA camera operator
+ipfs get QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5
+ipfs add "2046200409476489659_1.jpg"
+ipfs pin add QmPZYMTEWB6xA3qLGzs28s4qDVDr7RuL4UJ2K6b5sMXAN5
+
+# 2046416264567140352.mp4 — @MJTruthUltra · 2026-04-20
+# Kash: "Rest now brother. We have the watch, and I'll see you in Valhalla" — video 1 of 3
+ipfs get QmchuzwZemj9rh5Z4fAPVP36KL8fqWYd4UTm5djnJRJZpc
+ipfs add "2046416264567140352.mp4"
+ipfs pin add QmchuzwZemj9rh5Z4fAPVP36KL8fqWYd4UTm5djnJRJZpc
+
+# 2046416264562921472.mp4 — @MJTruthUltra · 2026-04-20
+# Goat Island / Valhalla Danish House location analysis — video 2 of 3
+ipfs get QmfJ9f9ymnw6RvHYXzGbnL9rQeHPES7Pi6TQJQnbHqBEzG
+ipfs add "2046416264562921472.mp4"
+ipfs pin add QmfJ9f9ymnw6RvHYXzGbnL9rQeHPES7Pi6TQJQnbHqBEzG
+
+# 2046414464447287296.mp4 — @MJTruthUltra · 2026-04-20
+# Tyler Robinson Goat Island desktop photo — video 3 of 3
+ipfs get QmSS2HkEaF38xhE25ZsY9FUGmvcwwisnwRgKHxjvkdkZse
+ipfs add "2046414464447287296.mp4"
+ipfs pin add QmSS2HkEaF38xhE25ZsY9FUGmvcwwisnwRgKHxjvkdkZse
+
+# 2046416264567140352_thumb.jpg — @MJTruthUltra · 2026-04-20
+ipfs get QmbZjSe17pqBkg1e93MGLf2VCvR8mrAoUnZNJPfdB8fTG2
+ipfs add "2046416264567140352_thumb.jpg"
+ipfs pin add QmbZjSe17pqBkg1e93MGLf2VCvR8mrAoUnZNJPfdB8fTG2
+
+# 2046416264562921472_thumb.jpg — @MJTruthUltra · 2026-04-20
+ipfs get QmXQuJaxwCwoFuYQZtFwB6VAAp1z6odwPV2f4gkFA9Z3GW
+ipfs add "2046416264562921472_thumb.jpg"
+ipfs pin add QmXQuJaxwCwoFuYQZtFwB6VAAp1z6odwPV2f4gkFA9Z3GW
+
+# 2046414464447287296_thumb.jpg — @MJTruthUltra · 2026-04-20
+ipfs get QmVYK5gLMGWeuBYDLGv1RtGcbp4mWoaBiyoNx5wRGBeebN
+ipfs add "2046414464447287296_thumb.jpg"
+ipfs pin add QmVYK5gLMGWeuBYDLGv1RtGcbp4mWoaBiyoNx5wRGBeebN
+
+# 2046380775579209982.mp4 — @FurkanGozukara · 2026-04-21
+# Buckley Carlson dismantles FBI Director Kash Patel over CK assassination coverup
+ipfs get QmPqpX8PjTgsPJvdUVn8MmPFBiZ75XxUPfXr8YjWDwjtFq
+ipfs add "2046380775579209982.mp4"
+ipfs pin add QmPqpX8PjTgsPJvdUVn8MmPFBiZ75XxUPfXr8YjWDwjtFq
+
+# 2047113133903495513.mp4 — @jamiburns45 · 2026-04-23
+# Brig. Gen. Blaine Holt and Rob O'Neill (bin Laden SEAL killer) on NEWSMAX discussing CK assassination
+ipfs get Qmf861VfyBj9LHr5yLVhN1ugZG6B1ZppVgWUY5HFVyrz3g
+ipfs add "2047113133903495513.mp4"
+ipfs pin add Qmf861VfyBj9LHr5yLVhN1ugZG6B1ZppVgWUY5HFVyrz3g
+
+# 2053805778952417528.mp4 — @MuppetMasher · 2026-05-11
+# UVU witness Nick: heard "loud pop", group at top cheered, shot from Kirk's right through neck
+ipfs get QmNjgg3Trjfiq4YEK4XjDur9YyJF1xk8nhAkeCkXMoo41Y
+ipfs add "2053805778952417528.mp4"
+ipfs pin add QmNjgg3Trjfiq4YEK4XjDur9YyJF1xk8nhAkeCkXMoo41Y
+
+# 2052006013684126145_1.jpg — @MuppetMasher · 2026-05-11
+# EksAyn Anderson (behavioural expert from BYU) in UVU front-row reserve seating — image 1 of 4
+ipfs get QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4
+ipfs add "2052006013684126145_1.jpg"
+ipfs pin add QmPVvNLdkq6C7LRH5ao6VnjQtgUFSuPsa6szJN446w4Xv4
+
+# 2052006013684126145_2.jpg — @MuppetMasher · 2026-05-11
+ipfs get QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U
+ipfs add "2052006013684126145_2.jpg"
+ipfs pin add QmZj41R5rbrBAjscyahjhzGs5WBgQZC41BwhnXfsJpiH2U
+
+# 2052006013684126145_3.jpg — @MuppetMasher · 2026-05-11
+ipfs get QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X
+ipfs add "2052006013684126145_3.jpg"
+ipfs pin add QmUJXzWtVLzN5msEFGg9GmZCCyeEWgxXbmbLDdfq7Q3p7X
+
+# 2052006013684126145_4.jpg — @MuppetMasher · 2026-05-11
+ipfs get QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu
+ipfs add "2052006013684126145_4.jpg"
+ipfs pin add QmaFUQ5h3ahrdKYZ9dkNbBP4xsp2Qui3WcLo1pp5FQCcCu
+
+# 2045200557531435037.mp4 — @RealCandaceO · 2026-04-17
+# Candace Owens explains Tyler Robinson hearing; demands FBI release discovery documents
+ipfs get QmeC1zcPBzgp9REfTbH7Hz1kyoL6P2kyQcYxoYTbMbLvGq
+ipfs add "2045200557531435037.mp4"
+ipfs pin add QmeC1zcPBzgp9REfTbH7Hz1kyoL6P2kyQcYxoYTbMbLvGq
+
+# 2055025567255191600.mp4 — @rustyrockets · 2026-05-15
+# Russell Brand — Charlie Kirk and Israel (4:45 monologue)
+ipfs get Qma3dQgv74Lr1W6yipQU8SUZYY7WNch7P18XQ9ah15rTP2
+ipfs add "2055025567255191600.mp4"
+ipfs pin add Qma3dQgv74Lr1W6yipQU8SUZYY7WNch7P18XQ9ah15rTP2
+
+# 2055445490003489041.mp4 — @FurkanGozukara · 2026-05-16
+# Stew Peters segment: alleged $1B Israeli offer to Charlie Kirk (Peters claims)
+ipfs get QmRctS1DC9ZU8U9qzy9FVmCGmLDsCWKgNMgcapzcK5SsSQ
+ipfs add "2055445490003489041.mp4"
+ipfs pin add QmRctS1DC9ZU8U9qzy9FVmCGmLDsCWKgNMgcapzcK5SsSQ
+
+# 2057560145379708956.mp4 — @ShadowofEzra · 2026-05-21
+# Dan Merrell contractor: Utah gov + Kash Patel FBI ordered pave-over by Monday
+ipfs get QmRroFnN6ku7scJcNZXgTprhf8723Zic5oiBiRNogqHTRm
+ipfs add "2057560145379708956.mp4"
+ipfs pin add QmRroFnN6ku7scJcNZXgTprhf8723Zic5oiBiRNogqHTRm
+
+# 2011947043674034660.mp4 — @AMeadowInquiry · 2026-05-24
+# Cabot Phillips alibi video, mirrored from @cabot_phillips/status/2006159430849593758
+ipfs get QmYjH2fYpeCVoLK3pb3ppfeskKSP2Hjw3rToq2q945fe2Q
+ipfs add "2011947043674034660.mp4"
+ipfs pin add QmYjH2fYpeCVoLK3pb3ppfeskKSP2Hjw3rToq2q945fe2Q
+
+# 2011947043674034660_1.jpg — @AMeadowInquiry · 2026-05-24
+# Fort Huachuca interior — yellow wall + dark trim comparison
+ipfs get QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime
+ipfs add "2011947043674034660_1.jpg"
+ipfs pin add QmRAQWmcd6nAEdFZuHPowY2MNT1m71HnFYyEDcumdDMime
+
+# 2011947043674034660_2.jpg — @AMeadowInquiry · 2026-05-24
+# Fort Huachuca interior — carpet and trim
+ipfs get QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf
+ipfs add "2011947043674034660_2.jpg"
+ipfs pin add QmZv3tnVjzdKU2uviSdti8ips1oQ3amPMxvVrTCLYB5Lgf
+
+# 2011947043674034660_3.jpg — @cabot_phillips · 2026-05-24
+# Still from Cabot Phillips alibi video (carpet visible)
+ipfs get QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc
+ipfs add "2011947043674034660_3.jpg"
+ipfs pin add QmVMBu1YDVFesVp3eom4RZ16ZdfzV9wWssUDKJFTeK2bdc
+
+# 2011947043674034660_4.jpg — @cabot_phillips · 2026-05-24
+# Second still from Cabot Phillips alibi video
+ipfs get QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9
+ipfs add "2011947043674034660_4.jpg"
+ipfs pin add QmYEy93b6qqAgX4ni3JKwDCWmunPHC5BThKqhC4zQK2SM9
+
+# 2067169575217799549_1.jpg — @1MrsWhistledown · 2026-06-17
+# Texas SoS record: Faith and Family Foundation Charity (Twiggs directors)
+ipfs get QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS
+ipfs add "2067169575217799549_1.jpg"
+ipfs pin add QmZ9WxTqgk9xvwadYX1r6S3EexQwyvTaQr8hXmPH64xNHS
+
+# 2067169575217799549_2.jpg — @1MrsWhistledown · 2026-06-17
+# Property ownership history / purchase details (13 Branches Family Trust and Twiggs)
+ipfs get QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY
+ipfs add "2067169575217799549_2.jpg"
+ipfs pin add QmZ4hsVAUG4ZZeakKwAB1hmnoZsurUEC6ujy8aSy5ptCnY
+
+# 2067169575217799549_3.jpg — @1MrsWhistledown · 2026-06-17
+# Second property ownership history (13 Branches Family Trust and Twiggs)
+ipfs get QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y
+ipfs add "2067169575217799549_3.jpg"
+ipfs pin add QmYGg8Qa7xAPLAYnjKRPQaAXzHsnzxaSGewqLk4mNV9Y2Y
+
+# 2067169575217799549_4.jpg — @1MrsWhistledown · 2026-06-17
+# Company overview text for Faith and Family Foundation Charity
+ipfs get QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR
+ipfs add "2067169575217799549_4.jpg"
+ipfs pin add QmZgbnSUvV6KZCchEkrC8yHcEifrdNS7DAT1UaVNgaSsQR
+
+# 2067170760238792731_1.jpg — @1MrsWhistledown · 2026-06-17
+# Un-redacted ownership history (Twiggs sellers -> 13 Branches Family Trust and Twiggs)
+ipfs get QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ
+ipfs add "2067170760238792731_1.jpg"
+ipfs pin add QmXnUdjEFm6WNbWboYd3cKFLT1a93E2unaTwGzmmrN5XnJ
+
+# 2067372027623715212.mp4 — @ProjectConstitu · 2026-06-17
+# Candace Owens exploding-mic theory: paved-over tent, soil excavation, necklace search
+ipfs get QmThpacy26yaTjsRcPSVegJQTNzRRSyXt23tKWjPZcyn3s
+ipfs add "2067372027623715212.mp4"
+ipfs pin add QmThpacy26yaTjsRcPSVegJQTNzRRSyXt23tKWjPZcyn3s
+
+# 2068506485420892470_1.jpg — @matt82704417 · 2026-06-20
+# Exploding pendant theory: cletus_jethro USMC explosive breacher background
+ipfs get Qmdbmh7Yk5ayQR2cR1RdsRZLGpHTnkwkiNDHPBjJJLvNqA
+ipfs add "2068506485420892470_1.jpg"
+ipfs pin add Qmdbmh7Yk5ayQR2cR1RdsRZLGpHTnkwkiNDHPBjJJLvNqA
+
+# 2068506485420892470_2.jpg — @matt82704417 · 2026-06-20
+# Exploding pendant theory: anchored silver chain, cone-shape Monroe effect
+ipfs get QmQX14L2B7t4133HAR4jEoLcRVHSbPSG35bQHV7hAfzKqv
+ipfs add "2068506485420892470_2.jpg"
+ipfs pin add QmQX14L2B7t4133HAR4jEoLcRVHSbPSG35bQHV7hAfzKqv
+
+# 2068506485420892470_3.jpg — @matt82704417 · 2026-06-20
+# Exploding pendant theory: PETN effectiveness, electrocution-initiated detonation
+ipfs get QmPhVtfpc1t4V25w5FxCJ9AUmPAUfxxR9oLoShsCR1SYbg
+ipfs add "2068506485420892470_3.jpg"
+ipfs pin add QmPhVtfpc1t4V25w5FxCJ9AUmPAUfxxR9oLoShsCR1SYbg
+
+# 2068506485420892470_4.jpg — @matt82704417 · 2026-06-20
+# Exploding pendant theory: blast velocity calculation, PETN 8400 m/s math
+ipfs get QmQYvXYXFMC5UGVvpMudpWtkZ3XcNdSuC5oziCUemsAjnE
+ipfs add "2068506485420892470_4.jpg"
+ipfs pin add QmQYvXYXFMC5UGVvpMudpWtkZ3XcNdSuC5oziCUemsAjnE
+
+# 2068463186668605858.mp4 — @Partisangirl · 2026-06-21
+# Tucker Carlson: Charlie Kirk murdered for evolving views on Israel
+ipfs get QmRiWzUfpwFu34KwtxnPTs84NkqVwLtm2RTtcLRRp7m22w
+ipfs add "2068463186668605858.mp4"
+ipfs pin add QmRiWzUfpwFu34KwtxnPTs84NkqVwLtm2RTtcLRRp7m22w
+
+# 2069185145555255370.mp4 — @realhonestash · 2026-06-22
+# Candace covers alleged crisis actors and mic-shaped-charge plan theory
+ipfs get QmYoW7YuVGkVpq9r67aufTqqLM9QQb7UjR27QMvwyjbq2y
+ipfs add "2069185145555255370.mp4"
+ipfs pin add QmYoW7YuVGkVpq9r67aufTqqLM9QQb7UjR27QMvwyjbq2y
+
+# 2069185145555255370_source.mp4 — @realhonestash · 2026-06-22
+# Source clip - alleged crisis actors describing what they witnessed
+ipfs get QmS84Kqhk27iMFCMDx5YupSnPy5kh1HUiwUFaZsYmCsJQp
+ipfs add "2069185145555255370_source.mp4"
+ipfs pin add QmS84Kqhk27iMFCMDx5YupSnPy5kh1HUiwUFaZsYmCsJQp
+
+# 2069566053353463951.mp4 — @CharlotteLee_88 · 2026-06-24
+# Witness lineup: Sara describes shot in chest, doubles down, then changes account
+ipfs get QmaH8msKvgBjgsAYUSFegAo7JYCNUQUCeJCv6geZaFTfGC
+ipfs add "2069566053353463951.mp4"
+ipfs pin add QmaH8msKvgBjgsAYUSFegAo7JYCNUQUCeJCv6geZaFTfGC
+
+# 2069997980002726099.mp4 — @realstewpeters · 2026-06-25
+# Stew Peters exploding-mic thesis: AES factory $440k DoD order, Hegseth SAM702, Elbit
+ipfs get QmTUAdM2AELmSag6in7A8AypCsSw6NKSQqFJj15gF28ZAj
+ipfs add "2069997980002726099.mp4"
+ipfs pin add QmTUAdM2AELmSag6in7A8AypCsSw6NKSQqFJj15gF28ZAj
+
+# 2070163736858694089_1.jpg — @MuppetMasher · 2026-06-25
+# Location where suspect reportedly dropped the gun, buildings on either side
+ipfs get QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ
+ipfs add "2070163736858694089_1.jpg"
+ipfs pin add QmQtxidWHtrHBGhwXmnA6ctEj1qFUd1oJxhUDDD3rbUdPQ
+
+# videos/chain_of_evil.mp4 — "Chain of Evil" (compressed)
+# Feature video embedded on the Killer/israel-mossad page (Israel / Mossad theory)
+ipfs get QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K
+ipfs add "videos/chain_of_evil.mp4"
+ipfs pin add QmS64aK5A7BfPP3C645FLBSQRdXcMCyCtCxddAQixoQ22K
+
+# 2070467635578294609.mp4 — @ProjectConstitu · 2026-06-26
+# Joshua Peterson TPUSA whistleblower testimony (alleged Israeli/Mossad recruitment)
+ipfs get QmcsVH1Qt1MomvqkB2giLRCtNWQ4tEC3PnEnK5BKnyLZX6
+ipfs add "2070467635578294609.mp4"
+ipfs pin add QmcsVH1Qt1MomvqkB2giLRCtNWQ4tEC3PnEnK5BKnyLZX6
+
+# 2069350461573046382.mp4 — @MuppetMasher · 2026-06-26
+# Witness TV-interview compilation; "shot to the heart" / shaped-charge theory
+ipfs get QmbXGTeP3o1grnNNm5d5cMNsYPWeoXr4TNgkqyVS1U9m8q
+ipfs add "2069350461573046382.mp4"
+ipfs pin add QmbXGTeP3o1grnNNm5d5cMNsYPWeoXr4TNgkqyVS1U9m8q
+
+# 2070606777691816338_1.jpg — @alleytopfiles · 2026-06-26
+# Candace Owens SUV photos: rear cabin, stain on rear seat
+ipfs get QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU
+ipfs add "2070606777691816338_1.jpg"
+ipfs pin add QmV9s8RSSeQfmSW2PA5MBGGYi1dCFwcCfNL3FS6mzzWftU
+
+# 2070606777691816338_2.jpg — @alleytopfiles · 2026-06-26
+# Candace Owens SUV photos: floor sill, fragment + small black object
+ipfs get QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf
+ipfs add "2070606777691816338_2.jpg"
+ipfs pin add QmVBQvUfCmGqWU1YBN2YzUqdHGyjq1Ye28gtTCfX6GQjMf
+
+# 2070606777691816338_3.jpg — @alleytopfiles · 2026-06-26
+# Candace Owens SUV photos: seat rail/track, fragment and debris
+ipfs get QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts
+ipfs add "2070606777691816338_3.jpg"
+ipfs pin add QmU45pypQVC3hzX8e3zepukM1mALU7Pd6rwZhNvdega3ts
+
+# 2070606777691816338_4.jpg — @alleytopfiles · 2026-06-26
+# Candace Owens SUV photos: floor beside seat, debris and bottle
+ipfs get QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ
+ipfs add "2070606777691816338_4.jpg"
+ipfs pin add QmWh6rgusMS7nCuqw98QxsigpZBA6H6wfAkfZM2XMLCkkQ
+
+# 2070601198848049263_1.jpg — @KaySu00 · 2026-06-26
+# Candace Owens broadcast still: charred fragment questioned in Charlie Kirk SUV
+ipfs get QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud
+ipfs add "2070601198848049263_1.jpg"
+ipfs pin add QmT5aLi7d88dELpjeURfJdh3k3mWZ6TH4frNubHyhfpWud
+
+# 2070599972072874006_1.jpg — @iluminomoly · 2026-06-26
+# Candace Owens photos (iluminomoly set): rear bench, bloodstained fast-food wrappers + utensil
+ipfs get QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe
+ipfs add "2070599972072874006_1.jpg"
+ipfs pin add QmadspqfgqfkBWGkhhnN2RZ9yEr1CPtojqyqP9YewEzeSe
+
+# 2070599972072874006_2.jpg — @iluminomoly · 2026-06-26
+# Candace Owens photos (iluminomoly set): floor-sill fragment + black transmitter object (video still)
+ipfs get QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2
+ipfs add "2070599972072874006_2.jpg"
+ipfs pin add QmTPcVTaAQC5SnMx74m5V5ZWe2Rygb84v6qjjvKFaQ27V2
+
+# 2070599972072874006_3.jpg — @iluminomoly · 2026-06-26
+# Candace Owens photos (iluminomoly set): captain seats staining, water bottles + debris on floor
+ipfs get Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy
+ipfs add "2070599972072874006_3.jpg"
+ipfs pin add Qmc4UBcYmGny39FQGLuSWET1UxytLrhbeok6ssoF48zhjy
+
+# 2070615710003589174.mp4 — @DiligentDenizen · 2026-06-26
+# Candace Owens SUV photos montage: shattered tempered glass (RODE mic) on SUV floor
+ipfs get QmQ8y9mRxxJfGq8VgGb3LN2aet5MnHnAzLpHaoDobDWeLs
+ipfs add "2070615710003589174.mp4"
+ipfs pin add QmQ8y9mRxxJfGq8VgGb3LN2aet5MnHnAzLpHaoDobDWeLs
+
+# 2070597252133818558_1_cropped.png — @RealTruthJustic (q. @DanCampbel44604) · 2026-06-26
+# Annotated SUV interior labeling occupants; cropped to remove accusatory text
+ipfs get QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS
+ipfs add "2070597252133818558_1_cropped.png"
+ipfs pin add QmNvfMUSQvNsvprfF4zWutBz4djdnVhnBgMSxCuUq8vYQS
+
+# 2071072788132118610.mp4 — @troofevades (orig @Trillion0x) · 2026-06-28
+# Demonstration of a real shaped charge detonating — skeptic counterargument to exploding-mic theory
+ipfs get QmbDwwYuPmjPjL84jM2XCum7EFrtc33pjWBhMdKMFCdPXt
+ipfs add "2071072788132118610.mp4"
+ipfs pin add QmbDwwYuPmjPjL84jM2XCum7EFrtc33pjWBhMdKMFCdPXt
+
+# 2045116771431321829.mp4 — @SteveCameronPr1 · 2026-04-17
+# Sheriff Nate Brooksby describes Tyler Robinson surrender timeline at Washington County Sheriff Office
+ipfs get Qmb49X85Y7wRdMEi7EgvEvjN3A8rdpZVvLfu2CuiSZwbwR
+ipfs add "2045116771431321829.mp4"
+ipfs pin add Qmb49X85Y7wRdMEi7EgvEvjN3A8rdpZVvLfu2CuiSZwbwR
+
+# 2045871393611395289_00001.mp4 — @ProjectConstitu · 2026-04-20
+# FBI ignored eyewitnesses who saw shooter in all-black — Dylan Hope (video 1 of 2, short clip)
+ipfs get Qmcf5Dj8qouWV8m5R9MLWKb3PbqbG6Yoxqisibf9e3dcUT
+ipfs add "2045871393611395289_00001.mp4"
+ipfs pin add Qmcf5Dj8qouWV8m5R9MLWKb3PbqbG6Yoxqisibf9e3dcUT
+
+# 2045871393611395289_00002.mp4 — @ProjectConstitu · 2026-04-20
+# FBI ignored eyewitnesses who saw shooter in all-black — Dylan Hope (video 2 of 2, full interview)
+ipfs get QmS8nNNsdoYwnifaEmvk2iH9TLTANJMXTYdssJQY5Toygz
+ipfs add "2045871393611395289_00002.mp4"
+ipfs pin add QmS8nNNsdoYwnifaEmvk2iH9TLTANJMXTYdssJQY5Toygz
+
+# 2071074071404798401.mp4 — @UAPLuigi · 2026-06-28
+# Microwave Hearing / Frey Effect / V2K explainer with Project Pandora audio demo
+ipfs get Qmbmk5C2fTbsxtWv4nnPNjsorjy9DRShPi811ZikJ8DvB2
+ipfs add "2071074071404798401.mp4"
+ipfs pin add Qmbmk5C2fTbsxtWv4nnPNjsorjy9DRShPi811ZikJ8DvB2
+
+# 2072021982296551765.mp4 — @IGraceAshford · 2026-06-30
+# Baron Coleman alleges multi-agency cover-up framing Tyler Robinson
+ipfs get QmYfryta9zQRs6W6qCctfvz4MZjo3p8x7wzCSEVR8mK6KJ
+ipfs add "2072021982296551765.mp4"
+ipfs pin add QmYfryta9zQRs6W6qCctfvz4MZjo3p8x7wzCSEVR8mK6KJ
+
+# 2071736376215920842.mp4 — @CatQuestionsAll · 2026-06-30
+# Benny Johnson: professional hit job, considerable evidence of state actors involved
+ipfs get QmWnQXa9n7UQWEtGHVHMNVr8kmN7gYR9brubAPSj3xR4uD
+ipfs add "2071736376215920842.mp4"
+ipfs pin add QmWnQXa9n7UQWEtGHVHMNVr8kmN7gYR9brubAPSj3xR4uD
+
+# 1976419242666021122.mp4 — @DiligentDenizen · 2026-07-01
+# Cooper Brown ID clip: man stopping TPUSA young man from testifying + Fox News
+ipfs get Qmf13kfzZWzZZdNfpNjiN9HhxN1VCGFvZb7ViGJYtwTHAT
+ipfs add "1976419242666021122.mp4"
+ipfs pin add Qmf13kfzZWzZZdNfpNjiN9HhxN1VCGFvZb7ViGJYtwTHAT
+
+# 2072814926133866634.mp4 — @mistressdivy · 2026-07-02
+# Paralegal: AES DoD contract for miniature anti-personnel devices ($440,494)
+ipfs get QmWpQUf5HajEXF8SV3ZTSGB377HUruL7GLPUbr7ByHAQkh
+ipfs add "2072814926133866634.mp4"
+ipfs pin add QmWpQUf5HajEXF8SV3ZTSGB377HUruL7GLPUbr7ByHAQkh
+
+# 2002152440435781712.mp4 — @ProjectConstitu · 2026-07-03
+# Brian Harpole & father Bobby Harpole background (Project Constitution)
+ipfs get QmZdFUWDekCDBZcETphabnmTW4Y9vYk7EyPUJECsBXuDfo
+ipfs add "2002152440435781712.mp4"
+ipfs pin add QmZdFUWDekCDBZcETphabnmTW4Y9vYk7EyPUJECsBXuDfo
+
+# 2074257725697970542.mp4 — @JOKAQARMY1 · 2026-07-06
+# "Officer Bagley body cam dies on roof" — bodycam stopped recording claim
+ipfs get QmbNQzjHMfZpLqKL7uVQxstB7Bw6befeXkQzGdsXNWY9GY
+ipfs add "2074257725697970542.mp4"
+ipfs pin add QmbNQzjHMfZpLqKL7uVQxstB7Bw6befeXkQzGdsXNWY9GY
+
+# 2074570091673649274_1.jpg — @ArtifexMemor · 2026-07-07
+# Posobiec/Bowyer Fort Huachuca (Army Intelligence Center) exchange screenshot
+ipfs get QmVA7WhYwAvFXe7rjdrgrRwdCJpprLG39vrS3Xp8PK2otq
+ipfs add "2074570091673649274_1.jpg"
+ipfs pin add QmVA7WhYwAvFXe7rjdrgrRwdCJpprLG39vrS3Xp8PK2otq
+
+# 2075290171105288315.mp4 — @realstewpeters · 2026-07-10
+# Cellebrite (Israeli) extraction of Lance Twiggs phone — courtroom testimony clip
+ipfs get QmR3y2v5F5uHzCrUJ79s8M2bKoFqPi3cBY2KZvrFabq3oj
+ipfs add "2075290171105288315.mp4"
+ipfs pin add QmR3y2v5F5uHzCrUJ79s8M2bKoFqPi3cBY2KZvrFabq3oj
+
+# 2075531573907071094.mp4 — @IGraceAshford · 2026-07-10
+# M.D. Tennessee judges recuse en masse from Harpole v. Owens defamation case
+ipfs get QmZWuQH5Mf1mY5SP2C9HHvRFrSRcp8xLmw8RgKfRXypA9g
+ipfs add "2075531573907071094.mp4"
+ipfs pin add QmZWuQH5Mf1mY5SP2C9HHvRFrSRcp8xLmw8RgKfRXypA9g
+
+# 2075191642366054733.mp4 — @iluminomoly · 2026-07-10
+# Police scanner breakdown: Qureshi/Piskadlo hospital story shifts; Armada is FBI; fake DMV plate
+ipfs get QmWxfDTeJekGmhRvHz1kCZvKnA38L6y4BpZAjPuC6FGKDg
+ipfs add "2075191642366054733.mp4"
+ipfs pin add QmWxfDTeJekGmhRvHz1kCZvKnA38L6y4BpZAjPuC6FGKDg
+
+# 2075589097603891487_1.jpg — @SwordTruth · 2026-07-10
+# Exploded pager device photo (Operation Grim Beeper)
+ipfs get Qma5otmM27fCtHYq9h2NyKrWdpdGSyMBDbBnApPhpRraNW
+ipfs add "2075589097603891487_1.jpg"
+ipfs pin add Qma5otmM27fCtHYq9h2NyKrWdpdGSyMBDbBnApPhpRraNW
+
+# 2075589097603891487_2.jpg — @SwordTruth · 2026-07-10
+# "Last 60 Days of Charlie Kirk" circulated infographic (public, claims/unverified)
+ipfs get QmURhtruc4kvwjsYnyVY1zp1UZehyR35dzEw2CeTn9Z9TS
+ipfs add "2075589097603891487_2.jpg"
+ipfs pin add QmURhtruc4kvwjsYnyVY1zp1UZehyR35dzEw2CeTn9Z9TS
+
+# 2075589097603891487_3.jpg — @SwordTruth · 2026-07-10
+# Circulated satirical meme with fabricated captions (public, labeled satire)
+ipfs get Qma4Gg6XQpgL2rg63WrabfHTsHNSsAh4RqAWExrbCme4qj
+ipfs add "2075589097603891487_3.jpg"
+ipfs pin add Qma4Gg6XQpgL2rg63WrabfHTsHNSsAh4RqAWExrbCme4qj
+
+# 2076075338409398330_1.jpg — @alleytopfiles · 2026-07-11
+# Tyler Bowyer post (18 Sep 25): TPUSA security "run like a military op"
+ipfs get QmXKyHpyE1pEn6TdMAUyfCzeJxQXrLEpWgdjCJCutdemi4
+ipfs add "2076075338409398330_1.jpg"
+ipfs pin add QmXKyHpyE1pEn6TdMAUyfCzeJxQXrLEpWgdjCJCutdemi4
+
+# 2076019571127935010.mp4 — @VLuvMully / @baroncoleman clip · 2026-07-12
+# Baron Coleman: early turn-in + missing WCSO video = possible multi-agency cover-up
+ipfs get QmRx9WA5DXjcFvmEmMsSWgzvTjWTikezpH8d4Bn4WAgrnh
+ipfs add "2076019571127935010.mp4"
+ipfs pin add QmRx9WA5DXjcFvmEmMsSWgzvTjWTikezpH8d4Bn4WAgrnh
+
+# 2076019571127935010_1.jpg — @VLuvMully · 2026-07-12
+ipfs get QmXrhJu24RPnkgQXoQaGvGVx2L6ycryNCiVeTrfpqtRSmi
+ipfs add "2076019571127935010_1.jpg"
+ipfs pin add QmXrhJu24RPnkgQXoQaGvGVx2L6ycryNCiVeTrfpqtRSmi
+
+# 2076019571127935010_2.jpg — @VLuvMully · 2026-07-12
+ipfs get QmTyU8gTEb53ewNGLnRgcetA6g1VEi2YfJb7mgd8ZZGTJM
+ipfs add "2076019571127935010_2.jpg"
+ipfs pin add QmTyU8gTEb53ewNGLnRgcetA6g1VEi2YfJb7mgd8ZZGTJM
+
+# 2076019571127935010_3.jpg — @VLuvMully · 2026-07-12
+ipfs get QmPyjAyGnrpxsTTZ7dm3DnFHgKivcmEWee8Z1RtGoWQKDy
+ipfs add "2076019571127935010_3.jpg"
+ipfs pin add QmPyjAyGnrpxsTTZ7dm3DnFHgKivcmEWee8Z1RtGoWQKDy
+
+# 2076019571127935010_4.jpg — @VLuvMully · 2026-07-12
+ipfs get QmU9FgQ8PM7zQWZpgpM9p7UEGCvgEZ76UZZ3txqjrRSvGn
+ipfs add "2076019571127935010_4.jpg"
+ipfs pin add QmU9FgQ8PM7zQWZpgpM9p7UEGCvgEZ76UZZ3txqjrRSvGn
+
+# 2076019571127935010_4_cropped.jpg — @VLuvMully · 2026-07-12
+ipfs get Qmcb7v1gqtZTEPRqH2CSUmtpuBXyTcqhegAPFuL553LGkr
+ipfs add "2076019571127935010_4_cropped.jpg"
+ipfs pin add Qmcb7v1gqtZTEPRqH2CSUmtpuBXyTcqhegAPFuL553LGkr
+
+# 2076295071326929264.mp4 — @Bechedith · 2026-07-12
+# Baron Coleman covers the Tyler Robinson Mirandizing / custody-timeline dispute
+ipfs get QmQxVttdEXbFCbcJrjfv1Bwam71YDExQLAZwRaAMdhXG9V
+ipfs add "2076295071326929264.mp4"
+ipfs pin add QmQxVttdEXbFCbcJrjfv1Bwam71YDExQLAZwRaAMdhXG9V
+
+# 2076465128329846991.mp4 — @charlie_ward77 · 2026-07-13
+# TV witness: wrong guy arrested; "one shot directly to the heart" sharp shooter
+ipfs get QmZHropnv47SNw2XBeaNNTfB8RAqv4nPcE1AbVTQNvdZJV
+ipfs add "2076465128329846991.mp4"
+ipfs pin add QmZHropnv47SNw2XBeaNNTfB8RAqv4nPcE1AbVTQNvdZJV
+
+# 2076529988237767086.mp4 — @IanCarrollShow · 2026-07-13
+# Ian Carroll: "Israel really likes assassination. It's kind of their thing."
+ipfs get QmSbvABAy45DGwUxRfusXGHELYYRGW2hdWCsk1KrBQR8pL
+ipfs add "2076529988237767086.mp4"
+ipfs pin add QmSbvABAy45DGwUxRfusXGHELYYRGW2hdWCsk1KrBQR8pL
+
+# 2076585079015391653.mp4 — @IGraceAshford · 2026-07-13
+# Baron Coleman: Tyler Robinson in grave danger, never supposed to survive; case falls apart at trial
+ipfs get QmdRHj4338We2zB4bXzZGTgRVuRHfQCBG6ZJ5dGcwAnyvh
+ipfs add "2076585079015391653.mp4"
+ipfs pin add QmdRHj4338We2zB4bXzZGTgRVuRHfQCBG6ZJ5dGcwAnyvh
+
+# 2076765947151393053_1.jpg — @AMeadowInquiry · 2026-07-13
+# "My POV before I spoke to Charlie" — man in red American Comeback shirt, UVU barricade
+ipfs get QmYoYWaG1AvpYgN5LL4H46KKFhj1KTgP9H2oryLM6JkyYc
+ipfs add "2076765947151393053_1.jpg"
+ipfs pin add QmYoYWaG1AvpYgN5LL4H46KKFhj1KTgP9H2oryLM6JkyYc
+
+# 2076765947151393053_2.jpg — @AMeadowInquiry · 2026-07-13
+# ZUMA Press crowd photo, UVU Sept 10 2025; microphone visible
+ipfs get QmbJSTf54UeZsWm8BtE2D5peq7RqbHwoetXRdXPwzHAZUH
+ipfs add "2076765947151393053_2.jpg"
+ipfs pin add QmbJSTf54UeZsWm8BtE2D5peq7RqbHwoetXRdXPwzHAZUH
+
+# 2076765947151393053_3.jpg — @AMeadowInquiry · 2026-07-13
+# Fort Huachuca MWR photo: three men in Lawley Automotive Group shirts
+ipfs get QmZMgrcVW7J7sJz8vFfAy7xGfVaim7qn16tWixUj8TTiDf
+ipfs add "2076765947151393053_3.jpg"
+ipfs pin add QmZMgrcVW7J7sJz8vFfAy7xGfVaim7qn16tWixUj8TTiDf
+
+# ===== Shot-in-the-Heart narrative batch (2026-07-13) =====
+# 1965869689755812061.mp4 — @Cashloren · 2026-07-13
+# Glenn Beck tells Megyn Kelly Charlie Kirk has a pulse, critical
+ipfs get Qmdupxi4TifTuoMz25qHPMUxP3DVz7btycwvJ1rfZZKBpq
+ipfs add "1965869689755812061.mp4"
+ipfs pin add Qmdupxi4TifTuoMz25qHPMUxP3DVz7btycwvJ1rfZZKBpq
+# 1965871960702828885.mp4 — @VigilantFox · 2026-07-13
+# Eyewitness: one pop, head fell back, blood gushing from neck
+ipfs get QmXSWJzgm6R5j7rWbubZgVu7y6NeMbwGHgttYzPo9Yaxhh
+ipfs add "1965871960702828885.mp4"
+ipfs pin add QmXSWJzgm6R5j7rWbubZgVu7y6NeMbwGHgttYzPo9Yaxhh
+# 1965884012565766172.mp4 — @aducarrabh · 2026-07-13
+# Slow-motion: object whizzes by; alleged vest ricochet to neck
+ipfs get QmT5j43eoZcg83huMrAWJswkQke5ki2EYt8MBbCYsFBzq2
+ipfs add "1965884012565766172.mp4"
+ipfs pin add QmT5j43eoZcg83huMrAWJswkQke5ki2EYt8MBbCYsFBzq2
+# 1965890646746513821.mp4 — @TND · 2026-07-13
+# Eyewitness: it was like a direct shot to the heart
+ipfs get QmZ3a5nC4DNY4duWqoJjchf5ZPKWon34it9uxwgCETkb9p
+ipfs add "1965890646746513821.mp4"
+ipfs pin add QmZ3a5nC4DNY4duWqoJjchf5ZPKWon34it9uxwgCETkb9p
+# 1965892000185725129.mp4 — @Bizarro_Videos · 2026-07-13
+# Vest-ricochet frame claim; old-man Fox heart-shot allegation
+ipfs get QmfRuCtidKQfFuQpimhNFhw2tNo8CajDkpHS3Fpz7Pkr3e
+ipfs add "1965892000185725129.mp4"
+ipfs pin add QmfRuCtidKQfFuQpimhNFhw2tNo8CajDkpHS3Fpz7Pkr3e
+# 1965913654840406034.mp4 — @Bizarro_Videos · 2026-07-13
+# Same vest-ricochet clip (reposted by same account)
+ipfs get QmfRuCtidKQfFuQpimhNFhw2tNo8CajDkpHS3Fpz7Pkr3e
+ipfs add "1965913654840406034.mp4"
+ipfs pin add QmfRuCtidKQfFuQpimhNFhw2tNo8CajDkpHS3Fpz7Pkr3e
+# 1966235480732873149.mp4 — @Maxwell1995Vjjo · 2026-07-13
+# TV witness re George Zinn: one shot directly to the heart
+ipfs get QmZZ4FQHmQvaMrpm1rP2EetjNK4NNfdux3hfCTmz6fd6zR
+ipfs add "1966235480732873149.mp4"
+ipfs pin add QmZZ4FQHmQvaMrpm1rP2EetjNK4NNfdux3hfCTmz6fd6zR
+# 1966293765158560167.mp4 — @its_The_Dr · 2026-07-13
+# Speaker: heart shot plus body-armor fragmentation-to-throat theory
+ipfs get QmachmgMpySvi4cGpvpeHTDwS85PugUMY1M4NUARgyEHF2
+ipfs add "1966293765158560167.mp4"
+ipfs pin add QmachmgMpySvi4cGpvpeHTDwS85PugUMY1M4NUARgyEHF2
+# 1969832388823003519.mp4 — @MarioNawfal · 2026-07-13
+# Erika Kirk takes the torch after Charlie's assassination
+ipfs get QmVGU5Cajy4jzWY9hDaFKg8m8niF3vwxND6L9661Fg3fxJ
+ipfs add "1969832388823003519.mp4"
+ipfs pin add QmVGU5Cajy4jzWY9hDaFKg8m8niF3vwxND6L9661Fg3fxJ
+
+# ===== Shot-in-the-Heart narrative images (2026-07-13) =====
+# 1965884012565766172_1.jpg — @aducarrabh · 2026-07-13
+ipfs get QmYxkkgJpjW99tBaYdsGBdAVtuZZPMYEd3uqGC4yuGMskV
+ipfs add "1965884012565766172_1.jpg"
+ipfs pin add QmYxkkgJpjW99tBaYdsGBdAVtuZZPMYEd3uqGC4yuGMskV
+# 1969832388823003519_1.jpg — @MarioNawfal · 2026-07-13
+ipfs get QmYKHrQvxVW9a2ZvM6TYbeTxJh59XbZ6wY7C4vxUeYTUmC
+ipfs add "1969832388823003519_1.jpg"
+ipfs pin add QmYKHrQvxVW9a2ZvM6TYbeTxJh59XbZ6wY7C4vxUeYTUmC
+# 1967936311421178053_1.jpg — @wille03990794 · 2026-07-13
+ipfs get QmR2mkvRXuVwxkLDXuc3UGhLzteia8cmtQwcoiFMfMUw7y
+ipfs add "1967936311421178053_1.jpg"
+ipfs pin add QmR2mkvRXuVwxkLDXuc3UGhLzteia8cmtQwcoiFMfMUw7y
+# 1968024348050198752_1.jpg — @themarketswork · 2026-07-13
+ipfs get QmbdDDDPwPd4TsLBzAU87CKGZP9LNRB85efohvbbM12Zv7
+ipfs add "1968024348050198752_1.jpg"
+ipfs pin add QmbdDDDPwPd4TsLBzAU87CKGZP9LNRB85efohvbbM12Zv7
+# 1969831645403365640_1.jpg — @jack_hallen · 2026-07-13
+ipfs get QmcggHfDC6vsiR523UEkrHZNBYbRicARMdMzA1ajBkr8rx
+ipfs add "1969831645403365640_1.jpg"
+ipfs pin add QmcggHfDC6vsiR523UEkrHZNBYbRicARMdMzA1ajBkr8rx
+
+# 2077277163053564059.mp4 — @wtshesaid72 · 2026-07-15
+# Animated B-Field Resonant Cascade (BFRC) hypothesis walkthrough (music only)
+ipfs get QmSnkHsTUv8tPb45f9RrvFLM16FVSpKCA1ersYX28SFAZQ
+ipfs add "2077277163053564059.mp4"
+ipfs pin add QmSnkHsTUv8tPb45f9RrvFLM16FVSpKCA1ersYX28SFAZQ
+
+# 2077277163053564059_1.jpg — @wtshesaid72 · 2026-07-15
+ipfs get Qmc7xvzX5wdwjpZAtMA3ThsixM69Hkhba6hbVMgm7g1Tqw
+ipfs add "2077277163053564059_1.jpg"
+ipfs pin add Qmc7xvzX5wdwjpZAtMA3ThsixM69Hkhba6hbVMgm7g1Tqw
+
+# 2077277163053564059_2.jpg — @wtshesaid72 · 2026-07-15
+ipfs get QmTMgLP9d5nqxarBEraksZ4ezyKc1s6dPJfYAvQuJPbngF
+ipfs add "2077277163053564059_2.jpg"
+ipfs pin add QmTMgLP9d5nqxarBEraksZ4ezyKc1s6dPJfYAvQuJPbngF
+
+# 2077277163053564059_3.jpg — @wtshesaid72 · 2026-07-15
+ipfs get QmUsJPYPqYX4tnp1rgPqtzrHCxbnFrFwJCMPhNEh3bgRAw
+ipfs add "2077277163053564059_3.jpg"
+ipfs pin add QmUsJPYPqYX4tnp1rgPqtzrHCxbnFrFwJCMPhNEh3bgRAw
+
+# 2077840998583935465.mp4 — @realstewpeters · 2026-07-16
+# Fort Huachuca image search results wiped — DIA, CENTCOM, Crane, Kirk security
+ipfs get Qmc5XpXRZ8fPBTLsvMx66kcB6RyywTs48WALsPo7nXdLRn
+ipfs add "2077840998583935465.mp4"
+ipfs pin add Qmc5XpXRZ8fPBTLsvMx66kcB6RyywTs48WALsPo7nXdLRn
+
+# 2077847223082103278_1.jpg — @ProjectConstitu · 2026-07-16
+ipfs get QmSN1swZcxXUKBi5tQQwMmp2VNK4TVnGg4gxU1chW2bL9x
+ipfs add "2077847223082103278_1.jpg"
+ipfs pin add QmSN1swZcxXUKBi5tQQwMmp2VNK4TVnGg4gxU1chW2bL9x
+
+# 2077847223082103278_2.jpg — @ProjectConstitu · 2026-07-16
+ipfs get QmeBfSSQgCW8mcd7HES2E49frLM3wcDbTGpyhJXrsK3qkm
+ipfs add "2077847223082103278_2.jpg"
+ipfs pin add QmeBfSSQgCW8mcd7HES2E49frLM3wcDbTGpyhJXrsK3qkm
+
+# 2077847223082103278_3.jpg — @ProjectConstitu · 2026-07-16
+ipfs get QmT5R9fq7Xwa7vDeaWcgLmkuuHhMXY34enQYvuiVHvHQpG
+ipfs add "2077847223082103278_3.jpg"
+ipfs pin add QmT5R9fq7Xwa7vDeaWcgLmkuuHhMXY34enQYvuiVHvHQpG
+
+# 2077847223082103278_4.jpg — @ProjectConstitu · 2026-07-16
+ipfs get Qmcbh1fJUV8Bb5EBbkQgJZe8k4w77wadBVHNhvQeR9KjXy
+ipfs add "2077847223082103278_4.jpg"
+ipfs pin add Qmcbh1fJUV8Bb5EBbkQgJZe8k4w77wadBVHNhvQeR9KjXy
+
+# 2077957959905427544_1.jpg — @BasedSamParker · 2026-07-17
+# Booking sheet & PC statement: arrest 09/11/2025 10:00 PM, officer DAVIS
+ipfs get Qme4quAZLvabkqBZigejQ6XAvEgr9Y9Ed4anWDkjdvohxo
+ipfs add "2077957959905427544_1.jpg"
+ipfs pin add Qme4quAZLvabkqBZigejQ6XAvEgr9Y9Ed4anWDkjdvohxo
+
+# 2077994177216827578_1.mp4 — @shiloheffort (orig @SH4D0W_M4TR1X) · 2026-07-17
+# Short clip re: Hunter Kozak hand-gesture question
+ipfs get QmRYqnrzozjGsYogb4uBk8LmckKS2xw9E2oXoqt5BK2Yt4
+ipfs add "2077994177216827578_1.mp4"
+ipfs pin add QmRYqnrzozjGsYogb4uBk8LmckKS2xw9E2oXoqt5BK2Yt4
+
+# 2077994177216827578_2.mp4 — @shiloheffort (orig @SH4D0W_M4TR1X) · 2026-07-17
+# Longer clip (1:45) re: Hunter Kozak reaction question
+ipfs get QmPPpsUN2QDQKFj283cfSX5RucawSLvgB1qvP4K8cxn1T7
+ipfs add "2077994177216827578_2.mp4"
+ipfs pin add QmPPpsUN2QDQKFj283cfSX5RucawSLvgB1qvP4K8cxn1T7
+
+# 2078118925586338287.mp4 — @BlakeBednarz · 2026-07-17
+# Blake Bednarz on Agent David Hull testimony re: rooftop change of clothes
+ipfs get QmdEnrkAFkRUnC8ZNX1Bkgv5ePjQz4wsVBkgKGt5iMYRJy
+ipfs add "2078118925586338287.mp4"
+ipfs pin add QmdEnrkAFkRUnC8ZNX1Bkgv5ePjQz4wsVBkgKGt5iMYRJy
+
+# 2077921727888138329_1.mp4 — @ZREIKMIESTER · 2026-07-17
+# Slow-motion mic/LiPO-battery explosion theory diagram video
+ipfs get QmQK5HHckHYVhKPBPAQpHNo9KbYgJSW1ziKLHF9k6WA3a7
+ipfs add "2077921727888138329_1.mp4"
+ipfs pin add QmQK5HHckHYVhKPBPAQpHNo9KbYgJSW1ziKLHF9k6WA3a7
+
+# 2077921727888138329_1.jpg — @ZREIKMIESTER · 2026-07-17
+ipfs get QmedrrPge7Bj8vUN6xxq1Zfz1CgwuY6xGAtWFFbU4tmg4R
+ipfs add "2077921727888138329_1.jpg"
+ipfs pin add QmedrrPge7Bj8vUN6xxq1Zfz1CgwuY6xGAtWFFbU4tmg4R
+
+# 2077921727888138329_2.jpg — @ZREIKMIESTER · 2026-07-17
+ipfs get QmYUXCQekcx6wZwMos7b82LQTJJxoWYKTBukycmTw7dLvq
+ipfs add "2077921727888138329_2.jpg"
+ipfs pin add QmYUXCQekcx6wZwMos7b82LQTJJxoWYKTBukycmTw7dLvq
+
+# 2077921727888138329_3.jpg — @ZREIKMIESTER · 2026-07-17
+ipfs get QmUs5GUoZQcuFprX2oM6UD2ubKZgbKDWdMhcjCarFcU8Y3
+ipfs add "2077921727888138329_3.jpg"
+ipfs pin add QmUs5GUoZQcuFprX2oM6UD2ubKZgbKDWdMhcjCarFcU8Y3
+
+# 2078105368933142589_1.jpg — @tsorama · 2026-07-17
+# Axon Body Cam 4 tip email to Candace Owens rebutting Bagley battery-died claim
+ipfs get QmZ1mCGVdSjGXoXVDSBnpCS7qUZbz32S6yT6BecMCmH5cS
+ipfs add "2078105368933142589_1.jpg"
+ipfs pin add QmZ1mCGVdSjGXoXVDSBnpCS7qUZbz32S6yT6BecMCmH5cS
+
+# 2077951056697331723.mp4 — @VLuvMully · 2026-07-17
+# Cowboy's Smokehouse receipt video (Tyler alibi) — ordered 9/10/25 8:55 PM, paid 9:47 PM
+ipfs get QmTo4HtjkqvEMCvAUMDo6eP6FwroAp8r2btv1mqGSwyFFa
+ipfs add "2077951056697331723.mp4"
+ipfs pin add QmTo4HtjkqvEMCvAUMDo6eP6FwroAp8r2btv1mqGSwyFFa
+
+# 2077951056697331723_1.jpg — @VLuvMully · 2026-07-17
+# Cowboy's Smokehouse receipt still frame (server name + card number blurred)
+ipfs get QmRvQGjWAa5uKNpuskKL5BsTrHDDGvtMT8VZihvHjR2AWr
+ipfs add "2077951056697331723_1.jpg"
+ipfs pin add QmRvQGjWAa5uKNpuskKL5BsTrHDDGvtMT8VZihvHjR2AWr
+
+# 2078362407508812262_1.jpg — @alleytopfiles · 2026-07-18
+# Deleted @ShafferGroup tweet: SSG not TPUSA-contracted since 2022 + Rockhouse Integrity LLC
+ipfs get QmZ6hkkRGW8H5dqWxT4ApsKKYkgmEL5Zu4cwqSV6t4XLov
+ipfs add "2078362407508812262_1.jpg"
+ipfs pin add QmZ6hkkRGW8H5dqWxT4ApsKKYkgmEL5Zu4cwqSV6t4XLov
+
+# 2078362407508812262_2.jpg — @alleytopfiles · 2026-07-18
+# Shaffer Security Group X account (joined Apr 8, 2017)
+ipfs get QmSu6JcKPwKzeb8zBmcEtmzkA5Hb3GcKrjDg9t5R27To7r
+ipfs add "2078362407508812262_2.jpg"
+ipfs pin add QmSu6JcKPwKzeb8zBmcEtmzkA5Hb3GcKrjDg9t5R27To7r
+
+# 2078362407508812262_3.jpg — @alleytopfiles · 2026-07-18
+# Headline USA excerpt quoting Greg Shaffer on Integrity Security Solutions
+ipfs get QmXosRtPrK4Fof9kWn5WVJxEa3iA36PvmNUadZVT15C2c3
+ipfs add "2078362407508812262_3.jpg"
+ipfs pin add QmXosRtPrK4Fof9kWn5WVJxEa3iA36PvmNUadZVT15C2c3
+
+# 2078404214313857083_1.jpg — @MuppetMasher · 2026-07-18
+# Zach and Zane Qureshi brothers / National Guard teaser image
+ipfs get QmZ9a8TFBnZFZeoRB6H6qua3eyz8YSGCowVxr3MjMzFify
+ipfs add "2078404214313857083_1.jpg"
+ipfs pin add QmZ9a8TFBnZFZeoRB6H6qua3eyz8YSGCowVxr3MjMzFify
+
+# 2078856527541362697_1.jpg — @SelinaAnneXX · 2026-07-19
+# UVU tent platform composite: crushed water bottles under the sneakers
+ipfs get QmUPoxeJJ9eAmSVFwsnUr9xnmBoME2YxhUnVRMdYpxjuUS
+ipfs add "2078856527541362697_1.jpg"
+ipfs pin add QmUPoxeJJ9eAmSVFwsnUr9xnmBoME2YxhUnVRMdYpxjuUS
+
+# 2078856527541362697_2.jpg — @SelinaAnneXX · 2026-07-19
+# Wider tent frame screenshot: "What are his feet resting on?"
+ipfs get QmQbW5iVEHv5YD7GoJGXkffguHaKa2BEWQnTedzdronZ68
+ipfs add "2078856527541362697_2.jpg"
+ipfs pin add QmQbW5iVEHv5YD7GoJGXkffguHaKa2BEWQnTedzdronZ68
+
+# 2078856527541362697_3.jpg — @VLuvMully · 2026-07-19
+# Parent-post composite: RODE receiver / shaped-charge demo / skin close-up
+ipfs get QmQkJN8dU4YX6rVg1XwBYwKADH9zubfFJf5KnQ91Q258ys
+ipfs add "2078856527541362697_3.jpg"
+ipfs pin add QmQkJN8dU4YX6rVg1XwBYwKADH9zubfFJf5KnQ91Q258ys
+
+# 2079042475130323448.mp4 — @Wendy7839570959 · 2026-07-19
+# Witness says FBI told him to delete his close-up Charlie Kirk video
+ipfs get QmXp6eL1Y6arbLTQWqVFDmybZSxFvoVvsCJPbj4AW4QpbZ
+ipfs add "2079042475130323448.mp4"
+ipfs pin add QmXp6eL1Y6arbLTQWqVFDmybZSxFvoVvsCJPbj4AW4QpbZ
+
+# 2078917940993311136.mp4 — @FaithDrivUr · 2026-07-20
+# Claim: assassin met TPUSA representatives on UVU quad ~9:24 a.m. Sept 10
+ipfs get QmRQPGX5NXGVNuwgop1exEDgRFL6ugh7Hf883Yj6ZcBema
+ipfs add "2078917940993311136.mp4"
+ipfs pin add QmRQPGX5NXGVNuwgop1exEDgRFL6ugh7Hf883Yj6ZcBema
+
+# 2078878337867354512.mp4 — @DiligentDenizen · 2026-07-20
+# George Zinn TPUSA claim, paid-decoy allegation, officer Hull testimony
+ipfs get QmbkrGVMSbE7Bxvw8NCiNWUqdKL1SWRfiBbAXXCMpFSyzM
+ipfs add "2078878337867354512.mp4"
+ipfs pin add QmbkrGVMSbE7Bxvw8NCiNWUqdKL1SWRfiBbAXXCMpFSyzM
+
+# 2079054276320440416.mp4 — @Wendy7839570959 · 2026-07-20
+# Clip: Western politicians who block the Iran war "are going to fall"
+ipfs get QmcfNxXtoaU8bnaK9tR17n3hDdbMBcwrbZNBXV72aS9UZo
+ipfs add "2079054276320440416.mp4"
+ipfs pin add QmcfNxXtoaU8bnaK9tR17n3hDdbMBcwrbZNBXV72aS9UZo
+
+# 2079275082648809861.mp4 — @ArtifexMemor · 2026-07-21
+# Longer cut of the circulated "Kolvet" audio clip re Andrew Kolvet
+ipfs get Qmah14bm4ngcXo9FrXpLkApAHd7YtpdAHDfMiVc3LPC65m
+ipfs add "2079275082648809861.mp4"
+ipfs pin add Qmah14bm4ngcXo9FrXpLkApAHd7YtpdAHDfMiVc3LPC65m
+
+# 2079684519762993659.mp4 — @AmericaOnly76 (video @realstewpeters) · 2026-07-21
+# Fort Huachuca image-search geo-spikes for DIA/CENTCOM/Crane/Kirk figures pre-Sept 9
+ipfs get QmRht9hZwK3BKuCPSPrRnDKo2YTMGgcp6i5djRgWQbhooq
+ipfs add "2079684519762993659.mp4"
+ipfs pin add QmRht9hZwK3BKuCPSPrRnDKo2YTMGgcp6i5djRgWQbhooq
+
+# 2079560806690324910.mp4 — @ArtifexMemor (video @juliandorey) · 2026-07-21
+# Julian Dorey clip: Joe Kent addresses Charlie Kirk assassination strangeness
+ipfs get QmTPZV4tV5Z2ZGFhfzXft18XYERPyuuJtYjeEwoV4Zzyzy
+ipfs add "2079560806690324910.mp4"
+ipfs pin add QmTPZV4tV5Z2ZGFhfzXft18XYERPyuuJtYjeEwoV4Zzyzy
+
+# 2038934507307343872.mp4 — X status 2038934507307343872 · 2026-07-23
+# Candace Owens frame-by-frame: "I will never buy the narrative that a 30-aught-six is what killed Charlie Kirk"
+ipfs get QmZVGZwPZdReTvU8cr24npmC6gZ5MyYiSkq322JpMbkq6N
+ipfs add "2038934507307343872.mp4"
+ipfs pin add QmZVGZwPZdReTvU8cr24npmC6gZ5MyYiSkq322JpMbkq6N
+
+# kirk-parents-hearing-3006.mp4 — archived commentary clip · 2026-07-23
+# Kirk-family counsel Jeffrey Nyman asks the court to make hearing evidence public; .30-06 neck-soft-tissue challenge follows
+ipfs get Qmf6Casz7pgf4NCqM5HAboiojbSUTQn8pdVNvFbTss818i
+ipfs add "kirk-parents-hearing-3006.mp4"
+ipfs pin add Qmf6Casz7pgf4NCqM5HAboiojbSUTQn8pdVNvFbTss818i
+
+# 2026310419405504514.mp4 — X status 2026310419405504514 · 2026-07-23
+# Ballistic-gel head-model .30-06 terminal-ballistics demonstration (no commentary)
+ipfs get QmRBuUECxj3RKwSJoLRee3NUrdumTeBv199iwmkYuE1VJ6
+ipfs add "2026310419405504514.mp4"
+ipfs pin add QmRBuUECxj3RKwSJoLRee3NUrdumTeBv199iwmkYuE1VJ6
+
+# 2080472331692954016.mp4 — @RickyTheGuido · 2026-07-24
+# Satirical LEGO-animated music video referencing Charlie Kirk RODE mic
+ipfs get Qmd6zPTaBkhDSqCA9nEVrx1e7JsgAEUV7qSDu1pGELiPZJ
+ipfs add "2080472331692954016.mp4"
+ipfs pin add Qmd6zPTaBkhDSqCA9nEVrx1e7JsgAEUV7qSDu1pGELiPZJ
+
+# 2038721750431846877.mp4 — @SenseReceptor · 2026-07-25
+# Joe Kent: "Truman Show" echo chamber around Trump, Israeli access moved Iran red line
+ipfs get QmWzRTy7Ywi6RyN3kt8VhUkJ5bVmD3HhNhmUGLNhbYjM3h
+ipfs add "2038721750431846877.mp4"
+ipfs pin add QmWzRTy7Ywi6RyN3kt8VhUkJ5bVmD3HhNhmUGLNhbYjM3h
+
+# 2080879127033430307.mp4 — @SwordTruth · 2026-07-25
+# Tyler Bowyer calls Mikey McCoy Charlie Kirk's "assistant and handler"
+ipfs get QmanDK8AkXN3b24Q4fQcYms5QmmrhpjBSGPEQLUDYzytNk
+ipfs add "2080879127033430307.mp4"
+ipfs pin add QmanDK8AkXN3b24Q4fQcYms5QmmrhpjBSGPEQLUDYzytNk
+
+# 2081179762265919683.mp4 — @ProjectConstitu · 2026-07-26
+# Full 3:43 TV witness segment: Angie Martin + Darren Brunson "shot right to the heart"
+ipfs get QmPLMHuGuMPLP69zSznq4xZ9KzN6S7Vm74wXgjxJFCxuH8
+ipfs add "2081179762265919683.mp4"
+ipfs pin add QmPLMHuGuMPLP69zSznq4xZ9KzN6S7Vm74wXgjxJFCxuH8
+
+# 2081152995429954013_1.jpg — @timotheeology · 2026-07-26
+# Charlie Kirk Israel-related timeline graphic (July–Sept 10, 2025)
+ipfs get QmTAahP39Qq6RCML16Xuk2LYrukQEmhPUg5XrYw1LxN8Wu
+ipfs add "2081152995429954013_1.jpg"
+ipfs pin add QmTAahP39Qq6RCML16Xuk2LYrukQEmhPUg5XrYw1LxN8Wu
+
+# 2081356331886240173_1.jpg — @Villgecrazylady · 2026-07-26
+# FR24 playback: KSL Chopper 5 (N155TV) orbiting over UVU at 7:38 PM UTC on 9/10
+ipfs get Qme1va8gieqTsZAFucrvpStiued45xm6LuP4gCm4DXPt89
+ipfs add "2081356331886240173_1.jpg"
+ipfs pin add Qme1va8gieqTsZAFucrvpStiued45xm6LuP4gCm4DXPt89
+
+# 2081356331886240173_2.jpg — @Villgecrazylady · 2026-07-26
+# FR24 playback: N155TV departing the orbit stack at 9:12 PM UTC, southeast over Provo
+ipfs get QmRwjZt7twsRUKK8aqgzgJKnuv5Vf1AXPGon66rWttaWLA
+ipfs add "2081356331886240173_2.jpg"
+ipfs pin add QmRwjZt7twsRUKK8aqgzgJKnuv5Vf1AXPGon66rWttaWLA
+
+# 2080783022367162519.mp4 — @TootyTracksuit · 2026-07-26
+# KSL aerial footage of officers on the Losee Center roof with Officer Bagley
+ipfs get Qme2M43yTB8mUuMuJs8Svw3kGUoYDk22gbC25GN8q9zxby
+ipfs add "2080783022367162519.mp4"
+ipfs pin add Qme2M43yTB8mUuMuJs8Svw3kGUoYDk22gbC25GN8q9zxby
+
+# 2081030259257102348_1.jpg — @CarriePrejean1 · 2026-07-26
+# Text message attributed to Seth Dillon: "saying certain things would come at a cost"
+ipfs get QmNmbnfSb6ZxoZijrontYseLXHrdk1NsBYbTea1iNCK7HF
+ipfs add "2081030259257102348_1.jpg"
+ipfs pin add QmNmbnfSb6ZxoZijrontYseLXHrdk1NsBYbTea1iNCK7HF
+
+# 2081878115635139013.mp4 — @hurtfeelingzday · 2026-07-28
+# Clip on the disputed Santa Barbara to Scottsdale 9/10/2025 flight (Kolvet)
+ipfs get QmReyWVL4nvo21nWQFQHq7BQxPGQapisBWN4eRGBGEp2jF
+ipfs add "2081878115635139013.mp4"
+ipfs pin add QmReyWVL4nvo21nWQFQHq7BQxPGQapisBWN4eRGBGEp2jF
+
+# 2081877698306048459.mp4 — @DiligentDenizen · 2026-07-27
+# Candace Owens "get that off of him" alleged 911 call audio tip
+ipfs get Qmd61gsAViXZpkS8MADknnBcZfkRZcaGnMrpoXTf1j3pYn
+ipfs add "2081877698306048459.mp4"
+ipfs pin add Qmd61gsAViXZpkS8MADknnBcZfkRZcaGnMrpoXTf1j3pYn
+
+# 2081874128009924956.mp4 — @ProjectConstitu · 2026-07-27
+# Candace Owens: Utah chief ME Dr. Deirdre Amaro has resigned
+ipfs get QmTUX55c2sDVeXRrtuUTp82ZgjFtZT25usjwnC4VQiiVUE
+ipfs add "2081874128009924956.mp4"
+ipfs pin add QmTUX55c2sDVeXRrtuUTp82ZgjFtZT25usjwnC4VQiiVUE
+
+# 2082425147990925722.mp4 — @RedactedNews · 2026-07-29
+# Havana Syndrome: Woolsey death claim, MI6 asset nanotech + brain-to-brain allegations
+ipfs get QmVqerMTVvKf62uJAPihgCdiMjHmPQHhuxy8ujdfZnr63Q
+ipfs add "2082425147990925722.mp4"
+ipfs pin add QmVqerMTVvKf62uJAPihgCdiMjHmPQHhuxy8ujdfZnr63Q
+
+# 2082975397311033354.mp4 — @danksterintel · 2026-07-30
+# Candace Owens: Timpanogos ER cleared ~10am 9/10/25, patients shuttled to Intermountain
+ipfs get QmWtgfk8x9ntm5wz36F7sK2xW9x7dUccQ7iU8BzzRXN9XP
+ipfs add "2082975397311033354.mp4"
+ipfs pin add QmWtgfk8x9ntm5wz36F7sK2xW9x7dUccQ7iU8BzzRXN9XP
+
+# 2082656865717268765_1.jpg — @thisauthentic · 2026-07-30
+# Court filing page quoting ME findings on CK injuries + Bagley rooftop account
+ipfs get QmNfnhc3XCLGJUnrP6jqZ8NrVsphfQU6jAHSFDxLrbi7sF
+ipfs add "2082656865717268765_1.jpg"
+ipfs pin add QmNfnhc3XCLGJUnrP6jqZ8NrVsphfQU6jAHSFDxLrbi7sF
+
+# 2082656865717268765_2.jpg — @thisauthentic · 2026-07-30
+# Infographic mapping the filing's listed injuries onto anatomical diagrams
+ipfs get QmYmTtksQt3bNKmYKMrNhrwVvo8mNUn47R6XJyuUDyH57r
+ipfs add "2082656865717268765_2.jpg"
+ipfs pin add QmYmTtksQt3bNKmYKMrNhrwVvo8mNUn47R6XJyuUDyH57r
+
+# 2082652969468588522.mp4 — @CharlotteLee_88 · 2026-07-30
+# Elevated view across the UVU plaza, said to be 11:24 a.m. Sept 10, 2025
+ipfs get Qmb7vHkne9g3JycNF6Tu1FU3STuAdXfjSw3LSR459qkGUh
+ipfs add "2082652969468588522.mp4"
+ipfs pin add Qmb7vHkne9g3JycNF6Tu1FU3STuAdXfjSw3LSR459qkGUh
+
+# 2082805142668050569.mp4 — @TheSCIF · 2026-07-30
+# CIA/DARPA and Havana Syndrome framed as DEW-based mind control (23 min)
+ipfs get QmYdZ1HRKZHVQxZHdc1Dm1xCqQgVwFSXovvDDzprxsqEak
+ipfs add "2082805142668050569.mp4"
+ipfs pin add QmYdZ1HRKZHVQxZHdc1Dm1xCqQgVwFSXovvDDzprxsqEak
+
+# 2082639202718532059_1.jpg — @RealCandaceO · 2026-07-30
+# Surgeon comment: rooftop trajectory not possible given C2-C7 damage
+ipfs get QmNWP1rVoWSG89ptg8HNgYSJ4zC2aVjnGjxWRNBMQ1Ckvr
+ipfs add "2082639202718532059_1.jpg"
+ipfs pin add QmNWP1rVoWSG89ptg8HNgYSJ4zC2aVjnGjxWRNBMQ1Ckvr
+
+# 2082639202718532059_2.jpg — @RealCandaceO · 2026-07-30
+# Retired cardiologist comment: heart/lung injury fits blunt force or internal explosion
+ipfs get QmW7mdsK84HMn3Y4TFpmXyQSi8TJoh3yBXtqcYCtFJ1a3t
+ipfs add "2082639202718532059_2.jpg"
+ipfs pin add QmW7mdsK84HMn3Y4TFpmXyQSi8TJoh3yBXtqcYCtFJ1a3t
+
+# 2082810312026390722_1.jpg — @matt82704417 · 2026-07-30
+# State's brief p.2: downward trajectory, ATF .30 cal, C2-7 obliterated
+ipfs get QmZtds98m4xstPiPEFQzU5dro3beZ1DyNCBcc3kHZHVmmE
+ipfs add "2082810312026390722_1.jpg"
+ipfs pin add QmZtds98m4xstPiPEFQzU5dro3beZ1DyNCBcc3kHZHVmmE
+
+# 2082810312026390722_2.jpg — @matt82704417 · 2026-07-30
+# State's brief p.3: hemopericardium, bilateral hemothorax, Bagley rooftop account
+ipfs get QmWfn3HYQ9XKKn1E48nPUbhYwEb82pkZfyMwAVN357iBRS
+ipfs add "2082810312026390722_2.jpg"
+ipfs pin add QmWfn3HYQ9XKKn1E48nPUbhYwEb82pkZfyMwAVN357iBRS
+
+# 2082286655189516559.mp4 — @BasedSamParker · 2026-07-30
+# Roof descent at UVU, slowed; argued to show unhesitating practised movement
+ipfs get QmcTLKrk1tfidwAbNy7ZhqxNrz63q2LcRewiSw7VMvicuS
+ipfs add "2082286655189516559.mp4"
+ipfs pin add QmcTLKrk1tfidwAbNy7ZhqxNrz63q2LcRewiSw7VMvicuS
+
+# 2082585546191262169.mp4 — @ChrisGoodwin79 · 2026-07-30
+# Candace Owens roof video matched to preliminary hearing courtroom footage
+ipfs get QmVbUSmpdQKSuu2q1G4Nf8hT6q9B2D9KYH9mCYiKKXaZCJ
+ipfs add "2082585546191262169.mp4"
+ipfs pin add QmVbUSmpdQKSuu2q1G4Nf8hT6q9B2D9KYH9mCYiKKXaZCJ
+
+# 2082896893978550337.mp4 — @Villgecrazylady · 2026-07-30
+# KSL Chopper 5 aerial of the Losee Center roof ~1 hour after the shooting
+ipfs get QmQptVYBi7Q4xWHKnmmxEm5JkJJRaqXSTYKrJxbqBwR2gx
+ipfs add "2082896893978550337.mp4"
+ipfs pin add QmQptVYBi7Q4xWHKnmmxEm5JkJJRaqXSTYKrJxbqBwR2gx
+
+# 2082642579070546381_1.png — @aburkhartlaw via @MsJaneDoeUKnow · 2026-07-30
+# Filing excerpt quoting two Discord messages as State's Ex. 16.2
+ipfs get QmPywgVxNUV56ZWLYxqvMueu9t3dvZLxDgRA5LH3jaozgt
+ipfs add "2082642579070546381_1.png"
+ipfs pin add QmPywgVxNUV56ZWLYxqvMueu9t3dvZLxDgRA5LH3jaozgt
+
+# 2082615978207445283_1.jpg — @aburkhartlaw · 2026-07-30
+# Bindover memo excerpt: medical examiner homicide finding + ATF .30 caliber round
+ipfs get QmcT1FVhBPSJE8UDWMybm7bK9uSfQVGFowsdQFxatQccYU
+ipfs add "2082615978207445283_1.jpg"
+ipfs pin add QmcT1FVhBPSJE8UDWMybm7bK9uSfQVGFowsdQFxatQccYU
+
+# 2082763349436346477_1_redacted.jpg — @YinYang18175500 · 2026-07-30
+# Sept 9 student posts, account identity REDACTED by this site (original not pinned)
+ipfs get QmeKWYcNmcbzZoBcEqWbjysBrg6VxkrW9soWFud8RoPiha
+ipfs add "2082763349436346477_1_redacted.jpg"
+ipfs pin add QmeKWYcNmcbzZoBcEqWbjysBrg6VxkrW9soWFud8RoPiha
+
+# 2082953444814463411_1.jpg — @Its_KK_1 · 2026-07-30
+# Handwritten witness Voluntary Statement page 2 of 3 — "dime size impact" neck wound
+ipfs get QmPAAz2riJeSqJCrVuhoFdSidXSgFpR9NXwvhG5m6k7RAa
+ipfs add "2082953444814463411_1.jpg"
+ipfs pin add QmPAAz2riJeSqJCrVuhoFdSidXSgFpR9NXwvhG5m6k7RAa
+
+# 2082978765991293333.mp4 — @ProjectConstitu · 2026-07-31
+# Candace Owens: FBI seized clothing from Charlie Kirk's security team
+ipfs get QmRKJ3wG65Xqv9A3pFK4faSdYfRSqP5WNWdHDL7EUwQYXe
+ipfs add "2082978765991293333.mp4"
+ipfs pin add QmRKJ3wG65Xqv9A3pFK4faSdYfRSqP5WNWdHDL7EUwQYXe
+
+# 2083095317038215206.mp4 — @MarioNawfal · 2026-07-31
+# Candace Owens: Timpanogos ER cleared + patients shuttled to Intermountain before shot
+ipfs get QmccK17Zbc1365LesVBjy48S7tuL7KzFinxoiZB8qwUBGH
+ipfs add "2083095317038215206.mp4"
+ipfs pin add QmccK17Zbc1365LesVBjy48S7tuL7KzFinxoiZB8qwUBGH
+
+# 2083042911617200350_1.jpg — @jonaaronbray · 2026-07-31
+# Infographic: explosive residue transfer / detectability on synthetic fibers
+ipfs get QmfGsfEeW5c6M5y1ivwrgd3psaqjGyAD2iUc44ZWGVnNSq
+ipfs add "2083042911617200350_1.jpg"
+ipfs pin add QmfGsfEeW5c6M5y1ivwrgd3psaqjGyAD2iUc44ZWGVnNSq
+
+# 2083042911617200350_2.jpg — @jonaaronbray · 2026-07-31
+# SUV interior rear compartment — auto carpet as residue substrate
+ipfs get QmPLRmfGspN3sPz9SBdBrty8v6nF9pVCY6BtjsfXBpUdNN
+ipfs add "2083042911617200350_2.jpg"
+ipfs pin add QmPLRmfGspN3sPz9SBdBrty8v6nF9pVCY6BtjsfXBpUdNN
+
+# 2083042911617200350_3.jpg — @jonaaronbray · 2026-07-31
+# Immediate aftermath at UVU
+ipfs get QmUWjLJiWpwqzNiWFSv9nAiWjuREwSN8u1pJZZZceazW8L
+ipfs add "2083042911617200350_3.jpg"
+ipfs pin add QmUWjLJiWpwqzNiWFSv9nAiWjuREwSN8u1pJZZZceazW8L
+
+# Apple_Podcast_Removed_1793.png — site graphic · 2026-07-31
+# "1,793 Podcasts Removed from Apple Podcast" — count as of July 31st, 2026 (original PNG, 2752x1536)
+ipfs get QmUTdLj9GiVcJDoEgmQutmvmGbFvus9H6Gs8yE1nRYMBfX
+ipfs add "Apple_Podcast_Removed_1793.png"
+ipfs pin add QmUTdLj9GiVcJDoEgmQutmvmGbFvus9H6Gs8yE1nRYMBfX
+
+# Apple_Podcast_Removed_1793.jpg — served web copy (1600x893) of the above
+ipfs get QmYWYjHto2YgdwnmjLwmx7uyLXdmX8nWXmKmLhoVvxGera
+ipfs add "Apple_Podcast_Removed_1793.jpg"
+ipfs pin add QmYWYjHto2YgdwnmjLwmx7uyLXdmX8nWXmKmLhoVvxGera
+
+# 2083300038344941756_1.png — @TheDibsterX · 2026-07-31
+# Prelim hearing transcript: barrel dust/debris; 6A fragment .286-.301 inches
+ipfs get QmXsKp4TZ4Wwshr5ZWAwmaMqDxXQdijXJd6i6KFnXn4Qdi
+ipfs add "2083300038344941756_1.png"
+ipfs pin add QmXsKp4TZ4Wwshr5ZWAwmaMqDxXQdijXJd6i6KFnXn4Qdi
+
+# 2083322821271232810.mp4 — @DiligentDenizen · 2026-07-31
+# Kennington release-on-own-recognizance order + probable cause affidavit
+ipfs get QmbCfo8Usz4Frx9zBdtYtP11Dab4HS8SmCBMkNndSt5aZB
+ipfs add "2083322821271232810.mp4"
+ipfs pin add QmbCfo8Usz4Frx9zBdtYtP11Dab4HS8SmCBMkNndSt5aZB
+
+# 2071655202596515843_1_crop.jpg — @Mia_Stretch · 2026-07-31
+# Kennington Facebook post dated Sep 10 2025: "Uvu has the tightest security"
+ipfs get Qmaf6mhHvXUrQGJLR6ztw6mH2aKihfBozZUX1Yqb2Qgv3Z
+ipfs add "2071655202596515843_1_crop.jpg"
+ipfs pin add Qmaf6mhHvXUrQGJLR6ztw6mH2aKihfBozZUX1Yqb2Qgv3Z
+
+# 2071688818802266425_1.jpg — @Mia_Stretch · 2026-07-31
+# Annotated UVU aerial map: shot location, escape sequence 2-9, wooded area
+ipfs get QmeC75N2hAYoTaVMu7Ac3B16pNAskkhmCLMPXja2J7UqDe
+ipfs add "2071688818802266425_1.jpg"
+ipfs pin add QmeC75N2hAYoTaVMu7Ac3B16pNAskkhmCLMPXja2J7UqDe
+
+# 1975970593259610515.mp4 — @Mia_Stretch · 2026-07-31
+# Split-screen Kennington escort video, rifle-shaped object (TikTok @chelsealaroe)
+ipfs get QmcWL2KW2RcZ2MWe8EXhxUURgSuihPyjmkMxJvs49pevoZ
+ipfs add "1975970593259610515.mp4"
+ipfs pin add QmcWL2KW2RcZ2MWe8EXhxUURgSuihPyjmkMxJvs49pevoZ
+
+# 1975970593259610515_1.jpg — @Mia_Stretch · 2026-07-31
+# Kennington jail booking record: booked 12:33:28 PM, released 6:16:07 PM 9/11/25
+ipfs get QmTqfYCFtahd56gF7giuLS6N8eTHjtmqJXy6Dd8mUNH8NX
+ipfs add "1975970593259610515_1.jpg"
+ipfs pin add QmTqfYCFtahd56gF7giuLS6N8eTHjtmqJXy6Dd8mUNH8NX
+
+# 1975970593259610515_2.jpg — @Mia_Stretch · 2026-07-31
+# Zoom crop: officer carrying the rifle-shaped object during the Kennington escort
+ipfs get QmX1G7JSYwPR2doGzJqLTCqxMd1ZHggmM1dpvHBm63PV6T
+ipfs add "1975970593259610515_2.jpg"
+ipfs pin add QmX1G7JSYwPR2doGzJqLTCqxMd1ZHggmM1dpvHBm63PV6T
+
+# 2083353205736390930.mp4 — @jvalentine82 · 2026-08-01
+# Satire: rifle concealed in slim-fit jeans, mocking .30-06 concealment argument
+ipfs get QmaeyUH484zQmncAee4bFfyBrrMwjDFq2kDWnrrTiALM7n
+ipfs add "2083353205736390930.mp4"
+ipfs pin add QmaeyUH484zQmncAee4bFfyBrrMwjDFq2kDWnrrTiALM7n
+
+# 2083331472128094488_1.jpg — @tricia_dejong · 2026-08-01
+# UVU courtyard: bare excavated soil strip beside the surviving amphitheater lawn
+ipfs get QmQRwWETaHwooht3BsELe2vAp1VgBfsEkv4kruHHXeUuCa
+ipfs add "2083331472128094488_1.jpg"
+ipfs pin add QmQRwWETaHwooht3BsELe2vAp1VgBfsEkv4kruHHXeUuCa
+
+# 2083331472128094488_2.jpg — @tricia_dejong · 2026-08-01
+# UVU courtyard: skid steer, laser level and crew screeding the paver base
+ipfs get QmQnzHzRXdBnq7Xu43gv8QjRRZpNnZAUou1bGbsJYTuqVc
+ipfs add "2083331472128094488_2.jpg"
+ipfs pin add QmQnzHzRXdBnq7Xu43gv8QjRRZpNnZAUou1bGbsJYTuqVc
+
+# 2083331472128094488_3.jpg — @tricia_dejong · 2026-08-01
+# UVU plaza: aggregate mound circled in blue beside a flatbed dump truck
+ipfs get QmeLUcBRc7F5HWu1vWwWzyNBBWGxmvKpFLbuvSnc1Uarnx
+ipfs add "2083331472128094488_3.jpg"
+ipfs pin add QmeLUcBRc7F5HWu1vWwWzyNBBWGxmvKpFLbuvSnc1Uarnx
+
+# 2083667058571493703.mp4 — @WeAreNotGTM · 2026-08-01
+# "Battle Bun Brigade National Anthem" — #JusticeForCharlie citizen-investigator song
+ipfs get QmZDuZeSaydC3mCjkbabNHTVPRmax7GVSa1fsaQR576AdL
+ipfs add "2083667058571493703.mp4"
+ipfs pin add QmZDuZeSaydC3mCjkbabNHTVPRmax7GVSa1fsaQR576AdL
+
+# 2083454143046226110.mp4 — @VLuvMully · 2026-08-01
+# Former hospital worker: pediatric/ex-military surgeon, military-heavy ED staff (claim)
+ipfs get Qmbg9iFHWDyDLpHQCLA2aQU5bEPkq8Du7Cxy5e1k8tFjUq
+ipfs add "2083454143046226110.mp4"
+ipfs pin add Qmbg9iFHWDyDLpHQCLA2aQU5bEPkq8Du7Cxy5e1k8tFjUq
+
+# 2083966318534180990_1.jpg — @SwordTruth · 2026-08-02
+# Screenshot: X poll about Charlie Kirk narrative reportedly fails to post
+ipfs get Qmd3UBx5JFVfxqKWw9bjVQReDWRbytYcF4qaxEnnM8HnAT
+ipfs add "2083966318534180990_1.jpg"
+ipfs pin add Qmd3UBx5JFVfxqKWw9bjVQReDWRbytYcF4qaxEnnM8HnAT
+
+# 2083776278008893587.mp4 — @OwenBenjamin · 2026-08-02
+# Gun owner's sarcastic rifle-in-jeans demo; scope would not hold zero
+ipfs get QmW5CEmJdzULuxCFoCXXAFmCYgqsM4DhHTp3qfB589kLtD
+ipfs add "2083776278008893587.mp4"
+ipfs pin add QmW5CEmJdzULuxCFoCXXAFmCYgqsM4DhHTp3qfB589kLtD
+
+# 2084007515218493721.mp4 — @ChewingTheVoid · 2026-08-02
+# Livestream call after CK shot — "Dude, we're fucked" — Unfuck America Tour
+ipfs get QmZ6kyMhsLiByR3tfPY3aHMyvUshPgz5fuL3tLEuVvGY26
+ipfs add "2084007515218493721.mp4"
+ipfs pin add QmZ6kyMhsLiByR3tfPY3aHMyvUshPgz5fuL3tLEuVvGY26
+
+# 2084007515218493721_1.jpg — @ChewingTheVoid · 2026-08-02
+ipfs get QmSfpqdwxncZ2dYajooGqWjuQtUgkNxaGqA2FGaRJwvWJK
+ipfs add "2084007515218493721_1.jpg"
+ipfs pin add QmSfpqdwxncZ2dYajooGqWjuQtUgkNxaGqA2FGaRJwvWJK
+
+# 2084026940860596330.mp4 — @CharlotteLee_88 · 2026-08-02
+# 0:12 witness clip of TPUSA tent set-up at UVU before the event
+ipfs get QmWX4qjUgB11hwGfdSfU3MzvqLEDiM8XaefHQ185xB9TCE
+ipfs add "2084026940860596330.mp4"
+ipfs pin add QmWX4qjUgB11hwGfdSfU3MzvqLEDiM8XaefHQ185xB9TCE
+
+# 2084239546867130638.mp4 — @ProjectConstitu · 2026-08-03
+# 0:38 slow-mo clip claiming black shards fall from under CK's shirt
+ipfs get QmXnEVGCB5wN7f5oLRvgvVLAZET56yiY6k5HM4YCTBhHu7
+ipfs add "2084239546867130638.mp4"
+ipfs pin add QmXnEVGCB5wN7f5oLRvgvVLAZET56yiY6k5HM4YCTBhHu7
+
+# 2084153118317568321.mp4 — @ProjectConstitu · 2026-08-03
+# 1:45 high-res source clip of the shooting moment (quoted post)
+ipfs get QmVveTSgB5zScKzwiMd29KecLHrZeU74c4s3bEm8BTiDak
+ipfs add "2084153118317568321.mp4"
+ipfs pin add QmVveTSgB5zScKzwiMd29KecLHrZeU74c4s3bEm8BTiDak
+
+# 2078967048521036149.mp4 — @DiligentDenizen · 2026-08-03
+# 34:46 Cowboy's Smokehouse full visit — receipt handover + eyewitness interview
+ipfs get QmTabPZCekeH7nxUYg3kGKmkaBaXWKGtQTUdRN97Vz4QSW
+ipfs add "2078967048521036149.mp4"
+ipfs pin add QmTabPZCekeH7nxUYg3kGKmkaBaXWKGtQTUdRN97Vz4QSW
+
+# 2084405554785505716.mp4 — @DiligentDenizen · 2026-08-03
+# 0:16 Utah court records search — Kennington 9/11/25 case reportedly scrubbed
+ipfs get QmTkTfB2oHcgaRdL16nmXu8Z5c1wKvzu188K46Enk8FULk
+ipfs add "2084405554785505716.mp4"
+ipfs pin add QmTkTfB2oHcgaRdL16nmXu8Z5c1wKvzu188K46Enk8FULk
+# 2084417955824062950.mp4 — @ProjectConstitu · 2026-08-04
+# Candace Owens identifies mystery rooftop officer as Alan Robinson (USU police)
+ipfs get QmWn5VoxSbtGY6zKV9qzstemLuQKnitDYvSq9UqJZZfh9J
+ipfs add "2084417955824062950.mp4"
+ipfs pin add QmWn5VoxSbtGY6zKV9qzstemLuQKnitDYvSq9UqJZZfh9J
+
+# 2084427623736717747_1.jpg — @darlenamirarchi · 2026-08-04
+ipfs get 
+ipfs add "2084427623736717747_1.jpg"
+ipfs pin add 
+
+# 2084427623736717747_2.jpg — @darlenamirarchi · 2026-08-04
+ipfs get QmScRLzFAjjury8brygpNZJYbAV61G4eHV8kk2GsAihxFH
+ipfs add "2084427623736717747_2.jpg"
+ipfs pin add QmScRLzFAjjury8brygpNZJYbAV61G4eHV8kk2GsAihxFH
+
+# 2084427623736717747_3.jpg — @darlenamirarchi · 2026-08-04
+ipfs get QmR7ybQUbThzcm1Ha4ryAJWTUyY4WnnonG1Cu9B2xqqu2T
+ipfs add "2084427623736717747_3.jpg"
+ipfs pin add QmR7ybQUbThzcm1Ha4ryAJWTUyY4WnnonG1Cu9B2xqqu2T
+
+# 2084427623736717747_4.jpg — @darlenamirarchi · 2026-08-04
+ipfs get QmXJKiYPpv36eXXm41Bt4gyZ4HZ11gGknkzKMYFcGbg7Tn
+ipfs add "2084427623736717747_4.jpg"
+ipfs pin add QmXJKiYPpv36eXXm41Bt4gyZ4HZ11gGknkzKMYFcGbg7Tn
+
+# 2084426970964877724.mp4 — @SenseReceptor · 2026-08-04
+# MTG questions CK assassination narrative: lapel mic, .30-06, SD cards, paving
+ipfs get QmazcnUensqwx3USwwNjZJ9GXveNK9hocxiDW7tsS1Eh15
+ipfs add "2084426970964877724.mp4"
+ipfs pin add QmazcnUensqwx3USwwNjZJ9GXveNK9hocxiDW7tsS1Eh15
+
+# 2084745267962585553.mp4 — @realstewpeters · 2026-08-04
+# Hebrew Google search of Tyler Robinson address from Egyptian jet, Lincoln NE
+ipfs get QmTffVAiESHW3HZ9FKzNARSJN62sNWUeUqVSGr9i6UugwR
+ipfs add "2084745267962585553.mp4"
+ipfs pin add QmTffVAiESHW3HZ9FKzNARSJN62sNWUeUqVSGr9i6UugwR
+
+# 2084692935254188187.mp4 — @LionelMedia (video by @billiewebbb) · 2026-08-05
+# Surgeon at Timpanogos reportedly warned about Sept 10 surgery beforehand
+ipfs get QmPZRAkzT3TwhDEa9gNe1v56djmoRLZ2qDx6YZb9oHjuJQ
+ipfs add "2084692935254188187.mp4"
+ipfs pin add QmPZRAkzT3TwhDEa9gNe1v56djmoRLZ2qDx6YZb9oHjuJQ
+
+# 2084986993063166461.mp4 — @DangerousConspr · 2026-08-05
+# Construction site video: worker reportedly spoke to fleeing gunman
+ipfs get QmauoHT7DkE3ScQhLLFYbTK2rgSDGegr8NRzGYJRS3TEWM
+ipfs add "2084986993063166461.mp4"
+ipfs pin add QmauoHT7DkE3ScQhLLFYbTK2rgSDGegr8NRzGYJRS3TEWM
+
+# 2085394752015565058_1.jpg — @MuppetMasher · 2026-08-06
+# Michelle Cammack FBI ERT identification composite
+ipfs get QmV7xQ1nEggurhwkcoxTrSBTAr3SaZL8Z8fEftW5e3JDgV
+ipfs add "2085394752015565058_1.jpg"
+ipfs pin add QmV7xQ1nEggurhwkcoxTrSBTAr3SaZL8Z8fEftW5e3JDgV
+
+# 2085556752427499683_1.jpg — @BasedSamParker · 2026-08-06
+# Charlie Kirk is his own star witness graphic
+ipfs get QmNZJiFuWAViNzq252TFUWaLFna7cvR2y3RBFkDQeGi3zX
+ipfs add "2085556752427499683_1.jpg"
+ipfs pin add QmNZJiFuWAViNzq252TFUWaLFna7cvR2y3RBFkDQeGi3zX
+
+# 2085530517286600707_1.jpg — @CrystalSmallen · 2026-08-06
+ipfs get QmaXqdAETGW8XT1C6nJpwk1MLJaVFtqEEespuyRmgE2p4F
+ipfs add "2085530517286600707_1.jpg"
+ipfs pin add QmaXqdAETGW8XT1C6nJpwk1MLJaVFtqEEespuyRmgE2p4F
+
+# 2085530517286600707_2.jpg — @CrystalSmallen · 2026-08-06
+ipfs get QmNWNGBbwJ1UBR1VhWBb37TAGNnmKhqDLKX65CZgFMNwQb
+ipfs add "2085530517286600707_2.jpg"
+ipfs pin add QmNWNGBbwJ1UBR1VhWBb37TAGNnmKhqDLKX65CZgFMNwQb
+
+# 2085533451730755639.mp4 — @godfatherofchao · 2026-08-07
+# Baron Coleman: Tyler Robinson's family denies confession (Julian Dorey Ep 458)
+ipfs get QmP2m6sPYnpBgUzr6JfnRwitwqJG64eE7i3KYVsG5bgDPG
+ipfs add "2085533451730755639.mp4"
+ipfs pin add QmP2m6sPYnpBgUzr6JfnRwitwqJG64eE7i3KYVsG5bgDPG
+
+# 2085794603819544692.mp4 — @BasedSamParker (quoted by @pattygifflaw) · 2026-08-07
+# Eyewitness testimony vs. alleged Tyler Robinson text confession; escape path retraced
+ipfs get QmVvPn6bmS2xdCDy9gEnGu5ptCnwfayoqeeZKM3mBbUmP3
+ipfs add "2085794603819544692.mp4"
+ipfs pin add QmVvPn6bmS2xdCDy9gEnGu5ptCnwfayoqeeZKM3mBbUmP3
+
+# 2086519443971318155.mp4 — @DiligentDenizen · 2026-08-09
+# Alleged staging house across from Losee Center: barricade, escape path, Challenger
+ipfs get QmbstSiTR9Nq9TGt4qw7pGbms28yzTaE6jyPja7ebQRHmJ
+ipfs add "2086519443971318155.mp4"
+ipfs pin add QmbstSiTR9Nq9TGt4qw7pGbms28yzTaE6jyPja7ebQRHmJ
+
+# 2086589506967265670.mp4 — @TarynEllez7 · 2026-08-10
+# UVU Sept 9 warning + landscaping firm cement under the tent
+ipfs get QmVs4MdZVNs2giSpTWQAbwW4NnEn6FKDd23msoMQwNn91h
+ipfs add "2086589506967265670.mp4"
+ipfs pin add QmVs4MdZVNs2giSpTWQAbwW4NnEn6FKDd23msoMQwNn91h
+
+# 2086628729975943324.mp4 — @DangerousConspr (orig @am_tortl) · 2026-08-10
+# Crowd shot from side of UVU plaza, 20s ending at the sound
+ipfs get QmSuE1b7MxhJpZcJ5RGH1UB6A828kSm23dU32s3V9E4ya4
+ipfs add "2086628729975943324.mp4"
+ipfs pin add QmSuE1b7MxhJpZcJ5RGH1UB6A828kSm23dU32s3V9E4ya4
+
+# 2086670412730277896.mp4 — @DiligentDenizen · 2026-08-10
+# RETCON13 5G tactical comms mast vs. antenna at UVU construction site
+ipfs get QmadkRYcF3vT15HbSi8x1f8gLz2tL7zapM6xDTFnJho6tS
+ipfs add "2086670412730277896.mp4"
+ipfs pin add QmadkRYcF3vT15HbSi8x1f8gLz2tL7zapM6xDTFnJho6tS
+
+# 2086599006965379504.mp4 — @ArtifexMemor · 2026-08-10
+# Second-row witnesses: hit his chest, blood from chest, shot in the heart
+ipfs get QmQrAoTcV8XXLk6XvVeD8oJd3CawvpAdyXJ5hZcnqDDEuK
+ipfs add "2086599006965379504.mp4"
+ipfs pin add QmQrAoTcV8XXLk6XvVeD8oJd3CawvpAdyXJ5hZcnqDDEuK
+
+# 2086526755087769715_1.jpg — @BasedSamParker · 2026-08-10
+# Engraved .30-06 cartridges beside ATF/lab evidence cards
+ipfs get QmNVABcWa8pUH8pVtv7twojqzBJknhKusP4uW1YKM9wqPj
+ipfs add "2086526755087769715_1.jpg"
+ipfs pin add QmNVABcWa8pUH8pVtv7twojqzBJknhKusP4uW1YKM9wqPj
+
+# 2079661605332062718_1.mp4 — @hurtfeelingzday · 2026-08-11
+# Erika Kirk responds to flight-log questions about N102DZ
+ipfs get QmR3ycmF8RcvYP5ayGz5ABj2vUTreDUvtpjUem2gBvdjCG
+ipfs add "2079661605332062718_1.mp4"
+ipfs pin add QmR3ycmF8RcvYP5ayGz5ABj2vUTreDUvtpjUem2gBvdjCG
+
+# 2079661605332062718_2.mp4 — @hurtfeelingzday · 2026-08-11
+# Screen recording of N102DZ tracking-record material (no audio)
+ipfs get QmbwcnBJiYD9mkqHpMvtwavFWamseBi2QMeKVe1SxAwAhW
+ipfs add "2079661605332062718_2.mp4"
+ipfs pin add QmbwcnBJiYD9mkqHpMvtwavFWamseBi2QMeKVe1SxAwAhW
+
+# 2087393163778347089.mp4 — @DiligentDenizen · 2026-08-12
+# Nov 4 2025 doorstep visit clip quoted in the white Kia Soul post
+ipfs get QmZ5NmiWH9Hy3v1RJXiJxG19aT94wGvTviV4qWjBDp5sWh
+ipfs add "2087393163778347089.mp4"
+ipfs pin add QmZ5NmiWH9Hy3v1RJXiJxG19aT94wGvTviV4qWjBDp5sWh
+
+# 2087393163778347089_1.jpg — @DiligentDenizen · 2026-08-12
+# Unannotated Wed Sep 10 2025 aerial frame; white Kia Soul turnaround claim
+ipfs get QmS9woKH5V77rrLxSbJU81AWsXxGofhvLfMRrRkCXsvMgo
+ipfs add "2087393163778347089_1.jpg"
+ipfs pin add QmS9woKH5V77rrLxSbJU81AWsXxGofhvLfMRrRkCXsvMgo
+
+# 2087396047064625425_1.jpg — @DiligentDenizen · 2026-08-12
+# Aerial Sep 10 2025, red circle on claimed rifle recovery lot
+ipfs get QmXtwWYk5VGM4ncuyDAggBNn4xJ3bgwZUJWANKB9ytM2EA
+ipfs add "2087396047064625425_1.jpg"
+ipfs pin add QmXtwWYk5VGM4ncuyDAggBNn4xJ3bgwZUJWANKB9ytM2EA
+
+# 2085788561123549371_1.jpg — @NihiloX · 2026-08-12
+# Google Trends: "645 W 925 S" searched from Israel, single spike Apr 2022
+ipfs get QmPi4U99UmsRKdNpwNZRLgfMBnoV1H9yNffJ4vEPZccHJR
+ipfs add "2085788561123549371_1.jpg"
+ipfs pin add QmPi4U99UmsRKdNpwNZRLgfMBnoV1H9yNffJ4vEPZccHJR
+
+# 2087635870627016929.mp4 — @alleytopfiles · 2026-08-13
+# Witness: FBI advised him to erase his Charlie Kirk footage, then called to confirm
+ipfs get QmQBcMjT7PvPUQXfgR6Vhm3oMzAHaHZCgJvXY6DNcJot7D
+ipfs add "2087635870627016929.mp4"
+ipfs pin add QmQBcMjT7PvPUQXfgR6Vhm3oMzAHaHZCgJvXY6DNcJot7D
+
+# 2087749636677304376_1.jpg — @ArtifexMemor · 2026-08-13
+# Google Trends "Kathryn Nester" filtered to Israel, past 12 months — one isolated spike
+ipfs get QmToMFcZ4L8DS4oQELtT7ef9MQ38DH7Ht7QiFJDxSivimQ
+ipfs add "2087749636677304376_1.jpg"
+ipfs pin add QmToMFcZ4L8DS4oQELtT7ef9MQ38DH7Ht7QiFJDxSivimQ
+
+# 2087954262651273461.mp4 — @shiloheffort · 2026-08-13
+# UVU bystander livestreamer "Outer TikTok" filming seconds after the shot
+ipfs get QmWyfhCMygaZ1Lz9JBTPh6b1zSuw744Bmccanv2qwMootj
+ipfs add "2087954262651273461.mp4"
+ipfs pin add QmWyfhCMygaZ1Lz9JBTPh6b1zSuw744Bmccanv2qwMootj
+
+# 2087852128089854091_1.jpg — @samtripoli · 2026-08-13
+# Robinson defense brief page 2 — Rule 1102 hearsay + "intended target" aggravator
+ipfs get QmVb2Rs3gX89pXEp2LZkCMPodNrFzoxmLdBGgqJnUJUtY1
+ipfs add "2087852128089854091_1.jpg"
+ipfs pin add QmVb2Rs3gX89pXEp2LZkCMPodNrFzoxmLdBGgqJnUJUtY1
+
+# 2079273906506965009.mp4 — @DiligentDenizen · 2026-08-14
+# Raw 3:46 interview: Cowboy's Smokehouse Panguitch employee "100%" IDs Sept 10 customer
+ipfs get QmT3wxEWv5LQsxih65s6XhvTwchUfU3sU6xW27FNt9y5Q7
+ipfs add "2079273906506965009.mp4"
+ipfs pin add QmT3wxEWv5LQsxih65s6XhvTwchUfU3sU6xW27FNt9y5Q7
+
+# 2088391649923645555_1.jpg — @DiligentDenizen · 2026-08-14
+# The Cowboy's Smokehouse Panguitch receipt as posted by the citizen journalist
+ipfs get QmfA8KxNVJfZBZbdQunnzwysVKbVZA77WSmzVEKBpBa8ZC
+ipfs add "2088391649923645555_1.jpg"
+ipfs pin add QmfA8KxNVJfZBZbdQunnzwysVKbVZA77WSmzVEKBpBa8ZC
+
+# 2079273906506965009_1.jpg — @DiligentDenizen · 2026-08-14
+# Still accompanying the Cowboy's Smokehouse employee interview
+ipfs get Qmcp4K9pBHHQHJMx5RLZG2NNbBGzXhiSjuoxpcNpopY9Me
+ipfs add "2079273906506965009_1.jpg"
+ipfs pin add Qmcp4K9pBHHQHJMx5RLZG2NNbBGzXhiSjuoxpcNpopY9Me
+
+# 2088377938349559991_1.jpg — @ZREIKMIESTER · 2026-08-15
+# Forensic-physics points 1-4 text card (RODE mic shaped-charge claim)
+ipfs get QmTE5ZLxzr9Z7g8jrdWkFjAXkBXdwGYop81RGcjz4nxQ3B
+ipfs add "2088377938349559991_1.jpg"
+ipfs pin add QmTE5ZLxzr9Z7g8jrdWkFjAXkBXdwGYop81RGcjz4nxQ3B
+
+# 2088377938349559991_2.jpg — @ZREIKMIESTER · 2026-08-15
+# Point 5 text card — necklace final position argument
+ipfs get QmQ9i81C7rqtk7ig97EieMRqVGjz5DtWWH62m95Moy1hnb
+ipfs add "2088377938349559991_2.jpg"
+ipfs pin add QmQ9i81C7rqtk7ig97EieMRqVGjz5DtWWH62m95Moy1hnb
+
+# 2088377938349559991_3.jpg — @ZREIKMIESTER · 2026-08-15
+# Point 6 text card — explosive vs gunshot radial-acceleration diagrams
+ipfs get QmeibYiFfawDHVoNYMVn3JSFLpKUTbrSzJBHoxtADE8rUz
+ipfs add "2088377938349559991_3.jpg"
+ipfs pin add QmeibYiFfawDHVoNYMVn3JSFLpKUTbrSzJBHoxtADE8rUz
+
+# 2088379865154134422_1.jpg — @ZREIKMIESTER · 2026-08-15
+# Annotated frame — "The Rest of the Cavitation is loading..."
+ipfs get QmUh5BDDdEjf9RUH2gcFqPwV5PGhnKPPBe13gKTfc2DbKw
+ipfs add "2088379865154134422_1.jpg"
+ipfs pin add QmUh5BDDdEjf9RUH2gcFqPwV5PGhnKPPBe13gKTfc2DbKw
+
+# 2088380610595459459_1.jpg — @ZREIKMIESTER · 2026-08-15
+# Annotated frame — numbered 1-7 necklace trajectory / radial expansion
+ipfs get QmPPT7YUxhbSd9R6uDqkV3E577bFRwKhNWPoJ7mbBpRjP7
+ipfs add "2088380610595459459_1.jpg"
+ipfs pin add QmPPT7YUxhbSd9R6uDqkV3E577bFRwKhNWPoJ7mbBpRjP7
+
+# 2088380610595459459_2.jpg — @ZREIKMIESTER · 2026-08-15
+# Side-profile annotation — necklace position / shaped-charge trajectory legend
+ipfs get QmUu3o6ihKodY2PctzrAbPcNgRY1mf6ceie9m4aCuxJK7j
+ipfs add "2088380610595459459_2.jpg"
+ipfs pin add QmUu3o6ihKodY2PctzrAbPcNgRY1mf6ceie9m4aCuxJK7j
+
+# 2088381063600967987_1.jpg — @ZREIKMIESTER · 2026-08-15
+# Search-result screenshot — explosion sequence radial expansion then blunt impact
+ipfs get QmXo8LSGp8UN1o3QUQhj9wbnbRVpcx2B5wREDPDPPB86qx
+ipfs add "2088381063600967987_1.jpg"
+ipfs pin add QmXo8LSGp8UN1o3QUQhj9wbnbRVpcx2B5wREDPDPPB86qx
+
+# 2088381063600967987_2.jpg — @ZREIKMIESTER · 2026-08-15
+# Search-result screenshot — bullet deformation is simultaneous with contact
+ipfs get QmZWR2xkCDVqxZ1YL1Ld93kMGBoFQM9jb4MAqPrVHUC1te
+ipfs add "2088381063600967987_2.jpg"
+ipfs pin add QmZWR2xkCDVqxZ1YL1Ld93kMGBoFQM9jb4MAqPrVHUC1te
+
+# 2089012149041463592.mp4 — @ProjectConstitu · 2026-08-16
+# Fox News Sharm El-Sheikh tarmac + Candace Owens on SU-BTU and Provo subcontractors
+ipfs get QmS29GrF8DKkSqFpjpPBFqD5mesVvfqqzrRfC1LQesADXX
+ipfs add "2089012149041463592.mp4"
+ipfs pin add QmS29GrF8DKkSqFpjpPBFqD5mesVvfqqzrRfC1LQesADXX
+
+# 2001535869736435737.mp4 — @ProjectConstitu · 2026-08-16
+# Candace Owens: Egyptian jets fly in and out of Israel with transponders off
+ipfs get QmbeapmdPs3dVkQHPAf3CHxb17W6S8rd1rKJpFGSgfrtBa
+ipfs add "2001535869736435737.mp4"
+ipfs pin add QmbeapmdPs3dVkQHPAf3CHxb17W6S8rd1rKJpFGSgfrtBa
+
+# 2089032178990780892.mp4 — @MysticMuse1o1 (video by @Tut21125150) · 2026-08-16
+# Terry Tut: "About those Egyptian planes"
+ipfs get QmcwsSCCiymU4UdpGpnwcECvLKf9PQRdCghY6C2GyQa5X9
+ipfs add "2089032178990780892.mp4"
+ipfs pin add QmcwsSCCiymU4UdpGpnwcECvLKf9PQRdCghY6C2GyQa5X9
+
+# 2089076950174158960.mp4 — @NihiloX · 2026-08-17
+# Charlie Kirk: close-proximity betrayers "get my attention", not campus radicals
+ipfs get QmScnsmDvuZTbDFrxxrC2vVaF3ETDqMbVSAMrMHoMYHkhU
+ipfs add "2089076950174158960.mp4"
+ipfs pin add QmScnsmDvuZTbDFrxxrC2vVaF3ETDqMbVSAMrMHoMYHkhU
+
+# 2089043647207793118.mp4 — @danksterintel (video via @Ryanmatta / @AdmetosL) · 2026-08-17
+# Black-clad figure enters rear of Charlie Kirk transport SUV — Farnsworth angle walkthrough
+ipfs get QmXLsuPumydoCLD1twXjKBEQsmHM917UWDeU3hHT8v7Yek
+ipfs add "2089043647207793118.mp4"
+ipfs pin add QmXLsuPumydoCLD1twXjKBEQsmHM917UWDeU3hHT8v7Yek
+
+# 2089045107618246884_1.jpg — @godfatherofchao · 2026-08-17
+# Andrew Wilson quote card circulated after the Candace Owens debate
+ipfs get QmRp5TH6hNFjorMJUqhjwVLBZ4DKEzzmsN1UmhxdoWsFam
+ipfs add "2089045107618246884_1.jpg"
+ipfs pin add QmRp5TH6hNFjorMJUqhjwVLBZ4DKEzzmsN1UmhxdoWsFam
+
+# 2089500844601266390.mp4 — @BlakeBednarz · 2026-08-17
+# UVU CS Roof West court exhibit — three timestamp jumps on 9/10/2025
+ipfs get QmdRct9aQgzaKS657HzF8zy82vC61B3vVXoboNbYGsKcH7
+ipfs add "2089500844601266390.mp4"
+ipfs pin add QmdRct9aQgzaKS657HzF8zy82vC61B3vVXoboNbYGsKcH7
+
+# 2089892369709846599.mp4 — @Trillion0x (video by @joekent16jan19) · 2026-08-19
+# Joe Kent: NCTC told its services were no longer required on the Kirk case
+ipfs get QmQnJpKt9S8vJNh4rq4KvumbdLQDxgKk13nFLJ3nzyDb8z
+ipfs add "2089892369709846599.mp4"
+ipfs pin add QmQnJpKt9S8vJNh4rq4KvumbdLQDxgKk13nFLJ3nzyDb8z
+
+# 2087612450229072023.mp4 — @CharlotteLee_88 (video by @ArtifexMemor) · 2026-08-19
+# Former CK film-crew staffer: the state timeline needs Tyler awake 25h and driving 13h20m
+ipfs get Qmb92YLptn9gjXqn7Sptxyy2LH26fjz8txpysNNQ9J8sKC
+ipfs add "2087612450229072023.mp4"
+ipfs pin add Qmb92YLptn9gjXqn7Sptxyy2LH26fjz8txpysNNQ9J8sKC
+
+# 2089980659745894732.mp4 — @YTRABBITCHASER · 2026-08-19
+# UVU dispatch audio re: the UVU Library on 9/10 + preliminary hearing testimony
+ipfs get QmRquvtpmxPkRU1KAnqazzkmDzGHW9tEoSF4bJN7EvyZdh
+ipfs add "2089980659745894732.mp4"
+ipfs pin add QmRquvtpmxPkRU1KAnqazzkmDzGHW9tEoSF4bJN7EvyZdh
+
+# 2090143827671601438_1.jpg — @Piper_truth1 · 2026-08-19
+# Table of the 24 Tyler Robinson search warrant affidavits, by warrant number
+ipfs get QmXDdnfg59JqD2y16hqvRRdgumXrmDL1Bpi2fx85UPYCMG
+ipfs add "2090143827671601438_1.jpg"
+ipfs pin add QmXDdnfg59JqD2y16hqvRRdgumXrmDL1Bpi2fx85UPYCMG
+
+# 2090466320869458085.mp4 — @AMERICANFIRSTQ_ · 2026-08-20
+# Anonymous "DGSE colonel" claims Unit 8200 liaison paid for an on-air attack on Candace Owens
+ipfs get QmUwDPiEiNj8SobCVPyiwuSPtshetPmGUJNaB3nb3Boho1
+ipfs add "2090466320869458085.mp4"
+ipfs pin add QmUwDPiEiNj8SobCVPyiwuSPtshetPmGUJNaB3nb3Boho1
+
+# 2090891396265791653.mp4 — @tricia_dejong · 2026-08-21
+# Rob O'Neill / Gen. Holt NEWSMAX: "That looked like an explosion to me" (4 min)
+ipfs get QmX56VTHaSWzLpBhjgnG4SzFyKprmRtVPUXdvW4Vvy6qJh
+ipfs add "2090891396265791653.mp4"
+ipfs pin add QmX56VTHaSWzLpBhjgnG4SzFyKprmRtVPUXdvW4Vvy6qJh
+
+# 2094075121837195687_1.jpg — @DangerousConspr · 2026-08-30
+# Close-up: man in 1776 cap holding the mic at UVU, identified by poster as Goldsberry
+ipfs get QmQFth6VQNFbjuc2DZzEtUowecvEWVpFhA3nC4has8Gcjn
+ipfs add "2094075121837195687_1.jpg"
+ipfs pin add QmQFth6VQNFbjuc2DZzEtUowecvEWVpFhA3nC4has8Gcjn
+
+# 2094377089679995086_1.mp4 — @ProjectConstitu · 2026-08-31
+# N59906 MARC Inc. survey plane re-registered to Alpha Whiskey 2 LLC
+ipfs get QmYYHgW9imQGwV55rRSqjgk7fHT14FDzc3LnSXhBtoAMFS
+ipfs add "2094377089679995086_1.mp4"
+ipfs pin add QmYYHgW9imQGwV55rRSqjgk7fHT14FDzc3LnSXhBtoAMFS
+
+# 2094377089679995086_2.mp4 — @ProjectConstitu · 2026-08-31
+# Original 7 Nov 2025 breakdown of the N59906 survey flight over UVU
+ipfs get QmbuATDrPAEgHSUDFZG6KEPGWLXoFkPpv9HVcRwLsYe663
+ipfs add "2094377089679995086_2.mp4"
+ipfs pin add QmbuATDrPAEgHSUDFZG6KEPGWLXoFkPpv9HVcRwLsYe663
+
+# 2085075638449307892.mp4 — @realstewpeters · 2026-08-31
+# Hebrew Google searches vs Egyptian military aircraft ground times; Erika Kirk claim
+ipfs get QmPorAD9dSYb3GX64VKxQ3oxtRw6N1MYvgTdtU9Jp6bc3K
+ipfs add "2085075638449307892.mp4"
+ipfs pin add QmPorAD9dSYb3GX64VKxQ3oxtRw6N1MYvgTdtU9Jp6bc3K
+
+# 2094302253855429074.mp4 — @AdmetosL · 2026-08-31
+# Sept 10 route analysis: UVU, Dairy Queen, Cowboy's Smokehouse Panguitch
+ipfs get QmcszYkD8H5B9ZJbigeoWdoG2uLkKAtq2zMzfKtjRzEHCk
+ipfs add "2094302253855429074.mp4"
+ipfs pin add QmcszYkD8H5B9ZJbigeoWdoG2uLkKAtq2zMzfKtjRzEHCk
+
+# 2094296081219944452.mp4 — @Iwendtster · 2026-08-31
+# Panguitch Main St drive-by past Cowboy's Smokehouse; owner says FBI told them not to talk
+ipfs get QmfFxNN3oVYUQcajPLUjBZ73TG4vTTUy7MSUWF2JRrtMCF
+ipfs add "2094296081219944452.mp4"
+ipfs pin add QmfFxNN3oVYUQcajPLUjBZ73TG4vTTUy7MSUWF2JRrtMCF
+
+# 2094072330238492858.mp4 — @Mark93541946 · 2026-08-31
+# Crowd-angle 4.6s excerpt of the shot; "two holes, neck and shirt" claim
+ipfs get QmQjb72pZ79ajbXCHBh8T4swaC1EzXXgMFBWwnb4FqVcwY
+ipfs add "2094072330238492858.mp4"
+ipfs pin add QmQjb72pZ79ajbXCHBh8T4swaC1EzXXgMFBWwnb4FqVcwY
+
+# 2093761830225350902_1.jpg — @BlacksNeff · 2026-08-31
+# UVU command-center truck roof units vs a St George SWAT vehicle (AC + COMS antenna)
+ipfs get QmbsRuHouuH2KfxXxGGYgdXZm9RDb7cRzZrVx7HypyqtQT
+ipfs add "2093761830225350902_1.jpg"
+ipfs pin add QmbsRuHouuH2KfxXxGGYgdXZm9RDb7cRzZrVx7HypyqtQT
+
+# 2094738120943993339.mp4 — @Parodyjeffx · 2026-09-01
+# Aubrey Laitsch: fired from TPUSA after questioning the CK assassination narrative
+ipfs get QmYrFAzdP53mRNanqT2gugnSegMCMMQXF4EJAxBebmyCZK
+ipfs add "2094738120943993339.mp4"
+ipfs pin add QmYrFAzdP53mRNanqT2gugnSegMCMMQXF4EJAxBebmyCZK
+
+# 2094878764521955626.mp4 — @PBOnPoint · 2026-09-01
+# PB: Tyler Robinson is a fall guy, no fair trial; opinion recorded on bindover day
+ipfs get QmScXVnh9xvGGq82ZMhnEh7arxdktmHewuqmdrvxBrXVQD
+ipfs add "2094878764521955626.mp4"
+ipfs pin add QmScXVnh9xvGGq82ZMhnEh7arxdktmHewuqmdrvxBrXVQD
+
+# 2095093540837642707.mp4 — @ProjectConstitu · 2026-09-02
+# Pastor Jack Hibbs on camera about his brother Butch Hibbs (UVU, Sept 10 2025)
+ipfs get QmZ11VfaamgKa8tpsWthVBig64YZbeZJcEWSqtHmyi6myp
+ipfs add "2095093540837642707.mp4"
+ipfs pin add QmZ11VfaamgKa8tpsWthVBig64YZbeZJcEWSqtHmyi6myp
+
+# 2091998823044546659.mp4 — @ProjectConstitu · 2026-09-02
+# Neck fragment argued to be charred black ABS plastic, not lead
+ipfs get QmZUEorkAvGJLvYRVWD167cJgtRLHua3VNYcHTN2YcknbN
+ipfs add "2091998823044546659.mp4"
+ipfs pin add QmZUEorkAvGJLvYRVWD167cJgtRLHua3VNYcHTN2YcknbN
+
+# 2095169955520041090_1.jpg — @realstewpeters · 2026-09-02
+# Google Trends: "Burton Hibbs Calvalry Church", Tucson (Sierra Vista) AZ, image search, Sep 7 2025 spike
+ipfs get QmdrbsEEntu9LU4iX46ctUtPEuD6rGPkMsMr9f4fPGDbGN
+ipfs add "2095169955520041090_1.jpg"
+ipfs pin add QmdrbsEEntu9LU4iX46ctUtPEuD6rGPkMsMr9f4fPGDbGN
+
+# 2095205377746866287.mp4 — @JohPersso · 2026-09-02
+# Prelim audio: last Twiggs text ~7:42 PM 9/11; witness confirms 9/11 turn-in
+ipfs get QmcqbMcpckXL9rpg3o7thScS74VKeqMb14pUwUMk8BtBRo
+ipfs add "2095205377746866287.mp4"
+ipfs pin add QmcqbMcpckXL9rpg3o7thScS74VKeqMb14pUwUMk8BtBRo
+
+# 2095197557278560703.mp4 — @BasedSamParker · 2026-09-02
+# 5:55 PM surrender text vs 7:57 PM Discord confession, Bates 003996-R1/R2
+ipfs get QmeodGR9KobeVVaS9V35aDrZJTHnLUfrqkm5APtWwVqiox
+ipfs add "2095197557278560703.mp4"
+ipfs pin add QmeodGR9KobeVVaS9V35aDrZJTHnLUfrqkm5APtWwVqiox
+
+# 2095205377746866287_1.jpg — @JohPersso · 2026-09-02
+# Discovery index row 15: "Video at WCSO on 9/11/2025", Bates 3996-R1
+ipfs get QmSL81LRQ3ZuXqfBLxygWm9a1wDLkmHcNhLFQUfUq1zcxy
+ipfs add "2095205377746866287_1.jpg"
+ipfs pin add QmSL81LRQ3ZuXqfBLxygWm9a1wDLkmHcNhLFQUfUq1zcxy
+
+# 2095205377746866287_2.jpg — @JohPersso · 2026-09-02
+# Defense filing p.70 quoting Bates 003996-R2: 06:25 PM Miranda, 06:26 PM counsel
+ipfs get QmZdh5qSq35yRNM12g6AKQCB1iftU5JyNGQZMq3TNMFSxk
+ipfs add "2095205377746866287_2.jpg"
+ipfs pin add QmZdh5qSq35yRNM12g6AKQCB1iftU5JyNGQZMq3TNMFSxk
+
+# 2095247284162453896_1.jpg — @I_Am_JohnCullen · 2026-09-02
+# HADES AXEL21 Google Earth track, 9/11/2025 8:41:37 pm, loop over Washington County Sheriff
+ipfs get QmRBzn3zrvatvLcWfvGNMwUEimDig5PbgLkjU6PWT7pwDM
+ipfs add "2095247284162453896_1.jpg"
+ipfs pin add QmRBzn3zrvatvLcWfvGNMwUEimDig5PbgLkjU6PWT7pwDM
+
+# 2095341859757564015.mp4 — @AnaEscobarShow · 2026-09-02
+# Live on-air segment: Burton Hibbs Trends chart returns no data
+ipfs get QmUT3UWsXgKzXEptuDpD1irPcamL9s5y4AX461vgo1VVEC
+ipfs add "2095341859757564015.mp4"
+ipfs pin add QmUT3UWsXgKzXEptuDpD1irPcamL9s5y4AX461vgo1VVEC
+
+# 2095336474778488986_1.jpg — @realstewpeters · 2026-09-02
+# iMessage screenshot: "they wiped the Burton Hibbs search"
+ipfs get QmQhEojGifxsTmm5n6yQ2BfWaYBn1LXtmaV3r5zYwKKdqp
+ipfs add "2095336474778488986_1.jpg"
+ipfs pin add QmQhEojGifxsTmm5n6yQ2BfWaYBn1LXtmaV3r5zYwKKdqp
+
+# 2095462853994217792_1.jpg — @ArtifexMemor · 2026-09-03
+# RODE Wireless GO II transmitter + lavalier mic, held in hand
+ipfs get QmSks4tCY5H9hZmhmhuXRi6pywwHVvy4npjtwXbr6ercR8
+ipfs add "2095462853994217792_1.jpg"
+ipfs pin add QmSks4tCY5H9hZmhmhuXRi6pywwHVvy4npjtwXbr6ercR8
+
+# 2095665263563653527_1.jpg — @idontgiveadom · 2026-09-03
+# Charlie Kirk final-day timeline graphic (mislabeled 9/10; events are 9/9/2025)
+ipfs get QmW11bo6WHJdwwteGbyM37avJTFtEfDNR5Vb1ztXPtBXhV
+ipfs add "2095665263563653527_1.jpg"
+ipfs pin add QmW11bo6WHJdwwteGbyM37avJTFtEfDNR5Vb1ztXPtBXhV
+
+# 2095664496165491181_1.jpg — @idontgiveadom · 2026-09-03
+# Josh Hammer "based" post screenshot, footer timestamp 6:05 PM Sep 9 2025
+ipfs get QmVYwR1EejtnRboQfUzDi4hL9QGBP3mvtFY62wBdrQUx6C
+ipfs add "2095664496165491181_1.jpg"
+ipfs pin add QmVYwR1EejtnRboQfUzDi4hL9QGBP3mvtFY62wBdrQUx6C
+
+# 2095784011868020764.mp4 — @ProjectConstitu · 2026-09-04
+# CNN 9/11/2025: screwdriver found in woods near dumped rifle, before roof version
+ipfs get QmaAFCFJyMgTxXA8YMrjBYrmwydzxmwVwyRus2MfQTafYc
+ipfs add "2095784011868020764.mp4"
+ipfs pin add QmaAFCFJyMgTxXA8YMrjBYrmwydzxmwVwyRus2MfQTafYc
+
+# 2095734681039696205.mp4 — @realstewpeters · 2026-09-04
+# CNN compilation: screwdriver in the woods, then "found on the rooftop" in same coverage
+ipfs get QmfWXGeCvjbMupMerWV8QPjcmwXLFprXiPnx5GiPZ2fQra
+ipfs add "2095734681039696205.mp4"
+ipfs pin add QmfWXGeCvjbMupMerWV8QPjcmwXLFprXiPnx5GiPZ2fQra
+
+# 2095720265325965724_1.jpg — @shiloheffort · 2026-09-04
+# Annotated group photo of the private protective detail, eleven members labelled by name
+ipfs get QmUyvvDU85oAKwpAbjMhU5VTJL7ZH2Xu6GprXGSUGxmFYd
+ipfs add "2095720265325965724_1.jpg"
+ipfs pin add QmUyvvDU85oAKwpAbjMhU5VTJL7ZH2Xu6GprXGSUGxmFYd
+
+# 2095720265325965724.mp4 — @shiloheffort · 2026-09-04
+# Detail manpower "upped to 12, and a 13 there that came in the dry party ... based on nothing"
+ipfs get QmTjhHGBMZEfeWNwuDjnNs4SaLwP9QX61ixY2DFgmFrtwP
+ipfs add "2095720265325965724.mp4"
+ipfs pin add QmTjhHGBMZEfeWNwuDjnNs4SaLwP9QX61ixY2DFgmFrtwP
+
+# 2095664913188348194_1.jpg — @ShanonLee_AF · 2026-09-04
+# Two @josh_hammer posts: "based" 18:05 9/9/25 and "Public execution." 15:57 9/10/25
+ipfs get QmWtRUt6V7pW3Ut2ZHyB2rbRNL5YNa4YV4B3yKMNTKeDkA
+ipfs add "2095664913188348194_1.jpg"
+ipfs pin add QmWtRUt6V7pW3Ut2ZHyB2rbRNL5YNa4YV4B3yKMNTKeDkA
+
+# 2097122577504256360_1.jpg — @realhonestash · 2026-09-07
+# Screenshot of Derrick Evans post: UVU student's FBI tip re roof sightings before 9/10
+ipfs get QmQjgXBS18VL13o8xo74uYyxHDucqTawidU2RrkfN55NQ2
+ipfs add "2097122577504256360_1.jpg"
+ipfs pin add QmQjgXBS18VL13o8xo74uYyxHDucqTawidU2RrkfN55NQ2
+
+# 2089493515663290421.mp4 — @RedactedNews · 2026-09-08
+# Navy SEAL Rob O'Neill: ballistics, missing exit wound, rooftop rifle, withheld FBI video
+ipfs get QmSjNMnZFgdCLvHw9EaG1cYqmp6pWwFqLY8UdKb4Kp5Ssu
+ipfs add "2089493515663290421.mp4"
+ipfs pin add QmSjNMnZFgdCLvHw9EaG1cYqmp6pWwFqLY8UdKb4Kp5Ssu
+
+# 2097697563302334967.mp4 — @DangerousConspr · 2026-09-09
+# UVU second-row witness clip: "hit his chest", "shot in the heart" (16.9s excerpt)
+ipfs get Qmdxikfn7DD34L8zadQbgkguLaDqAqjFUy4dEMMnQmjr8M
+ipfs add "2097697563302334967.mp4"
+ipfs pin add Qmdxikfn7DD34L8zadQbgkguLaDqAqjFUy4dEMMnQmjr8M
+
+# 2099122738099011597.mp4 — @ProjectConstitu · 2026-09-13
+# UVU 911 calls + dispatch radio + rooftop-video witness: all-black tactical figure (8m29s)
+ipfs get QmU9B1qyPkmKXBBcrf8tvQWifkpyMAGKNTv7erDMUvCWas
+ipfs add "2099122738099011597.mp4"
+ipfs pin add QmU9B1qyPkmKXBBcrf8tvQWifkpyMAGKNTv7erDMUvCWas
+
+# 2098970186166534186.mp4 — @CharlotteLee_88 · 2026-09-13
+# UVU witness interview compilation — witnesses appear to smile while describing it (73s)
+ipfs get QmWjUuiVWDwThM7DCkPAyAoEYx6LfoF9CpFBk7fTQnTvJw
+ipfs add "2098970186166534186.mp4"
+ipfs pin add QmWjUuiVWDwThM7DCkPAyAoEYx6LfoF9CpFBk7fTQnTvJw
+
+# 2103169123647893795_1.jpg — @DiligentDenizen · 2026-09-24
+# Stock "vacuum style" Dodge Challenger exhaust tip (reference image)
+ipfs get QmNr1uDRFAZ9xstuBMciFoz8Ar1TgtVxCjYg3NhZXFWDbW
+ipfs add "2103169123647893795_1.jpg"
+ipfs pin add QmNr1uDRFAZ9xstuBMciFoz8Ar1TgtVxCjYg3NhZXFWDbW
+
+# 2103169123647893795_2.jpg — @DiligentDenizen · 2026-09-24
+# Rectangular quad exhaust tips on the Challenger in the UVU parking garage, 9/10/25
+ipfs get QmScug1WZWQSB4GFQbg9xcKcuDJPkJzNcy2P29Ms7GaE54
+ipfs add "2103169123647893795_2.jpg"
+ipfs pin add QmScug1WZWQSB4GFQbg9xcKcuDJPkJzNcy2P29Ms7GaE54
+
+# 2103154327451816154_1.jpg — @DiligentDenizen · 2026-09-24
+# Impounded Challenger (dual exhaust) vs UVU garage Challenger (quad tips), comparison
+ipfs get QmbYpjdr9WdbMSqzRwcVEg3k5zTFAhn2d9S7nepMHmrAv9
+ipfs add "2103154327451816154_1.jpg"
+ipfs pin add QmbYpjdr9WdbMSqzRwcVEg3k5zTFAhn2d9S7nepMHmrAv9
+
+# 2102926089215705189.mp4 — @FaithDrivUr · 2026-09-24
+# Dual vs quad exhaust: Tyler's impounded Challenger vs UVU garage car (Candace clip)
+ipfs get QmfZCFivBEfdGzuSwyXY7Yfu3cZNVvru7uYMQkrEQhVAW3
+ipfs add "2102926089215705189.mp4"
+ipfs pin add QmfZCFivBEfdGzuSwyXY7Yfu3cZNVvru7uYMQkrEQhVAW3
+
+# 2103282275316060191.mp4 — @ProjectConstitu · 2026-09-25
+# UVU security footage from the tunnel behind Charlie's tent, Before/After (Candace release)
+ipfs get QmRep38JyvpsSEa8Hxq8utNgZw8dc9u3ckGnza825gZAQz
+ipfs add "2103282275316060191.mp4"
+ipfs pin add QmRep38JyvpsSEa8Hxq8utNgZw8dc9u3ckGnza825gZAQz
+
+# 2103551903032373395.mp4 — @In2ThinAir · 2026-09-25
+# Narrated analysis of behind-the-tent security footage: two men interacting before the shot
+ipfs get QmTFprBjLNkUV6w3JM1aK4A6LU5Bn4vCHZW5GFp4B8vHHr
+ipfs add "2103551903032373395.mp4"
+ipfs pin add QmTFprBjLNkUV6w3JM1aK4A6LU5Bn4vCHZW5GFp4B8vHHr
+
+# 2103594605199466882.mp4 — @LemmeReact · 2026-09-25
+# After-Action Report pp. 39-40: TPUSA had club president request the courtyard
+ipfs get QmQu4bLUV17fGV6D2aynbKmNiAj4qgBnFmCBHrypw3BVwU
+ipfs add "2103594605199466882.mp4"
+ipfs pin add QmQu4bLUV17fGV6D2aynbKmNiAj4qgBnFmCBHrypw3BVwU
+
+# 2104061551200100588.mp4 — @JOKAQARMY1 · 2026-09-27
+# EMPs and SUVs: AAR anonymous EMP-device tip at 7:30am Sept 10
+ipfs get QmaHqNqy3CdhtQZ6pYeVnZP3pQaPHHPKs8GGitx2zoVSfE
+ipfs add "2104061551200100588.mp4"
+ipfs pin add QmaHqNqy3CdhtQZ6pYeVnZP3pQaPHHPKs8GGitx2zoVSfE
+
+# 2103903182959071236.mp4 — @SammyTherese · 2026-09-27
+# Chilcutt: asked to leave the area 30 seconds before Charlie was shot
+ipfs get Qmf73VuTpkMeiHWvyKvQrxFZFtu8mzehfVC8u2E8mWEmAR
+ipfs add "2103903182959071236.mp4"
+ipfs pin add Qmf73VuTpkMeiHWvyKvQrxFZFtu8mzehfVC8u2E8mWEmAR
+
+# 2103942878787678616_1.jpg — @AmericaOnlyBro · 2026-09-26
+# GoDaddy WHOIS Domain Information panel for VANCEKIRK2028.COM: Registry Domain ID
+ipfs get QmUHS1u1uxA5YtHJx6864VgSkD2zETACHmY37r717FFGhK
+ipfs add "2103942878787678616_1.jpg"
+ipfs pin add QmUHS1u1uxA5YtHJx6864VgSkD2zETACHmY37r717FFGhK
+
+# 2103942878787678616_2.jpg — @AmericaOnlyBro · 2026-09-26
+# GoDaddy WHOIS Registrant Contact panel for vancekirk2028.com: Name Registration 
+ipfs get QmRsC4QbBVHdEkGvCihpqEhGyz4rvdqaGXZH4mVzt9HhM7
+ipfs add "2103942878787678616_2.jpg"
+ipfs pin add QmRsC4QbBVHdEkGvCihpqEhGyz4rvdqaGXZH4mVzt9HhM7
+
+# 2103942878787678616_3.jpg — @AmericaOnlyBro · 2026-09-26
+# GoDaddy Premium Domain listing: vancekirk2028.com is available for $50,000.00 pl
+ipfs get QmX3E7dNYN1HYynJJxdBLp44dyLv7dBe4kzKhXHSGDAV3L
+ipfs add "2103942878787678616_3.jpg"
+ipfs pin add QmX3E7dNYN1HYynJJxdBLp44dyLv7dBe4kzKhXHSGDAV3L
+
+# 2103852555407417835_1.jpg — @I_Am_JohnCullen (quoted by @LiveONE_TV) · 2026-09-26
+# Google Earth render of N1098L HADES double missed approach over Provo, 10 Sept 2025
+ipfs get QmRdApSFC1tTvATn2TU5iuMPQc7mNKckdxXEWuadwMufVY
+ipfs add "2103852555407417835_1.jpg"
+ipfs pin add QmRdApSFC1tTvATn2TU5iuMPQc7mNKckdxXEWuadwMufVY
+
+# 2103952678204371038_1.jpg — @CrystalSmallen · 2026-09-26
+# BookScouter listing, The Shooting of Charlie Kirk ISBN 9798264842788, released Sep 10 2025
+ipfs get QmV8t8XmiK8ezrrR8eJ7vBUqLKKmjU5rdrdaFH8f2FsFUX
+ipfs add "2103952678204371038_1.jpg"
+ipfs pin add QmV8t8XmiK8ezrrR8eJ7vBUqLKKmjU5rdrdaFH8f2FsFUX
+
+# 2103952678204371038_2.jpg — @CrystalSmallen · 2026-09-26
+# BookScouter author page, Casey Anastasia J., one title
+ipfs get QmRoJi4oMBKF5VdiYY8ifEgFxy1d3Yug133zEDE8Sn13BH
+ipfs add "2103952678204371038_2.jpg"
+ipfs pin add QmRoJi4oMBKF5VdiYY8ifEgFxy1d3Yug133zEDE8Sn13BH
+
+# 2103914028909383741_1.jpg — @BasedSamParker · 2026-09-27
+# Caleb Chilcutt X profile "has blocked you" screenshot
+ipfs get QmfUGpNSwQbJXm3vdDRph4FHabkcUWQWRLwwrZvmowxhY7
+ipfs add "2103914028909383741_1.jpg"
+ipfs pin add QmfUGpNSwQbJXm3vdDRph4FHabkcUWQWRLwwrZvmowxhY7
+
+# 2103869957079748819.mp4 — @BasedSamParker · 2026-09-27
+# Maycee Crofts courtyard-request questions; Hunter Kozak on being moved up the line
+ipfs get QmR3iEdnCZsFpfP1cbPWSg8U1sx9mx3ajPmuz97h4JEHc4
+ipfs add "2103869957079748819.mp4"
+ipfs pin add QmR3iEdnCZsFpfP1cbPWSg8U1sx9mx3ajPmuz97h4JEHc4
+
+# 2104319034720391396_1.jpg — @PBOnPoint · 2026-09-27
+# FBI group on UVU rooftop walkway, posted as a "photo op"
+ipfs get QmTVR7d4zcGyNDR85sBHftJZDcqMsySqcVS2wdUbMV7tSC
+ipfs add "2104319034720391396_1.jpg"
+ipfs pin add QmTVR7d4zcGyNDR85sBHftJZDcqMsySqcVS2wdUbMV7tSC
+
+
+# 2104394051835543768_1.png — @kiddkainmusic · 2026-09-28
+# UVU overhead still: two men in burgundy shirts, shorts, black backpacks ("decoys?")
+ipfs get QmWiHyprz6SPa9LQTq9hQbfXRoY2uWENqQMCZ2LgJsa5Gt
+ipfs add "2104394051835543768_1.png"
+ipfs pin add QmWiHyprz6SPa9LQTq9hQbfXRoY2uWENqQMCZ2LgJsa5Gt
+
+# 2104599281890111852.mp4 — @CrystalSmallen · 2026-09-28
+# John Kiriakou (ex-CIA) on whether Mossad was involved; Netanyahu denial + Tel Aviv statue
+ipfs get QmSVsbydzKexUPQe9J9eLf7r4FnEuSkk3RPRgjUf5DBiXi
+ipfs add "2104599281890111852.mp4"
+ipfs pin add QmSVsbydzKexUPQe9J9eLf7r4FnEuSkk3RPRgjUf5DBiXi
+# 2104378692424040732_1.jpg — @idontgiveadom · 2026-09-28
+# Lt. Gov. Deidre Henderson with Cox and Patel, Sept 12 2025 press event
+ipfs get QmWVdkDoTFBUeyVKWGGtFRAa19pQB7rB4fZwSFet6NYifs
+ipfs add "2104378692424040732_1.jpg"
+ipfs pin add QmWVdkDoTFBUeyVKWGGtFRAa19pQB7rB4fZwSFet6NYifs
+# 2104378692424040732_2.jpg — @idontgiveadom · 2026-09-28
+# Lt. Gov. Deidre Henderson with Cox and Patel, Sept 12 2025 press event
+ipfs get QmS5r3uJaERxsnmY6x3y7fwX67Qs7wJvmMBS12xpepDx9i
+ipfs add "2104378692424040732_2.jpg"
+ipfs pin add QmS5r3uJaERxsnmY6x3y7fwX67Qs7wJvmMBS12xpepDx9i
+# 2104378692424040732_3.jpg — @idontgiveadom · 2026-09-28
+# Lt. Gov. Deidre Henderson with Cox and Patel, Sept 12 2025 press event
+ipfs get QmapoznQgx83iWyrqeeE2vfCaMQ1CgL5u1J8MgVLxJdnN8
+ipfs add "2104378692424040732_3.jpg"
+ipfs pin add QmapoznQgx83iWyrqeeE2vfCaMQ1CgL5u1J8MgVLxJdnN8
+
+# 2104412586913796585.mp4 — @irlandarra2019 · 2026-09-28
+# Re-upload of @mistressdivy AES DoD contract walkthrough (site embeds QmWpQUf5...)
+ipfs get QmY5Ftqt85E3bpxmEdwhK9MQKLHoC5m43HNyERqvb2jFLC
+ipfs add "2104412586913796585.mp4"
+ipfs pin add QmY5Ftqt85E3bpxmEdwhK9MQKLHoC5m43HNyERqvb2jFLC
+# 2009405069066727888.mp4 — @YaakovRenewed · 2026-09-28
+# Candace Owens: no security plan for Sept 11 Charis Bible College event
+ipfs get QmWioFBBum5yy3dQg6WvhphKuzchMHEhLCKQTK2m5Dsdv9
+ipfs add "2009405069066727888.mp4"
+ipfs pin add QmWioFBBum5yy3dQg6WvhphKuzchMHEhLCKQTK2m5Dsdv9
+# 2009896601075232938.mp4 — @DAndersonMusic1 · 2026-09-28
+# UVU tent: hand presses something under a security man's shirt (unknown what)
+ipfs get QmRy8U3JPx1v1zCMZW3F6DBAMpBWrRQ6er3mcnM6mnLfho
+ipfs add "2009896601075232938.mp4"
+ipfs pin add QmRy8U3JPx1v1zCMZW3F6DBAMpBWrRQ6er3mcnM6mnLfho
+# 2104617381482102954_1.jpg — @BasedSamParker · 2026-09-28
+# UVU After-Action Report p.18: Aug 29 anonymous caller demanded cancellation
+ipfs get Qmb4kKNyghMZzAyxVS8AiRgNDnFd4DX1151kBi3nd7qFsJ
+ipfs add "2104617381482102954_1.jpg"
+ipfs pin add Qmb4kKNyghMZzAyxVS8AiRgNDnFd4DX1151kBi3nd7qFsJ
+# 2104724240863834488_1.jpg — @billiewebbb · 2026-09-29
+# Two locked metal access hatches in the paved UVU courtyard where Charlie Kirk sat
+ipfs get QmQMxGnZoFTXUySWJPgka7zbMLQy2QwJX9DGtk3QqBGgSS
+ipfs add "2104724240863834488_1.jpg"
+ipfs pin add QmQMxGnZoFTXUySWJPgka7zbMLQy2QwJX9DGtk3QqBGgSS

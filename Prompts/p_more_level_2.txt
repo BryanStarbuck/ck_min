@@ -1,0 +1,294 @@
+P_1 : GROW MORE LEVEL 2 AND LEVEL 3 IDEAS FOR THE CHARLIE KIRK INVESTIGATION SITE
+
+Purpose:
+* Review our current Level 2 sections of the Charlie Kirk assassination investigation website.
+* Then go to several different sources of content and learn from them.
+* From what is learned, propose NEW Level 2 sections we do not have yet, and the
+  Level 3 pages that should live under each new Level 2.
+* Also propose NEW Level 3 pages that should be added under Level 2 sections that
+  ALREADY exist.
+* This prompt does NOT create or edit any site pages. It ONLY writes ideas into
+  one YAML output file. It grows that YAML file. Nothing on the site is added,
+  moved, or deleted by this prompt.
+
+
+====================================================================
+VARIABLES
+====================================================================
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk
+
+SITE_DIR dir is {ROOT_DIR}/site
+
+DOCS_DIR dir is {SITE_DIR}/docs
+  * Each sub-directory directly under {DOCS_DIR} is a "Level 2" section.
+  * The overview.md in a Level 2 directory is that section's Level 2 overview page.
+  * Every other .md / .mdx file in a Level 2 directory is a Level 3 page.
+
+PAGES_CSV is file {ROOT_DIR}/pages.csv
+  * Master index of every public page. Column "level2_section" tells which
+    Level 2 each page belongs to. Column "level" gives the hierarchy number.
+
+CK_FILE is file ~/BGit/all/politics/charlie_kirk/Charlie_Kirk.txt
+  (Real file. Moved 2026-09-19. ~/BGit/Bryan_git/charlie-kirk/Charlie_Kirk.txt is now a symlink to it —
+   use that only to verify the location; always read and write the real path.)
+  * Master investigation file (600K+). Raw evidence, quotes, timeline, court data.
+
+ASSESS_MANUAL is file {ROOT_DIR}/prompts/Assess_Manual.md
+  * Authoritative writing and layout guide for site pages. Read it so proposed
+    pages match the site's quality bar and defamation rules.
+
+OUTPUT_FILE is file {ROOT_DIR}/prompts/more_level_2.yaml
+  * The one and only file this prompt writes. See OUTPUT FORMAT below.
+  * This file GROWS. Each stage appends. Never delete prior entries. If an idea
+    is already present, skip it (dedupe by name) instead of duplicating it.
+
+Learning sources (read-only. We learn from these. We never edit them.):
+
+TWITTER_DIR dir is ~/_mai/twitter/
+  * Recurse through EVERY file under here.
+TWITTER_CONSTITU_DIR dir is ~/_mai/twitter/ProjectConstitu/
+  * Recurse through EVERY file under here (it is under TWITTER_DIR, but call it
+    out explicitly so it is never skipped).
+
+CK_REPO_TEXT is all text files under {ROOT_DIR}
+  * The whole repo hierarchy. {CK_FILE} plus any other .txt / .md / .mdx notes,
+    research, and knowledge files found under {ROOT_DIR}. Learn from all of them.
+
+LAWS_DIR dir is {DOCS_DIR}/laws/
+  * The proposed-laws workspace. Contains the four law directories
+    (1_DoJ_FBI, 2_US_Intel, 3_Require_to_Investigate, 4_Trusted_Investigations),
+    plus Discovery/, explain/, other/, and the ~208 discovery/law areas beneath
+    them. Iterate through all of these areas.
+  * NOTE ON PATH: the correct path uses "charlie-kirk" (hyphen) and the "laws"
+    directory lives INSIDE the site docs at {DOCS_DIR}/laws/. Any earlier path
+    written as ~/BGit/Bryan_git/charlie_kirk/site/docs/laws/ (underscore) is
+    wrong. Use {LAWS_DIR}.
+
+
+====================================================================
+WHAT A LEVEL 2 AND A LEVEL 3 ARE (so proposals are shaped right)
+====================================================================
+
+* Level 1 = the site home page. There is only one.
+* Level 2 = a major topic category. It is a directory under {DOCS_DIR} with an
+  overview.md. Examples that ALREADY exist: FBI, Israel, Planes, Media, Medical,
+  Mic, Motive, Killer, Tyler_Robinson, CoverUp, Drones, cameras, Censorship,
+  Fix, Proof_Not_Tyler, Proof_Intel_Services, laws, People, Timeline, UVU,
+  TPUSA, Witnesses, Security_Team, Tent, Gun_Bullet, Locations, Vote, and more.
+* Level 3 = one specific analysis page inside a Level 2 directory. It covers a
+  single scoped sub-topic of its Level 2.
+
+A GOOD new Level 2 idea is a whole content area that does NOT fit cleanly inside
+any existing Level 2, and that has enough sub-topics to hold several Level 3
+pages under it.
+
+A GOOD new Level 3 idea is a single scoped page that DOES belong under an
+existing (or newly proposed) Level 2.
+
+
+====================================================================
+RULE ON EVIDENCE CAPTURE (do not lose the source information)
+====================================================================
+
+For every idea written to {OUTPUT_FILE}, capture the substance of what was found,
+not just a title. It is important that the information found in the Twitter posts
+(and the other sources) is carried into the idea, because that information needs
+to make it into the pages when they are eventually written. So each idea records
+a description AND the specific facts / claims / quotes / findings observed in the
+source, plus where they came from.
+
+Follow the site defamation rules when phrasing (attribution language,
+"allegedly", "reportedly"; frame unproven claims as questions or reported
+allegations, never as fact about a living person). See {ASSESS_MANUAL}.
+
+
+====================================================================
+STAGE 0 : BASELINE  (know what we already have)
+====================================================================
+
+* Read {PAGES_CSV}. Build the list of every existing Level 2 section (the set of
+  values in the "level2_section" column) and, for each, the Level 3 pages already
+  under it.
+* Also list the directories directly under {DOCS_DIR} to confirm the Level 2 set.
+* Read {ASSESS_MANUAL} into context for writing/layout/defamation rules.
+* Hold this baseline in mind for every later stage: an idea only counts as NEW if
+  it is not already covered by an existing Level 2 or an existing Level 3.
+* If {OUTPUT_FILE} does not exist yet, create it with the skeleton in OUTPUT
+  FORMAT below (the two top-level arrays, empty). If it already exists, load it so
+  later stages append and dedupe against what is already there.
+
+Output to stdout:
+  ------------------------------------------------------------
+  STAGE 0 COMPLETE : baseline loaded.
+  Existing Level 2 sections: {count}
+  Existing Level 3 pages:    {count}
+  ------------------------------------------------------------
+
+
+====================================================================
+STAGE 1 : LEARN FROM THE TWITTER / X CONTENT
+====================================================================
+
+Sources: {TWITTER_DIR} and {TWITTER_CONSTITU_DIR} (recurse through ALL files
+under both).
+
+* This directory has lots of posts about the Charlie Kirk assassination. Go
+  through it recursively and read the content.
+* Launch MULTIPLE agents in parallel. Partition the files under {TWITTER_DIR}
+  across the agents (for example: split by sub-directory, or split the file list
+  into N roughly equal batches) so the whole tree is covered. Make sure
+  {TWITTER_CONSTITU_DIR} is included in the partition and not skipped.
+* Each agent reads its batch and finds content areas that:
+    a) do NOT fit inside any existing Level 2  -> propose a NEW Level 2 (with its
+       Level 3 pages), OR
+    b) DO fit under an existing (or newly proposed) Level 2 but are not yet
+       covered  -> propose a NEW Level 3 under that Level 2.
+* Each agent returns its proposed ideas WITH the captured facts/claims/quotes and
+  the source file path(s) they came from.
+* Merge the agents' results. Dedupe by name against each other and against the
+  baseline and against whatever is already in {OUTPUT_FILE}.
+* Append the surviving NEW ideas to {OUTPUT_FILE} in the OUTPUT FORMAT below.
+
+Output to stdout:
+  ------------------------------------------------------------
+  STAGE 1 COMPLETE : learned from Twitter/X content.
+  New Level 2 ideas added:                {count}
+  New Level 3 ideas (existing Level 2):   {count}
+  ------------------------------------------------------------
+
+
+====================================================================
+STAGE 2 : LEARN FROM THE CHARLIE KIRK REPO TEXT FILES
+====================================================================
+
+Sources: {CK_FILE} first, then every other text file found recursively under
+{ROOT_DIR} (.txt, .md, .mdx research / knowledge / notes files). There are many
+text files in this hierarchy we can learn from. Learn from all of them.
+
+* Launch MULTIPLE agents in parallel.
+    - Dedicate at least one agent (more if needed, split by section) to
+      {CK_FILE} alone, because it is large. {CK_FILE} uses equal-sign section
+      headers; split it by those sections across agents.
+    - Dedicate other agents to the remaining text files under {ROOT_DIR},
+      partitioned across them (knowledge/, Research/, Details/, Israel/, etc.).
+    - Do NOT read anything under {DOCS_DIR} as a "source" for new ideas here; that
+      is the published site itself and is the baseline, not a learning source.
+      (The laws area under {DOCS_DIR}/laws/ is handled separately in STAGE 3.)
+* Each agent finds NEW Level 2 areas and NEW Level 3 pages, exactly as in Stage 1,
+  and returns them WITH captured facts and source file path(s).
+* Merge, dedupe against baseline and against {OUTPUT_FILE}, and append the
+  surviving NEW ideas.
+
+Output to stdout:
+  ------------------------------------------------------------
+  STAGE 2 COMPLETE : learned from repo text files + Charlie_Kirk.txt.
+  New Level 2 ideas added:                {count}
+  New Level 3 ideas (existing Level 2):   {count}
+  ------------------------------------------------------------
+
+
+====================================================================
+STAGE 3 : LEARN FROM THE LAWS DIRECTORY (~208 AREAS)
+====================================================================
+
+Source: {LAWS_DIR} and everything under it.
+
+* There is a directory hierarchy of our proposed laws with roughly 208 different
+  areas (the four laws, plus the Discovery items and the many sub-areas under
+  each). Iterate through ALL of these areas.
+* Launch MULTIPLE agents in parallel. Partition the ~208 areas across the agents
+  (for example: one agent per law directory, plus agents splitting Discovery/,
+  explain/, other/). Every area gets read.
+* Each agent looks for content that suggests a NEW Level 2 we do not have, and
+  NEW Level 3 pages that should be added (under an existing Level 2 or under a
+  newly proposed one). Return ideas WITH captured facts and the source area path.
+* Merge, dedupe against baseline and against {OUTPUT_FILE}, and append the
+  surviving NEW ideas.
+
+Output to stdout:
+  ------------------------------------------------------------
+  STAGE 3 COMPLETE : learned from the laws directory (~208 areas).
+  New Level 2 ideas added:                {count}
+  New Level 3 ideas (existing Level 2):   {count}
+  ------------------------------------------------------------
+
+
+====================================================================
+OUTPUT FORMAT : {OUTPUT_FILE}   (the growing YAML file)
+====================================================================
+
+The YAML has ONE top-level document titled "more level 2". It holds two
+top-level arrays. It is many levels deep.
+
+Structure:
+
+  # more level 2
+  # Growing list of proposed new Level 2 sections and new Level 3 pages
+  # for the Charlie Kirk assassination investigation site.
+  # This file only grows. Stages append. Nothing here is applied to the site.
+
+  more_level_2:
+
+    # ARRAY 1: brand-new Level 2 sections we do NOT have yet.
+    level_2:
+      - name: "Short_Section_Name"            # 4 words or less, underscores ok
+        description: "What this whole new Level 2 section covers and why it does
+                      not fit any existing Level 2."
+        why_new: "Why this is not already covered by an existing Level 2."
+        sources:
+          - "path/to/source/file/or/area that inspired this"
+        found_information: >
+          The specific facts, claims, quotes, and findings observed in the
+          sources that belong in this section. Attribution-safe phrasing.
+        level_3:
+          - name: "Level_3_Page_Name"         # 4 words or less preferred
+            description: "What this Level 3 page covers."
+            found_information: >
+              The specific facts / claims / quotes for THIS page, so the
+              information makes it into the page when written.
+            sources:
+              - "path/to/source"
+          - name: "Another_Level_3_Page"
+            description: "..."
+            found_information: >
+              ...
+            sources:
+              - "path/to/source"
+
+    # ARRAY 2: new Level 3 pages to add under Level 2 sections that ALREADY exist.
+    more_level_3_existing_level_2:
+      - name: "Level_3_Page_Name"             # 4 words or less preferred
+        under_level_2: "Existing_Level_2_Section"   # which existing Level 2 it goes under
+                                                     # (must match a level2_section in pages.csv)
+        description: "What this new Level 3 page covers."
+        found_information: >
+          The specific facts / claims / quotes / findings for this page, from the
+          sources, so the information makes it into the page when written.
+        sources:
+          - "path/to/source/file/or/area"
+
+Rules for the file:
+* Keep both arrays. Every stage appends new items to whichever array fits.
+* Dedupe by name. If an idea already exists, do not add it again. If new source
+  facts turn up for an existing idea, you MAY extend that idea's
+  found_information and sources rather than adding a duplicate.
+* Never remove or rewrite ideas that earlier stages added.
+* "under_level_2" in ARRAY 2 must name a Level 2 that already exists (from the
+  baseline / pages.csv). If the best home is a brand-new Level 2, put the idea in
+  ARRAY 1 under that new Level 2's level_3 list instead.
+
+
+====================================================================
+FINAL OUTPUT
+====================================================================
+
+Output to stdout:
+  ============================================================
+  more_level_2.yaml GROWN.
+  Total NEW Level 2 sections proposed:            {count}
+  Total NEW Level 3 pages under NEW Level 2:       {count}
+  Total NEW Level 3 pages under EXISTING Level 2:  {count}
+  File: {OUTPUT_FILE}
+  Reminder: nothing was applied to the site. Ideas only.
+  ============================================================

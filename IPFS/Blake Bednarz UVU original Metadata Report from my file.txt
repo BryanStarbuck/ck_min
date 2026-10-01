@@ -1,0 +1,314 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.54
+Warning                         : [minor] Suspicious MakerNotes offset for Canon_0x0000
+---- System ----
+File Name                       : Blake Bednarz UVU original.MP4
+Directory                       : .
+File Size                       : 3.2 GB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2025:11:13 12:46:16-06:00
+File Access Date/Time           : 2026:04:02 11:24:16-05:00
+File Creation Date/Time         : 2025:11:13 12:44:14-06:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 160
+Image Height                    : 120
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+---- QuickTime ----
+Major Brand                     : MP4 v2 [ISO 14496-14]
+Minor Version                   : 0.0.1
+Compatible Brands               : mp42, avc1, CAEP
+Movie Header Version            : 0
+Create Date                     : 2025:09:10 03:35:05
+Modify Date                     : 2025:09:10 03:35:05
+Time Scale                      : 24000
+Duration                        : 0:11:16
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 7
+Unknown free                    : 
+Media Data Size                 : 3211394007
+Media Data Offset               : 524304
+---- Canon ----
+Compressor Version              : CanonMP4_002/09.00.00/00.00.00
+Unknown CNDM                    : (Binary data 4 bytes, use -b option to extract)
+Macro Mode                      : Unknown (0)
+Self Timer                      : Off
+Quality                         : n/a
+Canon Flash Mode                : n/a
+Continuous Drive                : Movie
+Focus Mode                      : Single
+Record Mode                     : MP4
+Canon Image Size                : 1920x1080 Movie
+Easy Mode                       : Manual
+Digital Zoom                    : None
+Saturation                      : Normal
+Metering Mode                   : Default
+Focus Range                     : Auto
+Canon Exposure Mode             : Program AE
+Lens Type                       : n/a
+Max Focal Length                : 124.5 mm
+Min Focal Length                : 8.3 mm
+Focal Units                     : 100/mm
+Flash Bits                      : (none)
+Focus Continuous                : Continuous
+AE Setting                      : Exposure Compensation
+Image Stabilization             : On
+Zoom Source Width               : 1920
+Zoom Target Width               : 1920
+Spot Metering Mode              : Center
+Manual Flash Output             : n/a
+Canon Image Type                : MVI:XA55 Movie
+Canon Model ID                  : Unknown (0x4007e3d0)
+Thumbnail Image Valid Area      : 0 159 15 104
+Canon 0x0019                    : 1
+Canon 0x0034                    : 188 4 50331648 67143864 83886081 100663297 0 0 0 0 0 0 [...]
+Time Zone                       : -05:00
+Time Zone City                  : (not set)
+Daylight Savings                : Off
+Canon 0x0038                    : .P   
+Compression Format              : Light (IPB)
+Canon 0x4030                    : 180 4 129 129 44 3 33025 1 3 33026 1 0 33027 1 0 131 32[...]
+Canon 0x4032                    : 28 2 1048575 3200 0 0 0
+Thumbnail Image                 : (Binary data 18924 bytes, use -b option to extract)
+Unknown CNFB                    : (Binary data 52 bytes, use -b option to extract)
+---- IFD0 ----
+Make                            : Canon
+Camera Model Name               : Canon XA55
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2025:09:09 22:35:04
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/210
+F Number                        : 11.0
+Exif Version                    : 0230
+Date/Time Original              : 2025:09:09 22:35:04
+Create Date                     : 2025:09:09 22:35:04
+Components Configuration        : Y, Cb, Cr, -
+Exposure Compensation           : -1/2
+Metering Mode                   : Center-weighted average
+Flash                           : No flash function
+Focal Length                    : 65.0 mm
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 160
+Exif Image Height               : 120
+Focal Plane X Resolution        : 3968.75
+Focal Plane Y Resolution        : 3968.75
+Focal Plane Resolution Unit     : inches
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Manual
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Serial Number                   : 552309400183
+---- InteropIFD ----
+Interoperability Index          : THM - DCF thumbnail file
+Interoperability Version        : 0100
+Related Image Width             : 1920
+Related Image Height            : 1080
+---- UserData ----
+User Rating                     : 0
+Unknown free                    : 
+---- Track1 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 1
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 1920
+Image Height                    : 1080
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 24000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Video Track
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : avc1
+Source Image Width              : 1920
+Source Image Height             : 1080
+X Resolution                    : 72
+Y Resolution                    : 72
+Bit Depth                       : 24
+Color Profiles                  : nclx
+Color Primaries                 : BT.709
+Transfer Characteristics        : BT.709
+Matrix Coefficients             : BT.709
+Video Full Range Flag           : Limited
+AVC Configuration               : (Binary data 67 bytes, use -b option to extract)
+Video Frame Rate                : 23.976
+Sync Sample Table               : (Binary data 5408 bytes, use -b option to extract)
+Composition Time To Sample      : (Binary data 86408 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 64812 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+Idependent And Disposable Samples: (Binary data 16204 bytes, use -b option to extract)
+---- Track2 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 2
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 48000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Audio Track
+Balance                         : 0
+Audio Format                    : twos
+Audio Channels                  : 1
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 48000
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 12 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+---- Track3 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 3
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 48000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Audio Track
+Balance                         : 0
+Audio Format                    : twos
+Audio Channels                  : 1
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 48000
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 12 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+---- Track4 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 4
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 48000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Audio Track
+Balance                         : 0
+Audio Format                    : twos
+Audio Channels                  : 1
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 48000
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 12 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+---- Track5 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 5
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 48000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Audio Track
+Balance                         : 0
+Audio Format                    : twos
+Audio Channels                  : 1
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 48000
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 12 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+---- Track6 ----
+Track Header Version            : 0
+Track Create Date               : 2025:09:10 03:35:05
+Track Modify Date               : 2025:09:10 03:35:05
+Track ID                        : 6
+Track Duration                  : 0:11:16
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Media Header Version            : 0
+Media Create Date               : 2025:09:10 03:35:05
+Media Modify Date               : 2025:09:10 03:35:05
+Media Time Scale                : 24000
+Media Duration                  : 0:11:16
+Media Language Code             : eng
+Handler Type                    : Time Code
+Null Media Header               : (Binary data 4 bytes, use -b option to extract)
+Other Format                    : tmcd
+Playback Frame Rate             : 23.97602398
+Time To Sample Table            : (Binary data 16 bytes, use -b option to extract)
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 12 bytes, use -b option to extract)
+Chunk Offset 64                 : (Binary data 10808 bytes, use -b option to extract)
+---- Composite ----
+Drive Mode                      : Continuous Shooting
+Lens                            : 8.3 - 124.5 mm
+Shooting Mode                   : Program AE
+Aperture                        : 11.0
+Image Size                      : 1920x1080
+Lens ID                         : Unknown 8-124mm
+Megapixels                      : 2.1
+Scale Factor To 35 mm Equivalent: 33.8
+Shutter Speed                   : 1/210
+Avg Bitrate                     : 38 Mbps
+Rotation                        : 0
+Lens                            : 8.3 - 124.5 mm (35 mm equivalent: 280.6 - 4208.4 mm)
+Circle Of Confusion             : 0.001 mm
+Field Of View                   : 0.9 deg
+Focal Length 35mm Equiv         : 65.0 mm (35 mm equivalent: 2198.1 mm)
+Hyperfocal Distance             : 432.50 m

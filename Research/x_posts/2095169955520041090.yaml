@@ -1,0 +1,52 @@
+id: '2095169955520041090'
+url: 'https://x.com/realstewpeters/status/2095169955520041090'
+author:
+  username: 'realstewpeters'
+  name: 'Stew Peters'
+  id: '1288319695658135552'
+text: |
+  Burton "Butch" Hibbs is on the Fort Huachuca list.
+
+  Along with people like Andrew Kolvet, Brian Harpole, Justin Davis, Jacob Reses, Bradley Hansel
+  and Johnny Moore, someone on Huachuca was expecting Butch Hibbs to arrive on base on 9/7/2025.
+  https://t.co/FoPH5T9DKN
+publication_note: |
+  PRIVATE CAPTURE ONLY. Per Bryan's instruction on 2026-09-02, the six other names in this post
+  are NOT to appear on any public site page built from it. The public Level 3 page
+  (site/docs/GoogleSearches/butch-hibbs-sierra-vista-trends.mdx) covers Butch Hibbs alone and
+  says a list was named without reproducing it. This mirrors the meeting/ Level 2 hard rule in
+  CLAUDE.md: point at the open-source search, do not publish the roster.
+created_at: '2026-09-02T15:20:18.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 375
+  reply_count: 82
+  like_count: 2002
+  quote_count: 13
+  bookmark_count: 78
+  impression_count: 30366
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2095169946133430272'
+      url: 'https://pbs.twimg.com/media/HROJ9x9bgAAldGu.jpg'
+      width: 2048
+      height: 1274
+      sha256: 'd0545943296b6347a88147eab33dc12cccd3adc1d796241db2e588e750967307'
+      ipfs_cid: 'QmdrbsEEntu9LU4iX46ctUtPEuD6rGPkMsMr9f4fPGDbGN'
+image_content: |
+  Google Trends Explore screenshot.
+  Search term: "Burton Hibbs Calvalry Church" (spelling as shown)
+  Region: Tucson (Sierra Vista) AZ
+  Range: 1/1/25 - 9/9/25
+  Category: All categories
+  Search type: Image Search
+  Interest over time: flat at zero for the entire period, single spike to 100 on Sep 7, 2025.
+investigation: 'charlie_kirk'
+added_date: '2026-09-02'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''

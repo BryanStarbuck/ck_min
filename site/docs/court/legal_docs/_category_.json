@@ -1,0 +1,9 @@
+{
+  "label": "Legal Documents",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "court/legal_docs/overview"
+  }
+}

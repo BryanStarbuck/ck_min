@@ -1,0 +1,64 @@
+<!-- Converted from 2025/10_15_25_Order_For_Discovery_Protection.pdf -->
+# 10 15 25 Order For Discovery Protection
+
+> **Source PDF:** `court/filings/2025/10_15_25_Order_For_Discovery_Protection.pdf` — served at `/court/filings/2025/10_15_25_Order_For_Discovery_Protection.pdf`  
+> **Pages:** 3  
+> **Converted:** 2026-08-31 by `_work/pdf_to_markdown.py` (pymupdf4llm)  
+> This Markdown is a machine conversion for searching and quoting. The PDF is the record; where they differ, the PDF governs.
+
+---
+
+**The Order of the Court is stated below: Dated:** October 15, 2025 **/s/** TONY F GRAF JR 11:31:02 AM District Court Judge 
+
+JEFFREY S. GRAY # 5852 Utah County Attorney CHAD E. GRUNANDER # 9968 RYAN MCBRIDE # 13079 LAUREN HUNT # 14682 DAVID STURGILL # 7995 CHRISTOPHER D. BALLARD # 8497 Deputy Utah County Attorneys 100 East Center, Suite 2100 Provo, Utah 84606 Telephone: (801) 851-8026 Email: dcourt@utahcounty.gov 
+
+# **IN THE FOURTH JUDICIAL DISTRICT COURT UTAH COUNTY, STATE OF UTAH** 
+
+|**STATE OF UTAH,**<br> Plaintiff,|**DISCOVER PROTECTIVE ORDER**|
+|---|---|
+|vs.|**Case No. 251403576**|
+|**TYLER JAMES ROBINSON**<br> Defendant.|**Judge TONY F. GRAF, JR.**|
+
+
+
+This matter comes before the court on the parties’ stipulated motion for a protective order governing the disclosure of discovery material. Pursuant to the stipulated motion, the Court issues the following protective order. 
+
+1. Limitations on use of discovery materials. 
+
+a. Information provided in discovery shall not be shared with any person or entity outside of the defense team but may be reviewed by potential witnesses in the presence of a member of the defense team as deemed necessary by counsel. 
+
+October 15, 2025 11:31 AM 
+
+1 of 3 
+
+   - b. Information provided in discovery may be shared with attorneys with whom Defendant’s counsel of record deems necessary to consult, as well as the consulting attorneys’ respective office staff as necessary to facilitate the consultation. Consulting attorneys and their staff shall not share or disclose discovery information in any way. 
+
+   - c. “Defense team,” as used in this paragraph, includes counsel of record and their office staff, defense investigators and experts and their respective office staff, and the Defendant. 
+
+   - d. This paragraph is further limited by paragraph 2, below. 
+
+2. Limitations on use of personal identifying information. 
+
+   - a. “Personal identifying information” includes dates of birth, social security numbers, addresses, phone numbers, and email addresses which are shared through discovery. “Personal identifying information” does not include the names of witnesses. 
+
+   - b. Defense counsel may not share personal identifying information of witnesses with anyone except those necessary to carry out the defense investigation and preparations for trial. 
+
+   - c. Personal identifying information may be shared and viewed by attorneys of record, investigators, and their office staff as necessary to prepare for trial, 
+
+October 15, 2025 11:31 AM 
+
+2 of 3 
+
+conduct investigation, and prepare subpoenas or other legal process related to the defense in this case. 
+
+- d. Personal identifying information may not be shared with the Defendant or any person outside the defense team, as identified in paragraph 1. Personal identifying information may not be shared with consulting attorneys or their staff. This limitation does not preclude the defense team from sharing the content of witness 
+
+statements, witness involvement, or witness names with Defendant. 
+
+****Court seal and signature located at the top of Page 1**** 
+
+**----------------------------------------End of Order------------------------------------** 
+
+October 15, 2025 11:31 AM 
+
+3 of 3

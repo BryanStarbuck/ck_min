@@ -1,0 +1,42 @@
+id: '2094738120943993339'
+url: 'https://x.com/Parodyjeffx/status/2094738120943993339'
+author:
+  username: 'Parodyjeffx'
+  name: 'Parody Jeff'
+  id: '1985422681265881088'
+  bio_note: 'Account self-describes as "Commentary & satire account. All content is opinion, fictional commentary, and satire only."'
+text: |
+  ERIKA KIRK FIRED HER.
+
+  Former TPUSA employee Aubrey Laitsch says she was FIRED after questioning Charlie Kirk's assassination.
+
+  She says under Erika Kirk's leadership, there's an unwritten rule:
+
+  Question the official narrative and YOU'RE GONE.
+created_at: '2026-09-01T10:44:21.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 434
+  reply_count: 65
+  like_count: 2394
+  quote_count: 12
+  bookmark_count: 94
+  impression_count: 21207
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2094737948671381504'
+      duration_ms: 179291
+      width: 1080
+      height: 1432
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2094737948671381504/img/nOxnZlne5Fsb7fYb.jpg'
+      local_file: 'videos/2094738120943993339.mp4'
+      sha256: '685766d835da4f80d34bd821d3c6f2d728b33182544a4dd684f9e102d360e1b9'
+      ipfs_cid: 'QmYrFAzdP53mRNanqT2gugnSegMCMMQXF4EJAxBebmyCZK'
+  images: []
+transcription: 'videos_transcription/2094738120943993339.md'
+speaker_in_video: 'Aubrey Laitsch (former TPUSA employee)'
+note: 'The video speaker does NOT name Erika Kirk. She refers to "Turning Point" and "the leadership there". The "ERIKA KIRK FIRED HER" headline is the posting account''s framing, not the speaker''s words.'
+investigation: 'charlie_kirk'
+added_date: '2026-09-01'
+temp_file: false

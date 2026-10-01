@@ -1,0 +1,46 @@
+id: '2083667058571493703'
+url: 'https://x.com/WeAreNotGTM/status/2083667058571493703'
+author:
+  username: 'WeAreNotGTM'
+  name: 'WeAreNotGoingToMars'
+  id: '1976472768230440960'
+text: |
+  📢 OFFICIAL: The Battle Bun Brigade National Anthem!! #JusticeForCharlie
+
+  🗽 If You Love FREEDOM (and HATE Section 219) this ANTHEM is for US!!
+
+  Shout Out to @morrison_j2714...
+
+  GO FOLLOW THAT GUY!
+
+  🔥 He's creating TIMELESS CLASSICS like this on right here... https://t.co/eebpIHHMun https://t.co/vZf2MkUk0U
+created_at: '2026-08-01T21:31:54.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 5
+  reply_count: 2
+  like_count: 30
+  quote_count: 1
+  bookmark_count: 6
+  impression_count: 1450
+attachments:
+  videos:
+    - type: video
+      media_key: '7_2083666828937535488'
+      duration_ms: 177168
+      width: 1896
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/ext_tw_video_thumb/2083666828937535488/pu/img/zwOT9KsliBA1nkHK.jpg'
+  images: []
+ipfs:
+  video_cid: 'QmZDuZeSaydC3mCjkbabNHTVPRmax7GVSa1fsaQR576AdL'
+  video_gateway_url: 'https://ipfs.io/ipfs/QmZDuZeSaydC3mCjkbabNHTVPRmax7GVSa1fsaQR576AdL'
+transcription_file: 'videos_transcription/2083667058571493703.md'
+site_page: 'site/docs/Influencers/holon-citizen.mdx'
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+investigation: 'charlie_kirk'
+added_date: '2026-08-01'
+temp_file: false

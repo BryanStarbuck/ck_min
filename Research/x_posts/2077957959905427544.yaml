@@ -1,0 +1,48 @@
+id: '2077957959905427544'
+url: 'https://x.com/BasedSamParker/status/2077957959905427544'
+author:
+  username: 'BasedSamParker'
+  name: 'Sam Parker'
+  id: '1757670698091417600'
+text: |
+  2/ Recall also that Brian Davis's name is on the booking sheet and probable cause statement as having arrested Tyler at 10 PM, even though in Davis's court testimony, he didn't arrive until near midnight. Lol
+created_at: '2026-07-17T03:25:58.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 29
+  reply_count: 6
+  like_count: 146
+  quote_count: 1
+  bookmark_count: 7
+  impression_count: 3391
+in_reply_to:
+  status_id: '2077954997187453065'
+  note_tweet: |
+    Why was Officer Brian Davis ordered to fly to St. George at 8:30 PM if Tyler didn't actually turn himself in until 9:00 PM? By Davis's own admission, they already had SBI personnel down in St. George. Wouldn't it make sense to wait until you get confirmation from your agents on the ground that the suspect had definitely turned himself in before flying yourself, the Utah County attorney & 2 FBI agents down there?
+
+    And listen to Davis bumble over his story as he tries to cover all verb tenses describing Tyler turning himself in: "Had...was turning himself in...or had turned himself in...was going to turn himself in."
+
+    Well which was it Brian? Had Tyler turned himself in? Was Tyler in process of turning himself in? Or was he going to turn himself in? Can't be all 3. Pick one.
+
+    IMO, it's only confusing or unclear if you're weaving a web of deception covering up the fact that Tyler had already turned himself in.
+attachments:
+  images:
+    - type: photo
+      media_key: '3_2077957632401473536'
+      url: 'https://pbs.twimg.com/media/HNZjdQmaAAAJ9aS.jpg'
+      width: 743
+      height: 1080
+      local_file: 'images/2077957959905427544_1.jpg'
+      ipfs_cid: 'Qme4quAZLvabkqBZigejQ6XAvEgr9Y9Ed4anWDkjdvohxo'
+ocr_text: |
+  Utah County Sheriff — INMATE BOOKING SHEET AND PC STATEMENT
+  Name: ROBINSON, TYLER JAMES. Address: WASHINGTON, UT 84780.
+  ARREST DATE: 09/11/2025 10:00 PM. ARREST OFFICER: DAVIS.
+  ARREST AGENCY: Other. ARREST LOCATION: Outside Ut Cnty.
+  Booking date: 09/12/2025 01:58.
+  Charges: Aggravated Murder (Capital/First Degree Felony), Obstruction of Justice,
+  Felony Discharge of Firearm Causing Serious Bodily Injury.
+  Probable Cause Statement narrative describing the Sept 10 2025 UVU shooting of Charles James Kirk.
+investigation: 'charlie_kirk'
+added_date: '2026-07-17'
+temp_file: false

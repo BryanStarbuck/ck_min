@@ -1,0 +1,389 @@
+FETCH LOG - lane: wayback-archive
+State of Utah v. Tyler James Robinson, 4th Jud. Dist., Utah County, No. 251403576
+Run date: 2026-08-31
+Destination: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/wayback-archive
+UA used: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+================ KEPT - TOP LEVEL ================
+    290634  2025-09-16_Charging_Document_Information.pdf
+    434546  2025-10-00_Defendant_Reply_to_Sheriffs_Response_to_Motion.pdf
+    526894  2025-10-00_Robinson_Street_Clothes_Restraints_Filing.pdf
+   1060521  2025-10-24_Redacted_Transcript_Sealed_Motion_Hearing_97pp.pdf
+   5204759  2025-11-17_Interlocutory_Appeal_Petition_Brief.pdf
+  15279467  2025-12-12_Interlocutory_Appeal_Opposition_Brief.pdf
+    182000  2026-01-00_Robinson_Objection_to_States_Exhibit.pdf
+   1369739  2026-04-00_Robinson_Ballistics_Motion.pdf
+    210301  2026-07-00_Rev_Contempt_OSC_Hearing_transcript.html
+     36879  2026-07-00_Rev_Contempt_OSC_Hearing_transcript.txt
+    863451  2026-07-06_Rev_Prelim_Hearing_Day1_transcript.html
+    315540  2026-07-06_Rev_Prelim_Hearing_Day1_transcript.txt
+    812482  2026-07-07_Rev_Prelim_Hearing_Day2_transcript.html
+    312025  2026-07-07_Rev_Prelim_Hearing_Day2_transcript.txt
+    388655  2026-07-08_Rev_Prelim_Hearing_Day3_transcript.html
+    125663  2026-07-08_Rev_Prelim_Hearing_Day3_transcript.txt
+   2095616  2026-07-09_Official_Court_Reporter_Transcript_Prelim_Day4.pdf
+    794260  2026-07-09_Rev_Prelim_Hearing_Day4_transcript.html
+    301721  2026-07-09_Rev_Prelim_Hearing_Day4_transcript.txt
+   1001766  2026-07-10_Official_Court_Reporter_Transcript_Prelim_Day5.pdf
+    351772  2026-07-10_Rev_Prelim_Hearing_Day5_transcript.html
+    100438  2026-07-10_Rev_Prelim_Hearing_Day5_transcript.txt
+    185750  2026-07-13_Burkhart_25_Search_Warrant_Affidavits_index.html
+      4324  2026-07-13_Burkhart_25_Search_Warrant_Affidavits_index.txt
+    330970  2026-07-17_Burkhart_Completing_the_Record_muted_livestream.html
+      4839  2026-07-17_Burkhart_Completing_the_Record_muted_livestream.txt
+    319679  2026-07-28_State_Memorandum_Supporting_Bindover_28pp.pdf
+    389135  2026-08-11_Defendant_Preliminary_Hearing_Briefing_41pp.pdf
+    277548  2026-08-18_State_Reply_Supporting_Bindover_19pp.pdf
+    572857  2026-08-28_Defendant_Discovery_Status_Report_17pp.pdf
+    788478  2026-08-31_Burkhart_Recreated_Docket_867_entries.html
+     77652  2026-08-31_Burkhart_Recreated_Docket_867_entries.txt
+
+================ KEPT - search_warrant_affidavits/ (25 PDFs) ================
+    103454  search_warrant_affidavits/2025-09-10_SW3212261_body_and_effects_of_Charlie_Kirk_at_Timpanogos_Regional_Hospital_Retur.pdf
+    102707  search_warrant_affidavits/2025-09-10_SW3212321_surveillance_footage_from_Intermountain_Health_Valley_Utah_Valley_Hosp.pdf
+    139800  search_warrant_affidavits/2025-09-11_SW3212601_anonymized_geofence_data_from_Google_Returned_9_23_25.pdf
+    760826  search_warrant_affidavits/2025-09-11_SW3212881_electronic_device_of_Omar_Najera_Returned_9_18_25.pdf
+    159854  search_warrant_affidavits/2025-09-11_SW3212941_historical_cellular_location_data_from_T_Mobile_AT_T_and_Verizon_cell.pdf
+    113393  search_warrant_affidavits/2025-09-12_SW3213451_person_of_Tyler_Robinson_such_as_trace_prints_DNA_and_personal_effects.pdf
+    117900  search_warrant_affidavits/2025-09-12_SW3213481_premises_of_3419_South_River_Road_Unit_73_St_George_Utah_84790_Returne.pdf
+    128679  search_warrant_affidavits/2025-09-12_SW3213501_2013_Dodge_Challenger_Utah_Lic_T44CE_Returned_9_18_25.pdf
+    129210  search_warrant_affidavits/2025-09-12_SW3213511_guns_and_accessories_and_physical_evidence_located_inside_894_Cimarron.pdf
+    118540  search_warrant_affidavits/2025-09-12_SW3213621_iPhone_14_in_clear_Otterbox_case_with_cracked_screen_Returned_9_18_25.pdf
+    150216  search_warrant_affidavits/2025-09-12_SW3213811_contents_of_dark_blue_iPhone13_model_number_A2482_IMEI_350776598879683.pdf
+    143297  search_warrant_affidavits/2025-09-13_SW3214291_dark_blue_iPhone_13_model_A2482_IMEI_350776598879683_Returned_9_18_25.pdf
+    154123  search_warrant_affidavits/2025-09-13_SW3214311_Discord_names_and_server_ID_s_for_Craftopia_Gamin_and_The_Corruption_R.pdf
+    155102  search_warrant_affidavits/2025-09-13_SW3214341_Verizon_account_records_associated_with_telephone_number_435_632_2471.pdf
+    157286  search_warrant_affidavits/2025-09-13_SW3214411_Verizon_location_data_associated_with_telephone_number_435_922_8263_Re.pdf
+    154441  search_warrant_affidavits/2025-09-14_SW3214731_Verizon_location_data_associated_with_telephone_number_435_632_2471_Re.pdf
+    154388  search_warrant_affidavits/2025-09-14_SW3214751_multiple_digital_devices_recovered_during_search_of_St_George_apartmen.pdf
+    153313  search_warrant_affidavits/2025-09-14_SW3214771_2013_Dodge_Challenger_Utah_Lic_T455CE_VIN_2C3CDYAG0DH675106_editorial.pdf
+    185808  search_warrant_affidavits/2025-09-15_SW3215171_CSAM_on_George_Zinn_phone_Returned_10_22_25.pdf
+    136533  search_warrant_affidavits/2025-09-15_SW3215261_Google_account_information_associated_with_users_cratfin247_gmail_com.pdf
+    133184  search_warrant_affidavits/2025-09-15_SW3215391_VANTRUE_dash_camera_serial_no_VTN2P212969_Returned_9_23_25.pdf
+    118962  search_warrant_affidavits/2025-09-17_SW3216271_Lumen_Technologies_Quantum_Fiber_account_associated_with_trobinsonut_g.pdf
+    117325  search_warrant_affidavits/2025-09-17_SW3217031_Apple_Inc_account_information_and_iCloud_data_associated_with_cratfin2.pdf
+    116895  search_warrant_affidavits/2025-09-17_SW3217131_Apple_Inc_account_information_and_iCloud_data_associated_with_lancetwi.pdf
+    139549  search_warrant_affidavits/2025-10-06_SW3229461_Discord_Inc_Dufuss_Doobers_tism_time_server_Returned_10_14_25.pdf
+
+================ KEPT - burkhart_docket_pdfs/ (258 PDFs) ================
+    290634  burkhart_docket_pdfs/docket_001_Information_9-16-25.pdf
+     79015  burkhart_docket_pdfs/docket_002_Probable_Cause_Affidavit_9-16-25.pdf
+    737186  burkhart_docket_pdfs/docket_003_Public_Safety_Assessment_Report_9-16-25.pdf
+    724774  burkhart_docket_pdfs/docket_004_Bail_Order_9-16-25.pdf
+     20882  burkhart_docket_pdfs/docket_005_Return_of_Electronic_Notification_9-16-25.pdf
+    142881  burkhart_docket_pdfs/docket_006_Acknowledgment_of_Firearm_Restriction_9-16-25.pdf
+    393197  burkhart_docket_pdfs/docket_007_Order_Proposed_Pretrial_Protective_Order_9-16-25.pdf
+     20934  burkhart_docket_pdfs/docket_008_Return_of_Electronic_Notification_9-16-25.pdf
+    183354  burkhart_docket_pdfs/docket_010_State_s_Notice_of_Intent_to_Seek_the_Death_Penalty_9-16-25.pdf
+     97973  burkhart_docket_pdfs/docket_012_Request_for_Designation_of_Victim_Representative_9-16-25.pdf
+    788956  burkhart_docket_pdfs/docket_014_Order_Pretrial_Protective_Order_9-16-25.pdf
+    728301  burkhart_docket_pdfs/docket_017_Initial_Appearance_9-22-25.pdf
+     21251  burkhart_docket_pdfs/docket_020_Notice_for_Case_251403576_FS_Judge_Tony_F._Graf_Jr._9-23-25.pdf
+    206932  burkhart_docket_pdfs/docket_022_Order_for_Court_Reporter_9-22-25.pdf
+    273063  burkhart_docket_pdfs/docket_023_Protection_Order_Re_Pre-Trial_and_Trial_Publicity_9-22-25.pdf
+    129923  burkhart_docket_pdfs/docket_024_Order_to_Transport_9-24-25.pdf
+    593267  burkhart_docket_pdfs/docket_028_Standing_Decorum_Order_9-24-25.pdf
+    173914  burkhart_docket_pdfs/docket_032_Affidavit_Declaration_Rule_8_Declaration_of_Kathryn_N._Nester_9-25-25.pdf
+    154738  burkhart_docket_pdfs/docket_033_Affidavit_Declaration_Rule_8_Declaration_of_Michael_N._Burt_9-25-25.pdf
+    185498  burkhart_docket_pdfs/docket_034_Affidavit_Declaration_Rule_8_Declaration_of_Richard_G._Novak_9-25-25.pdf
+    368948  burkhart_docket_pdfs/docket_035_Motion_Pro_Hac_Vice_to_Admit_Michael_N._Burt_9-25-25.pdf
+    342182  burkhart_docket_pdfs/docket_036_Motion_Pro_Hac_Vice_to_Admit_Richard_G._Novak_9-25-25.pdf
+    770303  burkhart_docket_pdfs/docket_041_Order_Admitting_Michael_N._Burt_Pro_Hac_Vice_9-26-25.pdf
+    769798  burkhart_docket_pdfs/docket_042_Order_Findings_of_Fact_and_Conclusions_of_Law_Regarding_Appointment_of_Rule_8_Co.pdf
+    770389  burkhart_docket_pdfs/docket_044_Order_Admitting_Richard_G._Novak_Pro_Hac_Vice_9-27-25.pdf
+    303744  burkhart_docket_pdfs/docket_047_Supplemental_Exhibit_to_Motion_and_Consent_of_Sponsoring_Local_Counsel_for_Pro_H.pdf
+    209571  burkhart_docket_pdfs/docket_048_Supplemental_Exhibit_to_Motion_and_Consent_of_Sponsoring_Local_Counsel_for_Pro_H.pdf
+    295268  burkhart_docket_pdfs/docket_049_Supplemental_Exhibit_to_Rule_8_Declaration_of_Michael_N._Burt_9-28-25.pdf
+    318219  burkhart_docket_pdfs/docket_050_Supplemental_Exhibit_to_Rule_8_Declaration_of_Richard_G._Novak_9-28-25.pdf
+    146974  burkhart_docket_pdfs/docket_055_Appearance_of_Counsel_Notice_of_Limited_Appearance_of_Counsel_9-30-25.pdf
+    147485  burkhart_docket_pdfs/docket_056_Appearance_of_Counsel_Notice_of_Limited_Appearance_of_Counsel_9-30-25.pdf
+    147938  burkhart_docket_pdfs/docket_057_Appearance_of_Counsel_Notice_of_Limited_Appearance_of_Counsel_9-30-25.pdf
+    146466  burkhart_docket_pdfs/docket_058_Appearance_of_Counsel_Notice_of_Limited_Appearance_of_Counsel_9-30-25.pdf
+    147438  burkhart_docket_pdfs/docket_059_Appearance_of_Counsel_Notice_of_Limited_Appearance_of_Counsel_9-30-25.pdf
+    272479  burkhart_docket_pdfs/docket_061_Request_for_Discovery_9-30-25.pdf
+    726584  burkhart_docket_pdfs/docket_064_Telephonic_Conference_10-1-25.pdf
+    726450  burkhart_docket_pdfs/docket_065_Telephonic_Conference_10-1-25.pdf
+    122011  burkhart_docket_pdfs/docket_066_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_9-29-25.pdf
+    101426  burkhart_docket_pdfs/docket_071_Request_for_Audio_Recording_10-6-25.pdf
+    120077  burkhart_docket_pdfs/docket_074_Copy_of_Video_Audio_Record_completed_10-8-25.pdf
+    128484  burkhart_docket_pdfs/docket_075_Motion_to_Preserve_Evidence_10-8-25.pdf
+    162710  burkhart_docket_pdfs/docket_079_Motion_Permission_to_File_Overlength_Motion_to_Appear_in_Civilian_Clothes_and_Wi.pdf
+    142511  burkhart_docket_pdfs/docket_080_Request_Notice_to_Submit_Motion_for_Permission_to_File_Overlength_Motion_to_Appe.pdf
+    521409  burkhart_docket_pdfs/docket_083_Motion_Hearing_Requested_to_Appear_at_All_In-Person_Proceedings_in_Civilian_Cl.pdf
+    141473  burkhart_docket_pdfs/docket_084_Order_Proposed_Temporary_Order_Allowing_Appearance_in_Civilian_Clothing_and_Wi.pdf
+    132804  burkhart_docket_pdfs/docket_088_Appearance_of_Counsel_Notice_of_Limited_Appearance_10-13-25.pdf
+    182677  burkhart_docket_pdfs/docket_091_Motion_for_Discovery_Protective_Order_Stipulated_10-13-25.pdf
+    364821  burkhart_docket_pdfs/docket_096_Interim_Order_Defendant_s_Motion_to_Appear_in_Civilian_Clothing_and_Without_Rest.pdf
+    101589  burkhart_docket_pdfs/docket_097_Appearance_of_Counsel_Notice_of_Limited_Appearance_Richard_Novak_10-14-25.pdf
+    808643  burkhart_docket_pdfs/docket_100_Discovery_Protective_Order_10-15-25.pdf
+    104795  burkhart_docket_pdfs/docket_102_Motion_to_Classify_as_Private_the_Response_to_Defendant_s_Motion_to_Appear_in_Ci.pdf
+    754374  burkhart_docket_pdfs/docket_105_Order_Granting_Motion_to_Classify_as_Private_the_Response_to_Defendant_s_Motion_.pdf
+    763408  burkhart_docket_pdfs/docket_107_Order_Granting_Motion_to_Preserve_Evidence_10-20-25.pdf
+    491744  burkhart_docket_pdfs/docket_111_Motion_to_Strike_Response_to_Defendant_s_Motion_to_Appear_at_All_In-Person_Proce.pdf
+    134170  burkhart_docket_pdfs/docket_113_Order_to_Transport_10-21-25.pdf
+    246444  burkhart_docket_pdfs/docket_115_Defendant_s_Opposition_to_the_State_of_Utah_s_Motion_under_Utah_Rule_of_Criminal.pdf
+    179766  burkhart_docket_pdfs/docket_116_Motion_to_Set_Aside_October_20_2025_Order_Granting_Motion_to_Preserve_Evidence_.pdf
+    187822  burkhart_docket_pdfs/docket_117_Response_to_Defendant_s_Motion_to_Preserve_Evidence_10-22-25.pdf
+    194308  burkhart_docket_pdfs/docket_118_Opposition_to_Motion_to_Strike_Response_to_Defendant_s_Motion_to_Appear_at_All_I.pdf
+    402999  burkhart_docket_pdfs/docket_121_Reply_in_Support_of_Motion_re_Restraints_and_Civilian_Clothing_10-22-25.pdf
+    400229  burkhart_docket_pdfs/docket_129_Reply_in_Support_of_Motion_to_Strike_Response_to_Defendant_s_Motion_to_Appear_at.pdf
+    125680  burkhart_docket_pdfs/docket_131_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_10-23-25.pdf
+    125680  burkhart_docket_pdfs/docket_133_Updated_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings.pdf
+    174959  burkhart_docket_pdfs/docket_135_State_s_Notice_of_Open_File_Policy_and_Invitation_to_Inspect_Physical_Evidence_.pdf
+   3460751  burkhart_docket_pdfs/docket_137_Ruling_and_Order_Granting_Defendant_s_Motion_to_Strike_and_Granting_in_Part_and_.pdf
+   3087935  burkhart_docket_pdfs/docket_138_Standing_Decorum_Order_Effective_10-30-25.pdf
+    160002  burkhart_docket_pdfs/docket_141_Motion_to_Extend_Time_Stipulated_10-27-25.pdf
+    763515  burkhart_docket_pdfs/docket_146_Order_Granting_Stipulated_Motion_to_Extend_Time_10-28-25.pdf
+    144379  burkhart_docket_pdfs/docket_150_Request_for_Notice_of_Motions_to_Close_Judicial_Proceedings_and_Records_10-30-2.pdf
+    145559  burkhart_docket_pdfs/docket_152_Stipulation_Motion_to_Order_Transcript_and_Classify_Transcript_and_Audio_as_Priv.pdf
+    187072  burkhart_docket_pdfs/docket_157_Stipulated_Motion_Regarding_Order_to_Preserve_Evidence_11-3-25.pdf
+    760548  burkhart_docket_pdfs/docket_161_Stipulated_Order_1_Setting_aside_October_20_2025_Order_Granting_Motion_to_Pr.pdf
+    268326  burkhart_docket_pdfs/docket_164_Motion_for_Limited_Intervention_and_Request_for_Notice_of_Motions_to_Close_Seal.pdf
+    214446  burkhart_docket_pdfs/docket_167_State_s_Motion_to_Amend_or_Clarify_Court_s_Pre-Trial_and_Trial_Publicity_Order_.pdf
+    196997  burkhart_docket_pdfs/docket_169_Defendant_Tyler_James_Robinson_s_Response_to_Request_for_Notice_of_Motion_to_Clo.pdf
+    260997  burkhart_docket_pdfs/docket_171_Order_Requiring_Parties_to_Serve_All_Closure_of_Reclassification_Motions_on_the_.pdf
+    203084  burkhart_docket_pdfs/docket_172_Order_for_Transcript_of_October_24_2025_Hearing_11-13-25.pdf
+    194298  burkhart_docket_pdfs/docket_173_Media_s_Notice_of_Service_re_Motion_to_Classify_Transcript_and_Audio_Filed_Novem.pdf
+    125729  burkhart_docket_pdfs/docket_177_Approved_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_1.pdf
+     64608  burkhart_docket_pdfs/docket_178_Not_Signed_Order_Proposed_Granting_Motion_to_Order_Transcript_and_Classify_11.pdf
+    126285  burkhart_docket_pdfs/docket_181_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_11-14-25.pdf
+    196466  burkhart_docket_pdfs/docket_185_Defendant_Tyler_James_Robinson_s_Response_to_Proposed_Media_Intervenors_Motion_f.pdf
+    199613  burkhart_docket_pdfs/docket_187_State_s_Response_to_Motion_for_Limited_Intervention_and_Request_for_Notice_of_Mo.pdf
+     21640  burkhart_docket_pdfs/docket_189_Notice_for_Case_251403576_11-20-25.pdf
+    211672  burkhart_docket_pdfs/docket_190_Objection_to_State_s_Motion_to_Amend_or_Clarify_Court_s_Pre-Trial_and_Trial_Publ.pdf
+    111723  burkhart_docket_pdfs/docket_193_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_11-21-25.pdf
+    126647  burkhart_docket_pdfs/docket_194_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_11-21-25.pdf
+    134934  burkhart_docket_pdfs/docket_195_Order_to_Transport_11-21-25.pdf
+    194358  burkhart_docket_pdfs/docket_197_Motion_for_Limited_Intervention_11-24-25.pdf
+    226712  burkhart_docket_pdfs/docket_199_Reply_in_Support_of_Motion_for_Limited_Intervention_Proposed_Media_Intervenors_.pdf
+    121870  burkhart_docket_pdfs/docket_202_Previously_omitted_Letter_From_Supreme_Court_Of_Utah_11-17-25.pdf
+    216048  burkhart_docket_pdfs/docket_204_Reply_Supporting_State_s_Motion_to_Amend_or_Clarify_Court_s_Pre-Trial_and_Trial_.pdf
+    207579  burkhart_docket_pdfs/docket_209_Joint_Status_Report_of_the_Parties_Concerning_the_Redaction_of_Portions_of_the_T.pdf
+     50913  burkhart_docket_pdfs/docket_211_UOVC_Restitution_Notice_Claim_1113665_12-5-25.pdf
+    228986  burkhart_docket_pdfs/docket_213_Defendant_Tyler_James_Robinson_s_Response_to_the_Motion_for_Limited_Intervention.pdf
+    130680  burkhart_docket_pdfs/docket_215_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_12-8-25.pdf
+    292142  burkhart_docket_pdfs/docket_220_Media_Intervenors_Memorandum_Opposing_Stipulated_Motion_to_Classify_as_Private_t.pdf
+    343181  burkhart_docket_pdfs/docket_222_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_12-8-25.pdf
+    220652  burkhart_docket_pdfs/docket_227_Defendant_Tyler_James_Robinson_s_Reply_to_Media_s_Memorandum_Opposing_Stipulated.pdf
+    224869  burkhart_docket_pdfs/docket_239_Ruling_and_Order_Granting_State_s_Motion_to_Clarify_Court_s_Pretrial_and_Trial_P.pdf
+    182433  burkhart_docket_pdfs/docket_243_Motion_to_Order_Transcript_and_Temporarily_Classify_Transcript_and_Audio_as_Priv.pdf
+   2739676  burkhart_docket_pdfs/docket_247_Public_Version_Motion_to_Disqualify_12-17-25.pdf
+    125935  burkhart_docket_pdfs/docket_257_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_12-23-25.pdf
+    729420  burkhart_docket_pdfs/docket_260_REVIEW_ORAL_ARGUMENT_12-24-25.pdf
+    415727  burkhart_docket_pdfs/docket_263_Ruling_and_Order_re_Stipulated_Motion_to_Classify_Transcript_and_Audio_as_Privat.pdf
+    238156  burkhart_docket_pdfs/docket_264_Order_Denying_the_Media_s_Request_to_Intervene_and_Standing_Order_for_Rule_4-20.pdf
+   1060521  burkhart_docket_pdfs/docket_265_Transcript_of_October_24_2025_Hearing_Redacted_Transcript_12-29-25.pdf
+   1369739  burkhart_docket_pdfs/docket_281_Previously_filed_as_private_Defendant_Motion_Filed_Jan_9_2026_wExhibits_1-9-.pdf
+   4501329  burkhart_docket_pdfs/docket_286_Opposition_to_Defendant_s_Motion_to_Disqualify_the_Utah_County_Attorney_s_Office.pdf
+    177769  burkhart_docket_pdfs/docket_288_Subpoena_for_Sgt._David_Hull_1-12-26.pdf
+    170617  burkhart_docket_pdfs/docket_290_Partial_Reply_to_Opposition_to_Motion_to_Disqualify_Public_1-12-26.pdf
+    174069  burkhart_docket_pdfs/docket_299_News_Media_s_Memorandum_Opposing_Motion_to_Classify_Defendant_s_Motion_filed_Jan.pdf
+    161100  burkhart_docket_pdfs/docket_307_Motion_to_Classify_Motion_to_Exclude_1-16-26.pdf
+    106982  burkhart_docket_pdfs/docket_314_Victim_Representative_s_Invocation_of_the_Speedy_Trial_Act_1-16-26.pdf
+    124634  burkhart_docket_pdfs/docket_316_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_1-22-26.pdf
+    201657  burkhart_docket_pdfs/docket_317_Reply_in_Support_of_Motion_to_Classify_as_Private_-_Jan_9_1-22-26.pdf
+    195473  burkhart_docket_pdfs/docket_320_News_Media_s_Memorandum_Opposing_Motion_to_Classify_re_Motion_to_Exclude_Camera.pdf
+    250008  burkhart_docket_pdfs/docket_322_New_Media_s_Motion_to_Amend_Standing_Order_for_Rule_4-202.04_Notice_of_Motions_f.pdf
+    182000  burkhart_docket_pdfs/docket_327_Defendant_Tyler_James_Robinson_s_Notice_of_Objection_to_the_State_of_Utah_s_Prop.pdf
+    129219  burkhart_docket_pdfs/docket_330_Request_and_Order_for_Electronic_Media_Coverage_and_Court_Proceedings_1-28-26.pdf
+    197016  burkhart_docket_pdfs/docket_332_News_Media_s_Motion_for_Attorneys_Eyes_Only_Access_to_Closure_Motions_1-29-26.pdf
+    214112  burkhart_docket_pdfs/docket_334_News_Media_s_Sur-Reply_Opposing_Motion_to_Classify_Defendant_s_Motion_Filed_Janu.pdf
+    167982  burkhart_docket_pdfs/docket_337_State_s_Opposition_to_Motion_to_Classify_Defendant_s_Motion_Filed_January_9_202.pdf
+    190903  burkhart_docket_pdfs/docket_339_Memorandum_in_Response_to_Defendant_s_Objection_to_Exhibit_4.1_1-29-26.pdf
+    204323  burkhart_docket_pdfs/docket_341_Defendant_s_Reply_in_Support_of_Motion_to_Classify_Motion_to_Exclude_1-30-26.pdf
+    153528  burkhart_docket_pdfs/docket_343_State_s_Opposition_to_Defendants_Motion_to_Classify_Motion_to_Exclude_Still_Phot.pdf
+    223716  burkhart_docket_pdfs/docket_345_Defendant_Tyler_Robinson_s_Renewed_Request_that_this_Court_Refer_the_Motion_to_D.pdf
+    301162  burkhart_docket_pdfs/docket_347_Opposition_to_Motion_to_Exclude_Cameras_Provisional_Opposition_Filed_by_the_New.pdf
+    342993  burkhart_docket_pdfs/docket_351_State_s_Memorandum_Opposing_Defendant_s_Motion_to_Exclude_Still_Photographers_T.pdf
+    895539  burkhart_docket_pdfs/docket_352_Attachment_A_1-30-26.pdf
+   1099417  burkhart_docket_pdfs/docket_353_Attachment_B_1-30-26.pdf
+   1279270  burkhart_docket_pdfs/docket_354_Attachment_C_1-30-26.pdf
+   1740823  burkhart_docket_pdfs/docket_355_Attachment_D_1-30-26.pdf
+   1026674  burkhart_docket_pdfs/docket_356_Attachment_E_1-30-26.pdf
+   2088562  burkhart_docket_pdfs/docket_357_Attachment_F_1-30-26.pdf
+   4695642  burkhart_docket_pdfs/docket_358_Attachment_G_1-30-26.pdf
+   5621812  burkhart_docket_pdfs/docket_360_Attachment_H_1-30-26.pdf
+   3872012  burkhart_docket_pdfs/docket_361_Attachment_H_1-30-26_Not_a_duplicate_the_item_is_misnumbered_.pdf
+    233190  burkhart_docket_pdfs/docket_363_State_s_Opposition_to_Defendant_s_Renewed_Request_to_Refer_the_Motion_to_Disqual.pdf
+    180354  burkhart_docket_pdfs/docket_365_Proffer_of_Facts_re_Closure_of_Portions_of_Evidentiary_Hearing_on_Motion_to_Disq.pdf
+    107037  burkhart_docket_pdfs/docket_367_Notice_Concerning_Media_Access_2-2-26.pdf
+    134858  burkhart_docket_pdfs/docket_369_Order_for_Transport_2-3-26.pdf
+    153801  burkhart_docket_pdfs/docket_371_Defendant_s_Response_to_News_Media_s_Motion_to_Amend_Standing_Order_for_Rule_4-2.pdf
+    120849  burkhart_docket_pdfs/docket_373_State_s_Response_to_News_Media_s_Motion_to_Amend_Standing_Order_for_Rule_4-202.0.pdf
+    157525  burkhart_docket_pdfs/docket_375_Defendant_s_Reply_to_State_s_Opposition_to_Motion_to_Classify_Defendant_s_Motion.pdf
+    175790  burkhart_docket_pdfs/docket_383_Reply_to_State_s_Opposition_to_Motion_to_Classify_Motion_to_Exclude_Cameras_2-6.pdf
+    164059  burkhart_docket_pdfs/docket_385_Memorandum_State_s_Response_to_News_Media_s_Motion_for_Attorney_s_Eyes_Only_Acce.pdf
+    174981  burkhart_docket_pdfs/docket_390_Opposition_to_Defendant_Tyler_James_Robinson_s_Memorandum_in_Opposition_to_News_.pdf
+     55850  burkhart_docket_pdfs/docket_403_Previously_omitted_from_docket_Appellate_Court_Document_Order_1-2-26.pdf
+    130696  burkhart_docket_pdfs/docket_406_Order_to_Appear_for_Hearing_2-23-26.pdf
+     19872  burkhart_docket_pdfs/docket_409_Exhibit_List_-_In_Person_Oral_Argument_2-23-26.pdf
+    729376  burkhart_docket_pdfs/docket_410_Oral_Argument_Evidentiary_Hearing_2-23-26.pdf
+    429857  burkhart_docket_pdfs/docket_411_Standing_Decorum_Order_Effective_February_24_2026_2-23-26.pdf
+    203750  burkhart_docket_pdfs/docket_412_Order_on_February_3_2026_Hearing_Transcript_2-23-26.pdf
+    209310  burkhart_docket_pdfs/docket_413_Standing_Order_on_Redacting_and_Filing_Transcripts_2-23-26.pdf
+    251270  burkhart_docket_pdfs/docket_414_Rulings_and_Orders_Granting_News_Media_s_Motion_to_Amend_Standing_Order_for_Rule.pdf
+    463132  burkhart_docket_pdfs/docket_417_Ruling_and_Order_Denying_Defendant_s_Motion_to_Disqualify_Utah_County_Attorney_s.pdf
+     41741  burkhart_docket_pdfs/docket_420_Previously_omitted_Appellate_Court_Document_-_Notice_of_Decision_1-5-26.pdf
+    170991  burkhart_docket_pdfs/docket_422_Defendant_Tyler_James_Robinson_s_Motion_to_Close_Portions_of_the_April_17_2026_.pdf
+    169934  burkhart_docket_pdfs/docket_426_News_Media_Memorandum_Opposing_Motion_to_Classify_Reply_in_Support_of_Motion_to_.pdf
+    188225  burkhart_docket_pdfs/docket_428_State_s_Opposition_to_Defendant_s_Motion_to_Classify_Reply_in_Support_of_Motion_.pdf
+    158375  burkhart_docket_pdfs/docket_432_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_3-10-26.pdf
+    161104  burkhart_docket_pdfs/docket_433_News_Media_Motion_to_Classify_Supplemental_Memorandum_Opposing_Motion_to_Classif.pdf
+   2348025  burkhart_docket_pdfs/docket_437_News_Media_Supplemental_Opposition_to_Motion_to_Exclude_Cameras_3-10-26.pdf
+     50865  burkhart_docket_pdfs/docket_442_UOVC_Restitution_Notice_Claim_1113572_3-11-26.pdf
+     50865  burkhart_docket_pdfs/docket_444_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_3-11-26.pdf
+    384995  burkhart_docket_pdfs/docket_445_State_s_Response_to_Defendant_s_Motion_to_Close_Portions_of_the_April_17_2026_E.pdf
+    161896  burkhart_docket_pdfs/docket_450_Previously_omitted_New_Media_s_Supplemental_Memorandum_Opposing_Motion_To_Clas.pdf
+    174879  burkhart_docket_pdfs/docket_459_Notice_of_Expert_Dr._Ruva_3-18-26.pdf
+   1551455  burkhart_docket_pdfs/docket_463_Defendant_Tyler_James_Robinson_s_Motion_to_Vacate_or_Continue_Preliminary_Hearin.pdf
+   3919082  burkhart_docket_pdfs/docket_465_Redacted_Motion_to_Exclude_Still_Photographers_TV_Cameras_and_Microphones_fro.pdf
+    170244  burkhart_docket_pdfs/docket_467_Return_of_Electronic_Notification_3-31-26_Not_obtained_.pdf
+    174911  burkhart_docket_pdfs/docket_471_Request_for_Discovery_Defendant_Tyler_James_Robinson_s_Supplemental_Request_for_.pdf
+    280950  burkhart_docket_pdfs/docket_473_Memorandum_in_Opposition_to_Defendant_s_Motion_to_Vacate_the_May_18_Preliminary_.pdf
+    207138  burkhart_docket_pdfs/docket_478_Notice_of_Expert_Dr._Edelman_4-6-26.pdf
+    175412  burkhart_docket_pdfs/docket_479_Amended_Notice_of_Exert_Dr._Ruva_4-6-26.pdf
+    289983  burkhart_docket_pdfs/docket_483_Notice_of_Appearance_as_Counsel_of_Record_4-8-26.pdf
+    817174  burkhart_docket_pdfs/docket_484_Motion_and_Consent_of_Sponsoring_Local_Counsel_for_Pro_Hac_Vice_Admission_of_Jef.pdf
+    266457  burkhart_docket_pdfs/docket_490_Defendant_Tyler_James_Robinson_s_Reply_in_Support_of_Motion_to_Vacate_or_Continu.pdf
+    516362  burkhart_docket_pdfs/docket_492_State_s_Objection_to_Defendant_s_Supplemental_Request_for_Discovery_4-10-26.pdf
+    158729  burkhart_docket_pdfs/docket_497_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_4-14-26.pdf
+    769258  burkhart_docket_pdfs/docket_498_Order_Granting_Motion_and_Consent_of_Sponsoring_Local_Counsel_for_Pro_Hac_Vice_A.pdf
+   3601562  burkhart_docket_pdfs/docket_501_Motion_for_OSC_for_Contempt_and_Motion_to_Compel_4-16-26.pdf
+   5492425  burkhart_docket_pdfs/docket_502_Declaration_of_Counsel_in_Support_of_OSC_4-16-26.pdf
+   3236600  burkhart_docket_pdfs/docket_507_Opposition_to_Motion_for_an_Order_to_Show_Cause_for_Alleged_Contempt_of_Court_an.pdf
+    195116  burkhart_docket_pdfs/docket_510_Motion_in_Limine_to_Close_Portions_of_Preliminary_Hearing_and_Seal_Particular_Ex.pdf
+    149350  burkhart_docket_pdfs/docket_512_Supplemental_Notice_re_State_s_Evidence_at_Preliminary_Hearing_5-1-26.pdf
+    147763  burkhart_docket_pdfs/docket_518_Order_to_Appear_5-5-26.pdf
+    372832  burkhart_docket_pdfs/docket_520_State_s_Preliminary_Hearing_Witness_and_Exhibit_List_5-6-26.pdf
+    267619  burkhart_docket_pdfs/docket_522_Defendant_Tyler_James_Robinson_s_Motion_in_Limine_to_Preclude_the_Utilization_of.pdf
+    495303  burkhart_docket_pdfs/docket_524_Reply_to_Opposition_to_Motion_for_an_Order_to_Show_Cause_for_Alleged_Contempt_of.pdf
+    201856  burkhart_docket_pdfs/docket_528_Objection_to_Defendant_s_Motion_in_Limine_to_Prelude_the_Utilization_of_Article_.pdf
+    227077  burkhart_docket_pdfs/docket_529_Objection_to_Defendant_s_Motion_in_Limine_to_Close_Portions_of_the_Preliminary_H.pdf
+   1820592  burkhart_docket_pdfs/docket_531_Ruling_and_Order_on_Defendant_s_Motion_to_Vacate_or_Continue_Preliminary_Hearing.pdf
+   4029500  burkhart_docket_pdfs/docket_532_Ruling_and_Order_on_Defendant_s_Motion_to_Exclude_Still_Photographers_TV_Camera.pdf
+    158976  burkhart_docket_pdfs/docket_537_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_5-11-26.pdf
+    729810  burkhart_docket_pdfs/docket_539_Ruling_on_the_Record_5-12-26.pdf
+    236869  burkhart_docket_pdfs/docket_543_Opposition_to_Defendant_s_Motion_to_Close_Portions_of_Preliminary_Hearing_and_Se.pdf
+    309560  burkhart_docket_pdfs/docket_545_State_s_Response_to_Tyler_James_Robinson_s_Motion_in_Limine_5-15-26.pdf
+    309583  burkhart_docket_pdfs/docket_547_Corrected_State_s_Response_to_Tyler_James_Robinson_s_Motion_in_Limine_5-15-26.pdf
+    233490  burkhart_docket_pdfs/docket_549_Reply_in_Support_of_Motion_to_Close_Seal_Portions_of_Preliminary_Hearing_5-18-2.pdf
+    160601  burkhart_docket_pdfs/docket_552_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_5-19-26.pdf
+    302640  burkhart_docket_pdfs/docket_554_Opposition_to_Defendant_s_Motion_to_Preclude_Hearsay_at_Preliminary_Hearing_5-2.pdf
+    146683  burkhart_docket_pdfs/docket_556_Notice_of_Filing_Petition_for_Permission_to_Appeal_from_Interlocutory_Order_5-.pdf
+    447215  burkhart_docket_pdfs/docket_558_Defendant_Tyler_James_Robinson_s_Motion_to_Stay_Pending_Interlocutory_Review_5-.pdf
+    370125  burkhart_docket_pdfs/docket_560_Ruling_and_Order_Denying_Defendant_s_Motion_in_Limine_to_Close_Portions_of_the_P.pdf
+    268404  burkhart_docket_pdfs/docket_561_Ruling_and_Order_Granting_Defendant_s_Motion_for_Order_to_Show_Cause_Docket_504.pdf
+    446092  burkhart_docket_pdfs/docket_567_Reply_in_Support_of_Defendant_s_Motion_in_Limine_to_Preclude_re_Hearsay_6-3-2.pdf
+    238120  burkhart_docket_pdfs/docket_572_Opposition_to_Motion_to_Stay_Pending_Interlocutory_Review_6-6-26.pdf
+    322384  burkhart_docket_pdfs/docket_576_Reply_in_Support_of_Defendant_Tyler_James_Robinson_s_Motion_to_Stay_Pending_Inte.pdf
+    108063  burkhart_docket_pdfs/docket_592_Utah_Attorney_General_s_Notice_of_Intent_Not_to_Respond_to_Constitutional_Challe.pdf
+    211750  burkhart_docket_pdfs/docket_598_Opposition_to_Application_for_Certificate_of_Attendance_of_Out-of-State_Witness_.pdf
+    141561  burkhart_docket_pdfs/docket_600_Order_to_Appear_6-17-26.pdf
+    353931  burkhart_docket_pdfs/docket_601_Objection_to_Defendant_s_Request_to_Remove_the_Death_Penalty_as_a_Sanction_in_th.pdf
+    161304  burkhart_docket_pdfs/docket_604_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_6-18-26.pdf
+    161090  burkhart_docket_pdfs/docket_605_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_-_Prelimina.pdf
+    187514  burkhart_docket_pdfs/docket_606_Reply_in_Support_of_Application_for_Certificate_for_Attendance_of_Out-of-State_W.pdf
+    211750  burkhart_docket_pdfs/docket_609_Opposition_to_State_s_Uninvited_Objection_to_Defendant_s_Request_to_Remove_the_D.pdf
+    173823  burkhart_docket_pdfs/docket_612_Defendant_Tyler_James_Robinson_s_Second_Supplemental_Request_for_Discovery_6-19.pdf
+    168286  burkhart_docket_pdfs/docket_616_Opposition_to_Defendant_Tyler_James_Robinson_s_Opposition_to_Electronic_Media_Re.pdf
+    751462  burkhart_docket_pdfs/docket_618_Order_Regarding_Defendant_s_Application_for_Certificate_for_Attendance_of_Out-of.pdf
+    986465  burkhart_docket_pdfs/docket_619_Notice_of_Filing_News_Media_Response_to_Defendant_s_Petition_for_Permission_to_A.pdf
+    729544  burkhart_docket_pdfs/docket_623_Ruling_on_the_Record_6-23-26.pdf
+    380001  burkhart_docket_pdfs/docket_624_Ruling_And_Order_On_Defendant_s_Motion_In_Limine_To_Preclude_Utilization_Of_Arti.pdf
+    204814  burkhart_docket_pdfs/docket_625_Minute_Entry_Order_RE_Electronic_Devices_In_Courtroom_Prohibited_During_Prelimi.pdf
+    168558  burkhart_docket_pdfs/docket_628_Opposition_to_Defendant_Tyler_James_Robinson_s_Opposition_to_EMC_Order_for_the_P.pdf
+   2225501  burkhart_docket_pdfs/docket_630_News_Media_Response_to_Defendant_s_Opposition_to_Electronic_Media_Request_for_th.pdf
+    168558  burkhart_docket_pdfs/docket_635_Defendant_Tyler_James_Robinson_s_Opposition_to_EMC_Order_for_the_Preliminary_Hea.pdf
+    168628  burkhart_docket_pdfs/docket_637_Opposition_to_Defendant_Tyler_James_Robinson_s_Opposition_to_EMC_Order_for_the_P.pdf
+    200921  burkhart_docket_pdfs/docket_640_Opposition_to_Defendant_s_Motion_to_Classify_Application_for_Certificate_to_Secu.pdf
+   2211277  burkhart_docket_pdfs/docket_644_News_Media_Response_to_Defendant_Opposition_to_EMC_Orders_for_the_Preliminary_He.pdf
+    391489  burkhart_docket_pdfs/docket_648_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_6-26-26_s.pdf
+    152462  burkhart_docket_pdfs/docket_652_Notice_of_Filing_Petition_for_Permission_to_Appeal_from_Two_Interlocutory_Orders.pdf
+    823416  burkhart_docket_pdfs/docket_657_Ruling_And_Order_On_Defendant_s_Objections_To_Electronic_Media_Requests_6-30-26.pdf
+   2241241  burkhart_docket_pdfs/docket_661_News_Media_Motion_to_Amend_Minute_Entry_Order_to_Allow_Use_of_Portable_Electroni.pdf
+    148897  burkhart_docket_pdfs/docket_665_Response_to_Defendant_s_Second_Supplemental_Request_for_Discovery_7-2-26.pdf
+    193929  burkhart_docket_pdfs/docket_667_Reply_in_Support_of_Motion_to_Classify_Application_as_Private_7-2-26.pdf
+    180781  burkhart_docket_pdfs/docket_671_Defendant_s_Standing_Objections_to_State_s_Exhibits_7-3-26.pdf
+   2245337  burkhart_docket_pdfs/docket_673_News_Media_Amended_Motion_to_Allow_Portable_Electronic_Devices_7-4-26.pdf
+    729039  burkhart_docket_pdfs/docket_677_PRELIMINARY_HEARING_7-8-26.pdf
+    190605  burkhart_docket_pdfs/docket_678_Supplemental_Notice_Concerning_Access_to_Evidence_Presented_in_Open_Court_7-8-2.pdf
+     93068  burkhart_docket_pdfs/docket_681_Request_for_Speedy_Disposition_and_Prompt_Bindover_7-10-26.pdf
+    728371  burkhart_docket_pdfs/docket_686_PRELIMINARY_HEARING_-_DAY_2_7-21-26.pdf
+    727114  burkhart_docket_pdfs/docket_687_PRELIMINARY_HEARING_7-21-26.pdf
+    728538  burkhart_docket_pdfs/docket_688_PRELIMINARY_HEARING_7-21-26.pdf
+    319679  burkhart_docket_pdfs/docket_690_Memorandum_in_Support_of_Preliminary_Hearing_Bindover_7-28-26.pdf
+    389135  burkhart_docket_pdfs/docket_694_Defendant_Tyler_James_Robinson_s_Preliminary_Hearing_Briefing_8-11-26.pdf
+    165313  burkhart_docket_pdfs/docket_698_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_8-18-26.pdf
+    167821  burkhart_docket_pdfs/docket_699_Request_and_Order_for_Electronic_Media_Coverage_of_Court_Proceedings_8-18-26.pdf
+    277548  burkhart_docket_pdfs/docket_700_State_s_Reply_Supporting_Preliminary_Hearing_Bindover_8-18-26.pdf
+    155970  burkhart_docket_pdfs/docket_707_Opposition_to_Defendant_Tyler_James_Robinson_s_Opposition_to_EMC_Order_for_the_S.pdf
+    156178  burkhart_docket_pdfs/docket_708_Opposition_to_Defendant_Tyler_James_Robinson_s_Opposition_to_EMC_Order_for_the_S.pdf
+    245747  burkhart_docket_pdfs/docket_710_Minute_Entry_Order_RE_Electronic_Device_In_Courtroom_Prohibited_During_Septembe.pdf
+    481698  burkhart_docket_pdfs/docket_711_Standing_Decorum_Order_Effective_August_28_2026_8-27-26.pdf
+   2213105  burkhart_docket_pdfs/docket_712_News_Media_Opposition_to_Defendant_Motion_to_Classify_Unredacted_Oppositions_to_.pdf
+   2219659  burkhart_docket_pdfs/docket_713_News_Media_Consolidated_Response_to_Defendant_Opposition_to_EMC_Orders_for_the_S.pdf
+    572857  burkhart_docket_pdfs/docket_716_Defendant_Tyler_James_Robinson_s_Discovery_Status_Report_8-28-26.pdf
+    661883  burkhart_docket_pdfs/docket_718_Amended_Standing_Decorum_Order_Effective_August_28_2026_8-28-26.pdf
+
+================ FAILURES ================
+1) https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf
+   LIVE HOST: HTTP 503 on every attempt (with browser UA + Referer). Host-wide throttle, not a removal.
+   WAYBACK CDX: CONFIRMS 2 archived captures, both statuscode 200 mimetype application/pdf:
+       20260106220625 (93,007 B) and 20251114000447 (94,114 B)
+   WAYBACK PLAYBACK: HTTP 503 / 108-byte HTML error on ~10 attempts across 3 URL forms
+       (id_, if_, bare), both timestamps, http:// and https://, spaced 15-100 s apart.
+       CONTROL TEST: https://web.archive.org/web/2020id_/http://example.com/ ALSO returned 503,
+       while https://web.archive.org/ returned 200 -- so this is IA playback throttling this
+       client, NOT suppression of this document. One single attempt did briefly return the real
+       %PDF body, then the throttle re-engaged; the document IS there.
+   HUMAN ROUTE: open in a browser
+       https://web.archive.org/web/20260106220625id_/https://atty.utahcounty.gov/cms/uploads/2025_09_10_UVU_Shooting_Press_Release_3f9108991f.pdf
+       or retry the live URL later.
+
+2) https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf
+   Same picture. LIVE HOST 503. CDX confirms 9 archived captures, all 200 application/pdf, e.g.
+       20251114001520 (339,409 B), 20251113010048 (339,329 B), 20250916170455 (343,224 B),
+       20250914180138 (337,670 B - earliest).
+   WAYBACK PLAYBACK 503 on every attempt (same throttle as above).
+   HUMAN ROUTE:
+       https://web.archive.org/web/20251114001520id_/https://atty.utahcounty.gov/cms/uploads/2025_09_13_Press_Release_Robinson_Arrest_and_Potential_Charges_f526b4de85.pdf
+
+3) https://web.archive.org/web/20260709185314/https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+   (job item 16 - Wayback snapshot of the Burkhart docket page)
+   PLAYBACK HTTP 503, 108-byte HTML error. Same IA throttle.
+   LOW LOSS: the LIVE docket page was fetched successfully this run at 788,478 B dated 2026-08-31,
+   which is newer and larger than the 2026-07-09 snapshot (78,646 B per CDX). Item 16 was only ever
+   a backup for the LIST. Re-fetch when IA playback recovers.
+
+NOTES ON ITEMS INTENTIONALLY NOT RE-DOWNLOADED (known byte-identical duplicates):
+ * https://andreaburkhart.substack.com/api/v1/file/1d45d424-5f3d-4f09-8fa5-21a943e6ac4b.pdf
+   -- reported byte-identical to the Fox-hosted 2025-10-24 redacted transcript. VERIFIED this run:
+   our Fox copy hashes sha256 7a891b006d5c7128a5e120a469461855d9121239189ca3011625036949e16dc6,
+   exactly the hash the job brief reported for both hosts. Second host adds no new bytes.
+ * https://andreaburkhart.substack.com/api/v1/file/1d3ce795-67cd-4dcb-bb72-a78e64551a42.pdf
+   -- second host for the 8-11-26 preliminary hearing briefing; Fox copy kept (389,135 B, 41 pages).
+
+================ VERIFICATION ================
+All 297 PDFs verified: first 5 bytes == %PDF- , none under 5 KB.
+Page counts confirmed with pdfinfo where checked:
+  2025-10-24 redacted sealed-motion transcript ... 97 pages  (matches brief)
+  2026-08-11 defendant prelim briefing .......... 41 pages  (matches brief)
+  2026-07-28 State bindover memorandum .......... 29 pages  (brief said 28)
+  2026-08-18 State reply ........................ 20 pages  (brief said 19)
+  2026-08-28 discovery status report ............ 17 pages  (matches brief)
+  2026-04 ballistics motion ..................... 29 pages
+  2025-11-17 interlocutory petition brief ....... 131 pages
+  2025-12-12 interlocutory opposition brief ..... 93 pages
+  2026-07-09 official court reporter transcript . 278 pages
+  2026-07-10 official court reporter transcript . 97 pages
+sha256 cross-host match confirmed for the 2025-10-24 redacted transcript (see FAILURES notes).
+
+rev.com transcripts: HTML byte counts matched the brief EXACTLY for all 6 pages.
+  Transcript text was extracted from the MULTIPLE <div id="main-content"> chunks (rev splits a
+  long transcript across several same-id divs; reading only the first truncates Day 1 at 01:09:20).
+  Day 1 .txt runs from 'All rise ... Judge Tony F. Graf, Jr., presiding' / 'Calling case 251-403-576'
+  through 07:46:52 'All rise.' Contempt .txt ends at 55:28 'Court is now in recess.'
+
+Mapping files written:
+  /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/burkhart_docket_258_pdfs.tsv   (258 rows: docket_no, title, file_id, embed label, size, URL)
+  /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/burkhart_docket_full_867.txt   (every parsed docket entry + whether a PDF exists)

@@ -1,0 +1,80 @@
+
+
+Rules for LEVEL_2 in AFTER_OUTPUT_FILE.
+* This includes: LEVEL_2_For_REVIEW_AI_Created, LEVEL_2_APPROVED, LEVEL_2_REJECTED.
+* Don't remove any existing values in LEVEL_2_For_REVIEW_AI_Created.
+* When you add more values to LEVEL_2_For_REVIEW_AI_Created, don't create any that are duplicates in LEVEL_2_APPROVED or LEVEL_2_REJECTED.
+* "Level 2" will be directory names under SITE_DOC_ROOT.
+* SITE_DOC_ROOT/index.md has the homepage for the site. It includes Level 2 links in there that go out to the Level 2 pages.
+* An example of a Level 2 topic is "TPUSA". That Level 2 directory is SITE_DOC_ROOT/TPUSA/.  The page for that level 2 is often "overview.md" in that Level 2 directory, and in this example it is SITE_DOC_ROOT/TPUSA/overview.md.
+* Don't add or modify LEVEL_2_APPROVED or LEVEL_2_REJECTED.
+
+
+
+
+
+Rules for LEVEL_3 in AFTER_OUTPUT_FILE.
+* This includes: Level_3_Hierarchy and under it. Such as :
+  * Level_3_Hierarchy should have all of these areas filled out:
+      LEVEL_3_CATEGORIES_FOR_REVIEW, LEVEL_3_CATEGORIES_APPROVED, LEVEL_3_CATEGORIES_REJECTED, 
+      Level_3_ITEMS_For_REVIEW_AI_Created, Level_3_ITEMS_APPROVED, Level_3_ITEMS_REJECTED. 
+
+* Don't remove any existing values in any of those. You can add more, or update the properties under them however.
+* When you add more values to LEVEL_3_CATEGORIES_FOR_REVIEW, don't create any that are duplicates in LEVEL_3_CATEGORIES_APPROVED or LEVEL_3_CATEGORIES_REJECTED.
+  * Same with Level_3_ITEMS_For_REVIEW_AI_Created, Level_3_ITEMS_APPROVED, Level_3_ITEMS_REJECTED
+* Don't add or modify any of these:
+      LEVEL_3_CATEGORIES_APPROVED, LEVEL_3_CATEGORIES_REJECTED, 
+      Level_3_ITEMS_APPROVED, Level_3_ITEMS_REJECTED. 
+* Under "Level_2", list all "Key_Label"'s in the array. Don't repeat "Level_2" until switching between these higher level categories (LEVEL_3_CATEGORIES_APPROVED vs LEVEL_3_CATEGORIES_REJECTED, etc)
+* Make sure yaml value for yaml property "Describe" to be written to match the Charlie Kirk assassination investigation case specific to the part of the investigation related to the value in "Key_Label" yaml property.
+
+
+
+
+* Level 3 content are often pages (instead of directories) (but not always)
+* The Level 3 content is often a markdown page in the directory for the Level 2 that is it's parent.
+* The name of the Level 3 is almost never "overview.md" because that is for the Level 2 page.
+* The file for a topic is a markdown file (.md)
+* An example of a Level 3 "TPUSA Employees" (TPUSA_Employees) topic content page is: SITE_DOC_ROOT/TPUSA/employees.md. Where this parent is "Level 2" "TPUSA"
+* Under Level_3_Hierarchy, there should only be:
+      LEVEL_3_CATEGORIES_FOR_REVIEW, LEVEL_3_CATEGORIES_APPROVED, LEVEL_3_CATEGORIES_REJECTED, 
+      Level_3_ITEMS_For_REVIEW_AI_Created, Level_3_ITEMS_APPROVED, Level_3_ITEMS_REJECTED. 
+
+   * If there are any LEVEL_2_For_REVIEW_AI_Created, LEVEL_2_APPROVED, LEVEL_2_REJECTED, then remove those and figure out where the content under them goes.
+* Get rid of Level_3_Topics.
+* "Level 3 Categories" (like LEVEL_3_CATEGORIES_FOR_REVIEW) are when the "items" are grouped into a cateogry vs items.  See example below in Example_Categories_vs_Items.
+
+
+
+
+
+Example_Categories_vs_Items:
+    LEVEL_3_CATEGORIES_FOR_REVIEW:
+      - Censorship
+      - Articles_And_Coverage
+      - Social_Media_Analysis
+      - Influencer_Coverage
+      - X_Twitter_Investigators
+      - Podcast_Coverage
+      - YouTube_Analysis
+      - Mainstream_News_Coverage
+      - Video_Deletion_Claims
+      - Live_Stream_Interruptions
+      - Google_Trends_Investigations
+      - Witness_Video_Analysis
+    LEVEL_3_CATEGORIES_APPROVED: []
+    LEVEL_3_CATEGORIES_REJECTED: []
+
+    Level_3_ITEMS_For_REVIEW_AI_Created:
+      - Baron_Coleman_YouTube
+      - Candace_Owens_Investigation
+      - MonkeyWerx_Plane_Analysis
+      - Tucker_Carlson_Coverage
+      - Jimmy_Dore_Coverage
+      - LeonJakeB_YouTube_Witness
+      - Ammermazing_Twitter_Research
+      - Tai_Norman_Operation_322
+    Level_3_ITEMS_APPROVED: []
+    Level_3_ITEMS_REJECTED: []
+
+

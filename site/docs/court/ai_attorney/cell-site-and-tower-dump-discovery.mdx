@@ -1,0 +1,201 @@
+---
+displayed_sidebar: docs
+title: "What Was Collected, What Was Analysed, And What Happened To The Difference"
+sidebar_label: "Cell-Site & Tower Dump Discovery"
+description: "A tower dump was taken from three national carriers in this case and the return describes it in five words. An AI defense attorney would move for the collection inventory, the analysis log, the filter criteria and the disposition of everything filtered out. Theoretical exercise."
+keywords:
+  - Charlie Kirk
+  - Tyler Robinson
+  - capital defense
+  - State v Robinson
+  - AI defense attorney
+  - defense strategy
+image: "/img/docusaurus-social-card.jpg"
+hide_table_of_contents: true
+---
+
+{/* Full-bleed marker: activates the site-wide full-width + text-wrap
+    layout in custom.css. Scoped via CSS :has(). */}
+<div className="ck-full-bleed" />
+
+<a href="/court/ai_attorney/overview" style={{display:'inline-block', marginBottom:'1rem',
+padding:'0.35rem 0.9rem', background:'#1a73e8', color:'#fff',
+borderRadius:'4px', textDecoration:'none', fontSize:'0.9rem'}}>← AI Defense Attorney</a>
+
+# What Was Collected, What Was Analysed, And What Happened To The Difference
+
+:::caution Legal Disclaimer
+**Tyler Robinson is charged, not convicted**, and is **presumed innocent**. Nothing on this page states as fact that any living person committed a crime, destroyed evidence, or acted improperly. Court filings in this case are subject to a **gag order** and **sealing**, so the public record is incomplete by design.
+:::
+
+## The One Thing We Would Do Differently
+
+> **Move for a collection-and-analysis audit of every reverse-location dataset in this case: the full inventory of what was collected, the log of what was actually queried, the filter criteria applied, and the disposition of every record the filter threw away.**
+
+This page names no person and attributes no handset to anybody. It is a demand for records and a set of foundational questions, and it stays that way from the first line to the last.
+
+Start with what the public record already proves. On 11 September 2025, Detective Michael George Carle of the Utah County Sheriff's Office swore an affidavit for **Search Warrant 3212941**, signed by Magistrate Kraig Powell, directed at T-Mobile, AT&T and Verizon. It sought a **cellular tower dump** — every device that touched the serving cell sites — at four target locations, each defined as a 1,900-foot radius:
+
+* **Location 1** — 746 W 800 S, Orem, 10 September 2025, 11:40 to 12:55 MDT.
+* **Location 2** — the UVU Losee Building, 10 September 2025, 12:10 to 12:40 MDT.
+* **Location 3** — 562 W 800 S, Orem, 10 September 2025, 12:20 to 12:55 MDT.
+* **Location 4** — the UVU Losee Building, **8 September 2025, 20:10 to 20:25 MDT**.
+
+Read Location 4 again. It is two days before the event, at night, for fifteen minutes, at the same building. The nine-page probable-cause narrative in that affidavit describes 10 September and nothing else. **It never mentions 8 September at all.** Something put that fifteen-minute evening window in front of a magistrate, and the document does not say what.
+
+The **Return to Search Warrant 3212941**, executed 9 October 2025 at 08:28, describes everything seized from three national carriers in one sentence: *"Tower Dump data from all three carriers."* Utah R. Crim. P. 40 requires the return to contain a true and **detailed** account of the property taken. Eight words is not an inventory anyone can audit. There is no record count, no date range, no file manifest, no hash.
+
+Now put that beside the defense's own filing. In its **Post-Preliminary Hearing Status Report Concerning Discovery** (Dkt. 257, 28 August 2026), the defense told the court that carrier returns from AT&T and Verizon contain cell site location information and that **"in this case there are at least 25,253 location records."** That report describes 45 productions, 29,237 files, a separate 12.1 TB hard drive holding six mobile extractions and fourteen computer images, roughly 183 GB of Apple, Google, Discord, AT&T and Verizon returns with another 170 GB from Apple on 18 August 2026, and **40 identified government agencies**.
+
+Nobody reads 25,253 location records. A person, or a filter written by a person, decided which subset mattered. **That decision is a discoverable artefact and it is the whole ball game.** So the motion asks for the artefact, in six parts:
+
+1. **The collection inventory.** Every tower dump and every CSLI production, listed by carrier, warrant number, target coordinates, radius and time window, with the record count actually returned against each.
+2. **The analysis log.** Which records were loaded into which platform, by whom, on what date, and under what case or task number.
+3. **The tool, the version, and the query strings.** Not a description of the searches. The literal selectors and filter expressions, as run.
+4. **The exclusion criteria.** What was filtered out, on whose instruction, and on what stated basis — including the device IDs removed at the anonymised-list stage before any subscriber was ever identified.
+5. **Every analyst report generated from this material**, including reports that were generated and then superseded, and the superseding versions.
+6. **The disposition of the non-responsive remainder.** Retained, sequestered, purged, or returned — and if purged, when and under what retention schedule.
+
+The State has already written the exclusion step down once, in its own drafting, and that document is public. The companion Google geofence warrant, **3212601**, carries a three-stage **Production Protocol**. Stage two has the provider return an **anonymised list** of device identifiers. Stage three then directs that *"law enforcement shall review the Anonymized List to remove device IDs that are not relevant to the investigation"* — comparing timestamped coordinates against the known facts, and looking for identifiers appearing at two or more of the target locations. Stage four permits investigators to go back for additional coordinates **outside the original search parameters**. Stage five is the demand that unmasks a chosen identifier into a named subscriber.
+
+That is a filter, a second collection tier, and an unmasking decision, all specified in advance and all producing records. The carrier tower dump raises the identical sequence, because warrant 3212941 carries the same anonymisation notice on its face. So the audit is not asking the State to invent a document. It is asking for the paperwork the warrants themselves contemplate.
+
+The collection inventory also has to cover the **second track**, which is different in kind and easy to conflate with the first. Alongside the reverse-location warrants, the held warrant set contains targeted per-number location warrants served on Verizon in mid-September 2025 — among them 3214341, 3214411 and 3214731, covering two telephone numbers. Those are ordinary subscriber-specific productions and they answer a different question. Reverse-location material asks *who was there*. Per-number material asks *where one known device went*. Only the first can ever be exculpatory about an unidentified presence, and it is the first that has never been described in any inventory we hold.
+
+Utah R. Evid. **1006** does the same work at trial from the other end. If the State offers a mapped or summarised location product, the originals it summarises must be made available. A summary exhibit whose underlying dataset is described only as "tower dump data" cannot satisfy that rule.
+
+## What The Defense Team Did Instead
+
+This line **is being pursued**, and the public record says so plainly. Dkt. 257 is a defense filing, and it is the document that put the 25,253 figure on the record in the first place. It reports that provider returns are at **Stage One of a five-stage review**, that the defense served a Formal Request for Discovery under URCP 16 on 30 September 2025 (Dkt. 61) and a Second Request for DNA and Other Forensic Discovery on 25 March 2026, and that counsel is preparing expert declarations in support of **a motion to compel forensic discovery the FBI and ATF have declined to provide**. It states that at the **1 September 2026** hearing the defense will ask the court to set a briefing schedule for exactly that motion.
+
+There is also a preservation order. On 4 November 2025 the court entered a stipulated order (Dkt. 161) requiring the Utah County Attorney's Office, its agents, and any law enforcement agency involved in the investigation to preserve all evidence **in their custody or under their control**, with fourteen days' notice before release, disposal, or potentially destructive testing.
+
+What is **not visible on the public record we hold** is any filing directed at the analysis layer specifically: the query log, the selector list, the exclusion criteria, or the de-anonymisation decisions. That is an observation about the documents available to us and nothing more. The archive we hold contains 374 PDFs against 867 known docket entries, only 258 of which ever had a public PDF at all, and the filings in this case are gagged and partly sealed.
+
+## Where This Belongs In The Case
+
+| Stage of the case | When that stage runs | Status of this step |
+|---|---|---|
+| Rule 16 discovery and motions to compel | From arraignment onward; live right now | Being litigated — a briefing schedule was to be requested 1 Sept 2026 |
+| Preliminary hearing cross | July 6-10, 2026 — completed | No location-data line appears in the certified transcripts we hold |
+| Franks / suppression practice on the reverse-location warrants | After bind-over, before trial | Not yet due — no bind-over has occurred |
+| Rule 702, Rule 901 and Rule 1006 practice on any mapped CSLI exhibit | Motions in limine | Not yet due |
+
+## Witness Or Discovery Target
+
+| How it would be done | Target | Took the stand? | Status on the public record |
+|---|---|---|---|
+| Rule 16 motion to compel, plus a records demand | The collection inventory and analysis log for warrant 3212941 | n/a | Not found in the material we hold |
+| Cross-examination — witness testified, line not visible in the certified record | Brian Davis, SBI case agent | Yes — July 8 and July 9, 2026 | Certified Day 4 transcript searched; no cell-site or carrier-location line found |
+| Cross-examination — witness testified, line not visible in the certified record | Jennifer Faumuina, SBI crime-scene sergeant | Yes — July 7 and July 9, 2026 | Certified Day 4 transcript searched; no cell-site or carrier-location line found |
+| Witness never called publicly | The affiant on warrants 3212941 and 3212601 | No | No warrant affiant has testified in the certified record we hold |
+| Witness never called publicly | The Statewide Information Analysis Center analyst who reviewed extracted device data | No | Described on the stand by another witness; never called |
+| Records custodian subpoena — private parties, ordinary practice | AT&T, Verizon and T-Mobile compliance units | n/a | No public subpoena in the archive we hold |
+| Expert never retained publicly | Independent CSLI and radio-frequency examiner | No | None noticed publicly |
+
+## The Questions That Were Not Asked
+
+The two certified transcripts we hold are preliminary hearing **Day 4 (9 July 2026)** and **Day 5 (10 July 2026)**. Both were searched for *cell site*, *tower*, *tower dump*, *CSLI*, *geofence*, *carrier*, *Verizon*, *AT&T*, *T-Mobile*, *IMEI*, *IMSI* and *location data*. On Day 4 the word "cell" appears once in testimony, inside a definition of forensic software as a tool used on cell phones. On Day 5 it appears only in the court's admonition about phones in the courtroom. **No line of questioning about carrier location data appears in either certified transcript.** Days 1, 2 and 3 are not certified and are not citable, so nothing is claimed about them.
+
+One passage in the certified Day 4 record is the opening. On the State's direct examination, Agent Davis described the device pipeline: the FBI transported a phone to the Regional Computer Forensic Laboratory in Salt Lake City, the download was performed there, a flash drive went to the State Bureau of Investigation, and the data then went to an analyst at the **Statewide Information Analysis Center** — a Department of Public Safety fusion centre — *"to go through that data of his phone to look for any pertinent evidence or information that may be on there."* He said he does not perform extractions himself, and that he did not believe he had spoken with the individuals at the laboratory who performed this one.
+
+That is a filter, described on the record, applied by a person who has never been called. The questions below follow from it.
+
+**To Agent Davis, or to whoever the State designates to sponsor location evidence:**
+
+1. Agent, when you said an analyst went through the data "to look for any pertinent evidence," who defined what counted as pertinent?
+2. Was that definition written down anywhere before the review started?
+3. Did the same analytical unit receive the carrier tower-dump material returned under warrant 3212941?
+4. Does a written report exist describing what that unit did with it?
+5. You told this court you had not spoken with the laboratory personnel who ran the extraction. Have you spoken with anyone who ran a query against the tower-dump data?
+
+**The foundational block. Every one of these is answerable in a single word:**
+
+6. Did the State obtain a cellular tower dump in this case?
+7. Did that dump return records for devices other than the defendant's?
+8. Do you know how many device records it returned?
+9. Is there a written log of every query run against those records?
+10. Were the records searched using selectors?
+11. Is there a written list of the selectors used?
+12. Was any device record excluded from review?
+13. Is the exclusion criterion written down?
+14. Did anyone request de-anonymisation of any device identifier?
+15. Were you asked to look for devices registered to a carrier outside the United States?
+16. Was a roaming, IMSI-prefix, or home-network query ever run against this dataset?
+17. Has any part of the non-responsive material been purged?
+
+This is Doctrine 4, point 3, in its purest form. The question is not *are you sure* — it is **were you asked to look**. Every "no" in that list is worth more to a defense than a "yes", because a "no" is a fact about the investigation that no laboratory result can cure.
+
+Two documentary questions belong here as well, and both come off the face of the warrants. Warrant 3212941 states the Location 1 tower-dump window as 11:40 to 12:55 in one paragraph and 11:40 to **12:30** in the paragraph governing precision-location records — a twenty-five-minute difference in the same document. And the companion Google geofence warrant, **3212601**, prints its first search window as starting at 11:45:00**PM** and ending at 12:00:00**PM** on the same day. Which window was actually run, and against which record set, is a question for the person who ran it.
+
+## Why A Defense Attorney Would Want This
+
+The Brady point is clean and it does not depend on any theory about who else was present. Material tending to show that an **unidentified device** was at the relevant place at the relevant time is exculpatory on its face, because it is inconsistent with the sole-actor account the State has pleaded. Under *Brady v. Maryland* and *Kyles v. Whitley*, the obligation attaches to favourable material known to anyone acting on the government's behalf, and it attaches **whether or not anyone thought to look**. A filter that never ran cannot have found nothing. Absence of a result is not a result.
+
+The State's own sworn words make this concrete. The affidavit for warrant 3212941 tells the magistrate the records will *"assist law enforcement in identifying persons present near the suspect's location before, during and after the time of the homicide and serve to eliminate or support any investigative actions to follow."* The State asked a judge for this dataset **in order to identify other people who were there**. Having said that to obtain it, it cannot describe the product as irrelevant to a defense that asks the same question.
+
+Keep the two halves of this apart, because that separation is what keeps the reachable half alive:
+
+| The demand | Gated behind the alternative-perpetrator notice? |
+|---|---|
+| The collection inventory for each reverse-location warrant | No — ordinary Rule 16 |
+| The analysis log, tool, version and query strings | No — ordinary Rule 16 |
+| The exclusion criteria and the de-anonymisation decision record | No — ordinary Rule 16 and Brady |
+| The disposition of the non-responsive remainder | No — ordinary Rule 16 |
+| Subscriber identity behind any particular device identifier | Yes |
+| Any argument that a device belonged to a foreign actor | Yes |
+| Foreign-carrier subscriber records sought through a treaty request | Yes |
+
+Everything above the line is available today and a court finds it easy to grant. It touches no classified holding, asks no agency to waive anything, and concerns records the State already possesses. Everything below the line runs through [the alternative-perpetrator notice](/court/ai_attorney/alternative-perpetrator-notice), which has to be filed and ruled on first. Arguing the two together is how the reachable half gets dismissed alongside the unreachable half.
+
+It is worth saying what a compliant inventory would actually look like, because "we produced it all" is the answer this motion is written to defeat. For each production: the carrier, the warrant number, the target coordinates and radius, the requested window, the window actually served, the delivery date, the file names and formats as received, the row count per file, and a hash for each file as delivered. For each analysis pass: the platform and version, the operator, the date, the query as run, the result count, and the report identifier. None of that is exotic. It is what any competent digital-evidence unit records as a matter of course, and if it was not recorded, that answer is itself the finding.
+
+There is a reason to ask now rather than after bind-over. Retention schedules keep running while a case is litigated, and the material most likely to be lost is precisely the material nobody has designated as responsive. Records held to be non-responsive are the first thing a retention policy reaches. Once the remainder is gone, the difference between what was collected and what was analysed becomes permanently unmeasurable, and the question this page exists to ask can no longer be answered by anybody.
+
+This instrument also serves the second route to reasonable doubt. It needs no alternative perpetrator at all. A jury asked to convict on a location dataset of 25,253 records, of which some undisclosed fraction was ever examined under criteria nobody has written down, is being asked to trust a process it cannot inspect.
+
+**Day-one date:** 2025-09-15. Our attorney has been counsel of record since 12 September 2025, and would have moved within seventy-two hours for an order directing the State to serve **18 U.S.C. section 2703(f)** preservation requests on all three carriers, covering the full un-narrowed datasets for each target location rather than the four windows the warrant selected. The reason is in the affidavit itself: Detective Carle swore on 11 September 2025 that this class of precision-location data *"is also subject to deletion from the service providers within a very short time period."* The return on warrant 3212941 was not executed until **9 October 2025**, four weeks later, and the court's preservation order did not arrive until **4 November 2025** — and it reaches only material in the State's custody or control, which carrier-held records never produced are not. A preservation letter served on 15 September 2025 costs nothing and closes that hole. Served today, it cannot.
+
+## The Honest Counterargument
+
+The strongest answer to this page is that most of it is already happening, privately, and better. Dkt. 257 shows a defense team with the 12.1 TB drive in hand, a paralegal averaging 100 hours a month since October 2025, and a motion to compel forensic discovery in preparation. A demand for an analysis log is an obvious item on any capital discovery request, and Dkt. 61 — the September 2025 Rule 16 request that would contain it — is not a document the public archive holds. Concluding that the demand was not made because we cannot see it is exactly the error this site is built to avoid.
+
+The second answer is more uncomfortable. **The Google geofence warrant returned nothing.** The return on warrant 3212601, executed 23 September 2025, reads in full: *"No data was stored by Google LLC."* Empty geofence returns became routine after Google moved Location History to on-device storage, so that result is ordinary rather than sinister — but it matters here, because it means the only reverse-location dataset in this case is the carrier tower dump. A tower dump is coarse. Cell sites are commonly half a mile or more apart, and the affidavit says so in terms. Tower-dump data can place a device in a sector; it cannot place a device on a rooftop, in a courtyard, or in anyone's hand. A defense that oversells what these records could show will be corrected in front of the jury by the State's own witness.
+
+The third answer is timing. A tower dump inside a 1,900-foot radius on a public university campus at midday captures students, staff, visitors and people driving past on Campus Drive. Courts are alert to that, and a defense that asks to comb through the identities of uninvolved people invites a protective order rather than a production. The demand that survives is the one framed exactly as it is framed here — the **log of what the State did**, not the identities of the public.
+
+## Sources On This Site
+
+* [Forensic Phone Extraction](/court/Phone_Extraction)
+* [Tyler Robinson's Phone and Devices](/court/Robinson_Phone_Devices)
+* [Lance Twiggs' Phone](/court/Twiggs_Phone)
+* [Cellebrite](/court/Cellebrite)
+* The Cellebrite Extraction Contradiction
+* [Cell Tower, Phone Data and Movement Timeline](/Timeline/cell-tower-phone-data-timeline)
+* Foreign Phones at UVU
+* Sixteen Israeli-Registered Phones at UVU
+* Israeli Phones and Bumblehive
+* Technology and Surveillance
+* [Discovery and Brady Disputes](/court/discovery-brady-disputes)
+* [Gag Orders and Sealing](/court/gag-orders-sealing)
+* [Preliminary Hearing Day 4](/court/Days_in_Court/2026-07-09-prelim-day-4)
+* [Bind-Over Oral Argument, 1 September 2026](/court/Days_in_Court/2026-09-01-bindover-argument)
+* [File The Alternative-Perpetrator Notice First](/court/ai_attorney/alternative-perpetrator-notice)
+* [Order An Independent Re-Extraction Of The Devices](/court/ai_attorney/independent-device-reexamination)
+* [Brady Enforcement And Sanctions](/court/ai_attorney/brady-enforcement-and-sanctions)
+* [FBI Agents On The Stand](/court/ai_attorney/fbi-agents-on-the-stand)
+* [Legal Documents Archive](/court/legal_docs/overview)
+
+---
+
+:::danger Theoretical Exercise Only
+**This page is a theoretical exercise.** It is a written simulation of how an idealised defense attorney might approach this case. **We make no claim that there is any problem with the current defense attorney**, with any member of the defense team, or with any decision they have made.
+
+Real capital defense is conducted under a **gag order**, with **sealed filings**, and on the basis of **full discovery that the public has never seen**. Counsel of record know facts we do not. A step described here as "not on the public record" may already have been taken privately, may have been considered and rejected for good reason, or may not yet be due at this stage of the case. Silence in the public record is **not** evidence of a failure.
+
+Nothing here is legal advice, a criticism of any licensed attorney, or an allegation of professional misconduct.
+:::
+
+{/* CK_AUTHOR_CREDIT */}
+
+*This website's author is [@HolonCitizen](https://x.com/HolonCitizen) on X and [YouTube/@HolonCitizen](https://www.youtube.com/@HolonCitizen). Follow me there.*

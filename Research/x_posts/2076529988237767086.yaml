@@ -1,0 +1,31 @@
+id: '2076529988237767086'
+url: 'https://x.com/IanCarrollShow/status/2076529988237767086'
+author:
+  username: 'IanCarrollShow'
+  name: 'Ian Carroll'
+  id: '1663308107240570880'
+text: |
+  Israel really likes assassination. It's kind of their thing.
+created_at: '2026-07-13T04:51:43.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1819
+  reply_count: 470
+  like_count: 9970
+  quote_count: 79
+  bookmark_count: 1441
+  impression_count: 182866
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2076529540986552322'
+      duration_ms: 426233
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2076529540986552322/img/sTftijGy6cEnG4qM.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2076529540986552322/vid/avc1/1080x1920/nC-y-eSJN_1DDcK0.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-13'
+temp_file: false

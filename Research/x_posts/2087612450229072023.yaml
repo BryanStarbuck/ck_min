@@ -1,0 +1,38 @@
+id: '2087612450229072023'
+url: 'https://x.com/CharlotteLee_88/status/2087612450229072023'
+author:
+  username: 'CharlotteLee_88'
+  name: 'Charliesangels47'
+  id: '2006195421312401409'
+text: |
+  Here's an ethical video by someone formerly on Charlie's film crew team.  One that doesn't try to memorialize Charlie as Jesus or a martyr.   https://t.co/TJ20Kzfvpt
+created_at: '2026-08-12T18:49:28.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 2
+  like_count: 35
+  quote_count: 1
+  bookmark_count: 10
+  impression_count: 12018
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2087468091718656000'
+      duration_ms: 345533
+      width: 3840
+      height: 2160
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2087468091718656000/img/6eKwP0QJYSUrQTEv.jpg'
+      downloaded_as: 'videos/2087612450229072023.mp4'
+      sha256: '6a4cd474ce89ac68db78ee9e0c8a65aea3f3694dc093ac802ecf97ec497e33f5'
+      ipfs_cid: 'Qmb92YLptn9gjXqn7Sptxyy2LH26fjz8txpysNNQ9J8sKC'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: '2087469680202264685'
+  quoted_status_url: 'https://x.com/ArtifexMemor/status/2087469680202264685'
+  quoted_author: '@ArtifexMemor'
+transcription_file: 'videos_transcription/2087612450229072023.md'
+site_page: 'site/docs/Tyler_Robinson/twenty-five-hour-driving-timeline.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-19'
+temp_file: false

@@ -1,0 +1,30 @@
+{
+  "name": "charlie-kirk-transcriber",
+  "version": "1.0.0",
+  "description": "Batch transcription tool for Charlie Kirk audio/video files using Whisper",
+  "main": "script/transcribe.js",
+  "scripts": {
+    "transcribe": "node script/transcribe.js",
+    "transcribe:verbose": "node script/transcribe.js --verbose",
+    "transcribe:medium": "node script/transcribe.js -m medium",
+    "transcribe:large": "node script/transcribe.js -m large-v3",
+    "help": "node script/transcribe.js --help"
+  },
+  "keywords": [
+    "transcription",
+    "whisper",
+    "audio",
+    "video",
+    "speech-to-text",
+    "charlie-kirk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/act3/charlie-kirk"
+  }
+}

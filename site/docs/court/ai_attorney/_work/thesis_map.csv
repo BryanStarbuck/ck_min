@@ -1,0 +1,49 @@
+thesis_id,thesis_slug,instrument_page_key,relationship,note
+T1,mechanism-of-death-explosive,explosive-residue-testing,primary,motion number one
+T1,mechanism-of-death-explosive,independent-autopsy-review,primary,wound morphology
+T1,mechanism-of-death-explosive,blast-and-acoustics-experts,primary,two experts nobody has
+T1,mechanism-of-death-explosive,microphone-hardware-subpoena,primary,the device itself
+T1,mechanism-of-death-explosive,ballistics-daubert-challenge,supporting,Rule 702
+T1,mechanism-of-death-explosive,security-team-clothing,supporting,residue substrate
+T1,mechanism-of-death-explosive,transport-suv-custody,supporting,burnt object
+T1,mechanism-of-death-explosive,crime-scene-warrant-gap-suppression,primary,NEW - no warrant for the UVU scene in the held set
+T1,mechanism-of-death-explosive,state-expert-notice-exclusion,primary,NEW - no State expert notice on the 867-row docket
+T2,federal-handling-and-nondisclosure,soil-excavation-subpoena,primary,ten-inch dig
+T2,federal-handling-and-nondisclosure,scene-alteration-spoliation,primary,adverse inference
+T2,federal-handling-and-nondisclosure,brady-enforcement-and-sanctions,primary,sanctions practice
+T2,federal-handling-and-nondisclosure,fbi-agents-on-the-stand,supporting,who made the routing decision
+T2,federal-handling-and-nondisclosure,exhibit-production-and-bates-audit,primary,NEW - 34 exhibits held as zero documents
+T2,federal-handling-and-nondisclosure,hearing-audio-and-transcript-release,supporting,NEW - ordered released never appeared
+T3,foreign-decision-and-notification,alternative-perpetrator-notice,gateway,MUST COME FIRST
+T3,foreign-decision-and-notification,nctc-halted-inquiry-subpoena,primary,the named official who already spoke
+T3,foreign-decision-and-notification,tpusa-organizational-subpoenas,supporting,private and reachable
+T4,direction-of-us-military-intelligence,alternative-perpetrator-notice,gateway,MUST COME FIRST
+T4,direction-of-us-military-intelligence,av-procurement-chain-subpoena,primary,NEW - documentary and reachable
+T4,direction-of-us-military-intelligence,microphone-hardware-subpoena,supporting,the hardware end of the chain
+T4,direction-of-us-military-intelligence,fort-huachuca-records,supporting,documents only - names nobody
+T5,the-diverted-pursuit,dispatch-and-cad-records,primary,NEW
+T5,the-diverted-pursuit,detention-and-release-records,primary,NEW - records only
+T5,the-diverted-pursuit,fbi-agents-on-the-stand,supporting,arrival order
+T6,aircraft-and-ground-vehicles,alternative-perpetrator-notice,gateway,MUST COME FIRST
+T6,aircraft-and-ground-vehicles,rental-vehicle-subpoenas,primary,NEW - reachable
+T6,aircraft-and-ground-vehicles,fbo-and-ground-handling-records,primary,NEW - reachable
+T6,aircraft-and-ground-vehicles,adsb-authentication-and-custody,primary,NEW - how it gets into evidence
+T7,foreign-registered-handsets-on-campus,alternative-perpetrator-notice,gateway,MUST COME FIRST
+T7,foreign-registered-handsets-on-campus,cell-site-and-tower-dump-discovery,primary,NEW
+T7,foreign-registered-handsets-on-campus,foreign-carrier-records-mlat,primary,NEW - likely refused - write it anyway
+T7,foreign-registered-handsets-on-campus,independent-device-reexamination,supporting,existing
+T8,the-university-owned-house,university-property-records-subpoena,primary,NEW - most reachable thesis in Appendix A
+T8,the-university-owned-house,house-frontage-camera-canvass,primary,NEW
+T9,withheld-exculpatory-material,campus-camera-inventory-and-retention,primary,NEW - the campus half
+T9,withheld-exculpatory-material,brady-enforcement-and-sanctions,primary,existing
+T9,withheld-exculpatory-material,alternative-perpetrator-notice,gateway,federal half only
+T9,withheld-exculpatory-material,exhibit-production-and-bates-audit,supporting,NEW
+T9,withheld-exculpatory-material,state-expert-notice-exclusion,supporting,NEW
+-,-,confession-suppression-motion,-,conventional capital defense - Cluster D
+-,-,gag-order-and-publicity,-,conventional capital defense - Cluster D
+-,-,bomb-dogs-and-eod-sweep,-,serves T1 and T2 but is its own line
+-,-,hospital-and-transport-record,-,serves T1
+-,-,family-and-organization-witnesses,-,serves T3 - answered by declining
+T1,mechanism-of-death-explosive,faro-point-cloud-expert,primary,NEW 2026-09-01 - the State's own 660 GB point cloud measures the trajectory geometry
+T2,federal-handling-and-nondisclosure,faro-point-cloud-expert,supporting,scan dates against the resurfacing date
+T9,withheld-exculpatory-material,faro-point-cloud-expert,supporting,raw data produced without the metadata that makes it readable

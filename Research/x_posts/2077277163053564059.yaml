@@ -1,0 +1,57 @@
+id: '2077277163053564059'
+url: 'https://x.com/wtshesaid72/status/2077277163053564059'
+author:
+  username: 'wtshesaid72'
+  name: 'Wtshesaid72'
+  id: '1802788169378603008'
+  description: 'Whisperer of patterns and weaver of unseen threads, a keen excavator of dampened resonance and buried truths. Artist, educator, inventor, & physics researcher.'
+text: |
+  The B-Field Resonant Cascade (BFRC) Hypothesis: How Charlie Kirk Was Killed Charlie Kirk's death was not a lone gunman with a .30-06. It was a pulsed B-field cascade delivered through a prepared resonant site. The location featured a bowl-shaped courtyard, raised platform with deliberate air gap, and underground high-voltage cavity tapped from existing infrastructure. A pulsed EM field generator was connected and ready. When Charlie touched the corded microphone with both hands, he completed the conductive path: body tissues + metal necklace + mic cord. The generator fired a rapidly changing B-field. Faraday's law induced strong currents. Lorentz forces and magnetic pinch caused sudden chest/neck compression. Rapid expansion followed, flinging the necklace backward with spark-gap arcing and heat. This generated a thermoelastic pressure wave and air displacement, producing sleeve shock wrinkles, close acoustic "pops," and blood/tissue ejection — all mimicking a close-range gunshot at the epicenter. Internal injuries were inconsistent with ballistic trauma, so body handling was pre-scripted. Dirt under the tent was removed by two companies (plausible deniability) due to magnetic compaction and microorganism changes. Concrete pavers permanently altered site acoustics, preventing forensic rifle-shot comparisons. The IR camera and box on the tent frame behind his head provided targeting and timing. Fort Huachuca — the Army's EM/EW proving ground — supplied the expertise and validation needed for this operation. The entire cascade unified visuals, timing, acoustics, and cover-up elements. This is the B-Field Resonant Cascade. The official story is the cover.
+created_at: '2026-07-15T06:20:44.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 9
+  reply_count: 6
+  like_count: 58
+  quote_count: 3
+  bookmark_count: 60
+  impression_count: 11321
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2077277066953719808'
+      duration_ms: 45531
+      ipfs_cid: 'QmSnkHsTUv8tPb45f9RrvFLM16FVSpKCA1ersYX28SFAZQ'
+      local_file: 'videos/2077277163053564059.mp4'
+      transcription: 'videos_transcription/2077277163053564059.md'
+      transcription_note: 'Music only — no speech detected'
+  images:
+    - type: photo
+      media_key: '3_2077277066878222336'
+      url: 'https://pbs.twimg.com/media/HNP4fIdXgAA7ocS.jpg'
+      width: 1216
+      height: 848
+      ipfs_cid: 'Qmc7xvzX5wdwjpZAtMA3ThsixM69Hkhba6hbVMgm7g1Tqw'
+      description: 'Claimed site geometry cross-section: raised platform, air gap, corded mic, truss IR camera, underground electrical tap'
+    - type: photo
+      media_key: '3_2077277066911764480'
+      url: 'https://pbs.twimg.com/media/HNP4fIlXUAAWMUz.jpg'
+      width: 1216
+      height: 848
+      ipfs_cid: 'QmTMgLP9d5nqxarBEraksZ4ezyKc1s6dPJfYAvQuJPbngF'
+      description: 'Step 3: Lorentz forces + magnetic pinch effect (compression phase) diagram with B-field rings and underground tap'
+    - type: photo
+      media_key: '3_2077277066932678657'
+      url: 'https://pbs.twimg.com/media/HNP4fIqWcAERfIY.jpg'
+      width: 1141
+      height: 1492
+      ipfs_cid: 'QmUsJPYPqYX4tnp1rgPqtzrHCxbnFrFwJCMPhNEh3bgRAw'
+      description: 'Handwritten notes photo, passage circled in red, "stabilize" legible; uncaptioned by poster'
+site_pages:
+  - 'site/docs/Electrocution/overview.mdx'
+  - 'site/docs/Electrocution/bfrc-hypothesis.mdx'
+  - 'site/docs/Electrocution/resonant-site-preparation.mdx'
+  - 'site/docs/Electrocution/fort-huachuca-em-expertise.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-15'
+temp_file: false

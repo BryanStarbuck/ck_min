@@ -1,0 +1,1251 @@
+DOCUMENT LIST — State of Utah v. Tyler James Robinson
+Case No. 251403576 — Fourth Judicial District Court, Provo — Judge Tony F. Graf Jr.
+Compiled 2026-08-31 from Grok/X/web searches of what people are posting, circulating, and saying exists.
+
+THIS FILE IS A DOWNLOAD-TARGET LIST. It is NOT a finding that any living person committed a crime.
+Tyler Robinson is charged, not convicted, and is presumed innocent.
+
+HOW THIS FILE IS LAID OUT
+1. The LIST OF DOCUMENTS is at the TOP (this section). That is the working list of things to obtain/copy.
+2. Hubs (where people are getting them).
+3. Direct public PDF / transcript / warrant URLs people are posting.
+4. Search-warrant set (Andrea Burkhart archive — 24 affidavits).
+5. Preliminary-hearing exhibits people named in public discussion.
+6. Compact recreation of the court docket (Andrea Burkhart, through docket ~732 / 8-31-26).
+7. RAW SEARCH DUMPS at the bottom (Grok/X/web — not summarized).
+
+================================================================================
+HUBS — WHERE PEOPLE ARE GETTING THE DOCUMENTS
+================================================================================
+
+1. Andrea Burkhart legal-doc archive (THE most complete public copy of the docket, with downloadable PDFs)
+   https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+   X: @aburkhartlaw  https://x.com/aburkhartlaw
+   Why important: Recreates the XChange docket by number. Marks "Not obtained" vs downloadable PDF. People on X keep pointing here as the public archive.
+
+2. Andrea Burkhart search-warrant affidavit archive (24 warrants)
+   https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits
+   Posted 2026-07-13, updated as more warrants surface. X post: https://x.com/aburkhartlaw/status/2076480407739228541
+   Follow-up X (16 warrants compiled): quoted around 2026-08-19 by @MsJaneDoeUKnow https://x.com/MsJaneDoeUKnow/status/2090115284795609568
+   Piper index of 24 warrants pointing at Burkhart: https://x.com/Piper_truth1/status/2090143830859190403
+
+3. Andrea Burkhart discovery-status writeup
+   https://andreaburkhart.substack.com/p/tyler-robinson-discovery-updates
+   X: https://x.com/aburkhartlaw/status/2088402922141098022
+
+4. DocumentCloud project — "Charlie Kirk Murder Case and Tyler Robinson"
+   https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+   Public collection of charging records, motions, orders, hearing transcripts. Cloudflare-gated for scripts.
+
+5. Grabien searchable prelim archive (transcripts, exhibit log, rulings, filings)
+   https://news.grabien.com/robinson-prelim-archive/
+   Announcement: https://news.grabien.com/story/tyler-robinson-case-made-searchable-transcripts-exhibits-rulings-court
+   Day recordings:
+     Day 1 pt.1  https://grabien.com/newsclipper?id=31495680
+     Day 1 pt.2  https://grabien.com/newsclipper?id=31499696
+     Day 2 pt.1  https://grabien.com/newsclipper?id=31517834
+     Day 2 pt.2  https://grabien.com/newsclipper?id=31520988
+     Day 3       https://grabien.com/newsclipper?id=31540034
+   Certified Day 1 transcript also available via Rev.com (Grabien notes this).
+
+6. CharlieFiles.com (Obsidian Publish) — court documents index + working transcripts
+   Home: https://publish.obsidian.md/charliefiles/Home
+   Hearing transcripts index: https://publish.obsidian.md/charliefiles/transcripts/court/Hearing+Transcripts
+   Day 2 transcript: https://publish.obsidian.md/charliefiles/transcripts/court/2026-07-07+-+Preliminary+Hearing+Day+2+Transcript
+   Discord/texts evidence: https://publish.obsidian.md/charliefiles/evidence/The+Discord+and+Text+Messages
+   Charges/elements: https://publish.obsidian.md/charliefiles/articles/Charges+and+Elements
+
+7. Utah County Attorney media page (official charging Information)
+   https://atty.utahcounty.gov/media/ckpr
+   Charging Information post: https://atty.utahcounty.gov/media/ckpr/59
+   "The charging Criminal Information in the case against Tyler James Robinson is available here."
+
+8. Utah XChange (authoritative paid docket) — people repeatedly say this is the real source; ~$40/month. Burkhart and @AllyJKiss obtained warrants from it.
+
+9. Fox News static PDF host (ballistics motion + bindover briefs)
+   https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+   https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robinson-prelim-filing.pdf
+   https://static.foxnews.com/foxnews.com/content/uploads/2026/08/744b16b3-Prosecutor_Reply.pdf
+
+10. Nick Sortor mirror of the Information
+    https://sortor.us/release/tjrindictment.pdf
+    X: https://x.com/nicksortor/status/1968032548350816317
+
+11. NYT interactive charging document
+    https://www.nytimes.com/interactive/2025/09/16/us/tyler-robinson-charges.html
+
+12. Internet Archive text of Information
+    https://archive.org/details/tjr-information-49872215e-3
+
+13. Scribd mirrors (people posting PDFs there)
+    Defense prelim briefing: https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing
+    State bindover memo: https://www.scribd.com/document/1067587104/Memorandum-in-Support-of-Preliminary-Hearing-Bindover-in-Tyler-Robinson-case
+    Jan 9 motion to prevent further testing: https://www.scribd.com/document/1027014693/Tyler-Robinson-January-9-motion-to-prevent-further-testing-of-bullet-fragment-casings
+
+14. This site already hosts (DO NOT re-download unless a fuller copy exists)
+    /court/filings/tyler-robinson-ballistics-motion.pdf
+    /court/filings/tyler-robinson-redacted-hearing-transcript.pdf
+    Plus the 2025/ and 2026/ filing trees under site/internals/static/court/filings/ (see legal_docs/_work/inventory_existing.txt)
+
+================================================================================
+A. PRIORITY PUBLIC PDFs PEOPLE ARE CIRCULATING (direct download URLs)
+================================================================================
+
+--- CHARGING / PROBABLE CAUSE ---
+
+A1. Information (charging document) — 9-16-25 — 10 pages — OTN 70090584
+    DocumentCloud: https://www.documentcloud.org/documents/26098895-document-3/
+    DocumentCloud (alt): https://www.documentcloud.org/documents/26099479-charging-document-against-tyler-robinson/
+    DocumentCloud (TJR Information 49872215e3): https://www.documentcloud.org/documents/26099901-tjr-information-49872215e3/
+    DocumentCloud (TYLER ROBINSON CHARGING DOCUMENT): https://www.documentcloud.org/documents/26098839-tyler-robinson-charging-document/
+    Sortor: https://sortor.us/release/tjrindictment.pdf
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/15011912-ef6a-4cb0-9110-da11ae43c0b8.pdf
+    NYT: https://www.nytimes.com/interactive/2025/09/16/us/tyler-robinson-charges.html
+    Archive.org: https://archive.org/details/tjr-information-49872215e-3
+    Utah County Attorney: https://atty.utahcounty.gov/media/ckpr/59
+    X: @kyledcheney https://x.com/kyledcheney/status/1968032124109459563
+    X: @lookner https://x.com/lookner/status/1968025297791619252
+    X: @TaraBull https://x.com/TaraBull/status/1968029563646292047
+    X: @nicksortor https://x.com/nicksortor/status/1968032548350816317
+    Why people say it matters: Seven counts; alleged texts to roommate; DNA on rifle/towel; death-penalty notice. First public document of the case.
+
+A2. Probable Cause Affidavit — 9-16-25 (and the earlier 9-12 arrest PC affidavit)
+    DocumentCloud: https://www.documentcloud.org/documents/26090634-probable-cause-affidavit-robinson/
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/6176388e-e453-4f96-aa18-b7417f6c3853.pdf
+    Why: Defense later argued this 3-page affidavit should never have been released to media (Dkt. 2 referenced in the 3-30-26 redacted motion to exclude cameras). Contains the alleged Discord confession and inscribed-bullet claim.
+
+A3. Notice of Intent to Seek the Death Penalty — 9-16-25
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/0de50288-75a3-4d17-981e-720a32158ce3.pdf
+
+A4. Public Safety Assessment / Bail Order / Protective Order (Erika Kirk) — 9-16-25
+    PSA: https://andreaburkhart.substack.com/api/v1/file/3d101069-1ce7-40a7-a630-7b95ae234197.pdf
+    Bail: https://andreaburkhart.substack.com/api/v1/file/5a7cca47-f738-488e-9107-6e0495524469.pdf
+    Protective order Erika Kirk: https://andreaburkhart.substack.com/api/v1/file/903f010b-5e13-4966-9bb4-36c76b544a45.pdf
+
+--- BALLISTICS / ATF / FBI ---
+
+A5. Defendant's Jan 9, 2026 motion to stop further testing of the bullet jacket fragment (29 pages) + ATF report as Exhibit 2
+    Fox News host: https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+    Scribd: https://www.scribd.com/document/1027014693/Tyler-Robinson-January-9-motion-to-prevent-further-testing-of-bullet-fragment-casings
+    News: https://www.foxnews.com/us/tyler-robinson-judge-unseals-atf-report-assassination-charlie-kirk
+    Why: ATF report dated 9-17-25, Bates 011543, disclosed to defense 12-18-25. Jacket fragment "could not be identified or excluded" as fired from the Exhibit 1 rifle. This is THE document people on X treated as a bombshell. Also attaches State's Notice of Intent to Conduct Non-Destructive Testing (VCM at FBI lab).
+
+A6. ATF Firearms / toolmark reports (prelim exhibits 30, 30.2, 30.3, 30.4)
+    Not separately hosted as public PDFs except as attached to A5 and as described at prelim.
+    Ex. 30    firearm report — rifle operable; fired case ID'd to rifle; engraving/rotary-tool marks
+    Ex. 30.2  bullet-jacket fragment from autopsy — INCONCLUSIVE vs rifle; lead fragments unsuitable
+    Ex. 30.3  DNA on Dremel, bits, home casings — Robinson major contributor "at least one trillion times"
+    Ex. 30.4  engraving cutter Ex. 15a ID'd as making marks on fired case, 3 cartridges, "test shot" casing
+    Grabien Day 4/5 coverage: https://news.grabien.com/robinson-prelim-archive/
+
+A7. FBI DNA reports
+    Ex. 30.1 / Baker report — towel ~1.7 octillion×, screwdriver ~30 quintillion× "very strong support for inclusion"
+    Ex. 3 / 31 — ATF/FBI DNA on rifle and cartridges
+    Defense is preparing a motion to compel STRmix source code + CODIS database (see A12).
+
+--- BINDOVER BRIEFS (people posting these hard in Aug 2026) ---
+
+A8. State's Memorandum in Support of Preliminary Hearing Bindover — filed ~7-28-26 — 28 pages
+    Fox: people posted screenshots of https://t.co/RLNALNxnqs
+    Scribd: https://www.scribd.com/document/1067587104/Memorandum-in-Support-of-Preliminary-Hearing-Bindover-in-Tyler-Robinson-case
+    KUTV: https://kutv.com/news/local/prosecutors-say-evidence-overwhelming-to-send-tyler-robinson-case-to-trial
+    Why: "This is likely as straight-forward a bindover decision as this Court will ever see." Oral argument set Sept 1, 2026.
+
+A9. Defendant Tyler James Robinson's Preliminary Hearing Briefing — 8-11-26 — 34-41 pages
+    Fox: https://static.foxnews.com/foxnews.com/content/uploads/2026/08/robinson-prelim-filing.pdf
+    Scribd: https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing
+    Why: Challenges bindover on hearsay / Rule 1102; argues the sole death-penalty aggravator (great risk of death to another from a single scoped shot) is not met. Defense is NOT arguing identity of the rooftop figure in this brief — that is what @KanekoaTheGreat and others are posting about: https://x.com/KanekoaTheGreat/status/2089949059725553860
+
+A10. State's Reply Memorandum in Support of Preliminary Hearing Bindover — ~8-18-26
+    Fox: https://static.foxnews.com/foxnews.com/content/uploads/2026/08/744b16b3-Prosecutor_Reply.pdf
+    Grok/X cited Full PDF: https://t.co/fDVKOA52er
+    X: @MsJaneDoeUKnow https://x.com/MsJaneDoeUKnow/status/2089925523010928764
+    Famous line people quote: "Defendant does not challenge the substance of the evidence demonstrating that he was the person who crawled to the sniper's perch..."
+
+A11. Defendant's Post-Preliminary Hearing Status Report Concerning Discovery — 8-28-26 — 12 pages
+    X: @aburkhartlaw https://x.com/aburkhartlaw/status/2093467963856916767  (PDF https://t.co/RuOQW1dxbd)
+    Why: Discovery now 29,237 files (19,612 by 3-18-26 + 9,625 more through 8-18-26). >1,000,000 Discord communications recovered. >25,000 CSLI location records. Defense preparing DNA Daubert / motion to compel STRmix source code and entire CODIS database. Will ask for briefing schedule at Sept 1 hearing.
+
+A12. March 25, 2026 Second Request for DNA and Other Forensic Discovery (starts p.53 of the continue-prelim motion packet)
+    Attached to Dkt 466 (A13). Burkhart: "Link to March 2025 discovery demand here (starts at p. 53)" in the 8-28-26 X post.
+
+A13. Defendant's Motion to Vacate or Continue Preliminary Hearing — 3-27-26 — 69 pages with addenda
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/068f64e9-aae3-4e36-a358-9e542302e47d.pdf
+    Why: This is the 69-page motion that publicized the ATF "inconclusive bullet" result. Attaches discovery production tables (Ex. B: 19,612 files by type/date; Ex. C file types; Ex. D pages/duration). American Prospect and Daily Mail both ran off this.
+
+A14. Redacted Motion to Exclude Cameras — 3-30-26 — 258 pages (people cite page 70 Miranda transcript)
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/f43b97a3-1b00-4aac-bc1b-f6a377d72dc2.pdf
+    Substack S3 also indexed it. Why: Page 70 has the arrest-interview transcript: Miranda read 6:25-6:26 p.m. Sept 11; Robinson asks for Doug Terry and invokes counsel. This is the document citizen investigators use for the "he couldn't have sent the Discord confession" argument. American Prospect: https://prospect.org/2026/04/15/hole-in-open-and-shut-case-against-charlie-kirks-alleged-assassin-tyler-robinson/
+
+A15. Motion for OSC for Contempt and Motion to Compel — 4-16-26 — 67 pages (Scribd lists "Robinson Motion Contempt Show Cause")
+    Burkhart: https://andreaburkhart.substack.com/api/v1/file/e9c04837-ad73-4c7d-8d0e-dcb1783a51ce.pdf
+    Counsel declaration: https://andreaburkhart.substack.com/api/v1/file/efaa1999-45fe-4327-ae89-cb045c016b41.pdf
+    State's opposition 4-30-26: https://andreaburkhart.substack.com/api/v1/file/4af4647b-3b50-4645-a030-f1cf4b1e87ee.pdf
+    Result: June 26, 2026 — Graf held Christopher Ballard in civil contempt; kept death penalty.
+
+A16. State's Preliminary Hearing Witness and Exhibit List — 5-6-26
+    Burkhart/Substack S3: https://andreaburkhart.substack.com/api/v1/file/59f61407-2811-4027-90d5-a611f4d21098.pdf
+    Bates-numbered exhibit table people quote:
+      23 Photo of round from apartment     Bates 2941   11/19/2025
+      24 Photo of burnt note               Bates 14613  1/9/2026
+      25 Photo of targets                  Bates 72     10/24/2025
+      30 ATF DNA report (rifle/cartridges) Bates 74     10/24/2025
+      31 FBI DNA report (towel/screwdriver) Bates 75    10/24/2025
+      32 ATF Ballistics report             Bates 11543  12/18/2025
+      33 ATF DNA (Dremel)                  Bates 14952  1/21/2026
+      34 ATF Toolmarks report              Bates 17741  3/12/2026
+
+--- TRANSCRIPTS PEOPLE ARE TALKING ABOUT ---
+
+T1. Redacted transcript of sealed Oct 24, 2025 motion hearing — released ~12-29-25 — 80-97 pages, 246 words redacted
+    Hosted on this site: /court/filings/tyler-robinson-redacted-hearing-transcript.pdf
+    Newsweek: https://www.newsweek.com/charlie-kirk-tyler-robinson-court-transcript-11282718
+    SLTrib: https://www.sltrib.com/news/2025/12/29/charlie-kirk-killing-read/
+    CBS: https://www.cbsnews.com/news/tyler-robinson-accused-charlie-kirk-shooter-closed-court-hearing-transcript/
+    X: @BrianEntin https://x.com/BrianEntin/status/2006014984090796251
+    Why: First window into sealed side. Unshackling / civilian clothing / publicity. Brian Entin says a still-redacted portion concerns something right after the arrest.
+
+T2. CharlieFiles working transcripts of livestreamed hearings (NOT certified)
+    https://publish.obsidian.md/charliefiles/transcripts/court/Hearing+Transcripts
+    - 2025-09-16 Initial Appearance
+    - 2025-12-11 December 11 Hearing (~4h43m)
+    - 2026-01-16 Disqualification Hearing Part One
+    - 2026-02-03 Disqualification Hearing Part Two
+    - 2026-06-01 Camera Access Ruling
+    - 2026-06-12 Contempt Evidentiary Hearing
+    - Prelim Days 1-5 (July 6-10, 2026)
+
+T3. Grabien cleaned prelim transcripts (Days 1-5) with exhibit log and rulings
+    https://news.grabien.com/robinson-prelim-archive/
+
+T4. Official TRANSADMIN transcripts on the docket (many PRIVATE / not obtained)
+    10-24-2025 (redacted public version = T1)
+    12-11-2025 (private)
+    1-16-2026
+    2-03-2026
+    2-24-2026
+    3-13-2026
+    4-17-2026 motion hearing (Burkhart marks unavailable)
+    Prelim days — court reporter Phoebe S. Moorhead / Noteworthy Reporting LLC; commercial services (Rev.com Day 1)
+
+T5. Arrest-interview / Miranda transcript quoted in A14 (Bates 003996-R2 referenced on this site's mirandize pages)
+    Not a standalone public PDF. Embedded in the 3-30-26 redacted motion.
+
+================================================================================
+B. SEARCH WARRANT AFFIDAVITS (24) — people treating these as the unsealed-March / Aug-2026 dump
+================================================================================
+Source page: https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits
+KSL on unsealing: https://www.ksl.com/article/51481672/tyler-killed-charlie-search-warrants-detail-messages-allegedly-sent-after-kirk-killing
+Deseret: https://www.deseret.com/utah/2026/04/10/tyler-robinson-unsealed-search-warrant-documents-charlie-kirk-killing-admission-lance-twiggs/
+Tom S. Elliott Substack (16 affidavits located by Burkhart): https://tomselliott.substack.com/p/the-states-case-against-tyler-robinson
+TriggerSmart live walk of 20+ affidavits / Baron Coleman Ep. 162: https://x.com/triggersmarthq/status/2093020723480604969
+Omar Najera warrant (AllyJKiss, obtained via XChange): https://x.com/AllyJKiss/status/2090084628354707542
+
+W01. 3212261  9/10/25  body and effects of Charlie Kirk at Timpanogos Regional Hospital. Returned 9/23/25.
+     https://andreaburkhart.substack.com/api/v1/file/2d8ee534-c65f-49ac-9e72-58a2a18ecb57.pdf
+W02. 3212321  9/10/25  surveillance footage from Intermountain Health Utah Valley Hospital. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/c44c77df-0a59-4b0c-91b2-28fe6b001ff3.pdf
+W03. 3212601  9/11/25  anonymized geofence data from Google. Returned 9/23/25.
+     https://andreaburkhart.substack.com/api/v1/file/adcaff1e-7209-4d20-99b0-70008c13a471.pdf
+W04. 3212881  9/11/25  electronic device of Omar Najera (X post threatening Kirk). Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/5d709c6c-9fcd-471b-aab1-5c9c17d5730b.pdf
+W05. 3212941  9/11/25  historical cellular location data T-Mobile/AT&T/Verizon (tower dump). Returned 10/9/25.
+     https://andreaburkhart.substack.com/api/v1/file/3cdc4b19-f5b4-4eec-856d-c08d91168a48.pdf
+W06. 3213451  9/12/25  person of Tyler Robinson (trace, prints, DNA, personal effects). Returned 9/23/25.
+     https://andreaburkhart.substack.com/api/v1/file/68d949c6-1a45-4f73-b63b-135d63e38a73.pdf
+W07. 3213481  9/12/25  premises 3419 South River Road Unit 73, St. George, UT. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/6185199b-ca77-4493-8d90-0786a9b782b3.pdf
+W08. 3213501  9/12/25  2013 Dodge Challenger, Utah Lic. # T44CE. Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/50783540-723f-4b63-9543-b20193abe294.pdf
+W09. 3213511  9/12/25  guns/accessories/physical evidence inside 894 Cimarron Drive, Washington, UT. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/071c80a5-4be8-4c0a-bf57-f86ad5d73c57.pdf
+W10. 3213621  9/12/25  iPhone 14 in clear Otterbox case with cracked screen. Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/b8319c9c-bbc2-49a4-9b60-3211c4ac9a08.pdf
+W11. 3213811  9/12/25  contents of dark blue iPhone 13 model A2482, IMEI 350776598879683. Returned 10/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/0625b69f-96be-4bfb-9142-ebfaa98cc554.pdf
+W12. 3214291  9/13/25  dark blue iPhone 13 model A2482, IMEI 350776598879683. Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/61223d32-08b6-4894-8781-51683019cfb0.pdf
+W13. 3214311  9/13/25  Discord names and server IDs for "Craftopia," "Gamin," "The Corruption." Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/bd538366-9d80-462e-84e9-9f4ea6c7f24a.pdf
+W14. 3214341  9/13/25  Verizon account records phone 435-632-2471 / IMEI 35077598879683. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/d9e9148a-bdf7-44e6-8f80-0d40540c701e.pdf
+W15. 3214411  9/13/25  Verizon location data phone 435-922-8263. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/44b1d4ea-44a7-4351-b334-e3cc2b6e94ff.pdf
+W16. 3214731  9/14/25  Verizon location data phone 435-632-2471. Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/57c7ee06-2868-4808-b02c-f0106727f98d.pdf
+W17. 3214751  9/14/25  multiple digital devices recovered during search of St. George apartment (HP Stream tablet SN CNU444934L; iPad SN DMPWT3MCJF89). Returned 9/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/645cabb4-6099-4424-b5be-595a0141ba15.pdf
+W18. 3214771  9/14/25  2013 Dodge Challenger Lic. T455CE VIN 2C3CDYAG0DH675106 (infotainment). Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/8de95ec3-b647-4b58-a2c6-0ffb8346dbb0.pdf
+W19. 3215171  9/15/25  CSAM on George Zinn phone. Returned 10/22/25.
+     https://andreaburkhart.substack.com/api/v1/file/62471fe9-5242-4428-8fc5-d130416110e2.pdf
+     NOTE: CSAM content — do not republish images. The warrant itself is a public court record people are listing.
+W20. 3215261  9/15/25  Google account info cratfin247@gmail.com and trobinsonut@gmail.com. Returned 9/18/25.
+     https://andreaburkhart.substack.com/api/v1/file/dcb5c9c9-8131-440f-ba00-359480228c80.pdf
+W21. 3215391  9/15/25  VANTRUE dash camera serial VTN2P212969. Returned 9/23/25.
+     https://andreaburkhart.substack.com/api/v1/file/6fcac1a9-9f0d-4707-a784-66ed40c401cb.pdf
+W22. 3216271  9/17/25  Lumen/Quantum Fiber account trobinsonut@gmail.com. Return not included.
+     https://andreaburkhart.substack.com/api/v1/file/250a9160-6916-4844-bb3a-891261055db3.pdf
+W23. 3217031  9/17/25  Apple/iCloud cratfin247@gmail.com. Return not included.
+     https://andreaburkhart.substack.com/api/v1/file/d96858e7-3ba9-4188-9fec-7bf32c6cd9ad.pdf
+W24. 3217131  9/17/25  Apple/iCloud lancetwiggs@icloud.com and memesinsteadofdreams@gmail.com. Return not included.
+     https://andreaburkhart.substack.com/api/v1/file/bb8744c3-f9c2-4e92-b148-51a170bf6f54.pdf
+W25. 3229461  10/6/25  Discord Inc. "Dufuss & Doobers" (tism time) server. Returned 10/14/25.
+     https://andreaburkhart.substack.com/api/v1/file/bc7fb6a7-b8f4-404e-ae72-1934189beed7.pdf
+
+AllyJKiss (8-19-26) says a 6/10/26 unsealed warrant on Omar Najera is "a different warrant than any of the ones [Burkhart] posted" — so at least one MORE warrant exists beyond this 24. Burkhart asked for the warrant number on X: https://x.com/aburkhartlaw/status/2089963415645397293
+
+This site already has:
+  site/internals/static/court/filings/warrants/2025-09_affidavit-for-search-warrant.pdf
+  site/internals/static/court/filings/mirandize/AFFIDAVIT FOR SEARCH WARRANT.pdf
+  site/internals/static/court/filings/mirandize/robinson-affidavit-of-probable-cause (1).pdf
+
+================================================================================
+C. PRELIMINARY HEARING EXHIBITS PEOPLE NAMED (to obtain copies of)
+================================================================================
+Source: Grabien exhibit logs + ABC4 Day 4 + Deseret + CharlieFiles.
+
+Ex 1, 2, 3, 35     campus / drone / aerial photos (Bagley)
+Ex 3.1, 3.2        screwdriver on Losee roof; roof looking west
+Ex 4, 5            nighttime gravel "sniper pad" photos (Melissa Richards)
+Ex 5.1             David Engelhardt / TPUSA statement (provisionally admitted, unpublished) — victim-targeting
+Ex 6 / 6.1         Amber Wright cellphone video + Rule 1102 statement
+Ex 7 / 7.1         Phillips (minor) video of the shooting + 1102 — graphic, not broadcast
+Ex 8 / 8.1         Toe Farnsworth / Visual Impulse / TPUSA videographer — graphic
+Ex 9               Hall of Flags breezeway video (hasty transport)
+Ex 11              Medical Examiner autopsy report, 9 pages — Dr. Guajardo; cause GSW neck, manner homicide. NOT PUBLIC (Utah law). Admitted, not broadcast.
+Ex 11.1            County Attorney edited surveillance compilation — initially EXCLUDED, later admitted not published
+Ex 11.2            Ring doorbell compilation, 680 W 925 S (Nobles)
+Ex 11.3            Curtis Olsen UVU surveillance 1102
+Ex 11.4            UNALTERED surveillance compilation of four campus visits — admitted and broadcast. THIS is the "squished vs unsquished" video Candace Owens / @MJTruthUltra are fighting about.
+Ex 13              Mrs. Noble Ring 1102
+Ex 14              Mike Mitchell written statement (admitted, unpublished)
+Ex 15 / 15a        Dremel / engraving cutter
+Ex 16 / 16.1-16.4  Discord/text thread, note photo, FBI images
+                     16.1 texts Robinson↔Twiggs (Cellebrite extraction of cracked iPhone)
+                     16.2 Discord thread ("It was me at UVU yesterday")
+                     16.3 handwritten note under keyboard ("I had the opportunity to take out Charlie Kirk...")
+                     16.4 FBI images
+Ex 20.3            five .30-06 casings on safe, one engraved "test shot"
+Ex 20.4            burnt note (admitted, courtroom-only side-by-side with 16.3)
+Ex 20.5            shooting targets from apartment
+Ex 30 / 30.1-30.4  ATF/FBI lab reports (see A6/A7)
+
+Also named: Ex Hull-13 (Davis report re holster/gun); Ex Hull-48 (Nobles said driver bald, 3 others in car).
+
+================================================================================
+D. DISCOVERY THE DEFENSE SAYS EXISTS (not public — people talking about it)
+================================================================================
+From Dkt 466 addenda + 8-28-26 Discovery Status Report + Burkhart discovery post.
+
+Scale: 29,237 files produced to defense as of 8-18-26.
+  By 3-18-26: 19,612 files (9,180 documents, 4,852 images, 5,068 videos, 321 compressed, 61 audio, 130 other)
+  After 3-18-26: +9,625 files
+  ~61,500 pages of document/image; 31 hours audio; video duration unknown (66 compressed videos of unknown length)
+
+Specific caches people named:
+  - >1,000,000 Discord communications
+  - >25,000 CSLI location records
+  - Cellebrite extraction of cracked iPhone 14 / iPhone 13
+  - UVU campus surveillance (hundreds of hours)
+  - FBI Evidence Response Team photos from St. George search
+  - ATF lab raw data / STRmix files (defense says FBI/ATF refused some of this — motion to compel coming)
+  - CODIS database access (defense will demand; State expected to resist)
+  - Autopsy report (Ex 11) — confidential under Utah law, not released to public
+  - Bodycam — GRAMA returned no footage (see court/mirandize/bodycam-grama-no-footage)
+  - Washington County Sheriff booking / OTN 70090584
+  - FBI Special Agent Lange interview of Lance Twiggs 9/12/2025 ~0100 hours
+  - Twiggs April 20, 2026 immunized recorded statement (played at prelim with redactions)
+  - Google Maps route on Robinson phone to area near UVU
+  - Geofence box results (warrant 3212601)
+  - Carrier tower dump (warrant 3212941)
+
+Production dates people quoted from Exhibit B of the continue-prelim motion:
+  2025.10.10 83; 10.15 783; 10.23 581; 10.29 101; 11.06 111; 11.13 72; 11.17 817;
+  11.19 1,289; 11.25 226; 12.02 1,260; 12.05 833; 12.09 1,795; 12.16 2,570; 12.18 1,338;
+  2026.01.08 1,892; 01.09 1,239; 01.13 65; 01.14 1; 01.21 830; 01.27 6; 02.17 339;
+  02.25 117; 03.05 1,600; 03.12 1,316; 03.18 348. Total 19,612 as of that table.
+
+================================================================================
+E. THINGS PEOPLE SAY EXIST THAT ARE SEALED / NOT PUBLIC / STILL MISSING
+================================================================================
+  - Full unredacted Oct 24, 2025 transcript and audio (246 words still redacted)
+  - Dec 11, 2025 hearing transcript (private)
+  - Autopsy report (Utah OME — Dr. Guajardo)
+  - Full ATF lab file (not just the summary in the Jan 9 motion)
+  - FBI VCM testing results on the jacket fragment (if completed after the Jan 9 motion)
+  - Raw UVU CCTV (the "unsquished" original that Candace Owens posted a crop of)
+  - Lance Twiggs unredacted April 2026 interview video
+  - Mike Mitchell statement unpublished
+  - Affidavit of Indigency (private)
+  - Internal UCAO communications (court denied compel on this in the contempt track)
+  - Additional search warrants beyond the 24 (AllyJKiss: Omar Najera 6/10/26 unseal is a new one)
+  - Certified prelim transcripts days 1-5 from the court reporter
+  - State's bind-over opening memo if a cleaner copy than the Scribd/Fox screenshot dump
+  - Any federal lab report on explosive residue / microphone — NOT in the public docket people are circulating. Citizen investigators on X allege this testing was not done; the public filings people are posting are all gunshot/ATF/FBI DNA.
+
+================================================================================
+F. X POSTS THAT ARE THE POINTERS (save these; they are how people found the PDFs)
+================================================================================
+  https://x.com/kyledcheney/status/1968031800057610302   charging texts + DocumentCloud
+  https://x.com/kyledcheney/status/1968032124109459563   seven charges + DocumentCloud
+  https://x.com/lookner/status/1968025297791619252        charging texts screenshots
+  https://x.com/TaraBull/status/1968029563646292047       charging texts screenshots
+  https://x.com/nicksortor/status/1968032548350816317     full 10-page Information PDF
+  https://x.com/LucasSa56947288/status/1968064718469493096
+  https://x.com/BrianEntin/status/2006014984090796251     Oct 24 transcript deep dive
+  https://x.com/aburkhartlaw/status/2076480407739228541   warrant archive
+  https://x.com/aburkhartlaw/status/2076002173704695960   prelim evidence list
+  https://x.com/aburkhartlaw/status/2088402922141098022   discovery updates
+  https://x.com/aburkhartlaw/status/2093467963856916767   8-28-26 discovery status report PDF
+  https://x.com/MsJaneDoeUKnow/status/2089925523010928764  State reply bindover
+  https://x.com/MsJaneDoeUKnow/status/2090115284795609568  new warrants on Burkhart
+  https://x.com/KanekoaTheGreat/status/2089949059725553860 State reply / "does not challenge"
+  https://x.com/AllyJKiss/status/2090084628354707542       Omar Najera warrant from XChange
+  https://x.com/Piper_truth1/status/2090143830859190403    24-warrant index → Burkhart
+  https://x.com/triggersmarthq/status/2093020723480604969  live warrant study stream
+  https://x.com/Kate20846560/status/2092972359762272601    links Burkhart docs + warrants
+  https://x.com/RioGatesShow/status/2094101132071309686    11th-hour filings for 9/1/26
+  https://x.com/MJTruthUltra/status/2090787451010789470    "squished" prelim video debate
+  https://x.com/thevivafrei/status/2091285015304749134     affidavits, no other arrests
+
+================================================================================
+G. COMPACT COURT DOCKET (Andrea Burkhart recreation, through ~732 / 8-31-26)
+Full named PDFs with Burkhart download links live on:
+https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+Items marked (Not obtained) by Burkhart are still worth hunting (XChange / clerk / media).
+================================================================================
+   1. Information, 9-16-25
+   2. Probable Cause Affidavit, 9-16-25
+   3. Public Safety Assessment Report, 9-16-25
+   4. Bail Order, 9-16-25
+   5. Return of Electronic Notification, 9-16-25
+   6. Acknowledgment of Firearm Restriction, 9-16-25
+   7. Order (Proposed) Pretrial Protective Order, 9-16-25
+   8. Return of Electronic Notification, 9-16-25
+   9. Affidavit of Indigency, 9-16-25 (Private, Not obtained)
+  10. State’s Notice of Intent to Seek the Death Penalty, 9-16-25
+  11. Return of Electronic Notification, 9-16-25 (Not obtained)
+  12. Request for Designation of Victim Representative, 9-16-25
+  13. Return of Electronic Notification, 9-16-25 (Not obtained)
+  14. Order Pretrial Protective Order, 9-16-25
+  15. Return of Electronic Notification, 9-16-25 (Not obtained)
+  16. Return of Electronic Notification, 9-17-25 (Not obtained)
+  17. Initial Appearance, 9-22-25
+  18. Return of Electronic Notification, 9-23-25 (Not obtained)
+  19. Pre-Trial Protective Order, 9-23-25 (Not obtained, duplicate of #14)
+  20. Notice for Case 251403576 FS Judge: Tony F. Graf Jr., 9-23-25
+  21. Return of Electronic Notification, 9-24-25 (Not obtained)
+  22. Order for Court Reporter, 9-22-25
+  23. Protection Order Re: Pre-Trial and Trial Publicity, 9-22-25
+  24. Order to Transport, 9-24-25
+  25. Request and Order for Electronic Media Coverage of Court Proceedings, 9-15-25 (Not obtained)
+  26. Request and Order for Electronic Media Coverage of Court Proceedings, 9-17-25 (Not obtained)
+  27. Request and Order for Electronic Media Coverage of Court Proceedings, 9-24-25 (Not obtained)
+  28. Standing Decorum Order, 9-24-25
+  29. Return of Service Pretrial Protective Order, 9-24-25 (Not obtained)
+  30. Protective Order Acknowledgment of Firearm Restriction, 9-24-25 (Not obtained)
+  31. Return of Electronic Notification, 9-25-25 (Not obtained)
+  32. Affidavit/Declaration Rule 8 Declaration of Kathryn N. Nester, 9-25-25
+  33. Affidavit/Declaration Rule 8 Declaration of Michael N. Burt, 9-25-25
+  34. Affidavit/Declaration Rule 8 Declaration of Richard G. Novak, 9-25-25
+  35. Motion Pro Hac Vice to Admit Michael N. Burt, 9-25-25
+  36. Motion Pro Hac Vice to Admit Richard G. Novak, 9-25-25
+  37. Order (Proposed) Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-25-25 (Not obtained)
+  38. Order (Proposed) Admitting Michael N. Burt Pro Hac Vice, 9-25-25 (Not obtained)
+  39. Order (Proposed) Admitting Richard G. Novak Pro Hac Vice, 9-25-25 (Not obtained)
+  40. Return of Electronic Notification, 9-25-25 (Not obtained)
+  41. Order Admitting Michael N. Burt Pro Hac Vice, 9-26-25
+  42. Order Findings of Fact and Conclusions of Law Regarding Appointment of Rule 8 Counsel, 9-27-25
+  43. Return of Electronic Notification, 9-26-25 (Not obtained)
+  44. Order Admitting Richard G. Novak Pro Hac Vice, 9-27-25
+  45. Return of Electronic Notification, 9-27-25 (Not obtained)
+  46. Return of Electronic Notification, 9-27-25 (Not obtained)
+  47. Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel Michael N. Burt, 9-28-25
+  48. Supplemental Exhibit to Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Out of State Counsel Richard G. Novak, 9-28-25
+  49. Supplemental Exhibit to Rule 8 Declaration of Michael N. Burt, 9-28-25
+  50. Supplemental Exhibit to Rule 8 Declaration of Richard G. Novak, 9-28-25
+  51. Return of Electronic Notification, 9-28-25 (Not obtained)
+  52. Order to Transport, 9-29-25 (Not obtained)
+  53. Return of Electronic Notification, 9-30-25 (Not obtained)
+  54. Return of Electronic Notification, 9-30-25 (Not obtained)
+  55. Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
+  56. Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
+  57. Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
+  58. Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
+  59. Appearance of Counsel/Notice of Limited Appearance of Counsel, 9-30-25
+  60. Return of Electronic Notification, 9-30-25 (Not obtained)
+  61. Request for Discovery, 9-30-25
+  62. Return of Electronic Notification, 9-30-25 (Not obtained)
+  63. Return of Electronic Notification, 10-1-25 (Not obtained)
+  64. Telephonic Conference, 10-1-25
+  65. Telephonic Conference, 10-1-25
+  66. Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25
+  67. Request and Order for Electronic Media Coverage of Court Proceedings, 9-29-25 (Not obtained)
+  68. Return of Electronic Notification, 10-2-25 (Not obtained)
+  69. Return of Electronic Notification, 10-3-25 (Not obtained)
+  70. Return of Electronic Notification, 10-4-25 (Not obtained)
+  71. Request for Audio Recording, 10-6-25
+  72. Return of Electronic Notification, 10-6-25 (Not obtained)
+  73. Return of Electronic Notification, 10-7-25 (Not obtained)
+  74. Copy of Video/Audio Record (completed), 10-8-25
+  75. Motion to Preserve Evidence, 10-8-25
+  76. Order (Proposed) Granting Motion to Preserve Evidence, 10-8-25 (Not obtained)
+  77. Return of Electronic Notification, 10-8-25 (Not obtained)
+  78. Return of Electronic Notification, 10-9-25 (Not obtained)
+  79. Motion Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25
+  80. Request/Notice to Submit Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25
+  81. Order (Proposed) Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-9-25 (Not obtained)
+  82. Return of Electronic Notification, 10-9-25 (Not obtained)
+  83. Motion (Hearing Requested) to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints and Memorandum in Support, 10-9-25
+  84. Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-9-25
+  85. Return of Electronic Notification, 10-9-25 (Not obtained)
+  86. Order Granting Motion for Permission to File Overlength Motion to Appear in Civilian Clothes and Without Restraints, 10-10-25 (Not obtained)
+  87. Return of Electronic Notification, 10-10-25 (Not obtained)
+  88. Appearance of Counsel/Notice of Limited Appearance, 10-13-25
+  89. Return of Electronic Notification, 10-13-25 (Not obtained)
+  90. Request/Notice to Submit Stipulated Discovery Protective Order, 10-13-25 (Not obtained)
+  91. Motion for Discovery Protective Order (Stipulated), 10-13-25
+  92. Order (Proposed) Discovery Protective Order, 10-13-25 (Not Obtained)
+  93. Return of Electronic Notification, 10-13-25 (Not obtained)
+  94. Certificate of Service, 10-13-25 (Not obtained)
+  95. Return of Electronic Notification, 10-13-25 (Not obtained)
+  96. Interim Order Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-14-25
+  97. Appearance of Counsel/Notice of Limited Appearance (Richard Novak), 10-14-25
+  98. Return of Electronic Notification, 10-14-25 (Not obtained)
+  99. Return of Electronic Notification, 10-15-25 (Not obtained)
+ 100. Discovery Protective Order, 10-15-25
+ 101. Return of Electronic Notification, 10-15-25 (Not obtained)
+ 102. Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25
+ 103. Order (Proposed) Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25 (Not obtained)
+ 104. Return of Electronic Notification, 10-20-25 (Not obtained)
+ 105. Order Granting Motion to Classify as Private the Response to Defendant’s Motion to Appear in Civilian Clothing, 10-20-25
+ 106. Return of Electronic Notification, 10-20-25 (Not obtained)
+ 107. Order Granting Motion to Preserve Evidence, 10-20-25
+ 108. Return of Electronic Notification, 10-20-25 (Not obtained)
+ 109. (Omitted from Docket - no document # 109)
+ 110. Return of Electronic Notification, 10-21-25 (Not obtained)
+ 111. Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-21-25
+ 112. Return of Electronic Notification, 10-21-25 (Not obtained)
+ 113. Order to Transport, 10-21-25
+ 114. Return of Electronic Notification, 10-22-25 (Not obtained)
+ 115. Defendant’s Opposition to the State of Utah’s Motion under Utah Rule of Criminal Procedure 17.5, 10-22-25
+ 116. Motion to Set Aside October 20, 2025 Order Granting Motion to Preserve Evidence, 10-22-25
+ 117. Response to Defendant’s Motion to Preserve Evidence, 10-22-25
+ 118. Opposition to Motion to Strike Response to Defendant’s Motion to Appear at All In-Person Proceedings in Civilian Clothing and Without Restraints, 10-22-25
+ 119. Return of Electronic Notification, 10-22-25 (Not obtained)
+ 120. Return of Electronic Notification, 10-22-25 (Not obtained)
+ 121. Reply in Support of Motion re Restraints and Civilian Clothing, 10-22-25
+ 122. Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)
+ 123. Request/Notice to Submit Request to Submit Motion for Permission to File Overlength Reply, 10-22-25 (Not obtained)
+ 124. Order (Proposed) Order Granting Permission to File Overlength Reply, 10-22-25 (Not obtained)
+ 125. Return of Electronic Notification, 10-22-25 (Not obtained)
+ 126. Return of Electronic Notification, 10-23-25 (Not obtained)
+ 127. Order Granting Permission to File Overlength Reply, 10-23-25 (Not obtained)
+ 128. Return of Electronic Notification, 10-23-25 (Not obtained)
+ 129. Reply in Support of Motion to Strike Response to Defendant’s Motion to Appear at all In-Person Proceedings in Civilian Clothing and Without Restraints, 10-23-25
+ 130. Return of Electronic Notification, 10-23-25 (Not obtained)
+ 131. Request and Order for Electronic Media Coverage of Court Proceedings, 10-23-25
+ 132. Return of Electronic Notification, 10-24-25 (Not obtained)
+ 133. Updated Request and Order for Electronic Media Coverage of Court Proceedings
+ 134. Return of Electronic Notification, 10-27-25 (Not obtained)
+ 135. State’s Notice of Open File Policy and Invitation to Inspect Physical Evidence, 10-27-25
+ 136. Return of Electronic Notification, 10-27-25 (Not obtained)
+ 137. Ruling and Order Granting Defendant’s Motion to Strike and Granting in Part and Denying in Part Defendant’s Motion to Appear in Civilian Clothing and Without Restraints, 10-27-28
+ 138. Standing Decorum Order, Effective 10-30-25
+ 139. Not Signed Order (Proposed) Temporary Order Allowing Appearance in Civilian Clothing and Without Restraints, 10-27-25 (Not obtained)
+ 140. Return of Electronic Notification (Not obtained), 10-27-25
+ 141. Motion to Extend Time, Stipulated, 10-27-25
+ 142. Request/Notice to Submit Stipulated Motion to Extend Time, 10-27-25 (Not obtained)
+ 143. Order (Proposed) Granting Stipulated Motion to Extend Time, 10-27-25 (Not obtained)
+ 144. Return of Electronic Notification, 10-27-25 (Not obtained)
+ 145. Return of Electronic Notification, 10-27-25 (Not obtained)
+ 146. Order Granting Stipulated Motion to Extend Time, 10-28-25
+ 147. Return of Electronic Notification, 10-28-25 (Not obtained)
+ 148. (Omitted from docket - no document # 148)
+ 149. Return of Electronic Notification, 10-29-25 (Not obtained)
+ 150. Request for Notice of Motions to Close Judicial Proceedings and Records, 10-30-25
+ 151. Return of Electronic Notification, 10-30-25 (Not obtained)
+ 152. Stipulation Motion to Order Transcript and Classify Transcript and Audio as Private, 11-3-25
+ 153. Request/Notice to Submit Request to Submit Stipulated Motion to Order Transcript and Classify, 11-3-25 (Not obtained)
+ 154. Order (Proposed) Granting Motion to Order Transcript and Classify, 11-3-25 (Not obtained)
+ 155. Return of Electronic Notification, 11-3-25 (Not obtained)
+ 156. Request/Notice to Submit Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25 (Not obtained)
+ 157. Stipulated Motion Regarding Order to Preserve Evidence, 11-3-25
+ 158. Order (Proposed) Stipulated Order: (1) Setting Aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-3-25 (Not obtained)
+ 159. Return of Electronic Notification, 11-3-25 (Not obtained)
+ 160. (Omitted from docket - no item #160)
+ 161. Stipulated Order: (1) Setting aside October 20, 2025 Order Granting Motion to Preserve Evidence; and (2) Granting in Part Motion to Preserve Evidence, 11-4-25
+ 162. Return of Electronic Notification, 11-4-25 (Not obtained)
+ 163. Return of Electronic Notification, 11-5-25 (Not obtained)
+ 164. Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-5-25
+ 165. Return of Electronic Notification, 11-5-25 (Not obtained)
+ 166. (Previously omitted) Request And Order For Electronic Media Coverage of Court Proceedings, 10-27-25 (Not obtained)
+ 167. State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-6-25
+ 168. Return of Electronic Notification, 11-6-25 (Not obtained)
+ 169. Defendant Tyler James Robinson s Response to Request for Notice of Motion to Close Judicial Proceedings and Records, 11-10-25
+ 170. Return of Electronic Notification, 11-10-25 (Not obtained)
+ 171. Order Requiring Parties to Serve All Closure of Reclassification Motions on the Media, 11-13-25
+ 172. Order for Transcript of October 24, 2025 Hearing, 11-13-25
+ 173. Media’s Notice of Service re Motion to Classify Transcript and Audio Filed November 3, 2025, 11-13-25
+ 174. Return of Electronic Notification, 11-13-25 (Not obtained)
+ 175. (Omitted from docket - no item #175)
+ 176. Return of Electronic Notification, 11-14-25 (Not obtained)
+ 177. Approved Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25
+ 178. Not Signed Order (Proposed) Granting Motion to Order Transcript and Classify, 11-14-25
+ 179. Return of Electronic Notification, 11-14-25 (Not obtained)
+ 180. Return of Electronic Notification, 11-15-25 (Not obtained)
+ 181. Request and Order for Electronic Media Coverage of Court Proceedings, 11-14-25
+ 182. (Omitted from docket - no item #182)
+ 183. (Omitted from docket - no item #183)
+ 184. Return of Electronic Notification, 11-18-25 (Not obtained)
+ 185. Defendant Tyler James Robinson’s Response to Proposed Media Intervenors Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25
+ 186. Return of Electronic Notification, 11-19-25 (Not obtained)
+ 187. State’s Response to Motion for Limited Intervention and Request for Notice of Motions to Close, Seal, or Reclassify, 11-19-25
+ 188. Return of Electronic Notification, 11-19-25 (Not obtained)
+ 189. Notice for Case 251403576, 11-20-25
+ 190. Objection to State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order, 11-20-25
+ 191. Return of Electronic Notification, 11-20-25 (Not obtained)
+ 192. Return of Electronic Notification, 11-21-25 (Not obtained)
+ 193. Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25
+ 194. Request and Order for Electronic Media Coverage of Court Proceedings, 11-21-25
+ 195. Order to Transport, 11-21-25
+ 196. Return of Electronic Notification, 11-22-25 (Not obtained)
+ 197. Motion for Limited Intervention, 11-24-25
+ 198. Return of Electronic Notification, 11-22-25 (Not obtained)
+ 199. Reply in Support of Motion for Limited Intervention (Proposed Media Intervenors), 11-26-25
+ 200. Return of Electronic Notification, 11-26-25 (Not obtained)
+ 201. (Omitted from docket - no item #201)
+ 202. (Previously omitted) Letter From Supreme Court Of Utah, 11-17-25
+ 203. Request/Notice to Submit State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25 (Not obtained)
+ 204. Reply Supporting State’s Motion to Amend or Clarify Court’s Pre-Trial and Trial Publicity Order (Dkt. #23), 11-28-25
+ 205. Return of Electronic Notification, 11-28-25 (Not obtained)
+ 206. Return of Electronic Notification, 11-29-25 (Not obtained)
+ 207. Request/Notice to Submit Request to Submit for Decision Motion for Limited Intervention Doc. 165, 12-3-25 (Not obtained)
+ 208. Return of Electronic Notification, 12-3-25 (Not obtained)
+ 209. Joint Status Report of the Parties Concerning the Redaction of Portions of the Transcript of the October 24, 2025 Sealed Hearing, 12-4-25
+ 210. Return of Electronic Notification, 12-4-25 (Not obtained)
+ 211. UOVC Restitution Notice Claim #1113665, 12-5-25
+ 212. Return of Electronic Notification, 12-5-25 (Not obtained)
+ 213. Defendant Tyler James Robinson’s Response to the Motion for Limited Intervention of Deseret News, et al. (Dkt 197), 12-8-25
+ 214. Return of Electronic Notification, 12-8-25 (Not obtained)
+ 215. Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25
+ 216. Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
+ 217. Request/Notice to Submit Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
+ 218. Order (Proposed) Granting Motion for Leave to File Overlength Memorandum, 12-8-25 (Not obtained)
+ 219. Return of Electronic Notification, 12-8-25 (Not obtained)
+ 220. Media Intervenors Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025 Hearing, 12-8-25
+ 221. Return of Electronic Notification, 12-8-25 (Not obtained)
+ 222. Request and Order for Electronic Media Coverage of Court Proceedings, 12-8-25
+ 223. Return of Electronic Notification, 12-9-25 (Not obtained)
+ 224. Request/Notice to Submit Motion for Limited Intervention, 12-9-25 (Not obtained)
+ 225. Order (Proposed) Granting Motion for Limited Intervention, 12-9-25 (Not obtained)
+ 226. Return of Electronic Notification, 12-9-25 (Not obtained)
+ 227. Defendant Tyler James Robinson’s Reply to Media’s Memorandum Opposing Stipulated Motion to Classify as Private the Transcript and Audio of October 24, 2025, 12-9-25
+ 228. Return of Electronic Notification, 12-9-25 (Not obtained)
+ 229. State’s Reply Supporting Stipulated Motion to Classify Transcript and Audio as Private, 12-9-25
+ 230. Return of Electronic Notification, 12-9-25 (Not obtained)
+ 231. Return of Electronic Notification, 12-10-25 (Not obtained)
+ 232.  PRIVATE  Motion to Classify Motion to Disqualify as Private and Request for Closed Hearing, 12-10-25
+ 233.  PRIVATE  Request to Submit Motion to Classify Motion to Disqualify as Private and Request for Closed Hearing, 12-10-25
+ 234.  PRIVATE  Order (Proposed) Order Classifying Motion to Disqualify as Private Pending Closure Hearing, 12-10-25
+ 235. Return of Electronic Notification, 12-10-25 (Not obtained)
+ 236.  PRIVATE  Non-Public Information Motion to Disqualify and Exhibits, 12-10-25
+ 237. Return of Electronic Notification, 12-10-25 (Not obtained)
+ 241. Return of Electronic Notification, 12-12-25 (not obtained)
+ 242. Ruling and Order Granting State’s Motion to Clarify Court’s Pretrial and Trial Publicity Order, 12-15-25
+ 243. Order Granting Motion for Leave to File Overlength Memorandum, 12-15-25 (Not obtained)
+ 244. Return of Electronic Notification, 12-15-25 (Not obtained)
+ 245. Return of Electronic Notification, 12-16-25 (Not obtained)
+ 246. Motion to Order Transcript and Temporarily Classify Transcript and Audio as Private, 12-17-25
+ 247. Request/Notice to Submit Request to Submit Motion to Order Transcript and Temporarily Classify (Dec 11 2025 Hearing), 12-17-25 (Not obtained)
+ 248. (Proposed) Order on Motion to Order Transcript and Temporarily Classify (Dec 11 2025 Hearing), 12-17-25 (Not obtained)
+ 249. Return of Electronic Notification, 12-17-25 (Not obtained)
+ 250. (Public Version) Motion to Disqualify, 12-17-25
+ 251. Return of Electronic Notification, 12-17-25 (Not obtained)
+ 252. Order on Motion to Order Transcript and Temporarily Classify (Dec. 11, 2025 Hearing), 12-19-25 (Not obtained)
+ 253. Return of Electronic Notification, 12-19-25 (Not obtained)
+ 254. Order Classifying Motion to Disqualify as Private Pending Closure Hearing, 12-19-25 (Not obtained)
+ 255. Return of Electronic Notification, 12-19-25 (Not obtained)
+ 256.  PRIVATE  TRANSADMIN TRANSCRIPT for Hearing 12-11-2025, 12-19-25 (Not obtained)
+ 257. Return of Electronic Notification, 12-20-25 (Not obtained)
+ 258. Certificate of Service, 12-22-25 (Not obtained)
+ 259. Return of Electronic Notification, 12-22-25 (Not obtained)
+ 260. Request and Order for Electronic Media Coverage of Court Proceedings, 12-23-25
+ 261. Return of Electronic Notification, 12-24-25 (Not obtained)
+ 262. (Omitted from docket - no item #262)
+ 263. REVIEW/ORAL ARGUMENT, 12-24-25
+ 264. Return of Electronic Notification, 12-25-25 (Not obtained)
+ 265. (Previously omitted) Standing Decorum Order Effective December 23, 2025, 12-23-25 (Not obtained)
+ 266. Ruling and Order re Stipulated Motion to Classify Transcript and Audio as Private, 12-29-25
+ 267. Order Denying the Media’s Request to Intervene, and Standing Order for Rule 4-202.04 Notice of Motions for Classification, 12-29-25
+ 268. Transcript of October 24, 2025 Hearing (Redacted Transcript), 12-29-25
+ 269. Not Signed Order (Proposed) Granting Motion for Limited Intervention, 12-29-25 (Not obtained)
+ 270. Return of Electronic Notification, 12-29-25 (Not obtained)
+ 271. Return of Electronic Notification, 12-30-25 (Not obtained)
+ 272. (Omitted from docket - no item #272)
+ 273. (Omitted from docket - no item #273)
+ 274. Return of Electronic Notification, 1-1-26 (Not obtained)
+ 275. Request/Notice to Submit Request to Submit Motion for Overlength Memo (Opp to Mot to Disq), 1-5-26 (Not obtained)
+ 276. Motion for Leave to File Overlength Memorandum, 1-5-26 (Not obtained)
+ 277. Proposed Order Granting Leave to Fil Overlength Memo (Opp to Mot to Disq), 1-5-26 (Not obtained)
+ 278. Return of Electronic Notification, 1-5-26 (Not obtained)
+ 279. ***PRIVATE*** Non Public - Opposition to Defendant’s Motion to Disqualify the Utah County Attorney’s Office, 1-5-26 (Not obtained)
+ 280. Return of Electronic Notification, 1-5-26 (Not obtained)
+ 281. ***PRIVATE*** Non-Public Information Partial Reply to Opposition to Motion to Disqualify Request to Take Evidence, 1-8-26 (Not obtained)
+ 282. ***PRIVATE*** Non-Public Information Acceptance of Service (All), 1-8-26 (Not obtained)
+ 283. Return of Electronic Notification, 1-8-26 (Not obtained)
+ 284. (Previously filed as private) Defendant Motion Filed Jan 9, 2026 wExhibits, 1-9-26
+ 285. ***PRIVATE*** Motion to Classify as Private Defendant’s Motion Filed Jan 9 2026 wExhibits, 1-9-26 (Not obtained)
+ 286. ***PRIVATE***Request/Notice to Submit Motion to Classify Jan 9 2026 Motion, 1-9-26 (Not obtained)
+ 287. ***PRIVATE*** Order (Proposed) on Motion to Classify as Private Jan 9 2026, 1-9-26 (Not obtained)
+ 288. Return of Electronic Notification, 1-9-26 (Not obtained)
+ 289. Opposition to Defendant’s Motion to Disqualify the Utah County Attorney’s Office, 1-10-26
+ 290. Return of Electronic Notification, 1-10-26 (Not obtained)
+ 291. Subpoena for Sgt. David Hull, 1-12-26
+ 292. Return of Electronic Notification, 1-12-26 (Not obtained)
+ 293. Partial Reply to Opposition to Motion to Disqualify (Public), 1-12-26
+ 294. Return of Electronic Notification, 1-12-26 (Not obtained)
+ 295. Order on Motion to Classify as Private Jan 9 2026, 1-12-26 (Not obtained)
+ 296. Return of Electronic Notification, 1-12-26 (Not obtained)
+ 297. Proposed Order Granting Leave to File Overlength Memo (Opp to Mot to Disq), 1-13-26 (Not obtained)
+ 298. Return of Electronic Notification, 1-13-26 (Not obtained)
+ 299. Order to Transport (Hearing 1/16/26), 1-13-26 (Not obtained)
+ 300. Return of Electronic Notification, 1-14-26 (Not obtained)
+ 301. (Previously omitted) Order To Transport, 10-21-25 (Not obtained)
+ 302. News Media’s Memorandum Opposing Motion to Classify Defendant’s Motion filed January 9, 2026, 1-15-26
+ 303. Return of Electronic Notification, 1-15-26 (Not obtained)
+ 304. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 305.  PRIVATE  Non-Public Information Motion to Exclude Cameras, 1-16-26 (Not obtained)
+ 306. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 307. Motion for Overlength (Motion to Exclude), 1-16-26 (Not obtained)
+ 308. Request/Notice to Submit Request to Submit Motion for Overlength, 1-16-26 (Not obtained)
+ 309. (Proposed) Order on Motion for Overlength, 1-16-26 (Not obtained)
+ 310. Motion to Classify (Motion to Exclude), 1-16-26
+ 311. Request/Notice to Submit Motion to Classify (Motion to Exclude), 1-16-26 (Not obtained)
+ 312. (Proposed) Order on Motion to Classify (Motion to Exclude, 1-16-26 (Not obtained)
+ 313. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 314. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 315. (Corrected) Motion for Overlength (Motion to Exclude), 1-16-26 (Not obtained)
+ 316. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 317. Victim Representative’s Invocation of the Speedy Trial Act, 1-16-26
+ 318. Return of Electronic Notification, 1-16-26 (Not obtained)
+ 319. Request and Order for Electronic Media Coverage of Court Proceedings, 1-22-26
+ 320. Reply in Support of Motion to Classify as Private - Jan 9, 1-22-26
+ 321. Return of Electronic Notification, 1-22-26 (Not obtained)
+ 322. Return of Electronic Notification, 1-23-26 (Not obtained)
+ 323. News Media’s Memorandum Opposing Motion to Classify re: Motion to Exclude Cameras (Filed January 16, 2026), 1-23-26
+ 324. Return of Electronic Notification, 1-23-26 (Not obtained)
+ 325. New Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 1-23-26
+ 326. (Proposed) Order Amending Standing Order for Rule 4-202.01 Notice of Motions for Classification, 1-23-26 (Not obtained)
+ 327. Return of Electronic Notification, 1-23-26 (Not obtained)
+ 328. Order on Motion for Overlength, 1-26-26 (Not obtained)
+ 329. Return of Electronic Notification, 1-26-26 (Not obtained)
+ 330. Defendant Tyler James Robinson’s Notice of Objection to the State of Utah’s Proposed Exhibit 4.1; Memorandum of Points and Authorities, 1-27-26
+ 331. Return of Electronic Notification, 1-27-26 (Not obtained)
+ 332. TRANSADMIN TRANSCRIPT for Hearing 1-16-26, 1-28-26 (Not obtained)
+ 333. Request and Order for Electronic Media Coverage and Court Proceedings, 1-28-26
+ 334. Return of Electronic Notification, 1-29-26 (Not obtained)
+ 335. News Media’s Motion for Attorneys Eyes Only Access to Closure Motions, 1-29-26
+ 336. News Media’s Motion for Leave to File Sur-Reply Opposing Motion to Classify Defendant’s Motion filed January 9, 2026, 1-29-26 (Not obtained)
+ 337. News Media’s Sur-Reply Opposing Motion to Classify Defendant’s Motion Filed January 9, 2026, 1-29-26
+ 338. Request/Notice to Submit (Amended) re Defendant’s Motion to Classify Defendant’s Motion filed January 9, 2026 (Not obtained)
+ 339. Return of Electronic Notification, 1-29-26 (Not obtained)
+ 340. State’s Opposition to Motion to Classify Defendant’s Motion Filed January 9, 2026 as Private, 1-29-26
+ 341. Return of Electronic Notification, 1-29-26 (Not obtained)
+ 342. Memorandum in Response to Defendant’s Objection to Exhibit 4.1, 1-29-26
+ 343. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 344. Defendant’s Reply in Support of Motion to Classify Motion to Exclude, 1-30-26
+ 345. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 346. State’s Opposition to Defendants Motion to Classify Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom as Private, 1-30-26
+ 347. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 348. Defendant Tyler Robinson’s Renewed Request that this Court Refer the Motion to Disqualify to the Utah Attorney General Pursuant to Utah Code 17-68-304; Memorandum of Points and Authorities, 1-30-26
+ 349. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 350. Opposition to Motion to Exclude Cameras (Provisional Opposition Filed by the News Media), 1-30-26
+ 351. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 352. State’s Motion for Leave to File Overlength Memorandum, 1-30-26 (Not obtained)
+ 353. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 354. State’s Memorandum Opposing Defendant’s Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom, 1-30-26
+ 355. Attachment A, 1-30-26
+ 356. Attachment B, 1-30-26
+ 357. Attachment C, 1-30-26
+ 358. Attachment D, 1-30-26
+ 359. Attachment E, 1-30-26
+ 360. Attachment F, 1-30-26
+ 361. Attachment G, 1-30-26
+ 362. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 363. Attachment H, 1-30-26
+ 364. Attachment H, 1-30-26 (*Not a duplicate, the item is misnumbered*)
+ 365. Return of Electronic Notification, 1-30-26 (Not obtained)
+ 366. State’s Opposition to Defendant’s Renewed Request to Refer the Motion to Disqualify to the Utah Attorney General, 2-2-26
+ 367. Return of Electronic Notification, 2-2-26 (Not obtained)
+ 368. Proffer of Facts re Closure of Portions of Evidentiary Hearing on Motion to Disqualify UCAO, 2-2-26
+ 369. Return of Electronic Notification, 2-2-26 (Not obtained)
+ 370. Notice Concerning Media Access, 2-2-26
+ 371. Return of Electronic Notification, 2-2-26 (Not obtained)
+ 372. Order for Transport, 2-3-26
+ 373. Return of Electronic Notification, 2-4-26 (Not obtained)
+ 374. Defendant’s Response to News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 2-4-26
+ 375. Return of Electronic Notification, 2-4-26 (Not obtained)
+ 376. State’s Response to News Media’s Motion to Amend Standing Order for Rule 4-202.04 Motions for Classification, 2-5-26
+ 377. Return of Electronic Notification, 2-5-26 (Not obtained)
+ 378. Defendant’s Reply to State’s Opposition to Motion to Classify Defendant’s Motion Filed Jan 9, 2026 as Private, 2-5-26
+ 379. Return of Electronic Notification, 2-5-26 (Not obtained)
+ 380. Request/Notice to Submit News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification, 2-5-26 (Not obtained)
+ 381. Return of Electronic Notification, 2-5-26 (Not obtained)
+ 382. Not Signed (Proposed) Amended Standing Order for Rule 2-202.04 Notice of Motions for Classification, 2-6-26 (Not obtained)
+ 383. Not Signed (Proposed) Order on Motion to Classify (Motion to Exclude), 2-6-26 (Not obtained)
+ 384. Return of Electronic Notification, 2-6-26 (Not obtained)
+ 385. Return of Electronic Notification, 2-6-26 (Not obtained)
+ 386. Reply to State’s Opposition to Motion to Classify Motion to Exclude Cameras, 2-6-26
+ 387. Return of Electronic Notification, 2-6-26 (Not obtained)
+ 388. Memorandum State’s Response to News Media’s Motion for Attorney’s Eyes Only Access to Closure Motions, 2-6-26
+ 389. Return of Electronic Notification, 2-6-26 (Not obtained)
+ 390. Notice of Lodging: Redacted 12112025 Hearing Transcript, 2-10-26 (Not obtained)
+ 391.  SEALED  Filed: 12112025 Hearing Transcript Redacted, 2-10-26 (Not obtained)
+ 392. Return of Electronic Notification, 2-10-26 (Not obtained)
+ 393. Opposition to Defendant Tyler James Robinson s Memorandum in Opposition to News Media s Motion for Attorneys Eyes Only Access to Closure Motions, 2-12-26
+ 394. Return of Electronic Notification, 2-12-26 (Not obtained)
+ 395. Request/Notice to Submit News Media s Motion for Attorneys Eyes Only Access to Closure Motions, 2-12-26 (Not obtained)
+ 396. Return of Electronic Notification, 2-12-26 (Not obtained)
+ 397. Request and Order for Electronic Media Coverage of Court Proceedings, 2-19-26 (Not obtained)
+ 398. Return of Electronic Notification, 2-20-26 (Not obtained)
+ 399.  PRIVATE  Filed: Non-Public Information Reply in Support of Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom (Evidentiary Hearing Requested), 2-20-26 (Not obtained)
+ 400.  PRIVATE  Filed: Motion to Classify Motion to Classify Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)
+ 401.  PRIVATE  Filed: Motion for Permission to File Over-Length: Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)
+ 402.  PRIVATE  Filed: Request/Notice to Submit Request to Submit Motion for Permission to File Over-Length Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)
+ 403.  PRIVATE  Filed: Order (Proposed) Order on Motion for Permission to File Over-Length Reply in Support of Motion to Exclude, 2-20-26 (Not obtained)
+ 404. Return of Electronic Notification, 2-20-26 (Not obtained)
+ 405. Correction to Certificate of Service, 2-20-26 (Not obtained)
+ 406. (Previously omitted from docket) Appellate Court Document (Order), 1-2-26
+ 407. Return of Electronic Notification, 2-20-26 (Not obtained)
+ 408. Return of Electronic Notification, 2-21-26 (Not obtained)
+ 409. Order to Appear for Hearing, 2-23-26
+ 410. Order on Motion for Permission to File Overlength Reply in Support of Motion to Exclude, 2-23-26 (Not obtained)
+ 411. Return of Electronic Notification, 2-23-26 (Not obtained)
+ 412. Exhibit List - In Person Oral Argument, 2-23-26
+ 413. Oral Argument / Evidentiary Hearing, 2-23-26
+ 414. Standing Decorum Order, Effective February 24, 2026, 2-23-26
+ 415. Order on February 3, 2026 Hearing Transcript, 2-23-26
+ 416. Standing Order on Redacting and Filing Transcripts, 2-23-26
+ 417. Rulings and Orders Granting News Media’s Motion to Amend Standing Order for Rule 4-202.04 Notice of Motions for Classification; Granting News Media’s Motion for Attorneys Eyes Only Access to Closure Motions; and Amended Standing Order, 2-23-26
+ 418. Return of Electronic Notification, 2-24-26 (Not obtained)
+ 419. Filed: TRANSADMIN TRANSCRIPT for Hearing 02-03-2026, 2-24-26 (Not obtained)
+ 420. Ruling and Order Denying Defendant’s Motion to Disqualify Utah County Attorney’s Office, 2-24-26
+ 421. Return of Electronic Notification, 2-25-26 (Not obtained)
+ 422. Request for Copy of Audio Records, 2-25-26
+ 423. (Previously omitted) Appellate Court Document - Notice of Decision, 1-5-26
+ 424. Return of Electronic Notification, 2-26-26 (Not obtained)
+ 425. Defendant Tyler James Robinson s Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 2-26-26
+ 426. Return of Electronic Notification, 2-26-26 (Not obtained)
+ 427. Fee Payment, 3-3-26 (Not obtained - admin entry only)
+ 428. Return of Electronic Notification, 3-6-26 (Not obtained)
+ 429. News Media Memorandum Opposing Motion to Classify Reply in Support of Motion to Exclude Cameras, 3-6-26
+ 430. Return of Electronic Notification, 3-6-26 (Not obtained)
+ 431. State’s Opposition to Defendant s Motion to Classify Reply in Support of Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom as Private, 3-6-26
+ 432. Return of Electronic Notification, 3-6-26 (Not obtained)
+ 433. Order To Transport (3/13/2026), 3-9-26 (Not obtained)
+ 434. Return of Electronic Notification, 3-10-26 (Not obtained)
+ 435. Request and Order for Electronic Media Coverage of Court Proceedings, 3-10-26
+ 436. News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26
+ 437. Request/Notice to Submit News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26 (Not obtained)
+ 438. (Proposed) Proposed Order Granting News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-10-26 (Not obtained)
+ 439. Return of Electronic Notification, 3-10-26 (Not obtained)
+ 440. News Media Supplemental Opposition to Motion to Exclude Cameras, 3-10-26
+ 441. Return of Electronic Notification, 3-10-26 (Not obtained)
+ 442. Return of Electronic Notification, 3-11-26 (Not obtained)
+ 443. Request/Notice to Submit for Decision Defendant s Motion to Classify Defendant s Motion Filed January 9, 2026 as Private, 3-11-26 (Not obtained)
+ 444. Return of Electronic Notification, 3-11-26 (Not obtained)
+ 445. UOVC Restitution Notice Claim#1113572, 3-11-26
+ 446. Return of Electronic Notification, 3-11-26 (Not obtained)
+ 447. Request and Order for Electronic Media Coverage of Court Proceedings, 3-11-26
+ 448. State’s Response to Defendant s Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 3-11-26
+ 449. Return of Electronic Notification, 3-11-26 (Not obtained)
+ 450. Return of Electronic Notification, 3-12-26 (Not obtained)
+ 451.  PRIVATE  Filed: News Media Memorandum Opposing Motion to Close Portions of the April 17, 2026 Evidentiary Hearing, 3-12-26 (Not obtained, not available)
+ 452. Return of Electronic Notification, 3-12-26 (Not obtained)
+ 453. (Previously omitted) New Media's Supplemental Memorandum Opposing Motion To Classify Defendant's Motion Filed January 9, 2026, 3-10-26
+ 454. (Omitted from docket - no item #454)
+ 455. (Omitted from docket - no item #455)
+ 456. Proposed Order Granting News Media Motion to Classify Supplemental Memorandum Opposing Motion to Classify Defendants Motion Filed January 9, 2026, 3-12-26 (Not obtained)
+ 457. Return of Electronic Notification, 3-12-26 (Not obtained)
+ 458. Return of Electronic Notification, 3-13-26 (Not obtained)
+ 459. (Omitted from docket - No Item #459)
+ 460. Rulings And Orders On Classification And Closure Motions, 3-13-26
+ 461. Return of Electronic Notification, 3-14-26 (Not obtained)
+ 462. Notice of Expert (Dr. Ruva), 3-18-26
+ 463. Return of Electronic Notification, 3-18-26 (Not obtained)
+ 464. (Omitted from docket - No Item #464)
+ 465. Return of Electronic Notification, 3-20-26 (Not obtained)
+ 466. Defendant Tyler James Robinson’s Motion to Vacate or Continue Preliminary Hearing with Addenda, 3-27-26
+ 467. Return of Electronic Notification, 3-27-26 (Not obtained)
+ 468. (Redacted) Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom, 3-30-26
+ 469. Return of Electronic Notification, 3-30-26 (Not obtained)
+ 470. Return of Electronic Notification, 3-31-26 (Not obtained)
+ 471. Notice of Subpoena Duces Tecum (Utah County Sheriff s Department), 4-1-26
+ 472. Return of Electronic Notification, 4-1-26 (Not obtained)
+ 473. Order to Transport, 4-3-26 (Not obtained)
+ 474. Request for Discovery Defendant Tyler James Robinson s Supplemental Request for Discovery, 4-3-26
+ 475. Return of Electronic Notification, 4-3-26 (Not obtained)
+ 476. Memorandum in Opposition to Defendant’s Motion to Vacate the May 18 Preliminary Hearing (dckt 466), 4-3-26
+ 477. Return of Electronic Notification, 4-3-26 (Not obtained)
+ 478. Return of Electronic Notification, 4-3-26 (Not obtained)
+ 479. Request/Notice to Submit Defendant Tyler James Robinson s Request to Submit Motion to Exclude Cameras, TV Cameras and Microphones from the Courtroom, Oppositions, and Reply (Hearing Scheduled), 4-5-26 (Not obtained)
+ 480. Return of Electronic Notification, 4-5-26 (Not obtained)
+ 481. Notice of Expert (Dr. Edelman), 4-6-26
+ 482. Amended Notice of Exert (Dr. Ruva), 4-6-26
+ 483. Return of Electronic Notification, 4-6-26 (Not obtained)
+ 484. Return of Electronic Notification, 4-6-26 (Not obtained)
+ 485. Return of Electronic Notification, 4-7-26 (Not obtained)
+ 486. Notice of Appearance as Counsel of Record, 4-8-26
+ 487. Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Jeffrey A. Neiman, 4-8-26
+ 488. Request/Notice to Submit for Decision Re Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission of Jeffrey A. Neiman, 4-8-26 (Not obtained)
+ 489. Order (Proposed) Granting Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission, 4-8-26 (Not obtained)
+ 490. Return of Electronic Notification, 4-8-26 (Not obtained)
+ 491. Filed: TRANSADMIN TRANSCRIPT for Hearing 03-13-2026, 4-10-26 (Not obtained)
+ 492. Filed: TRANSADMIN TRANSCRIPT for Hearing 02-24-2026, 4-10-26 (Not obtained)
+ 493. Defendant Tyler James Robinson’s Reply in Support of Motion to Vacate or Continue Preliminary Hearing, 4-10-26
+ 494. Return of Electronic Notification, 4-10-26 (Not obtained)
+ 495. State’s Objection to Defendant’s Supplemental Request for Discovery, 4-10-26
+ 496. Return of Electronic Notification, 4-10-26 (Not obtained)
+ 497. Return of Electronic Notification, 4-10-26 (Not obtained)
+ 498. Corrected Notice of Subpoena Duces Tecum to Utah County Sheriff’s Office, 4-13-26 (Not obtained)
+ 499. Return of Electronic Notification, 4-13-26 (Not obtained)
+ 500. Request and Order for Electronic Media Coverage of Court Proceedings, 4-14-26
+ 501. Order Granting Motion and Consent of Sponsoring Local Counsel for Pro Hac Vice Admission, 4-14-26
+ 502. Return of Electronic Notification, 4-14-26 (Not obtained)
+ 503. Return of Electronic Notification, 4-15-26 (Not obtained)
+ 504. Motion for OSC for Contempt and Motion to Compel, 4-16-26
+ 505. Declaration of Counsel in Support of OSC, 4-16-26
+ 506. Return of Electronic Notification, 4-16-26 (Not obtained)
+ 507. Return of Electronic Notification, 4-23-26 (Not obtained)
+ 508. UOVC Restitution Notice Claim #1113630, 4-27-26
+ 509. Return of Electronic Notification, 4-27-26 (Not obtained)
+ 510. Opposition to Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Related to the Alleged Contempt, 4-30-26
+ 511. Return of Electronic Notification, 4-30-26 (Not obtained)
+ 512. ***Unavailable***Transcript of: Motion Hearing (4/17/26)
+ 513. Motion in Limine to Close Portions of Preliminary Hearing and Seal Particular Exhibits, 5-1-26
+ 514. Return of Electronic Notification, 5/1/26 (Not obtained)
+ 515. Supplemental Notice re: State’s Evidence at Preliminary Hearing, 5-1-26
+ 516. Return of Electronic Notification, 5-1-26 (Not obtained)
+ 517. Return of Electronic Notification, 5-2-26 (Not obtained)
+ 518.  PRIVATE  Non-Public Information Defendant’s Status Report, 5-4-26 (Not obtained)
+ 519. Return of Electronic Notification, 5-6-26 (Not obtained)
+ 520. (Omitted from docket - No item #120)
+ 521. Order to Appear, 5-5-26
+ 522. Return of Electronic Notification, 5-6-26 (Not obtained)
+ 523. State’s Preliminary Hearing Witness and Exhibit List, 5-6-26
+ 524. Return of Electronic Notification, 5-6-26 (Not obtained)
+ 525. Defendant Tyler James Robinson’s Motion in Limine to Preclude the Utilization of Art. I sec. 12 and Rule 1102 to Sanction the Admissibility of Hearsay Evidence to Establish Probable Cause at the Prelim, 5-6-26
+ 526. Return of Electronic Notification, 5-6-26 (Not obtained)
+ 527. Reply to Opposition to Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Relating to the Alleged Contempt, 5-7-26
+ 528. Return of Electronic Notification, 5/7/26 (Not obtained)
+ 529. Request/Notice to Submit Motion for an Order to Show Cause for Alleged Contempt of Court and for an Order Compelling Discovery Relating to the Alleged Contempt, 5-7-26 (Not obtained)
+ 530. Return of Electronic Notification, 5-7-26 (Not obtained)
+ 531. Objection to Defendant s Motion in Limine to Prelude the Utilization of Article I, Section 12 of the Utah Constitution and Rule 1102 of the Utah Rules of Evidence at the Preliminary Hearing, 5-8-26
+ 532. Objection to Defendant s Motion in Limine to Close Portions of the Preliminary Hearing and Seal Exhibits, 5-8-26
+ 533. Return of Electronic Notification, 5-8-26 (Not obtained)
+ 534. Ruling and Order on Defendant's Motion to Vacate or Continue Preliminary Hearing Pending Discovery and to Permit Constitutionally Adequate Time for Preparation, 5-8-26
+ 535. Ruling and Order on Defendant's Motion to Exclude Still Photographers, TV Cameras and Microphones from the Courtroom (Docket 305) and Standing Order on Electronic Media Coverage Requests, 5-8-26
+ 536. Certificate of Service: Notice to Attorney General, 5-8-26 (Not obtained)
+ 537. Return of Electronic Notification, 5-8-26 (Not obtained)
+ 538. Return of Electronic Notification, 5-8-26 (Not obtained)
+ 539. (Omitted from docket - no item # 539)
+ 540. Request and Order for Electronic Media Coverage of Court Proceedings, 5-11-26
+ 541. Return of Electronic Notification, 5-12-26 (Not obtained)
+ 542. Ruling on the Record, 5-12-26
+ 543. Return of Electronic Notification, 5-13-26 (Not obtained)
+ 544. Order to Transport, 5-14-26 (Not obtained)
+ 545. Return of Electronic Notification, 5-16-26 (Not obtained)
+ 546. Opposition to Defendant’s Motion to Close Portions of Preliminary Hearing and Seal Exhibits, 5-15-26
+ 547. Return of Electronic Notification, 5-15-26 (Not obtained)
+ 548. State’s Response to Tyler James Robinson’s Motion in Limine, 5-15-26
+ 549. Return of Electronic Notification, 5-15-26 (Not obtained)
+ 550. Corrected State’s Response to Tyler James Robinson’s Motion in Limine, 5-15-26
+ 551. Return of Electronic Notification, 5-15-26 (Not obtained)
+ 552. Reply in Support of Motion to Close/Seal Portions of Preliminary Hearing, 5-18-26
+ 553. Return of Electronic Notification, 5-18-26 (Not obtained)
+ 554. Return of Electronic Notification, 5-20-26 (Not obtained)
+ 555. Request and Order for Electronic Media Coverage of Court Proceedings, 5-19-26
+ 556. Return of Electronic Notification, 5-21-26 (Not obtained)
+ 557. Opposition to Defendant’s Motion to Preclude Hearsay at Preliminary Hearing, 5-27-26
+ 558. Return of Electronic Notification, 5-27-26 (Not obtained)
+ 559. Notice of Filing: Petition for Permission to Appeal from Interlocutory Order, 5-29-26
+ 560. Return of Electronic Notification, 5-29-26 (Not obtained)
+ 561. Defendant Tyler James Robinson's Motion to Stay Pending Interlocutory Review, 5-31-26
+ 562. Return of Electronic Notification, 5-31-26 (Not obtained)
+ 563. Ruling and Order Denying Defendant's Motion in Limine to Close Portions of the Preliminary Hearing Testimony and Seal Preliminary Hearing Exhibits, 6-1-26
+ 564. Ruling and Order Granting Defendant's Motion for Order to Show Cause (Docket 504) and Denying Request to Compel Discovery, 6-1-26
+ 565. (Omitted from docket - No item #565)
+ 566. (Omitted from docket - No item #566)
+ 567. Return of Electronic Notification, 6-2-26 (Not obtained)
+ 568. Motion for Permission to File Over-Length Reply in Support of Motion in Limine (re Hearsay), 6-3-26 (Not obtained)
+ 569. Request/Notice to Submit Request to Submit Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-3-26 (Not obtained)
+ 570. Reply in Support of Defendant’s Motion in Limine to Preclude (re Hearsay), 6-3-26
+ 571. (Proposed) Order on Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-3-26
+ 572. Return of Electronic Notification, 6-3-26 (Not obtained)
+ 573. Order on Motion for Overlength Reply in Support of Motion in Limine (re Hearsay), 6-5-26 (Not obtained)
+ 574. Return of Electronic Notification, 6-5-26 (Not obtained)
+ 575. Opposition to Motion to Stay Pending Interlocutory Review, 6-6-26
+ 576. Return of Electronic Notification, 6-6-26 (Not obtained)
+ 577. Order to Transport, 6-8-26 (Not obtained)
+ 578. Return of Electronic Notification, 6-9-26 (Not obtained)
+ 579. Reply in Support of Defendant Tyler James Robinson’s Motion to Stay Pending Interlocutory Review (Dkt 561), 6-9-26
+ 580. Return of Electronic Notification, 6-9-26 (Not obtained)
+ 581. Request/Notice to Submit Defendant Tyler James Robinson’s Motion to Stay Pending Interlocutory Review, 6-9-26 (Not obtained)
+ 582. Return of Electronic Notification, 6-9-26 (Not obtained)
+ 583. Acceptance of Service (J. Gray), 6-11-26 (Not obtained)
+ 584. Acceptance of Service (C. Ballard - Witness), 6-11-26 (Not obtained)
+ 585. Acceptance of Service (C Ballard - SDT), 6-11-26 (Not obtained)
+ 586. Return of Electronic Notification, 6-11-26 (Not obtained)
+ 587. Request/Notice to Submit Motion in Limine to Preclude Hearsay, 6-11-26 (Not obtained)
+ 588. Return of Electronic Notification, 6-11-26 (Not obtained)
+ 589. UOVC Restitution Notice Claim #1113637, 6-11-26
+ 590. Return of Electronic Notification, 6-11-26 (Not obtained)
+ 591. (Omitted - No item #591)
+ 592. (Omitted - No item #592)
+ 594. Return of Electronic Notification, 6-11-26 (Not obtained)
+ 598. Return of Electronic Notification, 6-12-26 (Not obtained)
+ 599. Utah Attorney General’s Notice of Intent Not to Respond to Constitutional Challenge, 6-12-26
+ 600. Return of Electronic Notification, 6-12-26 (Not obtained)
+ 601. Return of Electronic Notification, 6-12-26 (Not obtained)
+ 602. (Omitted from docket - no item #302)
+ 603. Audio Request Media/MP3 Request for Copy of Audio Recording, 6-16-26 (Not obtained)
+ 604. Return of Electronic Notification, 6-16-26 (Not obtained)
+ 605. Opposition to Application for Certificate of Attendance of Out-of-State Witness, 6-16-26
+ 606. Return of Electronic Notification, 6-16-26 (Not obtained)
+ 607. Order to Appear, 6-17-26
+ 608. Objection to Defendant s Request to Remove the Death Penalty as a Sanction in the Event the Court Grants the Contempt Motion, 6-17-26
+ 609. Return of Electronic Notification, 6-17-26 (Not obtained)
+ 610. Return of Electronic Notification, 6-18-26 (Not obtained)
+ 611. Request and Order for Electronic Media Coverage of Court Proceedings, 6-18-26
+ 612. Request and Order for Electronic Media Coverage of Court Proceedings - Preliminary Hearing, 6-18-26
+ 613. Reply in Support of Application for Certificate for Attendance of Out-of-State Witness, 6-18-26
+ 614. Request/Notice to Submit Request to Submit Application for Certificate, 6-18-26 (Not obtained)
+ 615. Return of Electronic Notification, 6-18-26 (Not obtained)
+ 616. Opposition to State’s Uninvited Objection to Defendant s Request to Remove the Death Penalty as a Sanction in the Event the Court Grants the Contempt Motion, 6-18-26
+ 617. Return of Electronic Notification, 6-18-26 (Not obtained)
+ 618. Return of Electronic Notification, 6-19-26 (Not obtained)
+ 619. Defendant Tyler James Robinson s Second Supplemental Request for Discovery, 6-19-26
+ 620. Return of Electronic Notification, 6-19-26 (Not obtained)
+ 621. (Omitted from Docket - no item #621)
+ 622. Return of Electronic Notification, 6-19-26 (Not obtained)
+ 623. Opposition to Defendant Tyler James Robinson’s Opposition to Electronic Media Request for the Preliminary Hearing, 6-21-26
+ 624. Return of Electronic Notification, 6-21-26 (Not obtained)
+ 625. Order Regarding Defendant's Application for Certificate for Attendance of Out-of-State Witness and State's Motion to Quash Subpoena, 6-22-26
+ 626. Notice of Filing News Media Response to Defendant’s Petition for Permission to Appeal Interlocutory Order, 6-22-26
+ 627. Return of Electronic Notification, 6-22-26 (Not obtained)
+ 628. Return of Electronic Notification, 6-23-26 (Not obtained)
+ 629. Request for Copy of Audio Record (Completed), 6-23-26 (Not obtained)
+ 630. Ruling on the Record, 6-23-26
+ 631. Ruling And Order On Defendant's Motion In Limine To Preclude Utilization Of Article I, Section 12 Of The Utah Constitution And Rule 1102 Of The Utah Rules Of Evidence To Sanction The Admissibility Of Heresy Evidence To Establish Probable, 6-23-26
+ 632. Minute Entry Order RE: Electronic Devices In Courtroom Prohibited During Preliminary Hearing, 6-23-26
+ 633. Request and Order for Electronic Media Coverage of Court Proceedings - Salt Lake Tribune, 6-23-26 (Not obtained)
+ 634. Request and Order for Electronic Media Coverage of Court Proceedings - Deseret News, 6-23-26 (Not obtained)
+ 635. Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the Preliminary Hearing (Dkt 633), 6-24-26
+ 636. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 637. News Media Response to Defendant s Opposition to Electronic Media Request for the Preliminary Hearing, 6-24-26
+ 638. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 639. Request/Notice to Submit Opposition to Electronic Media Request for Preliminary Hearing, 6-24-26 (Not obtained)
+ 640. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 641. Request and Order for Electronic Media Coverage of Court Proceedings - Associated Press, 6-23-26 (Not obtained)
+ 642. Defendant Tyler James Robinson’s Opposition to EMC Order for the Preliminary Hearing (Dkt 634), 6-24-26
+ 643. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 644. Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the Prelim (Dkt 641), 6-24-26
+ 645. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 646. Order To Appear, 6-24-26 (Not obtained)
+ 647. Opposition to Defendant’s Motion to Classify Application for Certificate to Secure Out-of-State Witness (News Media s Opposition), 6-24-26
+ 648. Return of Electronic Notification, 6-24-26 (Not obtained)
+ 649. (Omitted from docket - no item #649)
+ 650. Return of Electronic Notification, 6-25-26 (Not obtained),
+ 651. News Media Response to Defendant Opposition to EMC Orders for the Preliminary Hearing (Still Photography), 6-25-26
+ 652. Return of Electronic Notification, 6-25-26 (Not obtained)
+ 653. Request/Notice to Submit Oppositions to EMC Orders for the Preliminary Hearing, 6-25-26 (Not obtained)
+ 654. Return of Electronic Notification, 6-25-26 (Not obtained)
+ 655. Request and Order for Electronic Media Coverage of Court Proceedings, 6-26-26 (still photography)
+ 656. Audio Request for Listen Only Link, 6-26-26 (Not obtained)
+ 657. Return of Electronic Notification, 6-26-26 (Not obtained)
+ 658. Ruling And Order On Defendant's Motion For an Order To Show Cause For Contempt Of Court, 6-26-26
+ 659. Notice of Filing Petition for Permission to Appeal from Two Interlocutory Orders,6-26-26
+ 660. Return of Electronic Notification, 6-26-26 (Not obtained)
+ 661. (Omitted from docket - no item #661)
+ 662. (Omitted from docket - no item #662)
+ 663. Return of Electronic Notification, 6-30-26 (Not obtained)
+ 664. Ruling And Order On Defendant's Objections To Electronic Media Requests, 6-30-26
+ 665. Order To Transport, 6-30-26 (Not obtained)
+ 666. Return of Electronic Notification, 7-1-26 (Not obtained)
+ 667. RULING ON THE RECORD, 7-1-26
+ 668. News Media Motion to Amend Minute Entry Order to Allow Use of Portable Electronic Devices by the News Media and Their Counsel, 7-1-26
+ 669. Return of Electronic Notification, 7-1-26 (Not obtained)
+ 670. Return of Electronic Notification, 7-2-26 (Not obtained)
+ 671. Completed Audio Request for Listen Only Link, 7-2-26 (Not obtained)
+ 672. Response to Defendant’s Second Supplemental Request for Discovery, 7-2-26
+ 673. Return of Electronic Notification, 7-2-26 (Not obtained)
+ 674. Reply in Support of Motion to Classify Application as Private, 7-2-26
+ 675. Return of Electronic Notification, 7-2-26 (Not obtained)
+ 676. Ruling And Order Denying News Media Motion To Amend Minute Entry Order, 7-2-26
+ 677. Return of Electronic Notification, 7-3-26 (Not obtained)
+ 678. Defendant’s Standing Objections to State’s Exhibits, 7-3-26
+ 679. Return of Electronic Notification, 7-3-26 (Not obtained)
+ 680. News Media Amended Motion to Allow Portable Electronic Devices, 7-4-26
+ 681. Return of Electronic Notification, 7-4-26 (Not obtained)
+ 682. (Omitted from docket - no item #682)
+ 683. Return of Electronic Notification, 7-7-26 (Not obtained)
+ 684. PRELIMINARY HEARING, 7-8-26
+ 685. Supplemental Notice Concerning Access to Evidence Presented in Open Court, 7-8-26
+ 686. Return of Electronic Notification, 7-8-26 (Not obtained)
+ 687. Return of Electronic Notification, 7-9-26 (Not obtained)
+ 688. Request for Speedy Disposition and Prompt Bindover, 7-10-26
+ 689. Return of Electronic Notification, 7-10-26 (Not obtained)
+ 695. Return of Electronic Notification, 7-14-26 (Not obtained)
+ 696. Request for Copy of Audio Recording, 7-14-26 (Not obtained)
+ 697. Return of Electronic Notification, 7-15-26 (Not obtained)
+ 698. PRELIMINARY HEARING - DAY 2, 7-21-26
+ 699. PRELIMINARY HEARING, 7-21-26
+ 700. PRELIMINARY HEARING, 7-21-26
+ 701. Return of Electronic Notification, 7-22-26 (Not obtained)
+ 702. Memorandum in Support of Preliminary Hearing Bindover, 7-28-26
+ 703. Return of Electronic Notification, 7-28-26 (Not obtained)
+ 704. UOVC Restitution Notice Claim#1113669, 8-10-26 (Not obtained)
+ 705. Return of Electronic Notification, 8-10-26 (Not obtained)
+ 706. Defendant Tyler James Robinson's Preliminary Hearing Briefing, 8-11-26
+ 707. Return of Electronic Notification, 8-11-26 (Not obtained)
+ 708. UOVC Restitution Notice Claim#1113669 - UPDATED UOVC Claim Notice a/o 8/12/2026, 8-12-26 (Not obtained)\\
+ 709. Return of Electronic Notification, 8-12-26 (Not obtained)
+ 710. Request and Order for Electronic Media Coverage of Court Proceedings, 8-18-26
+ 711. Request and Order for Electronic Media Coverage of Court Proceedings, 8-18-26
+ 712. State’s Reply Supporting Preliminary Hearing Bindover, 8-18-26
+ 713. Return of Electronic Notification, 8-18-26 (Not obtained)
+ 714. Return of Electronic Notification, 8-18-26 (Not obtained)
+ 715.  PRIVATE  Motion to Classify Motion to Classify Unredacted Oppositions as Protected, 8-22-26 (Not obtained)
+ 716.  PRIVATE  Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 710), 8-22-26 (Not obtained)
+ 717.  PRIVATE  Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 711), 8-22-26 (Not obtained)
+ 718. Return of Electronic Notification, 8-22-26 (Not obtained)
+ 719. Opposition to Defendant Tyler James Robinson s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 710)\_Redacted, 8-22-26
+ 720. Opposition to Defendant Tyler James Robinson’s Opposition to EMC Order for the September 1, 2026 Hearing (Dkt 711), 8-22-26
+ 721. Return of Electronic Notification, 8-22-26 (Not obtained)
+ 722. Minute Entry Order RE: Electronic Device In Courtroom Prohibited During September 1, 2026 Hearing, 8-27-26
+ 723. Standing Decorum Order, Effective August 28, 2026, 8-27-26
+ 724. News Media Opposition to Defendant Motion to Classify Unredacted Oppositions to EMC Orders for the September 1, 2026 Hearing, 8-27-26
+ 725. News Media Consolidated Response to Defendant Opposition to EMC Orders for the September 1, 2026 Hearing, 8-27-26
+ 726. Return of Electronic Notification, 8-27-26 (Not obtained)
+ 727. Return of Electronic Notification, 8-28-26 (Not obtained)
+ 728. Defendant Tyler James Robinson’s Discovery Status Report, 8-28-26
+ 729. Return of Electronic Notification, 8-28-26 (Not obtained)
+ 730. Amended Standing Decorum Order, Effective August 28, 2026, 8-28-26
+ 731. Return of Electronic Notification, 8-28-26
+ 732. Order to Transport, 8-31-26
+
+
+================================================================================
+H. WHAT THIS SITE ALREADY HAS vs WHAT TO FETCH
+================================================================================
+Already in site/internals/static/court/filings/  (see legal_docs/_work/inventory_existing.txt):
+  filings/2025/  — ~100 PDFs (charging through Dec 2025)
+  filings/2026/  — ~73 PDFs (through ~April 2026 expert notices)
+  filings/warrants/
+  filings/mirandize/
+  filings/misc/
+  tyler-robinson-ballistics-motion.pdf
+  tyler-robinson-redacted-hearing-transcript.pdf
+  legal_docs/_text/ — OCR/text of many 2026 filings
+
+PRIORITY GAPS TO DOWNLOAD (public, circulating, not obviously already in our 2025/2026 trees):
+  [ ] All 24+ search warrant affidavits (W01-W25) from Burkhart
+  [ ] Omar Najera additional warrant AllyJKiss posted 8-19-26
+  [ ] State's 7-28-26 bindover memorandum (28 pp)
+  [ ] Defense 8-11-26 prelim briefing (34-41 pp) — Fox URL above
+  [ ] State's 8-18-26 reply bindover — Fox URL above
+  [ ] Defense 8-28-26 discovery status report
+  [ ] Grabien / CharlieFiles prelim transcripts days 1-5 if we want working copies
+  [ ] Certified court-reporter transcripts if commercially available
+  [ ] DocumentCloud project dump (project 224251)
+  [ ] State's 5-6-26 witness/exhibit list (Bates table)
+  [ ] 3-27-26 69-page continue-prelim motion (discovery tables)
+  [ ] 3-30-26 258-page redacted motion to exclude cameras (Miranda page 70)
+  [ ] 4-16-26 contempt OSC packet
+  [ ] June 26 2026 contempt ruling (20 pages — people quote it; confirm we have it)
+  [ ] Sept 1 2026 bindover argument filings as they land tomorrow
+
+SEALED / NOT DOWNLOADABLE BY DESIGN (track, do not expect a public PDF):
+  Autopsy report
+  Unredacted Oct 24 transcript (246 words)
+  Full ATF/FBI lab raw files / STRmix / CODIS
+  Twiggs unredacted video
+  Bodycam (GRAMA: none)
+  Affidavit of indigency
+  Internal prosecutor emails
+
+================================================================================
+RAW SEARCH DUMPS
+Do not summarize. Queries were run 2026-08-31. Instruction to the search: include Twitter/X;
+do not summarize; give as much detail as possible; find URLs people are posting.
+Full page captures of the two Burkhart archives and the Grabien prelim archive were
+saved under the session web_fetch cache and copied conceptually into sections A-G above.
+The compact docket in section G is extracted from the live Burkhart page as fetched.
+
+Queries run:
+  1. web: Tyler Robinson Charlie Kirk court documents PDF released discovery transcript filings 251403576
+  2. web: "Tyler Robinson" "Charlie Kirk" (PDF OR DocumentCloud OR "court filing" OR transcript OR affidavit OR "preliminary hearing") site:x.com
+  3. web: Tyler Robinson bindover brief defense motion preserve bullet fragment ATF report PDF
+  4. web: Charlie Kirk Tyler Robinson probable cause affidavit gag order search warrant autopsy discovery released
+  5. web: Andrea Burkhart Charlie Kirk legal documents Tyler Robinson search warrant affidavits
+  6. web: documentcloud.org Charlie Kirk Tyler Robinson documents list 26098895
+  7. web: charliefiles.com Tyler Robinson transcripts court filings PDF
+  8. web: Utah County Attorney Tyler Robinson charging documents atty.utahcounty.gov media ckpr
+  9. web: Tyler Robinson "Discovery Status Report" OR "Preliminary Hearing Briefing" OR "Reply Memorandum" bindover PDF 2026
+ 10. web: "tyler-robinson-redacted-hearing-transcript" OR "Oct 24" transcript PDF Charlie Kirk Graf
+ 11. X keyword Latest: ("Tyler Robinson" OR "Charlie Kirk") (PDF OR DocumentCloud OR affidavit OR transcript OR "court filing" OR discovery OR "preliminary hearing") (released OR leaked OR posted OR "here is" OR download)
+ 12. X semantic: Tyler Robinson Charlie Kirk court documents PDFs transcripts discovery filings released posted download
+ 13. X keyword Latest: ("bindover" OR "bind over") (Robinson OR "Charlie Kirk") (PDF OR brief OR filing OR memorandum)
+ 14. X keyword Latest: ("search warrant" OR affidavit OR "probable cause") (Robinson) (unsealed OR PDF OR DocumentCloud) Charlie
+ 15. X keyword Latest: from:aburkhartlaw (PDF OR filing OR warrant OR transcript OR discovery OR bindover)
+ 16. page fetch: https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+ 17. page fetch: https://andreaburkhart.substack.com/p/tyler-robinson-search-warrant-affidavits
+ 18. page fetch: https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+ 19. page fetch: https://publish.obsidian.md/charliefiles/transcripts/court/Hearing+Transcripts
+ 20. page fetch: https://news.grabien.com/robinson-prelim-archive/
+
+Selected raw hits (kept verbose on purpose):
+
+[web:0] Charlie Kirk Murder Case and Tyler Robinson | DocumentCloud
+https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+A comprehensive collection of official court filings, docket records, and public documents from State of Utah v. Tyler James Robinson (Case No. 251403576)... Documents include charging records, motions, orders, hearing transcripts, and other filings from the Fourth Judicial District Court in Provo. Updated as new materials become publicly available.
+
+[web:1] Tyler Robinson Case Made Searchable: Transcripts, Exhibits, Rulings, Court Filings :: Grabien News
+https://news.grabien.com/story/tyler-robinson-case-made-searchable-transcripts-exhibits-rulings-court
+Published 2026-07-08. Grabien built a free, searchable, day-by-day archive of the entire hearing. Every session of testimony is transcribed and cleaned by hand. Witness index, exhibit log (offered/admitted/published/shown to cameras), rulings log, "State of the Evidence" tracker (identification, DNA, the weapon, the alleged confession, the autopsy, the surrender, the death-penalty enhancement). Filings and Orders docket anchored by the charging document hosted in full.
+Archive: https://news.grabien.com/robinson-prelim-archive/
+
+[web:2] The State's Case Against Tyler Robinson Has Gaps to Close Before Trial
+https://tomselliott.substack.com/p/the-states-case-against-tyler-robinson
+Inventory of the prelim record. Exhibit numbers are the court's. Search-warrant affidavit unsealed in March: Robinson confessed to his father that he was the shooter — but the affidavit carries a former deputy's account of the father's account, relayed through two sheriffs. Arrest-interview transcript quoted in a defense filing: Miranda, then "I would like to speak with my, uh, legal counsel. I'm hoping for a fellow in Utah named Doug Terry." Editor's note July 13 2026: sixteen search-warrant affidavits unsealed in March, located by attorney Andrea Burkhart.
+
+[web:3] Charlie Kirk Murder Case Transcript Released: Read in Full - Newsweek
+https://www.newsweek.com/charlie-kirk-tyler-robinson-court-transcript-11282718
+Dec 30, 2025. Fourth District Judge Tony Graf Jr. announced the court would release a partially redacted hearing from October 24. Only 246 words removed from the 80-page transcript.
+
+[web:16] Fox News static PDF of the Jan 9 ballistics motion
+https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+ATF report Exhibit 2 dated September 17, 2025, disclosed December 18, 2025. "Exhibit 6 consists of one (1) .30-caliber class deformed/damaged bullet jacket fragment (designed 6A) and four (4) lead fragments (designed 6B through 6E)." State's Notice of Intent to Conduct Non-Destructive Testing (Virtual Comparison Microscopy) attached as Exhibit 1. Bates No. 011543.
+
+[web:19] Defense discovery status (people quoting the t.co PDF)
+Over recent months the Court has inquired of the State at each hearing concerning the status of discovery. On March 27, 2026 Mr. Robinson filed a motion to vacate or continue. Attached was a March 25, 2026 Second Request for DNA and Other Forensic Discovery, following the September 30, 2025 Formal Request For Discovery Pursuant To URCP 16 (Dkt. 61). Since March 18, 2026 the State has continued to produce new batches consisting of an additional 9,625 files, most recent production August 18th, for a total of 29,237 files. As of August 26, 2026 step 1 completed on 100% of disclosures; step 2 on approximately 23% (6,643 files). Defense preparing expert declarations in support of a motion to compel forensic discovery the State, through the FBI and the ATF, has refused to provide.
+
+[X] @aburkhartlaw 2026-08-28
+"There are lots of new Tyler Robinson filings in the Substack today, but the interesting one is the defense's 12-page discovery status report. First, the report elaborates on the scope of the information that's been recovered - more than 1,000,000 Discord communications and more than 25,000 location records from provider CSLI... Second, the report informs us that the defense is preparing its challenge to the admissibility of the State's DNA evidence as scientifically unreliable... To prepare its challenge, the defense will file a motion to compel discovery that was not produced in response to its March 25, 2026 second demand. This demand... includes requests for things like the STRmix source code and the entire CODIS database. The defense advises the court that it will be asking for a briefing schedule on the forthcoming motion to compel at the Sept. 1st hearing."
+New defense report: https://t.co/RuOQW1dxbd
+
+[X] @KanekoaTheGreat 2026-08-19 847,931 views
+"BREAKING: Prosecutors filed their final brief in the Tyler Robinson case today, ahead of Judge Graf's Sept. 1 bindover hearing. The State writes that Robinson 'does not challenge the substance of the evidence demonstrating that he was the person who crawled to the sniper's perch on the Losee Building rooftop, fired the fatal shot that killed Mr. Charlie Kirk, hid the rifle in a wooded area, got rid of some of the clothing he was wearing, and told his roommate to delete their texts about the shooting.'"
+
+[X] @AllyJKiss 2026-08-19
+Recently unsealed/released search warrant (6/10/26) for Omar @NajraGalvz who posted "Charlie kirk is coming to my college tomorrow i rlly hope someone evaporates him literally…Lets just say something big will happen tomorrow." Obtained personally through Utah Courts Xchange: Public Case Search.
+
+[X] @nicksortor 2025-09-16 1,003,061 views
+"Here is the FULL, un-redacted 10-page indictment against Charlie Kirk kiIIer Tyler James Robinson from the state of Utah" https://sortor.us/release/tjrindictment.pdf
+
+Grabien Day 1 exhibit log (verbatim from the fetched archive page) is the table of Ex. 1 through 11.2 with ADMITTED / NOT ADMITTED / PUBLISHED · COURT / MEDIA / NOT BROADCAST chips — captured in section C.
+
+END OF COMPILED LIST.
+Next step when Bryan says go: download every URL in sections A and B that is not already in legal_docs/_work/inventory_existing.txt.

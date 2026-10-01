@@ -1,0 +1,53 @@
+id: '2089045107618246884'
+url: 'https://x.com/godfatherofchao/status/2089045107618246884'
+author:
+  username: 'godfatherofchao'
+  name: 'GodFatherOfChaos'
+  id: '951371604071653376'
+text: |
+  This was the best TPUSA had to offer……
+created_at: '2026-08-16T17:42:20.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 92
+  reply_count: 31
+  like_count: 1087
+  quote_count: 8
+  bookmark_count: 12
+  impression_count: 15031
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2089045105135218688'
+      url: 'https://pbs.twimg.com/media/HP3HdHNacAAxl4a.jpg'
+      width: 1091
+      height: 814
+      downloaded_as: '2089045107618246884_1.jpg'
+      sha256: 'b9f74baa253a2d7937407de0acbb561eddfed6b0d4f037afda5295b0c0d94588'
+      ipfs_cid: 'QmRp5TH6hNFjorMJUqhjwVLBZ4DKEzzmsN1UmhxdoWsFam'
+      served_at: '/img/evidence/b9f74baa253a2d7937407de0acbb561eddfed6b0d4f037afda5295b0c0d94588.jpg'
+ocr_text: ''
+ocr_note: 'tesseract returned no text — the quote card uses a serif face over black that the OCR pass did not resolve. Text read visually instead.'
+image_content: |
+  Black-and-white portrait of Andrew Wilson (bearded, slicked-back hair, podcast
+  microphone at lower right) on the left half. Right half is solid black with the
+  quote in white serif type:
+    "The bullet could have broken apart in mid air for all we know!"
+    -Andrew Wilson
+verification_note: |
+  The attributed line could not be located in any published transcript or news
+  write-up of the August 14 2026 PBD Podcast debate as of 2026-08-17. Treated on
+  the site as an UNVERIFIED quote card, not as an established quotation.
+context:
+  event: 'Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate'
+  date: '2026-08-14'
+  venue: 'PBD Podcast'
+  reported_positions:
+    andrew_wilson: 'roughly 75-85% likelihood that Tyler Robinson killed Charlie Kirk'
+    candace_owens: '0% chance Tyler Robinson did it on the evidence released so far'
+  reported_owens_concession: "Owens acknowledged she has no direct evidence Israel was behind the assassination — 'Well, I couldn't say Israel was on the ground and shot and killed Charlie Kirk.'"
+site_page: 'site/docs/People/andrew-wilson.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-17'
+temp_file: false

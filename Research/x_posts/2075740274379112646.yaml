@@ -1,0 +1,57 @@
+id: '2075740274379112646'
+url: 'https://x.com/realhonestash/status/2075740274379112646'
+author:
+  username: 'realhonestash'
+  name: 'Honest Ash'
+  id: '36549922'
+text: |
+  It just keeps getting better….
+created_at: '2026-07-11T00:33:41.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 46
+  reply_count: 12
+  like_count: 152
+  quote_count: 2
+  bookmark_count: 14
+  impression_count: 3214
+quotes_post:
+  id: '2075691199575265757'
+  url: 'https://x.com/ProjectConstitu/status/2075691199575265757'
+  author:
+    username: 'ProjectConstitu'
+    name: 'Project Constitution'
+    id: '1605508047140438016'
+  created_at: '2026-07-10T21:18:41.000Z'
+  public_metrics:
+    retweet_count: 366
+    reply_count: 151
+    like_count: 1311
+    quote_count: 26
+    bookmark_count: 381
+    impression_count: 176139
+  text: |
+    ‼️BREAKING: Resurfaced Footage Captures New SUSPECT In All Black Fleeing UVU — Looks MORE Like Lance Twiggs Than Tyler Robinson
+
+    New video has resurfaced showing a man running from the UVU crime scene on 9/10, filmed by a witness who believed he was the real suspect. The man is seen wearing all black, with a black backpack and long dark hair — matching multiple descriptions from that day.
+
+    Construction worker Dylan Hope previously described coming into contact with a man right after the shooting who said "someone's been shot." He described him as wearing a black trench coat, black cargo pants, black COVID mask, black sunglasses, and having long greasy black hair while carrying a small backpack.
+
+    That description also closely matches what was broadcast over police dispatch that day: a suspect wearing all black, black mask, and carrying a long gun. The only known footage of a person on the roof also shows someone dressed entirely in black in a prone position on the Losee building.
+
+    This new video does not appear to show Tyler Robinson — however, the poster claims the man bears a resemblance to Lance Twiggs, particularly in hair length, color, and profile, though the footage is described as too blurry to make a positive identification.
+
+    CC: @RealCandaceO @baroncoleman
+  attachments:
+    videos:
+      - type: video
+        media_key: '13_2075689955058151424'
+        duration_ms: 20733
+        preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2075689955058151424/img/1daYD1XPu2bBzq6D.jpg'
+        best_variant_url: 'https://video.twimg.com/amplify_video/2075689955058151424/vid/avc1/1080x1920/vsrptJh96SUbAAHI.mp4'
+        ipfs_cid: 'QmQKcXQqCGn8hjfMwj7Mycfnzbv8B73sMmHLPYS9TZjSg9'
+transcription: |
+  There he is, right there. That guy. He's the guy.
+investigation: 'charlie_kirk'
+added_date: '2026-07-10'
+temp_file: false

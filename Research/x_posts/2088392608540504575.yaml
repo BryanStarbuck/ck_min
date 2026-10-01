@@ -1,0 +1,75 @@
+id: '2088392608540504575'
+url: 'https://x.com/DiligentDenizen/status/2088392608540504575'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen 🇺🇸'
+  id: '1585809424135995392'
+text: |
+  Here's the owner confirmation that it's the receipt in question and giving it to me.
+created_at: '2026-08-14T22:29:32.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 3
+  reply_count: 1
+  like_count: 20
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 599
+thread:
+  conversation_id: '2088391649923645555'
+  posts:
+    - id: '2088391649923645555'
+      created_at: '2026-08-14T22:25:44.000Z'
+      text: "Here's the Tyler Robinson Panguitch receipt—per Cowboy's Smokehouse servers. \U0001F91A"
+      media: ['3_2088391643883827200 photo 1080x2340']
+      public_metrics: {like_count: 204, retweet_count: 38, impression_count: 3315, reply_count: 11, quote_count: 3, bookmark_count: 8}
+    - id: '2088391927763009657'
+      created_at: '2026-08-14T22:26:50.000Z'
+      text: 'Herself the server saying it was 100% Tyler Robinson.'
+      media: ['13_2079273467845742592 video 3840x2160 226.0s', '3_2079273901683560448 photo 1145x2048']
+      media_source_tweet_id: '2079273906506965009'
+      public_metrics: {like_count: 88, retweet_count: 10, impression_count: 1144, reply_count: 2, quote_count: 0, bookmark_count: 2}
+    - id: '2088392608540504575'
+      created_at: '2026-08-14T22:29:32.000Z'
+      text: "Here's the owner confirmation that it's the receipt in question and giving it to me."
+      media: ['13_2078956676217028608 video 854x480 2085.9s']
+      media_source_tweet_id: '2078967048521036149'
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2079273467845742592'
+      duration_ms: 226001
+      source_tweet: '2079273906506965009'
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2079273467845742592/img/7SnU6CHRFnhhTt99.jpg'
+      downloaded_as: '2079273906506965009.mp4'
+      downloaded_variant: '1280x720 h264 (2176 kbps) — 4K/25 Mbps variant rejected at 406 MB as too heavy to serve'
+      ipfs_cid: 'QmT3wxEWv5LQsxih65s6XhvTwchUfU3sU6xW27FNt9y5Q7'
+      sha256: 'aae9965de76956c6b7c064d3b96d3e40dc4da4ed68527ac80204bdc256426932'
+    - type: video
+      media_key: '13_2078956676217028608'
+      duration_ms: 2085899
+      source_tweet: '2078967048521036149'
+      note: 'Already in videos/manifest.yaml from a prior run — the 34:46 full-visit video'
+      ipfs_cid: 'QmTabPZCekeH7nxUYg3kGKmkaBaXWKGtQTUdRN97Vz4QSW'
+  images:
+    - type: photo
+      media_key: '3_2088391643883827200'
+      url: 'https://pbs.twimg.com/media/HPt1IqWW8AAy1xz.jpg'
+      width: 1080
+      height: 2340
+      downloaded_as: '2088391649923645555_1.jpg'
+      ipfs_cid: 'QmfA8KxNVJfZBZbdQunnzwysVKbVZA77WSmzVEKBpBa8ZC'
+      sha256: 'a59f5f464c81d4cf149097fa46a05af311bebbe5a090f87e82133986d1ec31f6'
+    - type: photo
+      media_key: '3_2079273901683560448'
+      url: 'https://pbs.twimg.com/media/HNsQmNyW0AAN1LL.jpg'
+      width: 1145
+      height: 2048
+      downloaded_as: '2079273906506965009_1.jpg'
+      ipfs_cid: 'Qmcp4K9pBHHQHJMx5RLZG2NNbBGzXhiSjuoxpcNpopY9Me'
+      sha256: 'da301be5826adc357c357f5e78bb484f3422afec607aa8f146b5f4cc13320c82'
+transcription_file: 'videos_transcription/2079273906506965009.md'
+site_page: 'site/docs/Tyler_Robinson_Not_Assassin/panguitch-breaks-the-timeline.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-08-14'
+temp_file: false

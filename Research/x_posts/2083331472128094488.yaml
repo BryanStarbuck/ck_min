@@ -1,0 +1,59 @@
+id: '2083331472128094488'
+url: 'https://x.com/tricia_dejong/status/2083331472128094488'
+author:
+  username: 'tricia_dejong'
+  name: 'Tricia Brooks'
+  id: '18208324'
+text: |
+  Why pave over a crime scene? 🤔
+created_at: '2026-07-31T23:18:24.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 44
+  reply_count: 11
+  like_count: 268
+  quote_count: 5
+  bookmark_count: 12
+  impression_count: 3892
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2083331461852053504'
+      url: 'https://pbs.twimg.com/media/HOl67TUWQAAj84h.jpg'
+      width: 1170
+      height: 866
+      local_file: '~/BGit/Bryan_git/charlie-kirk/images/2083331472128094488_1.jpg'
+      sha256: 'e4872eaad473af800117fe20ccc3b276e6e201dcb13262dc317706fc7686b700'
+      cid: 'QmQRwWETaHwooht3BsELe2vAp1VgBfsEkv4kruHHXeUuCa'
+      description: 'UVU Sorensen Center courtyard. A wide strip of bare excavated soil runs across the foreground with a clean cut sod edge against the surviving amphitheater lawn. A metal stake stands in the dirt, an irrigation valve box sits at right, and yellow tape is strung across the upper terraces behind. SPN (Stew Peters Network) watermark lower right.'
+    - type: photo
+      media_key: '3_2083331465194991616'
+      url: 'https://pbs.twimg.com/media/HOl67fxXcAALJ7y.jpg'
+      width: 1170
+      height: 878
+      local_file: '~/BGit/Bryan_git/charlie-kirk/images/2083331472128094488_2.jpg'
+      sha256: '193d28f21d09b486c169fb9c4436899a7eb984c164101d57c1c6581d72d049ad'
+      cid: 'QmQnzHzRXdBnq7Xu43gv8QjRRZpNnZAUou1bGbsJYTuqVc'
+      description: 'Active base preparation beside the Sorensen Center underpass. A tracked skid-steer loader with a raised bucket sits at left, one worker screeds gravel with a long rake, a second worker stands beyond him, and a plate compactor plus a surveyor laser level on a tripod are staged at the lawn edge. Excavated sub-base and a trench line along the grass are visible. SPN watermark lower right.'
+    - type: photo
+      media_key: '3_2083331468621684736'
+      url: 'https://pbs.twimg.com/media/HOl67siWoAAolNs.jpg'
+      width: 1170
+      height: 1543
+      local_file: '~/BGit/Bryan_git/charlie-kirk/images/2083331472128094488_3.jpg'
+      sha256: '5d7f9700abdb1c8bcdb15c90c7217e5ca48eece9c49308548eb78a0779ed60a3'
+      cid: 'QmeLUcBRc7F5HWu1vWwWzyNBBWGxmvKpFLbuvSnc1Uarnx'
+      description: 'A mound of aggregate circled by hand in blue marker, sitting on a concrete plaza next to a white flatbed dump truck. Stacked crowd-control barricades occupy the foreground; the UVU fountain and the Wasatch range are behind. SPN watermark lower right.'
+ocr_text: ''
+ocr_attempted: true
+ocr_result: 'No machine-readable text. Tesseract returned empty output for all three images — they are photographs of a work site, not screenshots.'
+investigation: 'charlie_kirk'
+added_date: '2026-08-01'
+temp_file: false
+site_pages:
+  - 'site/docs/Tent/Dirt_Removed_Before_Pavers.mdx'
+  - 'site/docs/Photos/UVU_Venue/Img_Dirt_Strip_e4872e.mdx'
+  - 'site/docs/Photos/UVU_Venue/Img_Base_Prep_193d28.mdx'
+  - 'site/docs/Photos/UVU_Venue/Img_Gravel_Pile_5d7f97.mdx'
+ck_inbox_section: 'Landscaping cement under Tent / UVU'

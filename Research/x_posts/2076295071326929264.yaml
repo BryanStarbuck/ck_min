@@ -1,0 +1,44 @@
+id: '2076295071326929264'
+url: 'https://x.com/Bechedith/status/2076295071326929264'
+author:
+  username: 'Bechedith'
+  name: 'Bech'
+  id: '1916793393369489409'
+text: |
+  @VLuvMully @baroncoleman He already covered this.
+created_at: '2026-07-12T13:18:15.000Z'
+lang: 'en'
+conversation_id: '2076226147373768786'
+mentions:
+  - 'VLuvMully'
+  - 'baroncoleman'
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 12
+  quote_count: 0
+  bookmark_count: 2
+  impression_count: 224
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2076294840397008896'
+      duration_ms: 438751
+      width: 2340
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2076294840397008896/img/7-3u9LfRHnEeRHst.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2076294840397008896/vid/avc1/2340x1080/0MWnpH_wnXOwKWXm.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+  images: []
+ipfs:
+  video_cid: 'QmQxVttdEXbFCbcJrjfv1Bwam71YDExQLAZwRaAMdhXG9V'
+  video_gateway_url: 'https://ipfs.io/ipfs/QmQxVttdEXbFCbcJrjfv1Bwam71YDExQLAZwRaAMdhXG9V'
+investigation: 'charlie_kirk'
+added_date: '2026-07-12'
+temp_file: false
+note: >
+  Reply in a Baron Coleman thread. @Bechedith responds to @VLuvMully and
+  @baroncoleman with a ~7.3-minute video saying attorney Baron Coleman "already
+  covered this" — the Mirandizing / custody timeline for Tyler Robinson.

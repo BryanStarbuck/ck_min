@@ -1,0 +1,180 @@
+LAYOUT GUIDELINES — IMAGE PAGES UNDER /Photos
+
+
+This file is the authoritative standard for how an image sits on its page and
+how big it gets. It covers the Level 5 pages — one page, one image, one
+write-up — under {ROOT_DIR}/site/docs/Photos/.
+
+Every point in this file was written after a real, visible defect shipped to the
+live site. Treat each one as a defect to verify fixed, not as advice. Where this
+file and any prompt disagree, this file is right and the prompt is stale.
+
+Layout is a TEMPLATING concern, never a per-page concern. All of it is
+implemented in two places and nowhere else:
+
+  * {THIS_DIR}/generator/gen_photos_pages.py — the markup it emits.
+  * {SITE_DIR}/internals/src/css/custom.css — the block between
+    /* CK_EVIDENCE_LAYOUT_START */ and /* CK_EVIDENCE_LAYOUT_END */, which the
+    generator writes.
+
+Change the rule there, rerun the generator over all ~1,850 pages, and every page
+moves together. Never fix a layout defect by hand-editing an image page.
+
+
+============================
+THE POINTS
+============================
+
+* The image is ON THE PAGE. It is not anchored to the browser window and does
+  not scroll up and down independently of the page. If a page carries three
+  screens of writing, the image scrolls away with the text the way any in-page
+  element does. position: fixed and position: sticky are forbidden on the image
+  and on its wrapper.
+
+* The image is NOT TRANSPARENT. We have seen page content showing through an
+  image. The image and its wrapper are opaque and paint above everything around
+  them. Images with an alpha channel get an opaque backing colour so page text
+  can never be seen through them. opacity is 1.
+
+* The TEXT WRAPS AROUND IT. Nothing flows underneath the image and nothing
+  flows over it. Line boxes shorten beside the image and resume full width
+  below it. The prose column is never hand-capped to a percentage width to dodge
+  the image — the image reserves its own space and the text flows around what is
+  left.
+
+* PLACEMENT. The page's main header — the H1, the biggest header on the page —
+  comes first. The image is anchored directly below it, above the prose and
+  above the first section header. Section and paragraph headers are smaller
+  than the H1. In source order the image comes BEFORE the prose it sits beside;
+  that source order is what lets the prose wrap around it.
+
+* NO ROUNDED CORNERS. Images are never given rounded corners. We do not lose
+  any part of the corners of an image. border-radius is 0 on both the image and
+  its wrapper.
+
+
+============================
+THE BOUNDING BOX AND HOW THE SIZE IS CALCULATED
+============================
+
+The image is fitted inside a bounding box. The box has a width ceiling and a
+height ceiling, defined separately. The image scales inside that box preserving
+its aspect ratio, and whichever ceiling it reaches first is the one that governs.
+
+Width ceiling:
+
+  * UP TO 85% of the width of the MAIN AREA.
+  * The main area is the content column only. It excludes the left sidebar.
+    Level 5 pages set hide_table_of_contents: true, so there is no right-hand
+    TOC column to subtract.
+  * 85% is a CEILING on the box, not a fixed width, and not a target to hold
+    back from. Earlier versions of this layout capped the box near 55–70% of the
+    main area and the images came out small. That is wrong. If an image can use
+    the full width, it SHOULD use the full width. We want that.
+
+Height ceiling:
+
+  * One screen. The visible viewport height, less the navbar height, less about
+    6rem of breathing room, so an image can never be taller than a single screen
+    and never swallows the page.
+
+How the two interact:
+
+  * A wide / landscape image hits the WIDTH ceiling first. It renders at the
+    full 85% and the height comes out well under a screen. Let it have the full
+    width.
+  * A tall / portrait image hits the HEIGHT ceiling first. It stops there, and
+    its width comes out narrower than 85% on its own. That is correct and
+    expected. Do not pad it out to 85%, and do not stretch or crop it to get
+    there. It uses only the width its aspect ratio and the height ceiling allow.
+  * The image is never upscaled past its intrinsic size.
+
+Sizing by the viewport is NOT anchoring to the viewport. The viewport defines
+how big the box is allowed to be; the box then travels with the page and scrolls
+with it. Only the sizing may reference the viewport.
+
+
+============================
+RECONCILING FULL WIDTH WITH TEXT WRAP
+============================
+
+An image at 85% of the main area leaves a gutter too narrow to read in. An image
+at 40% leaves a comfortable column beside it. Both cases have to work, so the
+image is laid out one of two ways depending on how wide it actually renders:
+
+  * WRAPPED — the image floats and the prose wraps beside it and resumes full
+    width below it. Used when the gutter left over is at least a readable
+    column, about 18rem. This is the normal case for portrait and squarish
+    images, which are height-limited and therefore narrow.
+
+  * FULL WIDTH — the image occupies the whole line at up to 85%, and the prose
+    resumes underneath it at full width. No text is squeezed into a sliver
+    beside it. Used when the remaining gutter would be under about 18rem. This
+    is the normal case for wide landscape images.
+
+The generator decides which of the two applies, because it can read the image's
+intrinsic dimensions at generation time and compute the rendered width. It emits
+a modifier class on the wrapper; the CSS block implements the two behaviours.
+Both are in the document flow and both scroll with the page — the choice is
+about wrapping, never about anchoring.
+
+Below the mobile breakpoint (996px) every image collapses to a full-width block
+with the prose above and below it. A side-by-side float has no room to work at
+that width.
+
+
+============================
+WHAT THE CSS BLOCK MUST DO
+============================
+
+The CK_EVIDENCE_LAYOUT block in custom.css is the single implementation of this
+file. Class contract, emitted by the generator:
+
+  ck-evidence-image-wrap   the wrapper around the media
+  ck-evidence-image        the media element itself (img or video)
+  ck-evidence-text         the wrapper around the whole write-up
+
+The block must:
+
+  * keep the wrapper in the document flow — a float or another in-flow
+    mechanism, never position: fixed and never position: sticky;
+  * give the wrapper and the media an opaque background and opacity 1, and stack
+    them above the prose;
+  * leave ck-evidence-text with no effective width cap, and override with
+    !important the inline maxWidth that older generated pages still carry from
+    the superseded viewport-pinned layout;
+  * bound the media by the width and height ceilings above, for SIZE only;
+  * set border-radius to 0 on the wrapper and the media;
+  * collapse to a full-width block below the 996px breakpoint.
+
+Videos use the same wrapper and obey the same rules.
+
+
+============================
+VERIFICATION — ON THE BUILT OUTPUT
+============================
+
+Check the built CSS bundle under {SITE_DIR}/build/assets/css/, not only the
+source, because the bundle is what visitors actually get.
+
+  * grep the bundle for the ck-evidence rules. position:fixed and
+    position:sticky must NOT appear on ck-evidence-image-wrap. An in-flow
+    mechanism must.
+  * The wrapper and the media carry an opaque background and sit above the prose
+    in stacking order.
+  * ck-evidence-text has no effective width cap.
+  * border-radius resolves to 0 on the wrapper and the media.
+  * grep every generated Img_*.mdx for a leftover inline maxWidth on
+    ck-evidence-text. The count must be zero.
+
+Then eyeball at least four pages in a browser:
+
+  * one wide landscape image — it fills up to 85% of the main area, and the
+    prose resumes at full width below it;
+  * one tall portrait image — it stops at one screen of height, comes out
+    narrower than 85%, and the prose wraps beside it and resumes below;
+  * one page with several screens of writing — the image scrolls up with the
+    text and never pins to the window;
+  * one image with transparency — no page content is visible through it.
+
+Confirm on all four: square corners, nothing running under or over the image.

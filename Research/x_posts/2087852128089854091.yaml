@@ -1,0 +1,80 @@
+id: '2087852128089854091'
+url: 'https://x.com/samtripoli/status/2087852128089854091'
+author:
+  username: 'samtripoli'
+  name: 'Sam Tripoli'
+  id: '18303935'
+text: |
+  Didn't happen!
+created_at: '2026-08-13T10:41:52.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 8
+  reply_count: 8
+  like_count: 143
+  quote_count: 0
+  bookmark_count: 5
+  impression_count: 14007
+quote_chain:
+  - level: 1
+    id: '2087675442165629046'
+    url: 'https://x.com/EvanMahoney_/status/2087675442165629046'
+    author: '@EvanMahoney_'
+    created_at: '2026-08-12T22:59:47.000Z'
+    text: 'The Candace Owens vs Andrew Wilson debate is already over'
+  - level: 2
+    id: '2087598801036964144'
+    url: 'https://x.com/fox13/status/2087598801036964144'
+    author: '@fox13 (FOX 13 News Utah)'
+    created_at: '2026-08-12T17:55:14.000Z'
+    text: "Tyler Robinson defense team says he hit the 'intended target,' did not endanger others"
+    article_url: 'https://www.fox13now.com/news/shooting-of-charlie-kirk/robinson-defense-team-says-he-hit-the-intended-target-did-not-endanger-others'
+    article_title: "Robinson defense team says he hit the 'intended target,' did not endanger others"
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2087852125053157376'
+      url: 'https://pbs.twimg.com/media/HPmKciFWgAA8M6V.jpg'
+      width: 612
+      height: 792
+      sha256: '45669ed00bebc810708f0fb48bbe74becf2539661e2426db0860aca80e8f9eec'
+      ipfs_cid: 'QmVb2Rs3gX89pXEp2LZkCMPodNrFzoxmLdBGgqJnUJUtY1'
+ocr_text: |
+  ARGUMENT
+  The State Has Not Met Its Burden to Show Probable Cause by [evidence] Deemed
+  Reliable by Rule in Violation of Mr. Robinson's Constitutional Rights and Separation of
+  Powers Principles.
+
+  As briefed and argued extensively prior to the preliminary hearing, and as raised as a
+  continuing objection throughout the preliminary hearing itself, the State's extensive use of
+  hearsay deemed reliable by Rule of Criminal Procedure 1102 violates Mr. Robinson's
+  constitutional rights and separation of powers principles. See U.S. Const. amends VI, VIII, XIV;
+  Utah Const. art. I, S 1. See also Docs. 625, 570, 631, 678. This Court may not bind over Mr.
+  Robinson based upon the State's evidence consisting primarily of hearsay that has not been
+  assessed for reliability.
+
+  This is particularly true as it relates to the evidence cited by the State to establish identity
+  for all of the charged counts. See St.Br. 9-10. This evidence consists largely of alleged
+  communications between Mr. Robinson and Mr. Twiggs, alleged communications between Mr.
+  Robinson and other individuals on the application Discord, and an identification of Mr. Robinson
+  from UVU surveillance footage. See St.Ex 16.1, 16.2. This evidence came from, or became
+  presumptively admissible through, a recorded interview between the Utah County Attorney's
+  Office and witness Lance Twiggs, St.Ex. 16, a witness the Court would not allow Mr. Robinson
+  to seek to subpoena from another state to testify at the preliminary hearing. See Doc. 625.
+
+  The State has failed to prove probable cause by reliable evidence that satisfies each
+  element of each of the charged evidence. This Court must decline to bind over on all [counts].
+
+  II. As a Matter of Law, the State Has Not Established and Cannot Establish Probable
+  Cause to Support the Aggravator That the Shooting Knowingly Created a "High
+  Probability" of Death to Another Individual From the Single Shot From a High-
+  Powered, Scoped Rifle From a Rooftop Vantage That Hit the Intended Target.
+
+  Mr. Robinson is charged with aggravated murder pursuant to Utah Code S 76-5-
+  202(2)(a)(ii), which requires the State to prove that "the actor intentionally or knowingly
+  [...]"
+  (page 2)
+investigation: 'charlie_kirk'
+added_date: '2026-08-13'
+temp_file: false

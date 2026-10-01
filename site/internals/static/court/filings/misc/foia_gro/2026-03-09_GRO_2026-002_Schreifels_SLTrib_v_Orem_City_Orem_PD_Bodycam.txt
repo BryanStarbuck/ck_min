@@ -1,0 +1,297 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2026-002
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 140202 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+JESSICA SCHREIFELS (THE SALT LAKE TRIBUNE), Petitioner, v.
+
+OREM CITY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2026-002
+
+By this appeal, Petitioner, Jessica Schreifels, an investigative reporter for The Salt Lake Tribune, seeks access to records held by Respondent, Orem City ("Orem").
+
+BACKGROUND
+
+On October 16, 2025, Ms. Schreifels submitted a request for records pursuant to the Government Records Access and Management Act ("GRAMA") to Orem City. Ms. Schreifels requested "all body camera footage, if any exists, from any Orem police officer who responded to the shooting of Charlie Kirk on campus on Sept. 10, 2025, including anyone involved at the shooting scene, clearing campus or any other related activities." Tyler Robinson has been charged with aggravated murder in relation to the shooting death of Mr. Kirk at Utah Valley University ("UVU").
+
+On October 23, 2025, the Orem Police Department denied the records request. The denial stated that the requested records contained investigatory and evidentiary information and were classified as protected under Utah Code § 63G-2-305(10) at the request of the Utah County Attorney's Office and the Utah State Bureau of Investigation to preserve the integrity of the ongoing legal proceedings.
+
+On November 20, 2025, Ms. Schreifels appealed the denial to Orem City Chief Administrative Officer Brenn Bybee, arguing that the denial was inadequately supported and failed to parse between protected records and records that must be released. On December 4, 2025, Ms. Bybee affirmed the denial, stating that the public release of raw, sensitive evidentiary material related to a pending homicide investigation and prosecution creates an unacceptable risk of irreparably tainting evidence, witnesses, and the entire juror pool, which could jeopardize the integrity of the ongoing enforcement proceedings.
+
+Ms. Schreifels filed an appeal of this decision with the Government Records Office ("Office") on January 2, 2026. After the appeal was filed, Tyler Robinson submitted a Request for Intervention pursuant to Utah Code § 63G-2-403(6), which was granted on February 5, 2026. Utah County also filed a Request for Intervention, which was granted on February 10, 2026. On February 26, 2026, the Director of the Office ("Director") held a public hearing at which the parties were allowed to present their evidence and arguments. After carefully considering the parties' presentations and submissions, and reviewing a representative sample of the requested body camera footage in camera, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. GRAMA specifies that a "record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). Records that are designated as "private," "protected," or "controlled," are not public. See Utah Code §§ 63G-2-201(3)(a), -302, -303, -304 and -305.
+
+2. Records created or maintained for criminal enforcement purposes are protected non-public records if properly classified by a governmental entity, and release of the records: (1) Reasonably could be expected to interfere with investigations undertaken for enforcement; (2) Reasonably could be expected to interfere with enforcement proceedings; or (3) Would create a danger of depriving a person of a right to a fair trial or impartial hearing. Utah Code § 63G-2-305(10)(a-c).
+
+3. Records of a governmental entity or political subdivision regarding security measures designed for the protection of persons or property, public or private, are not subject to GRAMA. Utah Code § 63G-2-106(1).
+
+4. Counsel for Orem City argued that its search yielded over 50 body camera videos, encompassing the immediate aftermath of the shooting, crime scene management, witness interviews, and canvassing of the campus and nearby neighborhoods. Orem City asserts that the records were independently reviewed and correctly classified under Utah Code § 63G-2-305(10), maintaining that the release of such evidentiary records would interfere with pending investigations and enforcement proceedings.
+
+5. Intervenor Utah County argued that the release of the records at this time would circumvent the discovery process and interfere with ongoing investigations and prosecutions. Intervenor Tyler Robinson similarly argued that releasing potentially inadmissible evidence into the public sphere creates a severe risk of tainting the jury pool and prejudicing Mr. Robinson's constitutional right to a fair trial in a capital case.
+
+6. Counsel for Ms. Schreifels argued that the request was broad enough to encompass peripheral activities, such as clearing buildings and directing traffic, and that Orem City failed in its duty to segregate public information from protected information under Utah Code § 63G-2-308. Furthermore, Petitioner argued that under Utah Code § 63G-2-403(11)(b), the public interest in transparency and accurately reporting on the police response to the incident outweighs the interests favoring restriction.
+
+7. Having reviewed a representative sample of the requested body camera video in camera (totaling approximately 10 hours of footage covering various locations and activities), the Director finds that Orem City properly processed the request and properly classified the records as protected pursuant to Utah Code § 63G-2-305(10)(a-c). The Director finds that releasing the footage at this stage would reasonably be expected to interfere with ongoing investigations and enforcement proceedings, and would create a danger of depriving Mr. Robinson of his right to a fair trial.
+
+8. Furthermore, the Director finds that the records are replete with highly sensitive information, including private medical information and interactions with third-party witnesses in their homes. Any attempt to segregate and redact the extensive private and protected information would leave the remaining footage virtually unintelligible and of no substantive use to the public.
+
+9. Utah Code § 63G-2-403(11)(b) provides that the Director may order the disclosure of information properly classified as private or protected if the public interest favoring access is greater than or equal to the interest favoring restriction of access. While the Director acknowledges the heightened public interest in accessing these records, Petitioner has not met the burden of showing that the public interest equals or outweighs the compelling interests of safeguarding the integrity of the ongoing capital murder investigation and ensuring the defendant's constitutional right to a fair trial at this time.
+
+10. Finally, the Director declines Petitioner's request to keep this matter open for future release, but notes that a future request for these records at a later date, based on substantially changed circumstances (such as the conclusion of the trial), would not be unreasonably duplicative.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner, Jessica Schreifels, is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 9th day of March 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

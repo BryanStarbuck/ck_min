@@ -1,0 +1,23 @@
+## TABLE A — the following aircraft
+
+| Row | Date claimed | Airport | City / State | Following aircraft | Type | ICAO hex | Arrived from | Departed to | Ground stay logged, arrived | Departed | Days | Transponder / ground flag | ADS-B verdict | Closest approach |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [OWENS-015](/Planes/following/overlap/20230509_MO_st_louis_then_goose_bay_owens_015/overview) | **9 May 2023** | [**CYYR**](/Planes/following/GooseBay_CYYR_2023-05-09_to_2025-09-13/overview)<br/>Goose Bay (via St. Louis → Cairo) | St. Louis then Goose Bay, MO | [SU-BND](/Planes/SU-BND/overview) | Gulfstream IV (GLF4) | `01003E` | St. Louis | Goose Bay → Paris → Cairo | 9 May 2023 | 9 May 2023 | 0 | — | **Elsewhere by ADS-B — refutation withdrawn** | 1062.56 km |
+| [OWENS-050](/Planes/following/overlap/20230512_MO_st_louis_owens_050/overview) | **12 May 2023** | [**KSTL**](/Planes/following/StLouis_KSTL_2022-12-20_to_2025-02-23/overview)<br/>St. Louis (claimed) | St. Louis, MO | [SU-BND](/Planes/SU-BND/overview) | Gulfstream IV (GLF4) | `01003E` | Missouri (claimed) | Paris / Cairo (claimed) | *no logged stay covers this date* | — | — | — | **Elsewhere — refuted** | 7034.48 km |
+| [OWENS-036](/Planes/following/overlap/20250618_NE_omaha_lincoln_owens_036/overview) | **18 June 2025** | [**KOMA**](/Planes/following/Omaha_KOMA_2024-02-09_to_2025-10-05/overview)<br/>Omaha then Lincoln (claimed) | Omaha / Lincoln, NE | [SU-BTT](/Planes/SU-BTT/overview) | Dassault Falcon 7X | `0101D3` | Paris (claimed) | Wilmington / Cairo (claimed) | *no logged stay covers this date* | — | — | — | **Elsewhere — refuted** | 10139.55 km |
+
+## TABLE B — who they are claimed to have been following
+
+| Row | Date claimed | Who the sheet claims was present | Erika location as the sheet gives it | Sourced Kirk / TPUSA appearance same day | Venue | Local time | Nearest airport to that venue | Kirk-side aircraft on record |
+|---|---|---|---|---|---|---|---|---|
+| [OWENS-015](/Planes/following/overlap/20230509_MO_st_louis_then_goose_bay_owens_015/overview) | **9 May 2023** | Charlie: **not claimed** · Erika: **claimed** | Missouri / Cairo | **None same-day.** Neither this register's own nearest-event column nor a date join against the sourced speaking-events catalog finds a Kirk or TPUSA appearance within three days. | — | — | — | *none recorded* |
+| [OWENS-050](/Planes/following/overlap/20230512_MO_st_louis_owens_050/overview) | **12 May 2023** | Charlie: **not claimed** · Erika: **claimed** | Missouri / Cairo | **None same-day.** **Register's nearest sourced appearance:** none in MO mid-May 2023 (register, gap not stated) | — | — | — | *none recorded* |
+| [OWENS-036](/Planes/following/overlap/20250618_NE_omaha_lincoln_owens_036/overview) | **18 June 2025** | Charlie: **not claimed** · Erika: **claimed** | Nebraska | **None same-day.** **Register's nearest sourced appearance:** YWLS Grapevine TX 2025-06-13 to 2025-06-15 (the only well-dated joint Charlie-and-Erika appearance before Sept 10 — and no aircraft in Texas) (register, gap not stated) | — | — | — | *none recorded* |
+
+## TABLE C — sourcing and both verdicts
+
+| Row | Sheet index | Audit verdict (tracking-site pass) | ADS-B verdict (position data) | What the position data says | Source of the claim | Source post | Full row page |
+|---|---|---|---|---|---|---|---|
+| `OWENS-015` | 15 | **Accurate** | **Elsewhere by ADS-B — refutation withdrawn** | ELSEWHERE BY ADS-B ONLY - REFUTATION WITHDRAWN 14 Sep 2026. The airframe was tracked that day and its closest recovered position is 1,063 km from CYYR, but the trace ends over Canada. FlightAware records SU-BND landing at CYYR… | Owens sheet via Kanekoa audit (ACCURATE overall) | [post](https://x.com/KanekoaTheGreat/status/2000701268806062358) | [open](/Planes/following/overlap/20230509_MO_st_louis_then_goose_bay_owens_015/overview) |
+| `OWENS-050` | 50 | **Inaccurate** | **Elsewhere — refuted** | REFUTED FOR THE CLAIMED DAY. The airframe was tracked that day and its closest recovered position is 7,034 km from KSTL. FlightAware adds that it left St Louis Downtown (KCPS) on 9 May, three days earlier and inside the ±3-day… | Owens sheet via Kanekoa audit | [post](https://x.com/KanekoaTheGreat/status/2000701268806062358) | [open](/Planes/following/overlap/20230512_MO_st_louis_owens_050/overview) |
+| `OWENS-036` | 36 | **Inaccurate** | **Elsewhere — refuted** | REFUTED. The airframe was tracked that day and its closest recovered position is 10,140 km from KOMA. | Owens sheet via Kanekoa audit | [post](https://x.com/KanekoaTheGreat/status/2000701268806062358) | [open](/Planes/following/overlap/20250618_NE_omaha_lincoln_owens_036/overview) |

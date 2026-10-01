@@ -1,0 +1,11 @@
+site/docs/People/trigger-smart.mdx
+site/docs/People/tucker-carlson.mdx
+site/docs/People/tyler-bowyer.mdx
+site/docs/People/tyler-robinson.mdx
+site/docs/People/unnamed-surgeon.mdx
+site/docs/People/walid-mahmoud.mdx
+site/docs/People/william-pugh.mdx
+site/docs/People/xaviaer-durousseau.mdx
+site/docs/People/yair-netanyahu.mdx
+site/docs/People/yehuda-kaploun.mdx
+site/docs/People/zane-qureshi.mdx

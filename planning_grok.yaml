@@ -1,0 +1,53 @@
+planning:
+  run:
+    date: "2026-07-04"
+    focus: "Timeline Level 2 expansion"
+    input_text: "Level 2 = Timeline — chronological hub pairing Before/After"
+    grok_query_dir: "~/T/_ck/grok_query/timeglyph"
+    random_phrase: timeglyph
+  level2:
+    Timeline:
+      path: site/docs/Timeline
+      overview: site/docs/Timeline/overview.mdx
+      level3_count: 22
+      level4_count: 3
+      new_level3:
+        - Investigation_Index
+      pages_csv_added:
+        - july-18-decision
+        - military-meeting-july-20
+        - hamptons-intervention-meeting
+        - high-pressure-meeting-sept-9
+        - they-are-going-to-kill-me-text
+        - 12-23-shooting-time
+        - roof-jumping-timeline
+        - witness-testimony-discrepancies
+        - post-assassination-investigations
+      updates:
+        - overview.mdx — Assess_Manual 3-column TOC 8-7-7; removed embedded full-detail blocks
+        - all root Level 3 back buttons href /Timeline/overview
+        - roof-jumping-timeline + 2026 grok linkage tables
+      grok_to_page_map:
+        1_results.txt: overview + Investigation_Index
+        2_results.txt: Sept_10_2025 + 12-23-shooting-time
+        3_results.txt: Sept_8_to_13 + roof-jumping-timeline
+        4_results.txt: Tyler_Robinson + Level 4 sub-pages
+        5_results.txt: july-18-decision + foreign-leaders + nebraska + military-meeting-july-20
+        6_results.txt: hamptons + high-pressure-sept-9 + they-are-going-to-kill-me-text
+        7_results.txt: Year_2024 + Year_2025 + years + 2025 + 2026
+        8_results.txt: Charlie_Kirk
+        9_results.txt: witness-testimony-discrepancies + post-assassination-investigations
+        10_results.txt: october-15-2025 + Planes cross-cut
+      cross_links:
+        - Before/overview
+        - After/overview
+        - Planes/overview
+        - court/overview
+        - UVU/overview
+        - CoverUp/overview
+  prior_run:
+    date: "2026-07-04"
+    focus: "CoverUp Level 2 expansion"
+    input_text: "Level 2 = CoverUp — navbar cover-up section"
+    grok_query_dir: "~/T/_ck/grok_query/coverglyph"
+    random_phrase: coverglyph

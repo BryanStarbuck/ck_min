@@ -1,0 +1,98 @@
+DOWNLOAD COMPLETE — lane news-mirrors-national. 63 files kept (43 PDFs + 10 HTML pages each saved as .html plus an extracted .txt). Zero documents are unobtainable. Byte counts below are exactly what `stat`/`ls -l` reported.
+
+DESTINATION: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/internals/static/court/filings/incoming/news-mirrors-national/
+LOG: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/fetch_news-mirrors-national.txt
+PARSED DOCKET INDEX: /Users/bryan/BGit/Bryan_git/charlie-kirk/site/docs/court/legal_docs/_work/burkhart_full_docket_index.tsv (606 docket rows; 258 have a file URL, 348 marked "(Not obtained)" — the 258 figure matches the claim exactly)
+
+=========================================================================
+CRITICAL FINDING — 8 OF THE SUPPLIED URLs WERE WRONG
+=========================================================================
+Seven URLs in the task list returned a real, valid case PDF that is NOT the document it was labelled as, and one was dead. I caught this by fetching the Burkhart docket index page (HTTP 200, 788,478 bytes), parsing every list item into (docket title -> file URL), joining that against the supplied UUIDs, and then confirming with pdftotext caption extraction on page 1 of each suspect PDF. I kept the mislabelled files under their TRUE titles and separately downloaded the documents that were actually wanted.
+
+  item 13  1a12c841 = "Defendant's Opposition to EMC Order for the Preliminary Hearing (Dkt 633), 6-24-26" — caption confirmed. Correct ruling re-fetched from eae0b483-1222-4fd2-b202-d40ed3c227d3.pdf
+  item 14  04b4bdef = "Motion Pro Hac Vice to Admit Michael N. Burt, 9-25-25" — caption confirmed. Correct ruling re-fetched from 7f76a6a0-57cd-49e1-9c8a-c6292b92bfb1.pdf
+  item 15  2617e2f3 = "UOVC Restitution/Subrogation Notice Claim #1113665, 12-5-25" — caption confirmed. Correct motion re-fetched from f3398ee6-907a-4c70-8563-c9aae27f59d1.pdf
+  item 18  1fea5c3c = "State's Response to News Media's Motion to Amend Standing Order for Rule 4-202.04, 2-5-26" — caption confirmed. Correct notice re-fetched from ecafa2e9-6b8e-4401-9b1e-5953aba03a40.pdf
+  item 19  0772be98 = "State's Reply Supporting Motion to Amend or Clarify Pre-Trial and Trial Publicity Order, 11-28-25" — caption confirmed. Correct motion re-fetched from 001dd14c-b3d3-4834-af3b-20974e81ffa7.pdf
+  item 23  2874439f = "Order to Transport, 10-21-25" (1pp image-only scan). Correct request re-fetched from 8219c16d-ee65-4ec6-a44b-c5be5b8fee27.pdf
+  item 24  27e51a7e = "Notice of Appearance as Counsel of Record" for Victim Representative Erika Kirk — caption confirmed. Correct response re-fetched from 74d50292-177e-4865-a315-7353713eb9ad.pdf
+  item 28  ec4a9e3c = HTTP 404 on all four attempts, body {"error":"unable to find file, given fileKey"}. Genuinely dead fileKey, not bot-blocking — the same UA and session pulled 40+ other PDFs from this host. Correct doc found in the index as 75d9511f-501c-4335-b503-91ddd479bff5.pdf and downloaded.
+  item 11  6fcb91e5 is the docket row "Ruling on the Record, 6-23-26" (a MINUTES sheet), not the substantive hearsay ruling. Kept as 2026-06-23_Ruling_on_the_Record.pdf; the real Article I §12 / Rule 1102 ruling was found at c7495909-6729-4da8-8af8-2aef91f6e81e.pdf and downloaded.
+  BONUS   Also pulled the un-amended "Standing Decorum Order, Effective August 28, 2026, 8-27-26" (6053b721), because item 28's title conflated the 8-27 and 8-28 orders.
+
+=========================================================================
+PDFs KEPT (bytes / pages)
+=========================================================================
+    246427   3pp  2025-09-16_Tyler_Robinson_Redacted_Probable_Cause_Affidavit_FoxNews.pdf
+    368948   6pp  2025-09-25_Motion_Pro_Hac_Vice_to_Admit_Michael_N_Burt.pdf                          [true id of item 14 URL]
+    134170   1pp  2025-10-21_Order_to_Transport.pdf                                                    [true id of item 23 URL]
+    216048  10pp  2025-11-28_States_Reply_Supporting_Motion_to_Amend_or_Clarify_Pretrial_Publicity_Order.pdf  [true id of item 19 URL]
+     50913   1pp  2025-12-05_UOVC_Restitution_Notice_Claim_1113665.pdf                                 [true id of item 15 URL]
+   1060521  97pp  2025-12-28_Filed_Transcript_of_October_24_2025_Hearing_Redacted_KUTV.pdf
+   1060521  97pp  2025-12-28_Tyler_Robinson_Redacted_Hearing_Transcript_FoxNews.pdf                    [BYTE-IDENTICAL to the KUTV copy]
+   1369739  29pp  2026-01-09_Defendant_Motion_With_Exhibits_Previously_Private.pdf                     [the big gap-closer, with exhibits]
+    120849   2pp  2026-02-05_States_Response_to_News_Media_Motion_to_Amend_Standing_Order_Rule_4-202-04.pdf  [true id of item 18 URL]
+   1551455  69pp  2026-03-27_Motion_to_Vacate_or_Continue_Preliminary_Hearing_With_Addenda.pdf
+   3919082 258pp  2026-03-30_Redacted_Motion_to_Exclude_Still_Photographers_TV_Cameras_258pp.pdf       [matches the 3,919,082-byte local copy exactly]
+    289983   3pp  2026-04-08_Notice_of_Appearance_as_Counsel_of_Record_Erika_Kirk_Victim_Rep.pdf       [true id of item 24 URL]
+    195116   7pp  2026-05-01_Motion_in_Limine_to_Close_Portions_of_Prelim_and_Seal_Exhibits.pdf
+    149350   3pp  2026-05-01_Supplemental_Notice_re_States_Evidence_at_Preliminary_Hearing.pdf
+    267619  25pp  2026-05-06_Defendants_Motion_in_Limine_Art_I_sec_12_and_Rule_1102_Hearsay.pdf        [corrected URL]
+    372832   6pp  2026-05-06_States_Preliminary_Hearing_Witness_and_Exhibit_List.pdf                   [the only public index of the ~40 exhibits]
+   4029500  10pp  2026-05-08_Ruling_on_Motion_to_Exclude_Still_Photographers_TV_Cameras_Microphones.pdf [corrected URL]
+   1820592   5pp  2026-05-08_Ruling_on_Motion_to_Vacate_or_Continue_Prelim_Pending_Discovery.pdf       [corrected URL]
+    729810   5pp  2026-05-12_Ruling_on_the_Record.pdf
+    146683   3pp  2026-05-29_Notice_of_Filing_Petition_for_Permission_to_Appeal_Interlocutory.pdf      [corrected URL]
+    447215  35pp  2026-05-31_Defendants_Motion_to_Stay_Pending_Interlocutory_Review.pdf                [corrected URL]
+    370125   3pp  2026-06-01_Ruling_Denying_Motion_in_Limine_to_Close_Prelim_and_Seal_Exhibits.pdf
+    268404   4pp  2026-06-01_Ruling_Granting_Motion_for_Order_to_Show_Cause_Contempt.pdf
+    108063   2pp  2026-06-12_Utah_AG_Notice_of_Intent_Not_to_Respond_to_Constitutional_Challenge.pdf
+    353931   6pp  2026-06-17_Objection_to_Request_to_Remove_Death_Penalty_as_Contempt_Sanction.pdf
+    173823   4pp  2026-06-19_Defendants_Second_Supplemental_Request_for_Discovery.pdf                  [corrected URL]
+    751462  11pp  2026-06-22_Order_re_Certificate_Out_of_State_Witness_and_Motion_to_Quash.pdf
+    380001   6pp  2026-06-23_Ruling_on_Motion_in_Limine_Article_I_sec_12_and_Rule_1102_Hearsay.pdf     [the real hearsay ruling]
+    729544   4pp  2026-06-23_Ruling_on_the_Record.pdf                                                  [true id of item 11 URL]
+    168558   7pp  2026-06-24_Defendants_Opposition_to_EMC_Order_for_Preliminary_Hearing_Dkt633.pdf     [true id of item 13 URL]
+    148897   2pp  2026-07-02_Response_to_Defendants_Second_Supplemental_Request_for_Discovery.pdf      [corrected URL]
+    180781   5pp  2026-07-03_Defendants_Standing_Objections_to_States_Exhibits.pdf
+    190605   4pp  2026-07-08_Supplemental_Notice_Concerning_Access_to_Evidence_in_Open_Court.pdf
+   2095616 278pp  2026-07-09_Certified_Transcript_Preliminary_Hearing_Day4.pdf                         [certified, the muted day]
+   1001766  97pp  2026-07-10_Certified_Transcript_Preliminary_Hearing_Day5.pdf                         [certified]
+     93068   3pp  2026-07-10_Request_for_Speedy_Disposition_and_Prompt_Bindover_Kirk_Family.pdf
+    319679  28pp  2026-07-28_Memorandum_in_Support_of_Preliminary_Hearing_Bindover.pdf                 [TOP TARGET a]
+    389135  41pp  2026-08-11_Defendant_Preliminary_Hearing_Briefing.pdf                                [TOP TARGET a]
+    277548  19pp  2026-08-18_States_Reply_Supporting_Preliminary_Hearing_Bindover.pdf                  [TOP TARGET a]
+    245747   2pp  2026-08-27_Minute_Entry_Order_Electronic_Devices_Prohibited_Sept1_Hearing.pdf
+    481698  10pp  2026-08-27_Standing_Decorum_Order_Effective_Aug_28_2026.pdf                          [bonus]
+    661883  10pp  2026-08-28_Amended_Standing_Decorum_Order.pdf                                        [corrected URL after 404]
+    572857  17pp  2026-08-28_Defendants_Discovery_Status_Report.pdf                                    [newest filing in any lane]
+
+=========================================================================
+HTML PAGES KEPT (raw .html + extracted readable .txt)
+=========================================================================
+    210301 html +    44498 txt   0000-00-00_Rev_Transcript_Tyler_Robinson_Contempt_Hearing
+    213884 html +    39239 txt   2025-09-16_Rev_Transcript_Jeff_Gray_Charging_Announcement
+    432202 html +    26822 txt   2026-04-15_American_Prospect_Hole_in_Open_and_Shut_Case
+    863451 html +   328440 txt   2026-07-06_Rev_Rough_Transcript_Prelim_Hearing_Day1
+    812482 html +   324208 txt   2026-07-07_Rev_Rough_Transcript_Prelim_Hearing_Day2
+    388655 html +   134522 txt   2026-07-08_Rev_Rough_Transcript_Prelim_Hearing_Day3
+    794260 html +   313789 txt   2026-07-09_Rev_Rough_Transcript_Prelim_Hearing_Day4
+    351772 html +   109153 txt   2026-07-10_Rev_Rough_Transcript_Prelim_Hearing_Day5
+    330970 html +     5914 txt   2026-07-17_Burkhart_Completing_the_Record_of_the_Prelim_Hearing
+    788478 html +    78293 txt   2026-08-31_Burkhart_Full_Docket_Index_Page
+
+All Rev.com .txt files preserve speaker labels and timestamps. The Burkhart 7-17-26 article captured in full (not paywalled) — it is the source for the fact that Judge Graf refused public inspection or copying of exhibits, and for the specific Day 4/5 mutings (the Twiggs note, the word "Discord", the burnt-note comparison, the ATF DNA testimony).
+
+=========================================================================
+FAILURES / CAVEATS
+=========================================================================
+* item 28 at the supplied URL: HTTP 404, dead Substack fileKey. RESOLVED via the docket index; the document is now held. No other download failed.
+* Substack returned HTTP 429 on several requests. All cleared on backoff retry; no document was lost to rate limiting.
+* DUPLICATE: the KUTV and Fox copies of the Oct 24 2025 transcript are byte-identical (1,060,521 bytes, md5 ee03f6b9f1e745497a6e22b8563c6e17, 97 pages). Both kept only as two-host provenance. Note the task list called this "80pp" — it is 97 pages.
+* IMAGE-ONLY SCANS with no text layer, so their identity rests on the docket-index row rather than caption extraction: 2026-05-08_Ruling_on_Motion_to_Exclude_Still_Photographers..., 2026-05-08_Ruling_on_Motion_to_Vacate_or_Continue..., 2026-06-23_Ruling_on_Motion_in_Limine_Article_I_sec_12..., both Decorum Orders, 2025-10-21_Order_to_Transport.
+
+ROUTES THAT NEED A HUMAN (not attempted — no payment, no account, no paywall bypass):
+* Certified transcripts for preliminary hearing Days 1-3. Published free nowhere. Paid route is the court reporter named in the Oct 24 2025 transcript caption, Noteworthy Reporting LLC.
+* The preliminary hearing EXHIBITS themselves. Judge Graf declined public inspection or copying (sourced in the Burkhart 7-17-26 article now held here). Only the State's exhibit LIST is public, and it was obtained.
+* 348 docket rows in burkhart_full_docket_index.tsv are marked "(Not obtained)" — the mirror's author never bought them. Utah XChange is the paid route.
+* Scribd doc 1067587104 not attempted; unnecessary, the free Substack copy of the bindover brief was obtained.

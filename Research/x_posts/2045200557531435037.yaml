@@ -1,0 +1,43 @@
+id: '2045200557531435037'
+url: 'https://x.com/RealCandaceO/status/2045200557531435037'
+author:
+  username: 'RealCandaceO'
+  name: 'Candace Owens'
+  id: '878247600096509952'
+text: |
+  🚨The Tyler Robinson hearing explained.
+
+  Why won't Donald Trump command his FBI to hand over the discovery documents?
+created_at: '2026-04-17T17:59:45.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 915
+  reply_count: 523
+  like_count: 4950
+  quote_count: 67
+  bookmark_count: 403
+  impression_count: 87637
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2045199947163652096'
+      duration_ms: 482581
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2045199947163652096/img/0dWH-1PniVkpIPD4.jpg'
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2045199947163652096/vid/avc1/1920x1080/uohvaiQ7Cs6iqTbd.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 10368000
+        - url: 'https://video.twimg.com/amplify_video/2045199947163652096/vid/avc1/1280x720/EW1_pEDvQca2Xt2t.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+        - url: 'https://video.twimg.com/amplify_video/2045199947163652096/vid/avc1/640x360/TBIvQdCX0STHzVqP.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 832000
+        - url: 'https://video.twimg.com/amplify_video/2045199947163652096/vid/avc1/480x270/VWqba9Xn-zvmUeaS.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 256000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-04-17'

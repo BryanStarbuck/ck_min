@@ -1,0 +1,42 @@
+id: '2053805778952417528'
+url: 'https://x.com/MuppetMasher/status/2053805778952417528'
+author:
+  username: 'MuppetMasher'
+  name: 'Muppet Masher'
+  id: '1586238206533865474'
+  description: 'Helping truth get its pants on sooner. Balancing the narrative - anti-propaganda'
+text: |
+  This kid is named Nick (his full name is in the interview if you want it).
+  I'm more interested in his story than his identity.
+  It's hard to find any witness that says it sounded like a large calibre rifle.
+  Lots of pops, fireworks, smaller calibre or pistol sounds but none saying it was 30-06. His description of trajectory is interesting
+created_at: '2026-05-11T11:53:50.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1
+  reply_count: 0
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 0
+  impression_count: 104
+attachments:
+  videos:
+    - type: video
+      media_key: '7_2053805596152127488'
+      duration_ms: 52779
+      width: 1280
+      height: 690
+      preview_image_url: 'https://pbs.twimg.com/ext_tw_video_thumb/2053805596152127488/pu/img/v2ztOz0QdOSZHhrS.jpg'
+      ipfs_cid: 'QmNjgg3Trjfiq4YEK4XjDur9YyJF1xk8nhAkeCkXMoo41Y'
+      local_path: 'videos/2053805778952417528.mp4'
+      variants:
+        - url: 'https://video.twimg.com/ext_tw_video/2053805596152127488/pu/vid/avc1/1280x690/AcAzrR19D0LCbZjU.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 2176000
+  images: []
+transcription:
+  path: 'videos_transcription/2053805778952417528.md'
+  word_count: 134
+investigation: 'charlie_kirk'
+added_date: '2026-05-11'
+temp_file: false

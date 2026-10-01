@@ -1,0 +1,629 @@
+====================================================================
+20260712_110622 — Targeted Grok Twitter Research (3 Level-2 sections)
+====================================================================
+Scope: All public pages under:
+  - Tyler_Robinson_Not_Assassin (6)
+  - Israel_Main_Suspect (19)
+  - US_Intelligence_Assisted (7)
+Total: 32 pages (one dedicated X/Grok research query cycle each)
+
+Research root: ~/T/_ck/grok/{Level2}/{token}_research.txt
+  32 research captures written (raw X posts, claims, handles, dates)
+
+Public site growth: site/docs/ only
+  git: 32 files changed, ~786 insertions, ~19 deletions
+  Total lines in section pages: ~6288 → ~7055
+
+Process (per page):
+  1. Read existing MDX
+  2. x_semantic_search + x_keyword_search (+ web when needed)
+  3. Save full raw research file
+  4. Additive integrate (defamation-safe attribution)
+  5. Preserve TOC (L2), back buttons, Related Areas
+
+Key new material themes:
+  Tyler: ATF Karner prelim hearing; soft-point ammo fight; Twiggs channel;
+         no-shot-video; contractor pave claims; mic-clip questions
+  Israel: Shillman $2M donor naming; Seruga 44 phones; FARA/distribution;
+          N59906/HADES flight claims; Blumenthal control claims; Kent/Iran
+  US Intel: PETN-in-wire; AES Rogan dig; Patel Twitter huddle claim;
+            Huachuca Mitch Snow contestation; GRAMA pave texts
+
+Defamation: all new claims attributed; no living-person guilt as site fact;
+Robinson charged not convicted throughout.
+
+Status: 32/32 OK (overview pages grown in-paragraph; L3 new H2s)
+====================================================================
+
+====================================================================
+20260712_091500 — Three Level-2 hubs: Grok/X research + page growth
+====================================================================
+GROK_RESEARCH_ROOT: ~/T/_ck/grok/
+SHARED: ~/T/_ck/grok/_shared_research_batch1.txt
+SECTIONS:
+  - Tyler_Robinson_Not_Assassin (5 Level 3 + overview)
+  - Israel_Main_Suspect (17 Level 3 + overview)
+  - US_Intelligence_Assisted (6 Level 3 + overview)
+
+WORKFLOW (modified from grok_twitter_research.md + grok_write.mdx):
+  * Per-page X/semantic + keyword research (not full 12-agent partition)
+  * Research files: ~/T/_ck/grok/{Level2}/{page}_research.txt
+  * Additive MDX growth; defamation-safe; absolute back buttons
+  * Preserve TOC on Level 2; Related Areas retained
+
+LINE GROWTH (approx before → after):
+  Tyler L3s: ~99–142 → ~192–219 each
+  Israel L3s: ~85–131 → ~200–226 each
+  US Intel L3s: ~94–128 → ~201–228 each
+  Overviews: body paragraphs deepened with attributed high-signal claims
+
+PAGES TOUCHED: all 28 Level 3 topic pages + 3 Level 2 overviews under:
+  site/docs/Tyler_Robinson_Not_Assassin/
+  site/docs/Israel_Main_Suspect/
+  site/docs/US_Intelligence_Assisted/
+pages.csv line_count refreshed for those rows.
+
+RESEARCH FILE COUNT: 5 + 18 + 6 L3 + 3 overview = 32 research captures
+  (+ shared batch1)
+
+NEW SECTION TYPES ADDED TO L3s (typical):
+  Citizen Investigator Claims on X
+  Official Narrative vs Competing Claims / Counter-Claims
+  Open Questions
+  Timeline Claims (where relevant)
+
+DEFAMATION: no site findings of living-person guilt; Robinson charged/not
+convicted; Israel/intel claims attributed as theories/allegations.
+
+====================================================================
+
+====================================================================
+20260710_141224  ORCHESTRATOR  full 12-agent run  N=944
+====================================================================
+prompt: prompts/grok_twitter_research.md
+research_root: ~/T/_ck/grok
+totals_from_agent_logs:
+  OK: 870
+  PARTIAL: 1
+  SKIP: 73
+  FAIL: 0
+  sum: 944
+research_files_on_disk: 876
+git_modified_site_docs: 871
+preserve_rules: additive growth; Related Areas kept; no wipe of prior content
+skip_reasons: Fix/disabled, Topics3 templates, laws statutory/old/slide scaffolds
+partial: Visa_Revocation_Celebrations (thin X hits)
+needs_human_review:
+  - Optional site-wide /ck_defemation_prevention after large growth
+  - Spot-check People/* person pages for disclaimer quality
+  - Review law SKIP set if any narrative law pages should still grow
+agent_partitions:
+  1: 1-78 OK77 PARTIAL1
+  2: 79-157 OK75 SKIP4
+  3: 158-236 OK79
+  4: 237-314 OK78
+  5: 315-393 OK79
+  6: 394-472 OK79
+  7: 473-550 OK78
+  8: 551-629 OK79
+  9: 630-708 OK79
+  10: 709-786 OK58 SKIP20
+  11: 787-865 OK78 SKIP1
+  12: 866-944 OK31 SKIP48
+====================================================================
+
+====================================================================
+AGENT 9 — Grok Twitter Research Growth
+at: 20260710_140448
+partition: data rows 630-708 (inclusive)
+agent_id: 9
+====================================================================
+STATUS: OK=79 PARTIAL=0 SKIP=0 FAIL=0
+Research root: ~/T/_ck/grok/
+Agent log: ~/T/_ck/grok/_agent_9_log.txt
+
+Sections touched:
+  Security_Team (6), Suspects (7), TPUSA (16), Tent (10),
+  Theories (4), Timeline (26), Topic-Analyses (5), Topics (1), Topics3 (4)
+
+Keys grown (79):
+Security_integrity_security, Security_next_event_no_plan, Security_no_counter_snipers, Security_Team, Security_perimeter_rooftop, Security_screening_credentials, Black_Clothing_Suspect, Grey_Van_Shooter, Rick_Cutler_POI, Shooting_Locations, Suspects_Investigation_Index, Van_Man_Bednarz, Suspects, Conservative_Activist_Movement, DOGE_TPUSA_Connection, Faith_Freedom_Coalition, TPUSA_July_31_Meeting_Without_TPUSA, Latino_Coalition_Israel, TPUSA_Paul_Singer_Funding, TPUSA_Philos_Project_Funding, Progressive_Policy_Opposition, Right_Wing_Politics_Context, TPUSA_Absence_July_31, TPUSA_Founder_Charlie, TPUSA_TPUSA, TPUSA_Opposite_Charlie, TPUSA_TPUSA_Replacement_Timeline, Trump_Support_After_Death, TPUSA, Tent_Merrell, Tent_Hardscape, Tent_Index, Tent_Other_Con, Tent_Pave_Time, Tent_Site_Alt, Tent_State_Work, Tent_Shooter, Tent_Structure, Tent, Theories_Foreign_Intelligence_Claims, Theories_Government_Agencies_Claims, Theories_Mossad_Involvement_Claims, Theories, Timeline_shooting_time, Timeline_2025, Timeline_2026, Timeline_Charlie_Kirk, Timeline_Investigation_Index, Timeline_Sept_10_2025, Timeline_8_to_13, Timeline_Tyler_Robinson, Timeline_Robinson_2025_Sept, Timeline_Affidavit_Probable_Cause, Timeline_Tyler_Robinson_Mirandizing, Timeline_Year_2024, Timeline_Year_2025, foreign_leaders_meeting_july, Timeline_hamptons_intervention, Timeline_high_pressure_sept9, Timeline_july_18_decision, Timeline_military_meeting_july, nebraska_army_base_july, october_15_2025, Timeline, Timeline_post_assassination, Timeline_roof_jumping, Timeline_kill_me_text, Timeline_witness_discrepancies, Timeline_years, Topic_Analyses, Ballistics_And_Surveillance_Claims, Political_Aftermath, Pre_Assassination_Context, September_10_Event_Timeline, Topics, Topics3_After, Topics3_Before, Topics3_CIA, Topics3_Drones
+COUNT 79
+
+Method: x_semantic_search + x_keyword_search + CK_FILE greps; research.txt per page;
+additive H2 sections (Citizen Investigator Claims on X / Open Questions / hub notes);
+L2 overviews: paragraph enrichment + TOC/Related Areas preserved; defamation-safe attribution.
+====================================================================
+
+
+====================================================================
+AGENT 4 — rows 237-314 — 20260710_140448
+====================================================================
+status: COMPLETE
+OK: 78  PARTIAL: 0  SKIP: 0  FAIL: 0
+sections: Law_Enforcement (12), Legal (8), Locations (17), Media (26), Medical (15)
+research_root: ~/T/_ck/grok/{Law_Enforcement,Legal,Locations,Media,Medical}/
+agent_log: ~/T/_ck/grok/_agent_4_log.txt
+
+Work done per row:
+  * Grok/X research (x_semantic_search, x_keyword_search) + CK_FILE grounding
+  * Research capture written under ~/T/_ck/grok/{L2}/{L3}_research.txt
+  * Public MDX grown additively (<!-- agent4-grow --> sections)
+  * Related Areas / bottom links / frontmatter preserved
+  * Defamation-safe attribution (allegedly/reportedly/@handles; no living-person guilt as fact)
+  * High-care topics: Erika autopsy framing, TPUSA, Bagley, Brooksby, McCoy, physicians
+
+Sample growth themes:
+  LE: Bagley bodycam Jul 2026, Brooksby resignation+ATF cluster, Jeff Long drone denial, multi-agency prelims
+  Legal: gag vs cameras Mar 2026, ATF inconclusive language, selective video clips, Terryl flash-drive claim
+  Locations: I-15 pins, construction-site alternate path, Timpanogos SUV, Valhalla counter-claims
+  Media: Candace/TPUSA mole-hunt claims, censorship layers, trial-press access fights
+  Medical: no-autopsy viral audio vs 2026 GSW homicide clips, wound mechanism debates, hospital choice
+
+Keys grown (all 78): see _agent_4_log.txt
+====================================================================
+
+====================================================================
+AGENT 2 — Grok Twitter Research (rows 79–157) — 20260710_140448
+====================================================================
+Agent: 2 of 12
+Partition: data rows 79–157 inclusive (79 pages)
+First page_key: FBI_Investigation
+Last page_key: Influencers_podcasts_jason_whitlock
+
+RESULTS
+  OK:      75  (research file written + page grown with attributed X claims)
+  SKIP:     4  (Fix/disabled Law1–Law4)
+  PARTIAL:  0
+  FAIL:     0
+
+SKIP page_keys:
+  Fix_disabled_Law1, Fix_disabled_Law2, Fix_disabled_Law3, Fix_disabled_Law4
+
+SECTIONS TOUCHED
+  FBI (10): FBI_Investigation, FBI_Foreign_Leads, FBI_Gag_Orders, FBI_Hospital_Footage,
+            FBI_Kash_Patel_Briefings, FBI_Official_Narrative, FBI_SLC_Field_Office,
+            FBI_Witness_Coordination, FBI_Zachariah_Qureshi, FBI (overview)
+  Fix (13): Fix_Churches … Fix_Whistleblower + Fix overview (disabled laws skipped)
+  GoogleSearches (15): all Level 2/3 rows in partition
+  Gov_Mind_Control (12): all Level 2/3 rows in partition
+  Gun_Bullet (10): all Level 2/3 rows in partition
+  Influencers (15): censorship, index, trusted, overview, podcast profiles through jason_whitlock
+
+RESEARCH ROOT
+  ~/T/_ck/grok/{FBI,Fix,GoogleSearches,Gov_Mind_Control,Gun_Bullet,Influencers}/*_research.txt
+  Agent log: ~/T/_ck/grok/_agent_2_log.txt
+
+TOOLS / SOURCES
+  x_semantic_search, x_keyword_search (multi-query)
+  High-signal handles captured: @ProjectConstitu, @JustTheTweets17, @FurkanGozukara,
+  @GreatUnwokening, @TheQuartering, @paramounttactcl, @MaxNordau, @WDYFW_PodClips,
+  @SarahisCensored, @TPostMillennial, Candace Owens / Ian Carroll ecosystems, etc.
+
+GROWTH METHOD
+  Additive H2 sections before Related Areas / Laws:
+    - "Citizen Investigator Claims on X (Attributed)" (most Level 3)
+    - "What Citizen Investigators Emphasize on X" (Level 2 overviews)
+    - "Why Citizen Investigators Say This Reform Matters (X Context)" (Fix topics)
+  Preserve rule honored: no deletion of prior facts; Related Areas kept; frontmatter kept;
+  absolute back buttons unchanged; defamation-safe attribution throughout.
+
+PAGE_KEYS GROWN (75):
+  FBI_Investigation, FBI_Foreign_Leads, FBI_Gag_Orders, FBI_Hospital_Footage,
+  FBI_Kash_Patel_Briefings, FBI_Official_Narrative, FBI_SLC_Field_Office,
+  FBI_Witness_Coordination, FBI_Zachariah_Qureshi, FBI,
+  Fix_Churches, Fix_Conclusion_Logic, Fix_Digital_Evidence, Fix_Discovery_Rights,
+  Fix_Event_Security, Fix_Foreign_Influence, Fix_Media_Reform, Fix_Medical_Transparency,
+  Fix_Politicans, Fix_TSUSA, Fix_Victim_Family_Rights, Fix_Whistleblower, Fix,
+  GoogleSearches_DC_Metro, GoogleSearches_FBI_DPS, GoogleSearches_Index,
+  GoogleSearches_Israel_IP, GoogleSearches_Judges, GoogleSearches_July20,
+  GoogleSearches_Nester, GoogleSearches_Misc, GoogleSearches, GoogleSearches_Planes,
+  GoogleSearches_Medical, GoogleSearches_TPUSA_Political, GoogleSearches_Deletion,
+  GoogleSearches_Tyler_Lance, GoogleSearches_UVU,
+  Gov_Mind_Control_discord_confession_timing, Gov_Frey_Effect_V2K,
+  Gov_Mind_Control_handler_network_claims, Gov_Hypnosis_Patsy,
+  Gov_Mind_Control_investigation_index, Gov_Mind_Control_making_a_shooter_playbook,
+  Gov_Mind_Control_mkultra_2_digital_engineering, Gov_MKUltra_Program, Gov_Mind_Control,
+  Gov_Mind_Control_project_artichoke_memo, Gov_Mind_Control_radicalization_psyop_claims,
+  Gov_Mind_Control_tyler_robinson_patsy_framework,
+  Gun_ATF_Fragment, Gun_Alternative_Calibers, Gun_Bullet_Stage, Gun_Bullet_Index,
+  Gun_Dropped_Location, Gun_Mauser_Rifle, Gun_Fingerprints, Gun_Thirty_06_Energy,
+  Gun_Wound_Trajectory, Gun_Bullet,
+  Influencers_Censorship, Influencers_Investigation_Index, Influencers_Trusted_Investigators,
+  Influencers, Influencers_podcasts_alex_jones, Influencers_podcasts_baron,
+  Influencers_podcasts_benny_johnson, Influencers_podcasts_candace_owens,
+  Influencers_charlie_kirk_show, Influencers_podcasts_dave_smith,
+  Influencers_podcasts_elijah_schaffer, Influencers_podcasts_glenn_greenwald,
+  Influencers_podcasts_hodgetwins, Influencers_podcasts_ian_carroll,
+  Influencers_podcasts_jason_whitlock
+
+====================================================================
+
+====================================================================
+AGENT 11 — grok_twitter_research — 2026-07-10 14:09:37
+====================================================================
+AGENT_ID: 11
+PARTITION: rows 787-865 (inclusive) of pages.csv data rows
+COUNT: 79 pages
+
+RESULTS:
+  OK:     78
+  SKIP:    1  (laws_1_DoJ_FBI_Law_1_DoJ_FBI — law_text_preserve)
+  PARTIAL: 0
+  FAIL:    0
+
+RESEARCH ROOT: ~/T/_ck/grok/
+AGENT LOG: ~/T/_ck/grok/_agent_11_log.txt
+
+SECTIONS TOUCHED:
+  cameras (6), campus_university (1), court + mirandize (23),
+  distraction_people (21), gov (1), government_organizations (1),
+  Home (1), intelligence (11), key_individuals (11), laws/1_DoJ_FBI (4)
+
+GROWTH METHOD:
+  X semantic/keyword research + CK_FILE grounding → research.txt →
+  additive H2 sections before Related Areas; Level 2 body enrichment;
+  defamation-safe attribution throughout.
+
+SKIP DETAIL:
+  Law_1_DoJ_FBI.md pure statutory draft — not overwritten (law_text_preserve).
+  Narrative support pages Human_Requirements, Notes, Output_Analysis grown lightly.
+
+OK PAGE KEYS (78):
+  Cameras_TPUSA_Production, Cameras_Tyler_On_Cameras, Cameras_Tyler_Placeholder, Cameras_UVU_Surveillance, Cameras_WYZE, Surveillance_Cameras, campus_university, Court_Cellebrite, Court_Phone_Extraction, Court_Twiggs_Phone, Court_Ballistics_ATF, Court_Case_Overview, Court_Defense_Team, Court_Discord_Evidence, Court_Discovery_Brady, Court_Gag_Sealing, Court_Investigation_Index, Court_Jaxson_Fox, Court_Judge_Lunnen, Court_Judge_Graf, Court, Court_Preliminary_Hearing, Court_Prosecution_Team, Court_Jail_Custody, court_mirandize_grok_analysis, court_sept_11_image, court_mirandize, court_probable_cause_affidavit, court_11_grok_image, Distraction_Andrew_Piskadlo, Distraction_Beau_Mason, Distraction_Black_Cloth, Distraction_Curly_Hair_Man, Distraction_David_Sprague, Distraction_Timeline, Distraction_Fake_Cop_Badge_Man, Distraction_George_Zinn, Distraction_Hunter_Kozak, Distraction_Index, Distraction_James_Norman_Rawlinson, Distraction_Jaxson_Fox, Distraction_Matt_Taber, Distraction_Pellet_Gun_Man, Distraction_Phil_Lyman, Distraction_Rick_Cutler, Distraction_Russell_Kennington, Distraction_SMBB_Break_Man, Distraction_USA_Chant_Man, Distraction_Zachariah_Qureshi, Distraction_People, gov, government_organizations, Home, intelligence_Chinese_Russian_Iranian, intelligence_CornerShot, intelligence_Egyptian_Foreign_Ops, intelligence_Foreign_Phones, intelligence_Foreign_Search_IP, intelligence_French_Legion, intelligence_Investigation_Index, intelligence_Islamabad_Serena, Mossad, intelligence_TPUSA_Recruitment, intelligence, key_individuals_Central, key_individuals_Distraction, key_individuals_Donor_Meeting, key_individuals_Eyewitnesses, key_individuals_Index, key_individuals_Investigators, key_individuals_Medical_Legal, key_individuals_Officials, key_individuals_Security, key_individuals_TPUSA_Staff, key_individuals, laws_1_DoJ_FBI_more_Human_Requirements, laws_1_DoJ_FBI_more_Notes_1_DoJ_FBI, laws_1_DoJ_FBI_more_Output_Analysis
+
+SKIP PAGE KEYS:
+  laws_1_DoJ_FBI_Law_1_DoJ_FBI
+====================================================================
+
+====================================================================
+AGENT 10 — Grok Twitter Research (rows 709–786) — 20260710_140439
+====================================================================
+Agent: 10 of 12
+Partition: data rows 709–786 (78 pages)
+Research root: ~/T/_ck/grok/
+Agent log: ~/T/_ck/grok/_agent_10_log.txt
+
+RESULTS
+  OK:      58
+  PARTIAL: 0
+  SKIP:    20  (Topics3 template scaffolds + analysis_documentation)
+  FAIL:    0
+
+GROWTH METHOD
+  - X semantic + keyword research (Discord/confession texts, GRAMA paving, Canon XA55,
+    Patel/Gabbard/Kent intel-scope, witness chest/neck, Cooper Brown, Mauser photos)
+  - CK_FILE section pulls (UVU GRAMA, Witnesses, CIA, Tyler timeline, mic/tent)
+  - Additive H2 sections inserted BEFORE Related Areas / Laws anchors
+  - Frontmatter, back buttons, TOCs, bottom Related Areas KEPT
+  - Defamation-safe: attributed handles, no site findings of living-person guilt
+
+SKIPPED (20 scaffolds): Topics3_FBI, Topics3_Israel, Topics3_Location, Topics3_Locations, Topics3_Maps, Topics3_Medical, Topics3_Other, Topics3_Photos, Topics3_Podcast_YouTube_Analysis, Topics3_South_Stairs, Topics3_Suspect_Before_Actions, Topics3_Suspects_List, Topics3_TPUSA, Topics3_Timeline, Topics3_Tyler_Robinson_Shooting, Topics3_Tyler_Robinson, Topics3_Videos, Topics3_Which, Topics3_charlie_kirk, analysis_documentation
+
+GROWN KEYS (58):
+  Topics3, Tyler_Robinson_Before, Tyler_Robinson_Discord, Tyler_Robinson_Family, Tyler_Robinson_Girlfriend, Tyler_Robinson_Index, Tyler_Robinson_Recruited, Tyler_Robinson_Shooting, Tyler_Robinson_Stairs_Guy, Tyler_Robinson_Surrender, Tyler_Robinson_Travel, Tyler_Robinson_Trial, Tyler_9_10_2025, Tyler_Robinson_Weapon, Tyler_Robinson, US_Intelligence_Cabot_alibi, US_Intelligence_Investigation_Index, US_Intelligence_cia, US_Intelligence_joe_kent, US_Intelligence_nctc, US_Intelligence_nsa, US_Intelligence_odni, US_Intelligence, US_Intelligence_tulsi_gabbard, UVU_CIA_Profiles, UVU_Campus_Security_Gaps, UVU_Courtyward, UVU_Hardscape_Specialties, UVU_Losee_Center, UVU_Pavers, UVU_Stingray_Device, UVU_Tent, UVU_Administration_Response, UVU_Faculty_Statements, UVU_Institutional_Response, UVU_Student_Reactions, UVU_Investigation_Index, UVU_Social_Media_Response, UVU_maps, UVU, UVU_pre_shooting_warnings, Videos_Buckley_Kash, Videos, Vote, Witness_EksAyn_Anderson, Witness_Nick, Witness_Shot_In_Chest_Reversal, Witness_Cooper_Brown, Witnesses_Overview, Witness_Shot_To_Heart, Witness_Wrong_Witnesses, Your_Actions_Fix_It, Cameras_Canon_XA55, Cameras_Crime_Scene, Cameras_Eyewitness_Mobile, Cameras_Investigation_Index, Cameras_Merchant_Travel, Cameras_Ring
+
+====================================================================
+
+====================================================================
+AGENT 6 — Grok Twitter Research (rows 394–472) — 20260710_140410
+====================================================================
+Agent: 6 of 12
+Partition: data rows 394–472 (79 pages) — all People person pages
+Research root: ~/T/_ck/grok/People/
+Agent log: ~/T/_ck/grok/_agent_6_log.txt
+
+RESULTS
+  OK:      79
+  PARTIAL: 0
+  SKIP:    0
+  FAIL:    0
+
+GROWTH
+  All 79 pages grown additively (avg ~+31 lines; min +13, max +54)
+  Research capture written per page under People/{token}_research.txt
+  Legal Disclaimer (:::caution) ensured on person pages where missing
+  Related Areas ensured where missing
+  Status / living-person framing preserved or added
+  Bottom Related Areas + existing Related link grids KEPT (no wipe)
+
+HIGH-SIGNAL X / FILE INTEGRATIONS (examples)
+  People_brian_harpole — Harpole v. Owens recusal; rooftop text debate both sides
+  People_candace_owens — RAV4/FBI-badge tip; Bride of Charlie backlash; civil suit context
+  People_bryan_starbuck — HolonCitizen disclosure-laws advocacy (July 2026)
+  People_butch_hibbs — attributed pocket/Rode speculation with rejection of guilt finding
+  People_caleb_chilcutt — @CalebChilcutt FED-accusation rebuttal
+  People_chris_martenson — X reception both for/against ballistics experiment
+  People_jack_posobiec — courtroom video "damning" vs. skeptic quality dispute
+  People_ian_carroll — Israel-fear reporting vs. critics
+  People_jeff_long / People_cooper_brown / People_dan_flood — process/witness expansions
+  People_erika_kirk — widow-care commentary block (no autopsy-to-hide as fact)
+
+DEFAMATION
+  Person-page playbook applied: attribution, no site finding of living-person criminal guilt
+  Extra care: Erika Kirk, private witnesses, medical staff list names, TPUSA executives
+
+KEYS GROWN (79): all partition keys from People_brayden_glascock through People_lance_alfred
+  (includes charlie_kirk_girlfriend_claims, Jeremy_Gallman)
+
+====================================================================
+
+====================================================================
+AGENT 12 — grok_twitter_research — 20260710_140430
+====================================================================
+partition: data rows 866-944 (inclusive), AGENT_ID=12
+counts: OK=31 PARTIAL=0 SKIP=48 FAIL=0
+grown_page_keys (31):
+  laws_Discovery, laws, laws_explain_all, laws_other_List_Of_Laws, laws_other_Worries_By_Each_4_Laws, laws_other_analysis_Any_Problems, laws_other_analysis_Any_more_to_Add, laws_other_analysis_Before_Any_Problems, laws_other_analysis_Challenges, laws_other_analysis_Fixed_Any_Problems, laws_other_analysis_Fixed_Any_more_to_Add, laws_other_analysis_Fixed_Challenges, laws_other_analysis_Fixed_Improve, laws_other_analysis_Fixed_Laws_Not_Complying, laws_other_analysis_Improve, laws_other_analysis_Laws_Not_Complying, laws_other_original, laws_other_people, legal_investigation, maps, other_topics, organizations_groups, political_context, security_law_enforcement, social_media_analysis, technology_surveillance, People_Emily_Wilson, People_Arynne_Wexler, People_Nate_Friedman, People_Ory_Rinat, People_CJ_Pearson
+
+notes:
+  - Auto-SKIP: pure law statutory text (Law_2/3/4), Human_Requirements/Notes/Output_Analysis,
+    slides, _prompts scaffolds, laws/other/old drafts, SVG needs scaffolds, CLAUDE.md
+  - Grown Level-2 overviews: legal_investigation, maps, organizations_groups, other_topics,
+    political_context, security_law_enforcement, social_media_analysis, technology_surveillance
+  - Grown person pages (Hamptons cluster): Emily Wilson, Arynne Wexler, Nate Friedman,
+    Ory Rinat, CJ Pearson — defamation-safe attribution for X claims
+  - Grown laws narrative/support pages with Forced Disclosure Discourse section (did NOT
+    overwrite statutory Law_N text or old drafts)
+  - Research files under ~/T/_ck/grok/{laws,People,maps,legal_investigation,...}/
+  - Preserved Related Areas / Related bottoms; additive integration only
+
+====================================================================
+AGENT 5 FINAL — 20260710_140445 — rows 315-393
+OK=79 PARTIAL=0 SKIP=0 FAIL=0 (after PARTIAL expansion pass)
+Research files: 79 under ~/T/_ck/grok/{Medical,Mic,Motive,Other,People}/
+All pages grown additively (preserve Related Areas / frontmatter / back buttons).
+Sections: Medical (16), Mic (17), Motive (6), Other (9), People hubs+persons (31)
+====================================================================
+
+====================================================================
+AGENT 8 — grok_twitter_research — 20260710_140428
+====================================================================
+AGENT_ID: 8 of 12
+PARTITION: data rows 551-629 (inclusive)
+STATUS: OK=79 PARTIAL=0 SKIP=0 FAIL=0
+TOTAL_PROCESSED: 79
+
+SUMMARY:
+  Research captures written under ~/T/_ck/grok/{People,Photos,Planes,Proof_Intel_Services,Proof_Not_Tyler,Security_Team}/
+  Public pages grown with defamation-safe "Citizen Investigator Claims on X" (or equivalent) sections.
+  Preserved: frontmatter, back buttons, Related Areas / bottom links, Level 2 TOCs.
+  Tools: x_semantic_search, x_keyword_search, CK_FILE grep, bulk integrate.
+
+SECTIONS COVERED:
+  People (Tom Sodeika → Yehuda Kaploun), Photos overview,
+  Planes (99-0004 Vance through Planes overview — Egyptian jets, HADES/N1098L, SAM, airports, timelines),
+  Proof_Intel_Services (Egyptian jets, FBI signatures, Huachuca, N1098L, phones, Joe Kent, overview…),
+  Proof_Not_Tyler (ATF, acoustic, backpack, Discord, GSR, stairs, trajectory, overview…),
+  Security_Team (Bobby/Brian Harpole, Dan Flood, Greg Shaffer).
+
+KEYS_GROWN: see agent log ~/T/_ck/grok/_agent_8_log.txt (79 OK lines)
+
+====================================================================
+
+====================================================================
+AGENT 7 — Grok Twitter Research Growth
+at: 2026-07-10 14:08:39
+rows: 473-550 (inclusive)
+section: People (person pages + People overview)
+====================================================================
+counts: OK=78 PARTIAL=0 SKIP=0 FAIL=0 total=78
+research_root: ~/T/_ck/grok/People/
+agent_log: ~/T/_ck/grok/_agent_7_log.txt
+
+summary:
+  - Wrote research capture files for all 78 partition rows under People/
+  - Enriched high-signal research with X semantic/keyword captures (Twiggs,
+    Cutler, Mikey McCoy, Farnsworth, Mitch Snow, O'Neill, Bohls, Cox,
+    Seth Dillon, Bondi, Syed, Glover, Brooksby, Sheridan, et al.)
+  - Additive page growth only; preserved frontmatter, back buttons, Related
+    Areas / bottom link grids; added Legal Disclaimer on thin person pages
+  - Highest defamation care: attributed X claims; no living-person guilt as
+    site fact; private-figure and widow-family sensitivity noted
+
+keys_grown (78):
+People_lance_twiggs, People_lauren_hunt, People_lee_patterson, People_lee_trotter, People_lisa_thornton, People_liz_wheeler, People_lori_frantzve, People_lori_robinson, People_Luke_Moon, People_marcus_wada, People_mark_harlan, People_mathew_franke, People_matt_robinson, People_matthew_st_baker, People_mehtab_syed, People_michael_burt, People_michael_dutsun, People_michael_olbert, People_michael_powell, People_mikayla_r_twiggs, People_mike_glover, People_mike_miller, People_mike_mitchell, People_mike_smith, People_mikey_mccoy, People_minjae_kim, People_mitch_snow, People_moyo_dasaolu, People_mystery_woman_signed_off, People_Natasha_Hausdorff, Nate_Brooksby, People_nathan_henderson, People_olivia_bishop, People_omar_nassar, People, People_pam_bondi, People_pete_hegseth, People_phillip_goldsberry_jr, People_pierce_beck, People_pierre_du_pont, People_Rabbi_Pesach_Wolicki, People_Ralph_Reed, People_richard_g_novak, People_richard_rasmussen, People_rick_cutler, People_rob_hild, People_rob_mccoy, People_rob_oneill, People_robbie_hill, People_robert_bohls, People_robert_golo, People_robert_patterson, People_robert_shillman, People_rudy_bautista, People_rusty_needs, People_ryan_mcbride, People_sameer_massey, People_sarah_klein, People_scott_lazerson, People_scott_messinger, People_sean_parnell, People_sean_reyes, People_sergeant_elsholz, People_Seth_Dillon, People_skye_valadez, People_skylar_baird, People_spencer_cox, People_staci_visser, People_stacy_sheridan, People_steve_cameron, People_steve_kozak, People_steven_crowder, People_steven_denoon, People_steven_neeleman, People_tami_radabaugh, People_terryl_farnsworth, People_tiffany_barker, People_tim_ballard
+
+notable_growth:
+  People_lance_twiggs, People_rick_cutler, People_mikey_mccoy,
+  People_terryl_farnsworth, People_mitch_snow, People_seth_dillon,
+  People_spencer_cox, People_robert_bohls, People_rob_oneill,
+  People_mehtab_syed, People_mike_glover, People (overview),
+  plus thin speculative-name pages expanded with defamation-safe scaffolding
+
+====================================================================
+
+====================================================================
+20260710_140445  Agent 1  rows 1-78
+====================================================================
+processed: 78
+ok: 77
+ok_research: 0
+partial: 1
+skip: 0
+fail: 0
+research_root: /Users/bryan/T/_ck/grok
+pages_grown:
+
+  - After_Institutional_Resignations (site/docs/After/Institutional_Resignations.mdx) — added X claims Brooksby/Tuminez/Bagley/doTerra
+  - After_Investigation_Index (site/docs/After/Investigation_Index.mdx) — July 2026 investigator watch table
+  - After_Orders_And_Secrecy (site/docs/After/Legal_Process_Gag_Orders_And_Secrecy.mdx) — July 2026 prelim transparency fights
+  - After_And_Censorship_After (site/docs/After/Media_Narratives_And_Censorship_After.mdx) — hearing vs ballistics media frames
+  - After_Memorial_TPUSA (site/docs/After/Memorial_And_TPUSA_Succession.mdx) — Candace succession claims attributed
+  - After_Sept_11_Surrender (site/docs/After/Sept_11_Surrender_And_Custody.mdx) — Davis prelim + DiligentDenizen family timeline
+  - After_Crime_Scene_Handling (site/docs/After/Site_Changes_And_Crime_Scene_Handling.mdx) — Hull paving + Bagley cam + Merrell
+  - Visa_Revocation_Celebrations (site/docs/After/Visa-Revocation-Celebrations.mdx) — thin fresh X; added frame table
+  - After (site/docs/After/overview.mdx) — enriched 3 body paragraphs July 2026
+  - Before_Investigation_Index (site/docs/Before/Before_Investigation_Index.mdx) — research+section; +15 lines
+  - Free_Speech_Campus_Issues (site/docs/Before/Free-Speech-Campus-Issues.mdx) — research+section; +30 lines
+  - Heightened_Political_Tensions (site/docs/Before/Heightened-Political-Tensions.mdx) — research+section; +30 lines
+  - MAGA_Antisemitism_Debate (site/docs/Before/MAGA-Antisemitism-Debate.mdx) — research+section; +30 lines
+  - Political_Violence_Debate (site/docs/Before/Political-Violence-Debate.mdx) — research+section; +30 lines
+  - Before_And_Meetings_2025 (site/docs/Before/Political_Pressure_And_Meetings_2025.mdx) — research+section; +30 lines
+  - Before_Searches_And_Recon (site/docs/Before/PreEvent_Searches_And_Recon.mdx) — research+section; +30 lines
+  - State_Department_Response (site/docs/Before/State-Department-Response.mdx) — research+section; +30 lines
+  - Woke_Right_Defamation (site/docs/Before/Woke-Right-Defamation.mdx) — research+section; +30 lines
+  - Before (site/docs/Before/overview.mdx) — research+section; +9 lines
+  - Censorship_Index (site/docs/Censorship/Censorship_Investigation_Index.mdx) — research+section; +15 lines
+  - Censorship_Court_Gag (site/docs/Censorship/Court_Gag_Orders.mdx) — research+section; +30 lines
+  - Censorship_Google_Trends (site/docs/Censorship/Google_Search_Trends_Scrubbing.mdx) — research+section; +30 lines
+  - Censorship_Platform_YT (site/docs/Censorship/Platform_YouTube_Meta.mdx) — research+section; +30 lines
+  - Censorship_Ryne_FBI (site/docs/Censorship/Ryne_Simmons_FBI_Video.mdx) — research+section; +30 lines
+  - Censorship_TPUSA_Legal (site/docs/Censorship/TPUSA_Legal_Threats.mdx) — research+section; +30 lines
+  - Censorship_Witness_Footage (site/docs/Censorship/Witness_Footage_Pressure.mdx) — research+section; +30 lines
+  - Censorship_X_Candace (site/docs/Censorship/X_Candace_Engagement_Bans.mdx) — research+section; +30 lines
+  - Censorship_X_Deboost (site/docs/Censorship/X_Deboosting_Investigators.mdx) — research+section; +30 lines
+  - Censorship (site/docs/Censorship/overview.mdx) — research+section; +9 lines
+  - Charlie_Candace_Friendship (site/docs/Charlie/Candace_Owens_Friendship.mdx) — research+section; +30 lines
+  - Charlie_Investigation_Index (site/docs/Charlie/Charlie_Investigation_Index.mdx) — research+section; +15 lines
+  - Charlie_Day_Of_Security (site/docs/Charlie/Day_Of_Security.mdx) — research+section; +30 lines
+  - Charlie_Epstein_Files (site/docs/Charlie/Epstein_Files_Push.mdx) — research+section; +30 lines
+  - Charlie_Israel_Donors_Motive (site/docs/Charlie/Israel_Donors_Motive.mdx) — research+section; +30 lines
+  - Charlie_Phone_Surveillance (site/docs/Charlie/Phone_Surveillance_Claims.mdx) — research+section; +30 lines
+  - Charlie_Pre_Event_Timeline (site/docs/Charlie/Pre_Event_Timeline.mdx) — research+section; +30 lines
+  - Charlie_Quotes_Warnings (site/docs/Charlie/Reported_Quotes_and_Warnings.mdx) — research+section; +30 lines
+  - Charlie (site/docs/Charlie/overview.mdx) — research+section; +9 lines
+  - CoverUp_AES_Tennessee_Explosion (site/docs/CoverUp/AES_Tennessee_Explosion.mdx) — research+section; +30 lines
+  - CoverUp_Censorship_Investigators (site/docs/CoverUp/Censorship_Investigators.mdx) — research+section; +30 lines
+  - CoverUp_Custody_Confession_Timeline (site/docs/CoverUp/Custody_Confession_Timeline.mdx) — research+section; +30 lines
+  - CoverUp_Dirt_Removed (site/docs/CoverUp/Dirt_Removed.mdx) — research+section; +30 lines
+  - CoverUp_Distraction_People (site/docs/CoverUp/Distraction_People.mdx) — research+section; +30 lines
+  - CoverUp_FBI_Asked_Delete_Video (site/docs/CoverUp/FBI_Asked_Delete_Video.mdx) — research+section; +30 lines
+  - CoverUp_Google_Censorship (site/docs/CoverUp/Google_Censorship.mdx) — research+section; +30 lines
+  - CoverUp_Investigation_Index (site/docs/CoverUp/Investigation_Index.mdx) — research+section; +15 lines
+  - CoverUp_Israelis_At_UVU (site/docs/CoverUp/Israelis_At_UVU.mdx) — research+section; +30 lines
+  - CoverUp_Joe_Kent_Halt (site/docs/CoverUp/Joe_Kent_Halt.mdx) — research+section; +30 lines
+  - CoverUp_Mic_Explosive (site/docs/CoverUp/Mic_Explosive.mdx) — research+section; +30 lines
+  - CoverUp_Narrative_Psyop (site/docs/CoverUp/Narrative_Psyop.mdx) — research+section; +30 lines
+  - CoverUp_Sheriff_Video_Withheld (site/docs/CoverUp/Sheriff_Video_Withheld.mdx) — research+section; +30 lines
+  - CoverUp_Utah_Autopsy_Law (site/docs/CoverUp/Utah_Autopsy_Law.mdx) — research+section; +30 lines
+  - CoverUp_Videos_Deleted_Remotely (site/docs/CoverUp/Videos_Deleted_Remotely.mdx) — research+section; +30 lines
+  - CoverUp_WhiteHouse_Halt_IC (site/docs/CoverUp/WhiteHouse_Halt_IC.mdx) — research+section; +30 lines
+  - CoverUp_X_HolonCitizen_Censored (site/docs/CoverUp/X_HolonCitizen_Censored.mdx) — research+section; +30 lines
+  - CoverUp_YouTube_HolonCitizen_Censored (site/docs/CoverUp/YouTube_HolonCitizen_Censored.mdx) — research+section; +30 lines
+  - CoverUp (site/docs/CoverUp/overview.mdx) — research+section; +9 lines
+  - Defamation_Harpole_Owens (site/docs/Defamation/Brian_Harpole_Candace_Defemation.mdx) — research+section; +30 lines
+  - Defamation (site/docs/Defamation/overview.mdx) — research+section; +9 lines
+  - Drones_Butch_Hibbs (site/docs/Drones/Butch_Hibbs_Crowd_Drones.mdx) — research+section; +30 lines
+  - Drones_Butler_Parallel (site/docs/Drones/Butler_PA_Drone_Parallel.mdx) — research+section; +30 lines
+  - Drones_Index (site/docs/Drones/Investigation_Index.mdx) — research+section; +15 lines
+  - Drones_Israeli_Quadcopter (site/docs/Drones/Israeli_Armed_Quadcopter.mdx) — research+section; +30 lines
+  - Drones_Military_Video (site/docs/Drones/Military_Drones_On_Video.mdx) — research+section; +30 lines
+  - Drones_N1098L_Air_Launch (site/docs/Drones/N1098L_Air_Launched_Drones.mdx) — research+section; +30 lines
+  - Drones_Switchblade_DARPA (site/docs/Drones/Switchblade_DARPA_Claims.mdx) — research+section; +30 lines
+  - Drones_TPUSA_Production (site/docs/Drones/TPUSA_Production_Drone.mdx) — research+section; +30 lines
+  - Drones_UVU_No_Security (site/docs/Drones/UVU_Security_No_Drones.mdx) — research+section; +30 lines
+  - Drones (site/docs/Drones/overview.mdx) — research+section; +9 lines
+  - FBI_Ballistics_Forensics (site/docs/FBI/Ballistics_Forensics.mdx) — research+section; +30 lines
+  - FBI_Black_Clothing_Photo (site/docs/FBI/Black_Clothing_Photo.mdx) — research+section; +30 lines
+  - FBI_Bomb_Dogs (site/docs/FBI/Bomb_Dogs.mdx) — research+section; +30 lines
+  - FBI_CIA_Block (site/docs/FBI/CIA_Block.mdx) — research+section; +30 lines
+  - FBI_Connecticut (site/docs/FBI/Connecticut.mdx) — research+section; +30 lines
+  - FBI_Crime_Scene_Paving (site/docs/FBI/Crime_Scene_Paving.mdx) — research+section; +30 lines
+  - FBI_Discovery_Delays (site/docs/FBI/Discovery_Delays.mdx) — research+section; +30 lines
+  - FBI_Enhanced_Suspect_Photos (site/docs/FBI/Enhanced_Suspect_Photos.mdx) — research+section; +30 lines
+  - FBI_Evidence_Footage (site/docs/FBI/Evidence_Footage.mdx) — research+section; +30 lines
+needs_human_review:
+  - Visa_Revocation_Celebrations — thin fresh X on named visa cases; PARTIAL
+  - CoverUp_Israelis_At_UVU — high defamation/false-light sensitivity; growth is attributed only
+  - After_Memorial_TPUSA / Charlie_Israel_Donors_Motive — Erika/donor HIGH risk; verify attribution language
+fail_details:
+  - (none)
+====================================================================
+
+====================================================================
+AGENT 5 GROK TWITTER RESEARCH — 20260710_140445
+rows 315-393 (count=79)
+OK=64 PARTIAL=15 SKIP=0 FAIL=0
+grown_keys (64): Medical_and_wound_analysis, Medical_Trip_To_Hospital, Medical_and_site_changes, Medical_Doctor_DC_Call, Medical_Doctors, Medical_Events_At_Hospital, Medical_Hospital_Leader, Medical_People_Bullet_Claims, Medical_Cameras_Removed, Medical_Israel_Searches, Medical_and_audio_theories, Medical_Examiner_Page, Medical_Staff_Changes, Medical, Medical_Trial_Autopsy_Report, Medical_Autopsy_Law_Changes, Mic_AES_Company, Mic_AV_Team_Setup, Mic_Canon_XA55_Audio, Mic_Chest_Shot_Witnesses, Mic_Shaped_Charge_Demo, Mic_DoD_Contract, Mic_Investigation_Index, Mic_Vs_Pendant, Mic_Stew_Peters_AES, Mic_Table_Jumpers_Device, Mic_AES_Factory, Mic_Exploding_Pendant, Mic_Video_Analysis, Mic_Overview, Mic_SEAL_Testimony, Mic_RODE_Mic, Mic_SUV_Transporting, Motive_Donors_Israel_ForeignPolicy, Motive_Intel_Service_Theories, Motive_Investigation_Index, Motive_Robinson_Alleged_Motive, Motive, Witness_Reliability, People_abdel_fattah_el_sisi...
+partial_keys: Motive_Media_Organizational_Dynamics, Evidence_Contradictions, Forensic_Analysis_Gaps, Investigation_Challenges, Other_Investigation_Methodology, Other_Miscellaneous_Evidence_Leads, Psychological_Profiling_Claims, Other_Public_Response, Other, People_Central_Figures, People_And_Close_Associates, People_Investigation_Index, People_lance_twiggs_family, People_Officials_And_Institutions, People_Security_And_CitizenInvestigators
+fail_keys: (none)
+====================================================================
+- OK: Medical_and_wound_analysis (site/docs/Medical/ballistics_and_wound_analysis.mdx) 102->117
+- OK: Medical_Trip_To_Hospital (site/docs/Medical/charlie_trip_to_hospital.mdx) 128->141
+- OK: Medical_and_site_changes (site/docs/Medical/construction_and_site_changes.mdx) 98->110
+- OK: Medical_Doctor_DC_Call (site/docs/Medical/doctor_dc_phone_call.mdx) 93->105
+- OK: Medical_Doctors (site/docs/Medical/doctors.mdx) 118->131
+- OK: Medical_Events_At_Hospital (site/docs/Medical/events_at_hospital.mdx) 126->139
+- OK: Medical_Hospital_Leader (site/docs/Medical/hospital_leader.mdx) 93->105
+- OK: Medical_People_Bullet_Claims (site/docs/Medical/hospital_people_and_bullet_claims.mdx) 117->130
+- OK: Medical_Cameras_Removed (site/docs/Medical/hospital_security_cameras_removed.mdx) 125->136
+- OK: Medical_Israel_Searches (site/docs/Medical/israel_google_searches_medical_people.mdx) 123->135
+- OK: Medical_and_audio_theories (site/docs/Medical/lapel_mic_and_audio_theories.mdx) 90->104
+- OK: Medical_Examiner_Page (site/docs/Medical/medical_examiner.mdx) 184->195
+- OK: Medical_Staff_Changes (site/docs/Medical/medical_staff_changes.mdx) 116->126
+- OK: Medical (site/docs/Medical/overview.mdx) 96->111
+- OK: Medical_Trial_Autopsy_Report (site/docs/Medical/trial_and_autopsy_report.mdx) 134->145
+- OK: Medical_Autopsy_Law_Changes (site/docs/Medical/utah_autopsy_law_changes.mdx) 131->141
+- OK: Mic_AES_Company (site/docs/Mic/AES.mdx) 110->120
+- OK: Mic_AV_Team_Setup (site/docs/Mic/AV_Team_Mic_Setup.mdx) 112->122
+- OK: Mic_Canon_XA55_Audio (site/docs/Mic/Canon_XA55_Audio.mdx) 107->117
+- OK: Mic_Chest_Shot_Witnesses (site/docs/Mic/Chest_Shot_Witnesses.mdx) 102->112
+- OK: Mic_Shaped_Charge_Demo (site/docs/Mic/Demo_of_shape_charge.mdx) 80->91
+- OK: Mic_DoD_Contract (site/docs/Mic/DoD_Contract.mdx) 126->136
+- OK: Mic_Investigation_Index (site/docs/Mic/Investigation_Index.mdx) 95->110
+- OK: Mic_Vs_Pendant (site/docs/Mic/Mic_vs_Pendant.mdx) 88->97
+- OK: Mic_Stew_Peters_AES (site/docs/Mic/Stew_Peters_Broke_AES_Mic.mdx) 126->135
+- OK: Mic_Table_Jumpers_Device (site/docs/Mic/Table_Jumpers_Device.mdx) 97->105
+- OK: Mic_AES_Factory (site/docs/Mic/aes-explosion-factory.mdx) 144->152
+- OK: Mic_Exploding_Pendant (site/docs/Mic/exploding-pendant-shaped-charge.mdx) 160->168
+- OK: Mic_Video_Analysis (site/docs/Mic/mic-explosion-video-analysis.mdx) 153->162
+- OK: Mic_Overview (site/docs/Mic/overview.mdx) 95->107
+- OK: Mic_SEAL_Testimony (site/docs/Mic/rob-oneill-navy-seal-testimony.mdx) 140->148
+- OK: Mic_RODE_Mic (site/docs/Mic/rode-wireless-mic.mdx) 112->121
+- OK: Mic_SUV_Transporting (site/docs/Mic/suv-transporting-charlie.mdx) 244->253
+- OK: Motive_Donors_Israel_ForeignPolicy (site/docs/Motive/Donors_Israel_ForeignPolicy.mdx) 150->161
+- OK: Motive_Intel_Service_Theories (site/docs/Motive/Geopolitical_Intel_Service_Theories.mdx) 140->148
+- PARTIAL: Motive_Media_Organizational_Dynamics (site/docs/Motive/Institutional_Media_Organizational_Dynamics.mdx) 139->146
+- OK: Motive_Investigation_Index (site/docs/Motive/Motive_Investigation_Index.mdx) 110->123
+- OK: Motive_Robinson_Alleged_Motive (site/docs/Motive/Tyler_Robinson_Alleged_Motive.mdx) 123->131
+- OK: Motive (site/docs/Motive/overview.mdx) 100->108
+- PARTIAL: Evidence_Contradictions (site/docs/Other/Evidence-Contradictions.mdx) 108->114
+- PARTIAL: Forensic_Analysis_Gaps (site/docs/Other/Forensic-Analysis-Gaps.mdx) 110->117
+- PARTIAL: Investigation_Challenges (site/docs/Other/Investigation-Challenges.mdx) 101->108
+- PARTIAL: Other_Investigation_Methodology (site/docs/Other/Investigation_Methodology.mdx) 100->106
+- PARTIAL: Other_Miscellaneous_Evidence_Leads (site/docs/Other/Miscellaneous_Evidence_Leads.mdx) 84->90
+- PARTIAL: Psychological_Profiling_Claims (site/docs/Other/Psychological-Profiling-Claims.mdx) 99->105
+- PARTIAL: Other_Public_Response (site/docs/Other/Public_Response.mdx) 87->93
+- OK: Witness_Reliability (site/docs/Other/Witness-Reliability.mdx) 101->109
+- PARTIAL: Other (site/docs/Other/overview.mdx) 71->77
+- PARTIAL: People_Central_Figures (site/docs/People/Central_Figures.mdx) 111->117
+- PARTIAL: People_And_Close_Associates (site/docs/People/Families_And_Close_Associates.mdx) 114->120
+- PARTIAL: People_Investigation_Index (site/docs/People/Investigation_Index.mdx) 124->130
+- PARTIAL: People_lance_twiggs_family (site/docs/People/Lance_Twiggs_Family.mdx) 165->171
+- PARTIAL: People_Officials_And_Institutions (site/docs/People/Officials_And_Institutions.mdx) 136->142
+- PARTIAL: People_Security_And_CitizenInvestigators (site/docs/People/Witnesses_Security_And_CitizenInvestigators.mdx) 129->135
+- OK: People_abdel_fattah_el_sisi (site/docs/People/abdel-fattah-el-sisi.mdx) 81->93
+- OK: People_adam_bartholomew (site/docs/People/adam-bartholomew.mdx) 98->109
+- OK: People_adam_neff (site/docs/People/adam-neff.mdx) 45->58
+- OK: People_ahmed_khalil (site/docs/People/ahmed-khalil.mdx) 33->44
+- OK: People_ahmed_qureshi (site/docs/People/ahmed-qureshi.mdx) 82->93
+- OK: People_alex_faria (site/docs/People/alex-faria.mdx) 114->126
+- OK: People_amy_r_twiggs (site/docs/People/amy-r-twiggs.mdx) 41->52
+- OK: People_andrea_burkhart (site/docs/People/andrea-burkhart.mdx) 42->53
+- OK: People_andrew_feraci (site/docs/People/andrew-feraci.mdx) 100->111
+- OK: People_andrew_kolvet (site/docs/People/andrew-kolvet.mdx) 148->159
+- OK: People_andrew_sypher (site/docs/People/andrew-sypher.mdx) 111->122
+- OK: People_angela_hammond (site/docs/People/angela-hammond.mdx) 34->45
+- OK: People_angie_martin (site/docs/People/angie-martin.mdx) 43->54
+- OK: People_anthony_west (site/docs/People/anthony-west.mdx) 98->109
+- OK: apostle_mario_bramnick (site/docs/People/apostle-mario-bramnick.mdx) 126->137
+- OK: People_astrid_s_tuminez (site/docs/People/astrid-s-tuminez.mdx) 44->55
+- OK: People_ben_shapiro (site/docs/People/ben-shapiro.mdx) 122->134
+- OK: People_benjamin_netanyahu (site/docs/People/benjamin-netanyahu.mdx) 81->92
+- OK: People_Bill_Ackman (site/docs/People/bill-ackman.mdx) 134->146
+- OK: People_bill_lee (site/docs/People/bill-lee.mdx) 79->90
+- OK: People_blaine_holt (site/docs/People/blaine-holt.mdx) 79->90
+- OK: People_blake_bednarz (site/docs/People/blake-bednarz.mdx) 33->45
+- OK: People_blake_haruff (site/docs/People/blake-haruff.mdx) 116->127
+- OK: People_blake_neff (site/docs/People/blake-neff.mdx) 130->141
+- OK: People_bradley_hansell (site/docs/People/bradley-hansell.mdx) 79->92
+
+====================================================================
+AGENT 3 SUMMARY — 20260710_140415
+rows: 158-236 (count=79)
+OK=79 PARTIAL=0 SKIP=0 FAIL=0
+grown_count=79
+grown_keys=Influencers_podcasts_jimmy_dore, Influencers_podcasts_joe_rogan, Influencers_podcasts_megyn_kelly, Influencers_patrick_bet_david, Influencers_podcasts_project_constitution, Influencers_podcasts_shawn_ryan, Influencers_podcasts_steve_bannon, Influencers_podcasts_stew_peters, Influencers_podcasts_tucker_carlson, Influencers_podcasts, Influencers_x, Influencers_x_based_sam_parker, Influencers_x_cumby_william, Influencers_x_danksterintel, Influencers_x_diligent_denizen_2, Influencers_x_diligent_denizen, Influencers_x_george_webb, Influencers_x_healthranger, Influencers_x_hustlebitch, Influencers_x_ian_carroll, Influencers_x_intel_scif, Influencers_x_jg_cstt, Influencers_x_john_cullen, Influencers_x_mistressdivy, Influencers_x_paramounttactcl_2, Influencers_x_paramounttactcl, Influencers_x_project_constitution, Influencers_x_ryan_matta, Influencers_x_shadowofezra, Influencers_x_troofevades, Influencers_x_zeb_boykin, Influencers_youtube, Iran_Charlie_AntiWar, Iran_Funding_Rejection, Iran_War_Motive, Iran_Israel_War_Push, Iran_Joe_Kent, Iran_Kirk_Warnings_Record, Iran_12Day_War, Iran_Exploding_Mic, Iran_Netanyahu_Call, Iran, Iran_PostDeath_Pivot, Iran_Timing_Conflicts, Iran_X_Discourse, Israel_Beepers, Israel_Charlie_Friction, Israel_Charlie_Quotes_Israel, Israel_Hezbollah, Israel_Islamabad_Serena, Israel_Investigation_Index, Israel_And_Connectivity_Claims, Israel_Search_Patterns_Claims, Israel_Mossad, Israel_Joshua_Peterson, Israel_Mossad_TPUSA, Israel_NSA_Cellphones, Israel_Operation_Grim_Beeper, Israel_Russell_Brand, Israel_Tucker_Carlson, Israel_billion, Israel_foreign_leads, Israel_israel_hamptons, Israel_israel_pm, Israel_israelis_at_uvu, Israel_motivation, Israel, Israel_petn, Killer_Close_Range_Theories, Killer_Coverup_Indicators, Killer_Patsies_Distraction_Actors, Killer_israel_mossad, Killer_more_theories, Killer, Killer_tyler_robinson, Killer_us_intelligence, LawEnf_Investigation_Index, LawEnf_court_proceedings, LawEnf_crime_scene_handling
+====================================================================
+

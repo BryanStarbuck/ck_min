@@ -1,0 +1,301 @@
+SOURCE URL: https://archives.utah.gov/transparency-services/government-records-office/gro-decisions/?decision=2025-150
+RETRIEVED: 2026-08-31 (HTTP 200, text/html)
+SAVED FROM: raw HTML 142937 bytes
+
+======================================================================
+
+Government Records Office Appeal Decision | Utah Division of Archives and Records Service
+
+Government Records Office Appeal Decision
+
+Search Type
+
+Website
+Catalog
+Name Indexes
+Digital Collections
+Agencies (all)
+Agencies (current)
+Series Keyword Search
+Series Number Search
+General Schedules
+State Records Committee
+Government Records Office
+
+Search this site
+
+Search Now
+
+Descriptions of all records in our collection, with series inventories and without
+
+Search Now
+
+Name indexes search
+
+Search Now
+
+Digital collections search
+
+Search Now
+
+Agencies search
+
+Search Now
+
+Search agencies (HINT: omit common words such as city, office, department, services, etc.)
+
+Search Now
+
+General schedules search
+
+Search Now
+
+Series Keyword Search Phrase
+
+Search Now
+
+Series Number
+
+Search Now
+
+Appeal decision text
+
+Search Now
+
+GRO Appeal decision text
+
+Search Now
+
+BEFORE THE GOVERNMENT RECORDS OFFICE OF THE STATE OF UTAH
+
+LORI JANE GLIHA, Petitioner, v.
+
+WASHINGTON COUNTY, Respondent.
+
+DECISION AND ORDER
+
+Appeal No. 2025-150
+
+By this appeal, Petitioner Lori Jane Gliha, Senior National Investigative Correspondent for Scripps News, seeks access to records held by Respondent, Washington County.
+
+BACKGROUND
+
+On September 17, 2025, Ms. Gliha submitted a request for records pursuant to the Government Records Access and Management Act ("GRAMA") to Washington County. Ms. Gliha requested "all body camera footage of Tyler J Robinson in which he was taken into custody/surrendered in relation to the shooting death of Charlie Kirk." Tyler Robinson has been charged with the shooting death of Charlie Kirk at Utah Valley University on September 10, 2025. Ms. Gliha also requested all video or photos taken of Mr. Robinson, including jail surveillance, interrogation, or other surveillance video. Ms. Gliha stated that "[t]his is of national interest, and I am a national investigative journalist."
+
+In a letter dated September 17, 2025, Stephanie Ellis, Records Officer for the Washington County Sheriff's Office and Purgatory Correctional Facility, stated that "[w]e do not have any records responsive to this request for body cam, as we were an agency assist to the State of Utah." Ms. Ellis directed Ms. Gliha to the Utah County Sheriff's Office and the Utah State Bureau of Investigations for any body camera records. In a second letter dated September 18, 2025, Ms. Ellis denied the request for "any footage of when Tyler Robinson was in the presence of our deputies" finding that the records are subject to a pending investigation and are classified as protected non-public records pursuant to Utah Code § 63G-2-305(10).
+
+On September 23, 2025, Ms. Gliha filed an appeal with the Washington County Commission Chair, arguing that release of the records "would not jeopardize law enforcement objectives and would advance the transparency obligations of county government." She further argued that the Sheriff's public description of the events waived the protections and that the footage was purely visual and non-investigative. In a letter dated October 1, 2025, Victor Iverson, Washington County Commission Chair, stated that after "a full and fair review of the appeal, I have determined to affirm the access denial." Chairperson Iverson stated that he was "concerned that the release of the requested records would interfere with the ongoing investigation of Mr. Robinson." He further stated that Washington County continues to assist with an ongoing investigation that is led by Utah County and that "the widespread release of video would create a danger of depriving Mr. Robinson of a fair trial."
+
+On October 23, 2025, Ms. Gliha appealed this decision to the Government Records Office ("Office"). After the appeal was filed, Utah County submitted a Request for Intervention pursuant to Utah Code § 63G-2-403(6), which was granted on November 5, 2025. Counsel for Tyler Robinson also submitted a Request for Intervention, which was granted on November 13, 2025. On January 22, 2026, the Director of the Office ("Director") held a public hearing at which the parties were allowed to present their evidence and arguments. After carefully considering the parties' presentations, and reviewing the requested records in camera, the Director issues the following Decision and Order.
+
+STATEMENT OF REASONS FOR DECISION
+
+1. GRAMA specifies that a "record is public unless otherwise expressly provided by statute." Utah Code § 63G-2-201(2). Records that are designated as "private," "protected," or "controlled," are not public. See Utah Code §§ 63G-2-201(3)(a), -302, -303, -304 and -305.
+
+2. Records created or maintained for criminal enforcement purposes, are protected non-public records if properly classified by a governmental entity, and release of the records: (1) Reasonably could be expected to interfere with investigations undertaken for enforcement; (2) Reasonably could be expected to interfere with enforcement proceedings; or (3) Would create a danger of depriving a person of a right to a fair trial or impartial hearing. Utah Code § 63G-2-305(10)(a-c).
+
+3. Records containing data on individuals the disclosure of which constitutes a clearly unwarranted invasion of personal privacy, are private non-public records if properly classified by a governmental entity. Utah Code § 63G-2-302(2)(d).
+
+4. Counsel for Intervenor Mr. Robinson argued that the requested video is properly classified as protected under Utah Code § 63G-2-305(80) because it qualifies as "an image taken of an individual during the process of booking the individual into jail." However, the Director finds that the surveillance video here is not the type of record contemplated by that provision. While the video could fit within the broad definition of an "image," it does not depict the process of booking Mr. Robinson into jail. Instead, it is a multi-hour surveillance video of a suspect surrendering and meeting with law enforcement at a police station.
+
+5. Intervenor Utah County, joined by Washington County, argued that the video is properly classified as protected under Utah Code § 63G-2-305(10)(a-c) because its release reasonably could be expected to interfere with investigations conducted by Utah County and other governmental entities. Counsel for Utah County stated that the "investigation into the shooting and [Mr. Robinson's] actions is still ongoing." Counsel further argued that "release of the records would create a significant danger of depriving [Mr. Robinson] of his right to a fair trial or impartial hearing since viewing the record would risk tainting the potential jury pool."
+
+6. Counsel for Intervenor Mr. Robinson similarly argued that Utah Code § 63G-2-305(10)(c) "compels a finding that these records are protected" because their release would create a danger of depriving a person of a right to a fair trial. Counsel further stated:
+
+There is little doubt that disclosure of the requested records to Ms. Gliha will lead to their immediate publication and republication through formal and less than formal media channels throughout Utah County, the State of Utah, the United States, and internationally.
+
+7. Having reviewed the requested video in camera, and after carefully considering the parties arguments and the applicable law, the Director finds that the record was properly classified by Washington County as protected pursuant to Utah Code § 63G-2-305(10)(a-c). The Director finds persuasive the arguments presented by Utah County and Mr. Robinson that release of the video reasonably could be expected to interfere with investigations undertaken for enforcement, reasonably could be expected to interfere with enforcement proceedings, and would create a danger of depriving a person of a right to a fair trial or impartial hearing. The fact that both the prosecution and the accused agree regarding the potential prejudicial effect of releasing the video makes their arguments all the more persuasive.
+
+8. The Director is also persuaded by Mr. Robinson's argument that release of the video would be a clearly unwarranted invasion of personal privacy under Utah Code § 63G-2-302(2)(d) to the extent it depicts interactions between Mr. Robinson and family members. Therefore, the record is also properly classified as a private record.
+
+9. Counsel for Ms. Gliha argued that even if the video is properly classified as non-public, it should be released pursuant to the Director's weighing authority under Utah Code § 63G-2-403(11)(b) because the public interests favoring disclosure outweigh any potential implications for the ongoing investigation of Mr. Robinson or his right to a fair trial. Ms. Gliha points out that a serious crime has been alleged, and there is great public interest in knowing how the case is being investigated and how the suspect was arrested and treated by law enforcement. Ms. Gliha's counsel emphasized that Scripps News "is a legitimate professional news organization who follows journalistic ethics, and they want access to the records for legitimate news reporting."
+
+10. Utah Code § 63G-2-403(11)(b) provides that the Director may, upon consideration and weighing the various interests and public policies pertinent to the classification and disclosure or nondisclosure, order the disclosure of information properly classified as private, controlled, or protected, if the public interest favoring access is greater than or equal to the interest favoring restriction of access.
+
+11. The Director finds that releasing the video would not provide substantial additional information to the public regarding the events surrounding Mr. Robinson's surrender to law enforcement, beyond what has already been publicly described by law enforcement. Moreover, given the heightened media attention surrounding Mr. Robinson's prosecution and the high potential for manipulation and misuse of the video, there is a substantial likelihood that release of the video could interfere with ongoing investigations and enforcement proceedings and create a danger of depriving Mr. Robinson of his right to a fair trial or impartial hearing. Thus, the Director finds that the public interest in ensuring the integrity of the ongoing proceedings outweighs the public interests favoring release of the video at this time.
+
+ORDER
+
+THEREFORE, IT IS ORDERED THAT the appeal of Petitioner, Lori Jane Gliha, is DENIED.
+
+RIGHT TO APPEAL
+
+A party to this proceeding may seek review of the Director's order or decision by filing a petition for judicial review in District Court as provided in Utah Code § 63G-2-404. Utah Code § 63G-2-403(14). A petition for judicial review "shall be filed no later than 30 days" after the date of the order or decision pursuant to Utah Code § 63G-2-404(1)(a), except as provided in Utah Code § 63G-2-404(1)(b). The petition is a complaint governed by the Utah Rules of Civil Procedure and shall contain the required information listed in Subsection -404(2). Utah Code § 63G-2-404(2). The court shall make its decision de novo but shall allow introduction of evidence presented to the Director, determine all questions of fact and law without a jury, and decide the issue at the earliest practical opportunity. Utah Code § 63G-2-404(6). In order to protect its rights on appeal, a party may wish to seek advice from an attorney.
+
+Entered this 2nd day of February 2026.
+
+BY THE GOVERNMENT RECORDS OFFICE
+
+_______________________________________
+
+LONNY J. PEHRSON, Director
+
+Follow us online
+
+346 S Rio Grande St
+
+Salt Lake City, UT 84101-1106
+
+801-531-3848
+
+Hours: 8 am - 5 pm, M-F
+
+Research: By appointment only
+
+Navigation Menu
+
+Home
+
+Research Our Records
+
+Research Guides
+
+Birth Records
+
+Marriage Records
+
+Death Records
+
+Cemetery and Burial Records
+
+Court Records
+
+Naturalization and Citizenship
+
+Land Records
+
+Legislative Records
+
+Governors’ Records
+
+Colorado River Records
+
+Mining Records
+
+Military Records
+
+Incorporation Records
+
+City and County Records
+
+Education Records
+
+Name Indexes
+
+Digital Archives
+
+Finding Aids and Inventories
+
+Agency Histories
+
+Exhibits
+
+Reference Services
+
+Records and Information Management
+
+Record Series and Retention Schedules
+
+General Retention Schedules (GRS)
+
+Lookup By Agency
+
+By Agency Type
+
+GRS Updates
+
+Report or Revise a Record Series
+
+File Local Ordinances & Policies with State Archives
+
+Records Management Committee
+
+About Retention Schedules
+
+Transfer or Recall Records
+
+Transfer Form
+
+Transfer Instructions
+
+Order Boxes
+
+Prepare Boxes for Transfer
+
+Recall a Record
+
+Scan on Demand
+
+Executive Correspondence (State Agencies)
+
+Records Center or Archives?
+
+Certification and Training
+
+Records Officer Hub
+
+Go to Hub
+
+Resources
+
+CAO Resources
+
+ARO Resources
+
+Just Getting Started
+
+Frequently Asked Questions
+
+Official Guidelines
+
+Oath of Office form and filing instructions
+
+Get Help
+
+Transparency Services
+
+Government Records Office
+
+Government Records Office Decisions and Orders
+
+State Records Committee Decisions & Orders
+
+Submit Records Appeal
+
+Government Records Access
+
+FAQ
+
+Appeal and Mediation Rights
+
+Government Records Ombudsman
+
+Open Records Portal
+
+Public Notice Website
+
+USHRAB
+
+About
+
+Staff Directory
+
+News
+
+Contact Us
+
+Send Website Comments
+
+Get Involved
+
+Internships
+
+From the Page
+
+Transcription Guide
+
+Indexing Guide
+
+Educator Resources
+
+DARS Employee Portal

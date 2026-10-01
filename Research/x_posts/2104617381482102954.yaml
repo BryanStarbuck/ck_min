@@ -1,0 +1,37 @@
+id: '2104617381482102954'
+url: 'https://x.com/BasedSamParker/status/2104617381482102954'
+author:
+  username: 'BasedSamParker'
+  name: 'Sam Parker'
+  id: '1757670698091417600'
+text: |
+  So the anonymous caller who on August 29 demanded Charlie's event be cancelled was notable enough to include in the timeline but not notable enough to run down the details on? Weird. What's this all about? https://t.co/PZEx0XPJAV
+created_at: '2026-09-28T17:01:00.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 10
+  reply_count: 10
+  like_count: 74
+  quote_count: 0
+  bookmark_count: 4
+  impression_count: 2595
+attachments:
+  videos: []
+  images:
+    - type: photo
+      media_key: '3_2104596502152974336'
+      url: 'https://pbs.twimg.com/media/HTUHXjpbkAA38Ko.jpg'
+      width: 1660
+      height: 1660
+      local_file: 'images/2104617381482102954_1.jpg'
+      ipfs_cid: 'Qmb4kKNyghMZzAyxVS8AiRgNDnFd4DX1151kBi3nd7qFsJ'
+      sha256: '5d813bb91a9509c8ff6740ddf0e47b0eeaaa7a07a99feb1d05d0a0435b1df168'
+ocr_text: |
+  AUGUST 29: "AN ANONYMOUS CALLER DEMANDED CANCELLATION"
+  September 25, 2026 / AFTER-ACTION REPORT FOR UTAH VALLEY UNIVERSITY / An Independent Review of the Events Surrounding September 10, 2025 and Recommendations for Future Event Safety and Security
+  Timeline / Pre-Event Planning and Preparation (July 10-September 9)
+  August 29 | Free Speech Committee began monitoring complaints and concerns regarding the event. An anonymous caller demanded cancellation.
+  @BasedSamParker @SamParkerSenate
+investigation: 'charlie_kirk'
+added_date: '2026-09-28'
+temp_file: false

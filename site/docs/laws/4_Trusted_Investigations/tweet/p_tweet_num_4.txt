@@ -1,0 +1,280 @@
+
+ROOT_DIR dir is ~/BGit/Bryan_git/charlie-kirk/site/docs/laws
+
+LAW_4_DIR dir is {ROOT_DIR}/4_Trusted_Investigations
+LAW_4_FILE is file {LAW_4_DIR}/Law_4_Trusted_Investigations.md
+
+THIS_DIR dir is {LAW_4_DIR}/tweet
+
+BACKGROUND_FILE is file {LAW_4_DIR}/tweet/background.txt
+
+OUTPUT_FILE is file {THIS_DIR}/tweet_num_4.txt
+
+FOCUS_LAW is Law 4 = "Embed Citizen Investigators Inside the Agencies"
+        (the Trusted Investigators Act)
+
+FOCUS is LAW 4 ONLY. This tweet is the Law 4 post in a four-post series.
+        The reader has already seen the tweets for Laws 1, 2, and 3.
+        Do not re-teach the other three laws. The whole job of this post
+        is to explain Law 4.
+
+==========================================================
+CHARTER -- LAW 4 ONLY
+==========================================================
+
+* This post is one tweet in a four-post series, one tweet per law.
+* This is the Law 4 tweet. Assume the reader has already read my
+  tweets on Laws 1, 2, and 3 -- or will read them separately.
+* The reader is here to understand THIS law. Not the other three.
+* The post may make a SINGLE one-sentence reference somewhere that
+  this is one of four laws being released for beta review. That is
+  the only mention of the other laws allowed in this post.
+* Everything else in the post -- the 40-word hook, the 200-word body,
+  and the bullets -- is exclusively about Law 4.
+* Law 4 is what closes the trust gap that disclosure and forced-
+  investigation laws alone cannot reach. Even forced investigation
+  can be sandbagged from inside if the same agencies that may be
+  implicated are the only ones running the inquiry. Law 4 embeds
+  named, independent citizen investigators inside the FBI and the
+  Intelligence Community so the public has its own eyes on the work.
+
+==========================================================
+STAGE 1 -- READ LAW 4
+==========================================================
+
+* Read {LAW_4_FILE} in full. This is the canonical source for the post.
+* Read {BACKGROUND_FILE} for the short framing of the four-law set
+  (used only for the single one-sentence reference).
+* Read the README and CLAUDE.md one directory up at {ROOT_DIR}/ for
+  project context and defamation rules.
+* Understand:
+  * What Law 4 actually does -- embeds named, independent citizen
+    investigators INSIDE the FBI and the U.S. Intelligence Community
+    so the public has its own eyes on the work.
+  * The named Designated Trusted Investigators in Section 2(a) of
+    {LAW_4_FILE}. Pull the current list directly from the law file --
+    do NOT invent names or rely on outdated drafts. The current law
+    names sixteen people including Candace Owens, Dave Smith, Tucker
+    Carlson, Joe Kent, Tulsi Gabbard, Steve Bannon, Marjorie Taylor
+    Greene, Jon Bray, Ian Carroll, Thomas Massie, Matt Gaetz, Glenn
+    Greenwald, Collin Campbell, Baron Coleman, Ryan Matta, and
+    Megyn Kelly.
+  * The team structure -- each Designated Trusted Investigator gets
+    one FBI team and one Intelligence Community team, for a total
+    matching what {LAW_4_FILE} states in Section 3(b). Cite the
+    total team count straight from the law file.
+  * Sole authority to pick team members, with confidential routing
+    that bypasses the employee's chain of command.
+  * Immediate interim TOP SECRET / SCI clearances on appointment,
+    with 72-hour processing cap and judicial review on denial.
+  * Independent budgets, independent legal counsel, independent
+    forensic experts, independent security protection.
+  * Full access to all agency files, systems, and databases --
+    including 24/7 facility access and investigator-selected IT
+    support (no agency minders).
+  * Authority to compel document production, conduct forensic
+    audits, subpoena private entities (TPUSA, AES, telecoms,
+    banks), and publicly release findings.
+  * Government-employee volunteer channel that is confidential
+    and does not route through chain of command; anonymous
+    application channels established within 14 days; criminal
+    penalties for managers who surveil or retaliate.
+  * Positive incentives for government volunteers: guaranteed
+    one-grade promotion on return, 5-year RIF protection, service
+    awards up to $250,000 for significant investigative findings.
+  * Whistleblower bounty -- 10% to 30% of any fine or penalty,
+    minimum $100,000, and a minimum $1,000,000 award for
+    information identifying foreign-intelligence service
+    involvement, with U.S. Marshals witness protection available.
+  * Mandatory pre-assignment and annual polygraphs for all team
+    members, administered by examiners selected by the
+    Independent Oversight and Special Master -- not the host
+    agency.
+  * Unrestricted at-will removal authority for the Designated
+    Trusted Investigators over their own team members.
+  * Records preservation triggered on bill introduction, with
+    forensic audit requirement on agency document systems.
+  * Prohibited grounds for withholding from teams -- no
+    embarrassment, no deliberative process, no inter-agency
+    memo exemption, no law enforcement privilege, no Third
+    Party Rule, no diplomatic immunity, no foreign government
+    exception.
+  * Automatic declassification of all covered records on
+    enactment, with a 7-day window for agencies to petition
+    to retain classification on specific records.
+  * International travel authority with diplomatic passports
+    or equivalent, mandatory State Department cooperation,
+    and an independent travel budget.
+  * Mandatory pursuit of every Schedule A item, with explicit
+    coverage of the exploding microphone theory, foreign
+    intelligence involvement, FBI cover-up evidence, financial
+    connections, psychological operations, pre-planning and
+    foreknowledge, electronic warfare, witness intimidation,
+    and the rest of the Section 9 list.
+  * Durability: teams cannot be terminated by any government
+    official, minimum service period set by the law, 90-day
+    public reports on every Schedule A item, no presidential
+    override.
+  * Non-interference enforced with up to 15 years imprisonment.
+  * Conflict-of-interest trigger: if a covered agency is itself
+    implicated, authority transfers to independent congressional
+    commission.
+  * Why Law 4 is the structural answer to the failure modes of
+    JFK Records Act and Epstein Files Act -- those laws relied
+    on the same agencies under scrutiny to police themselves.
+
+==========================================================
+STAGE 2 -- WRITE THE TWEET TO {OUTPUT_FILE}
+==========================================================
+
+* Output file name MUST be {OUTPUT_FILE}
+  (same filename as this prompt with the "p_" prefix dropped).
+* The tweet is a single piece of writing about LAW 4 ONLY.
+* Do not summarize, compare, or contrast Laws 1, 2, or 3 -- the only
+  permitted mention of the other laws is a single one-sentence
+  reference noting this is one of four laws in beta review.
+
+----------- THE FIRST 40 WORDS (CRITICAL, LAW 4 ONLY) -----------
+
+* The first 40 words must perfectly catch attention and explain
+  the stakes of LAW 4 specifically.
+* Anchor the reader in the Charlie Kirk case.
+* Name what Law 4 does in plain language -- it puts named, trusted
+  citizen investigators with full access INSIDE the FBI and the
+  Intelligence Community so the public has its own eyes on the work.
+* Do NOT spend any of the 40 words on the other three laws.
+* Lead the reader directly into the body that follows.
+
+----------- THE NEXT 200 WORDS (LAW 4 ONLY) -----------
+
+* The next ~200 words must deliver a tight, dialed-in explanation
+  of LAW 4 -- nothing else.
+* Educate a reader who is not ramped up on this investigation,
+  staying entirely within Law 4:
+  * What it actually does -- embeds named, independent citizen
+    investigators INSIDE the FBI and the U.S. Intelligence
+    Community so the public has its own eyes on the work, not
+    just promises from the agencies under scrutiny.
+  * The structural setup -- the Designated Trusted Investigators
+    named in {LAW_4_FILE} Section 2(a), each leading one FBI team
+    and one Intelligence Community team, with sole authority to
+    select their own team members.
+  * The powers granted -- immediate TOP SECRET / SCI clearances,
+    full access to all agency files and systems, authority to
+    compel document production, authority to conduct forensic
+    audits, authority to subpoena private entities, independent
+    budgets, independent counsel, and the power to publicly
+    release findings.
+  * The insider channel -- government employees may volunteer
+    for these teams confidentially, bypassing their own chain
+    of command -- so people who know the truth can join without
+    retaliation.
+  * The whistleblower bounty -- minimum $1,000,000 for foreign-
+    intelligence leads.
+  * The durability -- 90-day public reports on every Schedule A
+    item, teams that cannot be terminated by any government
+    official, up to 15 years prison for interference.
+  * Why disclosure and forced investigation alone are
+    structurally insufficient -- without embedded citizen
+    oversight, the same agencies that may be implicated remain
+    the sole gatekeepers of what the public ever learns. Law 4
+    closes that gap.
+* Exactly ONE sentence in this body section may reference that
+  Law 4 is one of four laws being released for beta review.
+  That sentence is the entirety of the "other laws" coverage.
+  No follow-up. No comparison. No list of the other titles.
+* Quality bar: every sentence earns its place. No fluff. No
+  throat-clearing.
+
+----------- THE BULLET SECTION (LAW 4 ONLY) -----------
+
+* After the 200-word body, the tweet continues with ONE bullet
+  section -- Law 4 only. Do NOT add bullet sections for Laws 1,
+  2, or 3. They have their own tweets.
+* Header for the bullet section:
+
+        Law 4 -- Embed Citizen Investigators Inside the Agencies
+
+* Under the header, place an asterisk bullet list of Law 4's key
+  points.
+* TWELVE BULLETS OR LESS. Aim for the strongest 8-12 bullets.
+* Sort the bullets by what a non-ramped-up audience will want to
+  learn FIRST -- highest-impact first, supporting detail later.
+* Bullet length rules (apply strictly):
+  * 7 words or less = ideal
+  * 14 words or less = acceptable
+  * 21 words = approaching too much, avoid
+* Use a separate bullet for each distinct point. Do not pack
+  multiple points into one bullet.
+
+Suggested point categories to draw from (pick the strongest, in
+audience-priority order). Cross-check every fact against
+{LAW_4_FILE} before writing:
+
+  * Named citizen investigators with full access
+  * The Designated Trusted Investigators as named in
+    {LAW_4_FILE} Section 2(a)
+  * Embedded inside FBI and U.S. Intelligence Community
+  * One FBI team and one IC team per investigator
+  * Sole authority to pick their own team members
+  * Immediate TOP SECRET / SCI clearances on appointment
+  * Independent budgets, independent counsel
+  * Authority to compel documents and conduct forensic audits
+  * Authority to subpoena TPUSA, AES, telecoms, banks
+  * Authority to publicly release findings
+  * Government employees volunteer secretly, bypass chain of command
+  * Guaranteed promotion and 5-year RIF protection for volunteers
+  * Whistleblower bounty -- minimum $1,000,000 for foreign intel leads
+  * Mandatory polygraphs for all team members, examiners chosen externally
+  * 90-day public reports on every Schedule A item
+  * Cannot be terminated by any government official
+  * No presidential override allowed
+  * Up to 15 years prison for interference
+  * Automatic declassification of all covered records on enactment
+  * No Third Party Rule, no diplomatic immunity shield, no foreign government exception
+
+----------- DRAFT STAGE AND FEEDBACK ASK -----------
+
+* The tweet must make clear that Law 4 is at DRAFT STAGE.
+* The tweet must explicitly ask for public feedback -- and call out
+  attorneys in particular as the audience whose feedback is most wanted.
+* Place this draft/feedback framing somewhere in the body or near the
+  closing -- before the attribution and URL block.
+
+----------- CLOSING (ATTRIBUTION + URL) -----------
+
+* Near the end of the tweet, attribute the law to its author:
+  Law 4 was drafted by @HolonCitizen.
+* Immediately before the project URL, state that this is by @HolonCitizen
+  and that this law lives at the URL below as part of the website's
+  bigger investigation into the Charlie Kirk assassination.
+* Then include the full URL on its own line:
+        https://WhoAssassinatedCharlieKirk.com/Fix/
+
+----------- TONE AND VOICE -----------
+
+* Plain, direct, no jargon. Written for citizens, not lawyers.
+* Frame as a beta-review release for Law 4 -- this is a draft,
+  feedback wanted.
+* Defamation-safe language throughout: never state as fact that any living
+  person committed a crime. Use "allegedly", "reportedly", "evidence
+  suggests" where claims about individuals are made.
+* The tweet may run longer than a single 280-character X post -- it is
+  designed for a thread or a long-form X post. Write it as one continuous
+  piece of copy.
+
+==========================================================
+OUTPUT
+==========================================================
+
+* Write the finished tweet to {OUTPUT_FILE} ONLY.
+* Do not modify {LAW_4_FILE}, {BACKGROUND_FILE}, or any law file.
+* Do not create any other output file.
+* Confirm at the end which file was written and the final word count of:
+  * the opening 40 words
+  * the body
+  * the Law 4 bullet section
+
+Output to stdout "============================================="
+Output to stdout "Wrote tweet to {OUTPUT_FILE}"
+Output to stdout "============================================="

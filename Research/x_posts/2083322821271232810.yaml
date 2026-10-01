@@ -1,0 +1,40 @@
+id: '2083322821271232810'
+url: 'https://x.com/DiligentDenizen/status/2083322821271232810'
+author:
+  username: 'DiligentDenizen'
+  name: 'Diligent Denizen'
+  id: '1585809424135995392'
+text: |
+  RUSSELL KENNINGTON was RELEASED WITH NO BAIL just HOURS AFTER he was ARRESTED with a rifle at the Charlie Kirk assassination crime scene? 🤔
+
+  Imagine that 🤷🏻‍♂️🇺🇸
+created_at: '2026-07-31T22:44:01.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 77
+  reply_count: 24
+  like_count: 269
+  quote_count: 0
+  bookmark_count: 23
+  impression_count: 5691
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2083322804489830400'
+      duration_ms: 8981
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2083322804489830400/img/xNZKBbPGpHEfT7XS.jpg'
+      width: 1080
+      height: 1080
+      variants:
+        - url: 'https://video.twimg.com/amplify_video/2083322804489830400/vid/avc1/1080x1080/UkF7vA41LVBl_JRZ.mp4'
+          content_type: 'video/mp4'
+          bit_rate: 8768000
+  images: []
+investigation: 'charlie_kirk'
+added_date: '2026-07-31'
+temp_file: false
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+site_page: 'site/docs/distraction_people/Russell_Kennington.mdx'

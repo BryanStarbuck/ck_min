@@ -1,0 +1,340 @@
+================================================================================
+LANE: Utah news outlets that mirror court filings
+CASE: State of Utah v. Tyler James Robinson, No. 251403576
+      4th Judicial District Court, Utah County, Provo Dept. Judge Tony F. Graf Jr.
+RUN DATE: 2026-08-31
+OPERATOR: Claude Code subagent (news-mirrors-utah lane)
+================================================================================
+
+GOAL RECAP
+  (a) anything dated MAY 2026 or later (prelim hearing ~Jul 2026, bind-over briefs
+      ~Aug 2026, contempt rulings, camera/publicity motions, trial-setting orders)
+  (b) UNREDACTED / fuller versions of docs we hold only redacted
+  (c) TRANSCRIPTS of any hearing
+  (d) EXHIBITS attached to filings we hold only as parent motion
+  (e) Sept 2025 - Apr 2026 items NOT in inventory
+
+OUTLETS IN LANE
+  KSL.com / KSL-TV, Salt Lake Tribune (sltrib.com), Deseret News (deseret.com),
+  FOX 13 Salt Lake City (fox13now.com), ABC4/KTVX (abc4.com), KUTV 2News (kutv.com),
+  Daily Herald Provo (heraldextra.com), St George News, Utah News Dispatch,
+  KUER, Salt Lake City Weekly
+
+RAW LOG BELOW — every URL tried and the status actually observed
+================================================================================
+
+--------------------------------------------------------------------------------
+[1] CONFIRMED LIVE PDFs (curl HEAD with browser UA)
+--------------------------------------------------------------------------------
+HTTP 200  application/pdf  1,369,739 B
+  https://static.foxnews.com/foxnews.com/content/uploads/2026/04/tyler-robinson-ballistics-motion.pdf
+  -> Apr 2026 ballistics motion. NOT IN INVENTORY.
+
+HTTP 200  application/pdf  1,060,521 B
+  https://static.foxnews.com/foxnews.com/content/uploads/2025/12/tyler-robinson-redacted-hearing-transcript.pdf
+  -> REDACTED HEARING TRANSCRIPT (Oct 24 2025 hearing, released Dec 2025).
+     TARGET (c) TRANSCRIPT. Inventory has only the ORDER for this transcript
+     (11_13_25_Order_For_Transcript_Of_October_24,_2025_Hearing.pdf), not the
+     transcript itself.
+
+--------------------------------------------------------------------------------
+[2] DOCUMENTCLOUD PROJECT 224251 - "Charlie Kirk Murder Case and Tyler Robinson"
+--------------------------------------------------------------------------------
+Project page: https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/
+  curl (browser UA)  -> HTTP 403  (Cloudflare bot block)
+  WebFetch           -> HTTP 200, SPA shell only ("Loading ...")
+
+API (WORKS via WebFetch, Cloudflare-blocked to curl):
+  https://api.www.documentcloud.org/api/documents/search/?q=%2Bproject%3A224251&per_page=100
+  curl     -> Cloudflare "Attention Required!" interstitial
+  WebFetch -> HTTP 200 real JSON.  count = 46 documents.
+
+*** THIS PROJECT INDEXES EVERY DOC BY ITS DOCKET NUMBER. That is the single most
+    valuable thing found in this lane - it gives us the docket-number map that
+    our filename-based inventory lacks. Docket nos seen: 3,4,12,14,24,76,111,
+    116,117,135,137,197,211,213,242,250,289,291,293,346,348,355,366,368,406,413
+
+ASSET / DOWNLOAD HOSTS - ALL Cloudflare-blocked to scripted access:
+  HTTP 403  https://assets.documentcloud.org/documents/26098838/tyler-robinson-indictment.pdf
+  HTTP 403  https://assets.documentcloud.org/documents/26098863/tyler-robinson-tjr-information.pdf
+  HTTP 403  https://assets.documentcloud.org/documents/26090603/robinson-affidavit-of-probable-cause.pdf
+  HTTP 403  https://s3.documentcloud.org/documents/27880869/9-16-2025-bail-order-docket-4.pdf
+  HTTP 403  https://s3.documentcloud.org/documents/27880866/12-15-2025-ruling-and-order-...-docket-242.pdf
+  HTTP 403  https://s3.documentcloud.org/documents/27881507/2-13-2026-minute-order-...-docket-413.pdf
+  => DOWNLOAD OF DOCUMENTCLOUD PDFs NEEDS A HUMAN IN A REAL BROWSER.
+     No login and no payment required - it is purely an anti-bot block.
+
+DOCS IN PROJECT NOT IN OUR INVENTORY (highest value from page 1):
+  * 12-15-2025 Ruling+Order granting prosecutor motion to clarify pretrial/trial
+    publicity order - docket 242        (id 27880866)  <-- the Dec 2025 gag order!
+  * 12-17-2025 Def Motion to Disqualify prosecutor and/or judge - docket 250 (27880873)
+  * 1-5-2026 Prosecutor Opposition to Motion to Disqualify UCAO - docket 289 (27880888)
+  * 1-8-2026 Def Reply to Prosecutor Opposition re Disqualify - docket 293 (27881513)
+  * 2-13-2026 Minute order on oral argument of evidentiary hearing - docket 413 (27881507)
+  * 10-08-2025 Proposed Order Granting Motion to Preserve Evidence - docket 76 (27880875)
+  * 9-12-2025 Public safety assessment report - docket 3 (27880877)
+
+Individual DocumentCloud docs found by search (canonical viewer URLs):
+  https://www.documentcloud.org/documents/26098838-tyler-robinson-indictment/
+  https://www.documentcloud.org/documents/26098863-tyler-robinson-tjr-information/
+  https://www.documentcloud.org/documents/26090603-robinson-affidavit-of-probable-cause/
+
+--------------------------------------------------------------------------------
+[3] *** BREAKTHROUGH: FULL DOCKET TEXT RETRIEVED ***
+--------------------------------------------------------------------------------
+DocumentCloud id 27880533 "tyler robinson all docket entries as of 3-15-2026" (13 pp)
+  Viewer : https://www.documentcloud.org/documents/27880533-tyler-robinson-all-docket-entries-as-of-3-15-2026/
+  PDF    : https://s3.documentcloud.org/documents/27880533/tyler-robinson-all-docket-entries-as-of-3-15-2026.pdf   [curl 403 / needs browser]
+  TXT    : https://assets.documentcloud.org/documents/27880533/tyler-robinson-all-docket-entries-as-of-3-15-2026.txt
+             -> HTTP 302 redirect to:
+           https://s3.documentcloud.org/documents/27880533/tyler-robinson-all-docket-entries-as-of-3-15-2026.txt
+             -> curl: HTTP 403 (Cloudflare)
+             -> WebFetch: HTTP 200, FULL PLAIN TEXT RETURNED.  <== the working route
+
+  ** The .txt sidecar is fetchable where the .pdf is not. Every DocumentCloud doc
+     has one at the same {id}/{slug} path. This is the way to read all 46 docs in
+     the project without a browser. PDFs still need a human. **
+
+Companion doc: id 27880531 "tyler robinson case list of all filings and hearings as of 3-15-2026"
+  https://www.documentcloud.org/documents/27880531-list-of-all-filings-and-hearings-as-of-3-15-2026/
+
+Docket text NOT persisted to a file by this lane - it was read via WebFetch and
+  is reproducible at any time from the .txt URL above (WebFetch, not curl).
+
+KEY DOCKET ENTRIES THAT ARE NOT IN OUR INVENTORY (from that text):
+  10/24/2025  Minutes Sealed/Closed Hearing (SEALED)
+  11/17/2025  TRANSADMIN TRANSCRIPT (10-24-2025) (PROTECTED)
+  11/17/2025  TRANSADMIN TRANSCRIPT (10-27-2025)
+  11/17/2025  Petition For Permission To Appeal (PRIVATE)
+  11/17/2025  Letter From Supreme Court Of Utah
+  12/11/2025  TRANSADMIN TRANSCRIPT (09-16-2025) / (09-29-2025) / (09-30-2025)
+  12/15/2025  Ruling And Order Granting State's Motion [to clarify publicity order]
+  12/19/2025  TRANSADMIN TRANSCRIPT (12-11-2025) (PRIVATE)
+  12/29/2025  Ruling And Order Re Stipulated Motion To Classify Transcript
+  12/29/2025  Order Denying The Media's Request To Intervene
+  12/29/2025  Transcript Of October 24, 2025 Hearing (PRIVATE)
+  12/31/2025  TRANSADMIN TRANSCRIPT (12-29-2025)
+  01/28/2026  TRANSADMIN TRANSCRIPT (01-16-2026)
+  02/10/2026  Notice of Lodging: Redacted Hearing Transcript
+  02/10/2026  Hearing Transcript Redacted (SEALED)
+  02/24/2026  TRANSADMIN TRANSCRIPT (02-03-2026)
+  03/05/2026  Audio Request Completed (Hughes)
+  03/12/2026  TRANSADMIN TRANSCRIPT (12-11-2025) / (10-24-2025)
+  03/13/2026  Rulings And Orders On Classification And Closure Motions
+  => TRANSCRIPTS EXIST ON THE DOCKET FOR: 9/16, 9/29, 9/30, 10/24, 10/27/2025,
+     12/11, 12/29/2025, 1/16, 2/3/2026. We hold NONE of them except the Fox
+     News redacted 10/24 copy. TARGET (c).
+
+--------------------------------------------------------------------------------
+[4] *** THE BIG ONE: andreaburkhart.substack.com FULL DOCKET MIRROR ***
+--------------------------------------------------------------------------------
+Index page:  https://andreaburkhart.substack.com/p/charlie-kirk-legal-documents
+  curl (browser UA) -> HTTP 200, 788,478 bytes. No login, no paywall on this post.
+  Author: Andrea Burkhart (criminal defense attorney / legal commentator).
+  Self-description: "This list recreates the case docket, listing all court
+  filings by docket number. Documents that I have not purchased are listed but
+  designated as 'Not obtained.'"
+
+PARSED RESULT (linear scan of <li><p>entry</p> + following file embed):
+  1,440 docket entries listed
+    264 have a downloadable PDF attached
+  1,176 are listed but marked "Not obtained" (she did not buy them) or have no file
+
+*** PROVENANCE FINDING ***
+Probing https://andreaburkhart.substack.com/api/v1/file/15011912-...-c8.pdf gave
+HTTP 302 -> presigned S3, and the Content-Disposition filename was
+"9_16_25_Information.pdf" - byte-identical to the naming convention of our
+existing inventory. OUR 173 EXISTING PDFs CAME FROM THIS PAGE. It is therefore
+the correct place to re-scrape for everything added since our last pull.
+
+URL PATTERN (works with plain curl + browser UA, follows to presigned S3):
+  https://andreaburkhart.substack.com/api/v1/file/{uuid}.pdf
+  NOTE: HEAD (curl -I) returns 403 on the S3 leg because the presign covers GET
+  only. Use GET (curl -L -o file.pdf). Verified 4/4 return HTTP 200 + %PDF- magic.
+
+DOWNLOAD VERIFICATION (GET, redirect followed):
+  HTTP 200  319,679 B  %PDF-  7-28-26 Memorandum in Support of Prelim Hearing Bindover
+  HTTP 200  389,135 B  %PDF-  8-11-26 Defendant's Preliminary Hearing Briefing
+  HTTP 200  277,548 B  %PDF-  8-18-26 State's Reply Supporting Prelim Hearing Bindover
+  HTTP 200  918,590 B  %PDF-  6-26-26 Ruling+Order on Motion for OSC for Contempt
+
+COVERAGE: docket entries run from 9-15-25 through 8-31-26 (TODAY). The page is
+being maintained continuously - the newest entry is "Order to Transport, 8-31-26".
+
+*** 78 PDFs DATED MAY 2026 OR LATER - ALL BEYOND OUR APR-2026 INVENTORY CUTOFF ***
+This is squarely TARGET (a). Highlights:
+
+  MERITS / BINDOVER (the Sept 1 2026 decision):
+   7-28-26 Memorandum in Support of Preliminary Hearing Bindover  (State, 28 pp)
+     https://andreaburkhart.substack.com/api/v1/file/b751fcf7-c7dd-447b-bfd8-59b76408afc0.pdf
+   8-11-26 Defendant Tyler James Robinson's Preliminary Hearing Briefing (41 pp;
+           the motion to strike the sole death-penalty aggravator)
+     https://andreaburkhart.substack.com/api/v1/file/1d3ce795-67cd-4dcb-bb72-a78e64551a42.pdf
+   8-18-26 State's Reply Supporting Preliminary Hearing Bindover
+     https://andreaburkhart.substack.com/api/v1/file/6ed59130-62a7-479a-853c-621cde405142.pdf
+   7-10-26 Request for Speedy Disposition and Prompt Bindover
+     https://andreaburkhart.substack.com/api/v1/file/6c768210-82de-443c-800f-58c6d202ae33.pdf
+
+  CONTEMPT LINE (prosecutor Christopher Ballard held in civil contempt):
+   4-16-26 Motion for OSC for Contempt and Motion to Compel
+     https://andreaburkhart.substack.com/api/v1/file/e9c04837-ad73-4c7d-8d0e-dcb1783a51ce.pdf
+   4-16-26 Declaration of Counsel in Support of OSC
+     https://andreaburkhart.substack.com/api/v1/file/efaa1999-45fe-4327-ae89-cb045c016b41.pdf
+   4-2x-26 Opposition to Motion for OSC for Alleged Contempt / Order Compelling
+     https://andreaburkhart.substack.com/api/v1/file/4af4647b-3b50-4645-a030-f1cf4b1e87ee.pdf
+   5-7-26  Reply to Opposition to Motion for OSC for Alleged Contempt
+     https://andreaburkhart.substack.com/api/v1/file/c3538aaa-f964-4d55-af14-cde8e3f72dab.pdf
+   6-17-26 Objection to Def Request to Remove Death Penalty as a Sanction
+     https://andreaburkhart.substack.com/api/v1/file/5029bac1-305d-49de-9846-a0dcd9deb8ff.pdf
+   6-18-26 Opposition to State's Uninvited Objection re Death Penalty Sanction
+     https://andreaburkhart.substack.com/api/v1/file/81342c31-918e-4a17-92ef-fe92e4591b05.pdf
+   6-1-26  Ruling+Order GRANTING Def Motion for OSC (Dkt 504), denying compel
+     https://andreaburkhart.substack.com/api/v1/file/984fb5c4-62dc-45c3-9baa-c7148a762768.pdf
+   6-26-26 *** RULING AND ORDER ON DEFENDANT'S MOTION FOR OSC FOR CONTEMPT ***
+     https://andreaburkhart.substack.com/api/v1/file/e593804e-bb33-419a-8232-98198a25c65d.pdf
+
+  CAMERAS / PUBLICITY / MEDIA ACCESS:
+   5-8-26  Ruling+Order on Motion to Exclude Still Photographers/TV Cameras/Mics
+     https://andreaburkhart.substack.com/api/v1/file/eae0b483-1222-4fd2-b202-d40ed3c227d3.pdf
+   6-1-26  Ruling+Order Denying Motion in Limine to Close Portions of Prelim
+     https://andreaburkhart.substack.com/api/v1/file/9700aa34-0e22-4710-9d6b-b6ee9740b372.pdf
+   6-23-26 Minute Entry Order: Electronic Devices Prohibited During Prelim Hearing
+     https://andreaburkhart.substack.com/api/v1/file/eeb7f87d-fe0f-4a54-b9f9-3836771c1321.pdf
+   6-30-26 Ruling+Order on Defendant's Objections to Electronic Media Requests
+     https://andreaburkhart.substack.com/api/v1/file/60eb1df1-a978-4716-95db-13f04011b4c3.pdf
+   7-2-26  Ruling+Order Denying News Media Motion to Amend Minute Entry Order
+     https://andreaburkhart.substack.com/api/v1/file/f2f2cdec-381c-4ddf-b09d-085b5890dd3f.pdf
+   8-27-26 Minute Entry Order: Devices Prohibited During Sept 1 2026 Hearing
+     https://andreaburkhart.substack.com/api/v1/file/a7c2947d-e940-426d-a399-797f58d83003.pdf
+   8-27-26 Standing Decorum Order, Effective Aug 28 2026
+     https://andreaburkhart.substack.com/api/v1/file/6053b721-5d52-40db-893b-02100be7c48f.pdf
+   8-28-26 Amended Standing Decorum Order, Effective Aug 28 2026
+     https://andreaburkhart.substack.com/api/v1/file/75d9511f-501c-4335-b503-91ddd479bff5.pdf
+
+  PRELIM HEARING MECHANICS / EXHIBITS  (TARGET (d)):
+   5-6-26  State's Preliminary Hearing Witness and Exhibit List
+     https://andreaburkhart.substack.com/api/v1/file/59f61407-2811-4027-90d5-a611f4d21098.pdf
+   5-1-26  Supplemental Notice re State's Evidence at Preliminary Hearing
+     https://andreaburkhart.substack.com/api/v1/file/8c8162b3-6009-4ff7-bdc4-6118d303ea0e.pdf
+   7-3-26  Defendant's Standing Objections to State's Exhibits
+     https://andreaburkhart.substack.com/api/v1/file/40efc715-b46d-408d-ad67-e5039c84af15.pdf
+   7-8-26  Supplemental Notice Concerning Access to Evidence Presented in Open Court
+     https://andreaburkhart.substack.com/api/v1/file/dce6ed22-2268-48df-bbf5-08a6901a96f4.pdf
+   7-8-26 / 7-21-26  PRELIMINARY HEARING minute entries (4 files)
+     .../32bf6f37-4bec-4cd8-93e0-f1a4faa382be.pdf   .../8963886b-a070-4372-bfb8-0ccddfe85cdb.pdf
+     .../4f62f14c-9b20-46c6-a493-9d2de6a5903a.pdf   .../011c5d90-2c2e-4043-919d-63b4abb83949.pdf
+
+  APPEALS / DISCOVERY / OTHER:
+   5-29-26 Notice of Filing: Petition for Permission to Appeal from Interlocutory Order
+     https://andreaburkhart.substack.com/api/v1/file/ecafa2e9-6b8e-4401-9b1e-5953aba03a40.pdf
+   6-26-26 Notice of Filing Petition for Permission to Appeal from Two Interlocutory Orders
+     https://andreaburkhart.substack.com/api/v1/file/110c9446-f802-4f73-b80f-511f5e6b74a9.pdf
+   6-19-26 Defendant's Second Supplemental Request for Discovery
+     https://andreaburkhart.substack.com/api/v1/file/8219c16d-ee65-4ec6-a44b-c5be5b8fee27.pdf
+   7-2-26  Response to Defendant's Second Supplemental Request for Discovery
+     https://andreaburkhart.substack.com/api/v1/file/74d50292-177e-4865-a315-7353713eb9ad.pdf
+   8-28-26 Defendant's Discovery Status Report
+     https://andreaburkhart.substack.com/api/v1/file/cd14df85-2717-490d-b335-9cf408d937d2.pdf
+   6-12-26 Utah AG's Notice of Intent Not to Respond to Constitutional Challenge
+     https://andreaburkhart.substack.com/api/v1/file/f06bcb6c-62ca-4682-b592-5da68e58398e.pdf
+   6-16/18-26 Opposition + Reply re Certificate of Attendance of Out-of-State Witness
+     .../c9c3290f-7e98-413d-9d67-c4e99b8bf480.pdf  .../a4606e96-56ea-401f-811e-6a8f24a6db2b.pdf
+   8-31-26 Order to Transport  (newest entry on the page)
+     https://andreaburkhart.substack.com/api/v1/file/e414b1ca-2005-4faf-8290-9bca45d78dd8.pdf
+
+FULL MACHINE-READABLE LISTS WRITTEN TO THIS DIRECTORY:
+  burkhart_docket_pdfs.tsv         264 rows: docket_entry <TAB> pdf_url
+  burkhart_docket_all_entries.txt  1440 rows: n, PDF/---, entry, url
+
+PRE-MAY-2026 GAPS: a crude title match against inventory_existing.txt flagged 119
+of the 186 pre-May PDFs as "title not found in inventory", but that number is
+INFLATED - our filenames are abbreviated (e.g. inventory
+"9_16_25_Notice_Of_Intent_To_Seek_Death_Penalty.pdf" vs her "State's Notice of
+Intent to Seek the Death Penalty"). Genuinely new-looking pre-May items include:
+  12-29-25 Transcript of October 24, 2025 Hearing (Redacted Transcript)  <-- TARGET (c)
+    https://andreaburkhart.substack.com/api/v1/file/fb25b527-dd12-4b5b-9194-33ee893ef346.pdf
+  12-29-25 Order Denying the Media's Request to Intervene + Standing Order 4-202.04
+    https://andreaburkhart.substack.com/api/v1/file/07006b0e-93fc-447f-93a7-f9dd52396e68.pdf
+  12-15-25 Ruling+Order Granting State's Motion to Clarify Pretrial/Trial Publicity Order
+    https://andreaburkhart.substack.com/api/v1/file/fc16c126-5152-47c2-b0c9-ef1670c9994d.pdf
+  1-9-26  (Previously filed as private) Defendant Motion Filed Jan 9 2026 w/Exhibits  <-- TARGET (b)+(d)
+    https://andreaburkhart.substack.com/api/v1/file/32f5d075-32a0-49c7-b5a8-aff3a440e6b9.pdf
+  11-17-25 (Previously omitted) Letter From Supreme Court Of Utah
+    https://andreaburkhart.substack.com/api/v1/file/e7bd7842-8138-4273-bcad-be29afa0370d.pdf
+  3-18-26 Notice of Expert (Dr. Ruva)
+    https://andreaburkhart.substack.com/api/v1/file/0def5484-b2a1-42c3-a23a-3d73c9b748fd.pdf
+Per-file verification against inventory is still needed - see the TSV.
+
+--------------------------------------------------------------------------------
+[5] HEARING TRANSCRIPTS - Rev.com  (TARGET (c))
+--------------------------------------------------------------------------------
+All five preliminary-hearing days, free to read, real transcript text present
+(counted "Speaker N"/"THE COURT" markers in the returned HTML):
+  HTTP 200  863,451 B  232 markers  https://www.rev.com/transcripts/ut-v-tyler-robinson---day-1
+  HTTP 200  812,482 B  266 markers  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2
+  HTTP 200  388,655 B  233 markers  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-3
+  HTTP 200  794,260 B  351 markers  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4
+  HTTP 200  351,772 B  163 markers  https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5
+  NOTE day 1 uses a DIFFERENT slug ("---day-1", no "preliminary-hearing").
+  Pages carry 3 upsell/"subscribe" strings but the transcript body is served.
+  These are Rev's own machine+human transcripts of the broadcast, NOT the
+  certified court reporter's transcript. Useful, but not a court record.
+
+--------------------------------------------------------------------------------
+[6] UTAH OUTLET LANE - ACCESSIBILITY RESULTS
+--------------------------------------------------------------------------------
+REACHABLE with curl + browser UA (articles fetch fine; none of them embed the
+filing PDF itself - they all describe filings in prose only):
+  HTTP 200  www.ksl.com          e.g. /article/51603334 , /article/51608881
+  HTTP 200  www.deseret.com      e.g. /utah/2026/08/12/tyler-robinson-contends-state-has-not-proven-elements-needed-for-aggravated-murder/
+  HTTP 200  www.sltrib.com       e.g. /news/2026/07/29/utah-prosecutors-say-kirks-views/
+  HTTP 200  www.kutv.com         e.g. /news/local/takeaways-from-a-weeklong-preliminary-hearing-in-the-charlie-kirk-murder-case
+  HTTP 200  www.heraldextra.com  e.g. /news/2026/jul/10/tyler-robinsons-five-day-preliminary-hearing-concludes-final-arguments-set-for-sept-1/
+
+BLOCKED:
+  HTTP 403  www.abc4.com  - ALL paths, both WebFetch and curl w/ browser UA.
+    Consistent 6,516-byte block page. Needs a human in a real browser.
+    Valuable ABC4 pages a human should open:
+      /news/charlie-kirk-shooting/timeline-court-proceedings-tyler-robinson/
+      /news/charlie-kirk-shooting/redacted-transcript-released-tyler-robinson-court-hearing/
+      /news/charlie-kirk-shooting/tyler-robinson-motion-contempt-prosecutors/
+      /news/charlie-kirk-shooting/judge-ruling-tyler-robinsons-prosecution-contempt/
+  HTTP 429  www.stgeorgeutah.com - rate limited on the one attempt, INCONCLUSIVE,
+    not ruled out. Retry later.
+      /news/judge-orders-hearing-on-claims-prosecutors-violated-gag-order-in-tyler-robinson-case/article_b8594390-b1bd-48c1-8fb0-b304c73c7c95.html
+
+*** LANE CONCLUSION: The Utah outlets are the media INTERVENORS in this case and
+they report on filings constantly, but NOT ONE of them publishes the filing PDF.
+Every Utah-outlet article checked (KSL x2, Deseret, Tribune, KUTV, Daily Herald,
+ABC4) describes documents in prose with zero document links. The documents in this
+case are mirrored by THIRD PARTIES, not by the Utah press:
+  - andreaburkhart.substack.com  (264 PDFs, the real trove)
+  - DocumentCloud project 224251 (46 docs, docket-numbered, PDFs need a browser)
+  - static.foxnews.com            (2 confirmed PDFs incl. a transcript)
+  - rev.com                       (all 5 prelim hearing day transcripts)
+  - kirkarchive.com               (curated archive; no direct PDF index found)
+
+--------------------------------------------------------------------------------
+[7] OTHER OBSERVED URLS (status actually seen)
+--------------------------------------------------------------------------------
+  HTTP 200  https://www.scribd.com/document/1072917678/Robinson-defense-probable-cause-filing
+            (only 3,038 bytes to curl -> JS shell; Scribd download needs an
+             account/subscription. HUMAN ROUTE. Likely the 8-11-26 defense brief.)
+  HTTP 200  https://kirkarchive.com/sept1        (15,687 B)
+  HTTP 200  https://www.kirkarchive.com/          sections: /timeline /people /robinson
+            /connections /evidence /narratives /sources /contradictions /wire /press
+            No direct PDF/filings index found from the homepage.
+  HTTP 200  https://www.courthousenews.com/judge-unseals-documents-in-charlie-kirk-murder-case/  (105,826 B)
+  HTTP 403  https://www.documentcloud.org/projects/224251-charlie-kirk-murder-case-and-tyler-robinson/  (curl)
+  HTTP 200  same URL via WebFetch (SPA shell only)
+
+DEAD ENDS / THINGS THAT DID NOT WORK:
+  * DocumentCloud API via curl                 -> Cloudflare interstitial (use WebFetch)
+  * assets.documentcloud.org / s3.documentcloud.org .pdf via curl -> 403
+  * DocumentCloud cursor-paginated page 2 via WebFetch -> returned the API DOCS
+    page instead of JSON (cursor likely expired / WebFetch cache). Worked around
+    with &order=created_at. 45 of 46 docs enumerated; 1 not enumerated.
+  * Substack file URL via curl -I (HEAD)       -> 403 on the S3 leg (presign is
+    GET-only). Must use GET.
+  * abc4.com anything                          -> 403
+  * stgeorgeutah.com                           -> 429

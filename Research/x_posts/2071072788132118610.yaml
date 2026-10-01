@@ -1,0 +1,38 @@
+id: '2071072788132118610'
+url: 'https://x.com/troofevades/status/2071072788132118610'
+author:
+  username: 'troofevades'
+  name: 'troofevades'
+  id: '1964080899953479684'
+text: |
+  Well, thats a lot of smoke that I dont see at the CK event. Holy fuck
+  [Quote-tweet of @Trillion0x/2070699686961520802]
+created_at: '2026-06-28T03:26:46.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 1
+  reply_count: 3
+  like_count: 5
+  quote_count: 0
+  bookmark_count: 1
+  impression_count: 914
+quoted_post:
+  id: '2070699686961520802'
+  author: '@Trillion0x'
+  text: |
+    CK exploding Rode mic is going viral again, bc it's wrong. More absurd CK theories go more viral.
+    It would take less than an afternoon to demonstrate the theory, Jon Bray has been promising to do
+    a simulated test of his theory for over 6mo. Where's that at? Shaped charges are [video]
+attachments:
+  videos:
+    - type: video
+      media_key: '2070693155280990208'
+      source_post: 'https://x.com/Trillion0x/status/2070699686961520802'
+      duration_ms: 81328
+      width: 2346
+      height: 1378
+      ipfs_cid: 'QmbDwwYuPmjPjL84jM2XCum7EFrtc33pjWBhMdKMFCdPXt'
+      local_file: 'videos/2071072788132118610.mp4'
+investigation: 'charlie_kirk'
+added_date: '2026-06-28'
+temp_file: false

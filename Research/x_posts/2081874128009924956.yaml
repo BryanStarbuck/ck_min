@@ -1,0 +1,60 @@
+id: '2081874128009924956'
+url: 'https://x.com/ProjectConstitu/status/2081874128009924956'
+author:
+  username: 'ProjectConstitu'
+  name: 'Project Constitution'
+  id: '1605508047140438016'
+text: |
+  ‼️BREAKING: Utah's Chief Medical Examiner Who Would Have Signed Charlie Kirk's Autopsy Has RESIGNED🤔
+
+  Candace Owens just dropped a major development on tonight's episode.
+
+  Dr. Deedra Amaro, Utah's Chief Medical Examiner and the official who would have signed off on Charlie Kirk's autopsy report, has suddenly resigned. Her tenure only began on July 1, 2024. Candace notes she comes from a powerful family with strong military ties and has claimed direct descent from Leif Erickson.
+
+  This resignation is part of a growing wave. People are quietly stepping down across UVU, Timpanogos Hospital, local police departments, and now the state's top medical examiner's office. No official explanation has been given for Amaro's departure — only that she is "moving on."
+
+  When the person responsible for the autopsy report and multiple key figures connected to the investigation start resigning with no clear reason, something is clearly off. The questions only continue to pile up.
+
+  If you have any direct information about her's or others resignations that were involved in the events that transpired that day, send me a DM or email me at projectconstitutionvideos@gmail.com or contact the Candace tipline.
+
+  FOLLOW @RealCandaceO , RT and watch her FULL episode linked below.👇
+created_at: '2026-07-27T22:47:26.000Z'
+lang: 'en'
+public_metrics:
+  retweet_count: 77
+  reply_count: 7
+  like_count: 299
+  quote_count: 4
+  bookmark_count: 23
+  impression_count: 9438
+attachments:
+  videos:
+    - type: video
+      media_key: '13_2081873500864729089'
+      duration_ms: 77100
+      width: 1920
+      height: 1080
+      preview_image_url: 'https://pbs.twimg.com/amplify_video_thumb/2081873500864729089/img/OqVjCRIy3R0hUo28.jpg'
+      local_file: 'videos/2081874128009924956.mp4'
+      ipfs_cid: 'QmTUX55c2sDVeXRrtuUTp82ZgjFtZT25usjwnC4VQiiVUE'
+      ipfs_gateway_url: 'https://ipfs.io/ipfs/QmTUX55c2sDVeXRrtuUTp82ZgjFtZT25usjwnC4VQiiVUE'
+  images: []
+media_from_quoted_status:
+  quoted_status_id: ''
+  quoted_status_url: ''
+  quoted_author: ''
+quoted_tweet:
+  id: '2081864142210670763'
+  author: '@ProjectConstitu'
+  text: "‼️Watch Candace LIVE @ 6:30ET- Explosive Revelations Involving The 911 Call By Charlie's Security."
+  note: 'Promo for the same Candace Owens episode; no media of its own.'
+transcription_file: 'videos_transcription/2081874128009924956.md'
+transcription_word_count: 200
+site_pages:
+  - 'site/docs/People/deirdre-amaro.mdx'
+  - 'site/docs/Medical/medical_examiner.mdx'
+  - 'site/docs/People/overview.mdx'
+  - 'site/docs/Medical/overview.mdx'
+investigation: 'charlie_kirk'
+added_date: '2026-07-27'
+temp_file: false
