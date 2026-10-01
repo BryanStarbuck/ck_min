@@ -339,7 +339,7 @@ const config: Config = {
         {
           title: "Take Action",
           items: [
-            { label: "New Laws (Fix)", to: "/Fix/overview" },
+            { label: "Charlie Kirk Laws", to: "/Fix/overview" },
             { label: "Your Actions Fix It", to: "/Your_Actions_Fix_It/overview" },
           ],
         },
