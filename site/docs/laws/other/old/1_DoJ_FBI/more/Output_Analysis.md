@@ -46,18 +46,22 @@ description: "Earlier draft checking Law 1, DOJ/FBI forced disclosure on Charlie
 
 ### Problem 1: Volume and Timeline
 DOJ will argue that 30 days is insufficient for potentially millions of pages.
+
 **Mitigation:** The Epstein Act proved 30 days is legally viable. Section 2(a) requires disclosure of ALL records, not review-then-redact. Narrow permitted redactions (Section 4(b)) eliminate most review time.
 
 ### Problem 2: Executive Privilege
 Executive branch will argue separation of powers.
+
 **Mitigation:** Section 11 explicitly removes presidential override. Congress has broad Article I oversight authority.
 
 ### Problem 3: Records Destruction
 Agencies may destroy records.
+
 **Mitigation:** Section 5(a) triggers preservation at bill introduction. Section 5(b) makes destruction a 15-year crime. Section 5(c) requires forensic audits.
 
 ### Problem 4: DOJ Non-Compliance (Epstein Act Pattern)
 DOJ will resist even after signing.
+
 **Mitigation:** Multiple parallel enforcement: automatic budget cuts (25%/month), contempt of Congress, criminal prosecution, private citizen lawsuits, permanent oversight board.
 
 ## Recommendations

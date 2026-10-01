@@ -94,7 +94,7 @@ To require all United States Intelligence Community agencies to release all info
    5. All SIGINT, HUMINT, IMINT, and MASINT products related to foreign intelligence operations in the Utah area
 
 **Aircraft and Surveillance Operations (Items #1, #15, #50, #82-#87, #157-#161):**
- 1. All intelligence regarding Egyptian aircraft SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and Egyptian military aircraft T7ELL and EJM36
+   1. All intelligence regarding Egyptian aircraft SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and Egyptian military aircraft T7ELL and EJM36
    2. All intelligence regarding surveillance aircraft N1098L (HADES spy plane), including who contracted, operated, and received its surveillance feed
    3. All intelligence regarding military or civilian drones operating at or near UVU on September 10, 2025
    4. All intelligence regarding U.S. Air Force VIP transport jet 99-0404 (SAM callsign) flights September 8-9, 2025
@@ -663,7 +663,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Tyler Robinson Defense & Family (#178–#180)
 
-* #178: Tyler Robinson Family Statements: Each covered agency shall produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." All records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. Each covered agency shall further produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
+* #178: Tyler Robinson Family Statements: Each covered agency shall produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." All records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. Each covered agency shall further produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
 
 * #179: Mormon Preacher and Retired Sheriff: Each covered agency shall produce full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. Each covered agency shall further produce all records relating to how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
 

@@ -1,14 +1,14 @@
 # Laws Not Complying with Charter — FIXED / RESOLVED ITEMS
 
 **Original analysis by:** Attorney review of all four laws against the primary charter (List_Of_Laws.md)
+
 **Date:** March 10, 2026
+
 **Status:** Items below verified as FIXED or ALREADY RESOLVED in current law files.
 
 Charter compliance is not an academic exercise: a bill drafted after Charlie Kirk was murdered has to survive contact with the agencies holding the records, and the disclosure gaps it is meant to close are documented under [Cause of Death](/Cause_of_Death/overview).
 
 ---
-
-====================
 
 ## LAW 1: The Charlie Kirk Files Forced Disclosure Act -- Law Enforcement
 
@@ -32,8 +32,6 @@ Section 11 explicitly criminalizes refusal to permit forensic audit (up to 10 ye
 
 ---
 
-====================
-
 ## LAW 2: The Charlie Kirk Files Forced Disclosure Act -- Intelligence Services
 
 ### 1. Schedule A Item Count Inconsistency — FIXED
@@ -46,8 +44,6 @@ Section 9(e) includes Special Master with classified compartment access.
 Law 2 includes enforcement with up to 10 years imprisonment for obstruction of forensic audit.
 
 ---
-
-====================
 
 ## LAW 3: The Charlie Kirk Mandatory Investigation Act
 
@@ -71,8 +67,6 @@ Section 6(a) specifies joint resolution within 30 days, fallback to Judiciary Co
 
 ---
 
-====================
-
 ## LAW 4: The Charlie Kirk Trusted Investigators Act
 
 ### 1. Team Count Contradiction — FIXED
@@ -88,8 +82,6 @@ Section 8 includes annual public financial disclosures (Ethics in Government Act
 Section 8(b) provides fallback appointment process: if courts hold naming individuals violates Appointments Clause, structured appointment by Speaker, Senate Majority Leader, and President takes effect immediately.
 
 ---
-
-====================
 
 ## CROSS-CUTTING ISSUES — FIXED Items
 

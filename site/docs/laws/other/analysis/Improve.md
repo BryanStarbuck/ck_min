@@ -1,7 +1,9 @@
 # Attorney Analysis: Improvements for the Four Charlie Kirk Disclosure Laws
 
 **Analyst Role:** Attorney reviewing proposed federal legislation for enforceability, constitutional vulnerability, scope issues, and improvements
+
 **Scope:** All four laws (Law 1 DoJ/FBI, Law 2 US Intel, Law 3 Mandatory Investigation, Law 4 Trusted Investigators) and the Discovery document
+
 **Date:** March 19, 2026
 
 ---
@@ -142,7 +144,7 @@
 
 ### 14. No Mandatory Exculpatory Disclosure to Defense Counsel for Robinson
 
-**Problem:** While Law 1 Section 12K and Law 2 Section 12I establish statutory Brady obligations, and Law 1 requires disclosure to defense counsel within 5 days, Law 2 requires disclosure within 14 days. Neither Law 3 nor Law 4 contain any Brady codification at all. Moreover, Laws 3 and 4 establish investigation teams that may generate significant new exculpatory evidence through their investigations, but there is no mechanism requiring those investigation teams to share exculpatory findings with Robinson's defense counsel.
+**Problem:** While Law 1 Section 12K and Law 2 Section 12I establish statutory Brady obligations, and Law 1 requires disclosure to defense counsel within 5 days, Law 2 requires disclosure within 14 days. Neither Law 3 nor Law 4 contains any Brady codification at all. Moreover, Laws 3 and 4 establish investigation teams that may generate significant new exculpatory evidence through their investigations, but there is no mechanism requiring those investigation teams to share exculpatory findings with Robinson's defense counsel.
 
 **Why it matters:** If a Law 3 or Law 4 investigation team discovers exculpatory evidence (e.g., evidence that another party committed the assassination), and that evidence is not shared with Robinson's defense counsel, it could result in a wrongful conviction. The constitutional Brady obligation applies to prosecutors, not to congressional investigation teams — so there must be an explicit statutory requirement.
 

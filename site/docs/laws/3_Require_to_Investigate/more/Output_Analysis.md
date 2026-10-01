@@ -65,7 +65,7 @@ $10M budget and 20-agent team requires appropriations.
 
 ## Interesting In This Area
 
-* [Law 3](/laws/Require_to_Investigate/Law_3_Require_to_Investigate) mandates a full investigation; shall creates the obligation, per [the requirements](/laws/Require_to_Investigate/more/Human_Requirements).
+* [Law 3](/laws/Require_to_Investigate/Law_3_Require_to_Investigate) mandates a full investigation; "shall" creates the obligation, per [the requirements](/laws/Require_to_Investigate/more/Human_Requirements).
 * [Law 4](/laws/Trusted_Investigations/Law_4_Trusted_Investigations) gives three named investigators [two teams each](/laws/Trusted_Investigations/more/Human_Requirements), six teams in total.
 * [Law 2](/laws/US_Intel/Law_2_US_Intel) limits source protection to [active sources only](/laws/US_Intel/more/Notes_2_US_Intel), closing the usual exemption.
 * [Schedule A](/laws/other/analysis/Fixed/Any_more_to_Add) grew from 175 items to 208, and [one count](/laws/other/analysis/Challenges) still needs harmonising.

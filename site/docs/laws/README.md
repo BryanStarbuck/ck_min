@@ -60,11 +60,9 @@ As a secondary matter, we would like the defense team to add these items as form
 
 ---
 
-===========================================
+These laws will include the alleged Mic possibility that citizen investigators keep returning to, in their work.
 
-These laws will include the Mic aledged possibility that citizen investigators keep returning to, in their work.
-
-# Disclosure of information related to Mic on Charlie. And other information.
+## Disclosure of information related to the Mic on Charlie, and other information
 
 This includes other information to disclose that may or may not be related.
 
@@ -80,7 +78,7 @@ This includes other information to disclose that may or may not be related.
 
 ### The Flight - August 25, 2025
 * Private flight departed Heber City, UT to John Tune Airport, Nashville, TN
-* John Tune Airport is closest airport to AES facility (~60km)
+* John Tune Airport is the closest airport to AES facility (~60km)
 * Heber City population ~17,000; private flights to Nashville are rare
 * No return flight logged
 
@@ -114,8 +112,8 @@ This includes other information to disclose that may or may not be related.
   amount was abnormally low. One explanation is a very small-scale explosion occurring close
   to the body, which could cause the heart to stop and limit further bleeding. The blood
   observed appeared consistent with an artery briefly emptying, followed by no continued flow.
-   A small-scale explosion could be intended to be quiet, leave no burn marks, produce little
-    to no shrapnel, be barely noticeable, and stop the heart to minimize blood loss.
+  A small-scale explosion could be intended to be quiet, leave no burn marks, produce little
+  to no shrapnel, be barely noticeable, and stop the heart to minimize blood loss.
 
 
 ### Fragment Evidence
@@ -130,9 +128,9 @@ This includes other information to disclose that may or may not be related.
 
 ### Crime Scene Alteration
 * Crime scene paved over with concrete shortly after incident (see [Surveillance Footage](/laws/DoJ_FBI/Law_1_DoJ_FBI#surveillance-footage-119124))
-* In the crime scene pave over, interestingly the roof above the tent was also redone. Disclose if any possible explosive resdue was attempted to get covered up on that roof above Charlie Kirk
+* In the crime scene pave over, interestingly the roof above the tent was also redone. Disclose if any possible explosive residue was attempted to get covered up on that roof above Charlie Kirk.
 * Glass fragments and explosive traces reported on grass before paving
-* Did the FBI chose to not take the car that transported Charlie after the shooting to the hospital into evidence. The glass-like fragments were in that car under where Charlie was after the shooting on the drive.
+* Did the FBI choose not to take the car that transported Charlie to the hospital after the shooting into evidence? The glass-like fragments were in that car under where Charlie was after the shooting on the drive.
 
 ### Factory Destruction - October 10, 2025
 * October 3-8: Researcher PERSON_58_REDACTED publicly discussed exploding mic theory online
@@ -140,9 +138,7 @@ This includes other information to disclose that may or may not be related.
 * 16 people killed
 * Deadliest above-ground US industrial accident in 34 years
 * All on-site evidence destroyed
-* Was AES explosion intentional? Has its cause been explained?
-
-Cl
+* Was the AES explosion intentional? Has its cause been explained?
 
 
 ## Citizen Investigator Claims on X (Forced Disclosure Discourse)
@@ -266,9 +262,8 @@ marginTop:'0.5rem'}}>
 </div>
 
 ## Related
-- [Law 3 — Require Investigation](/laws/Require_to_Investigate/Law_3_Require_to_Investigate)
+
 * [Law 3: Charlie Kirk Investigation - Mandatory Investigation Act](/laws/Require_to_Investigate/Law_3_Require_to_Investigate)
-- [Law 1 — DoJ / FBI Forced Disclosure](/laws/DoJ_FBI/Law_1_DoJ_FBI)
 * [Law 1: Charlie Kirk Investigation - DoJ/FBI Forced Disclosure…](/laws/DoJ_FBI/Law_1_DoJ_FBI)
 
 <div style={{display:'grid', gridTemplateColumns:'1fr 1fr', gap:'0.5rem 2rem',

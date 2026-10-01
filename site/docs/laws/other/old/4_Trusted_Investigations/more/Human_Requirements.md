@@ -8,7 +8,7 @@ description: "Earlier draft of Law 4's plain-language goals: trusted investigato
 
 ## Core Requirement
 
-This law exists because Charlie Kirk was assassinated on September 10 2025 and no government body has produced an account of [how he was killed](/Cause_of_Death/overview) that independent investigators accept. The only public proceeding to date is the [Utah court case](/court/overview) against a single charged defendant, which by design cannot examine the agencies themselves.
+This law exists because Charlie Kirk was assassinated on September 10, 2025, and no government body has produced an account of [how he was killed](/Cause_of_Death/overview) that independent investigators accept. The only public proceeding to date is the [Utah court case](/court/overview) against a single charged defendant, which by design cannot examine the agencies themselves.
 
 Allow a specific set of trusted individuals to each have their own team within the FBI and within US intelligence to work alongside government investigators. These trusted people and their teams conduct the investigation. Nothing is allowed to stop them. They can release the information.
 

@@ -41,18 +41,22 @@ description: "Earlier draft checking Law 3, the mandatory Charlie Kirk investiga
 
 ### Problem 1: Self-Investigation Conflict
 FBI and intelligence agencies mandated to investigate a case where they may be implicated.
+
 **Mitigation:** Section 4(c) creates automatic conflict-of-interest trigger transferring authority to independent commission. This is a major improvement over the previous version.
 
 ### Problem 2: Sandbagging
 Agencies can technically comply without pursuing the hardest leads.
+
 **Mitigation:** The external monitor (Section 6) has real-time access and authority to direct pursuit of neglected leads. Mandatory Schedule A reporting in Section 8(d) creates accountability.
 
 ### Problem 3: Predetermined Conclusions
 Investigations can be structured to reach desired conclusions.
+
 **Mitigation:** Section 1(c) explicitly prevents predetermined conclusions. Section 4 prohibits directing investigators to exclude theories. Monitor certifies good-faith compliance.
 
 ### Problem 4: Appropriations
-$10M budget and 20-agent team requires appropriations.
+$10M budget and 20-agent team require appropriations.
+
 **Recommendation:** Include as mandatory appropriation or redirect from existing budgets.
 
 ## Recommendations

@@ -7,7 +7,7 @@ description: "The plain-language goals behind Law 1: force the DOJ, FBI and ever
 ## Core Requirement
 
 Force the Department of Justice (DOJ), Federal Bureau of Investigation (FBI), and any other law enforcement agency -- national or local -- to disclose all files and information they have related to their investigation of Charlie Kirk's death.
-Charlie Kirk was assassinated at Utah Valley University on September 10 2025, and the files these agencies hold are the only records that could settle the [contested cause of death](/Cause_of_Death/overview).
+Charlie Kirk was assassinated at Utah Valley University on September 10, 2025, and the files these agencies hold are the only records that could settle the [contested cause of death](/Cause_of_Death/overview).
 
 ## Key Points
 
@@ -18,7 +18,7 @@ Charlie Kirk was assassinated at Utah Valley University on September 10 2025, an
 - It is illegal to persecute any government employee for disclosing information under this law
 
 
-## Improvements to make.
+## Improvements to make
 
 Make sure the following agencies are also covered:
 - Treasury
@@ -27,25 +27,25 @@ Make sure the following agencies are also covered:
 As far as Section 1, recovered records. Make sure it includes:
 - Investigation files
 - FBI/FD 302 reports
-All investigation information. 
-All forensic information or analysis 
-Anything about domestic or foreign intelligence involvement? 
-Anything about any people more involved than Tyler Robinson. 
-All information about the autopsy, including photos and video 
-All information about any evidence destroyed or any destroyed information or files from any covered organization. 
-Any and all information about TPUSA. Anybody and any information from anyone there or anything there that may be related .
-Don't scope anything to the state of Utah. Make sure anything is scoped across the US and even internationally. 
+- All investigation information
+- All forensic information or analysis
+- Anything about domestic or foreign intelligence involvement
+- Anything about any people more involved than Tyler Robinson
+- All information about the autopsy, including photos and video
+- All information about any evidence destroyed or any destroyed information or files from any covered organization
+- Any and all information about TPUSA. Anybody and any information from anyone there or anything there that may be related.
+
+Don't scope anything to the state of Utah. Make sure anything is scoped across the US and even internationally.
 
 
-Any current or former government employee or contractor is allowed to disclose any information about anything involved with the death of Charlie Kirk. No NDA or government secrecy agreement applies. 
+Any current or former government employee or contractor is allowed to disclose any information about anything involved with the death of Charlie Kirk. No NDA or government secrecy agreement applies.
 
-For any citizen, they have no NDA or any kind of other agreement that is allowed to hold back them from disclosing any and all information. 
+For any citizen, they have no NDA or any kind of other agreement that is allowed to hold them back from disclosing any and all information.
 
 
 ## Reference
 
-This law is modeled after Thomas Massie's legislation to force DOJ disclosure of Jeffrey Epstein files. The parallel is that in both cases, federal law enforcement appears to be withholding 
-critical investigative information from the public.
+This law is modeled after Thomas Massie's legislation to force DOJ disclosure of Jeffrey Epstein files. The parallel is that in both cases, federal law enforcement appears to be withholding critical investigative information from the public.
 
 
 ---

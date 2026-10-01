@@ -8,7 +8,7 @@ description: "Earlier draft checking Law 2, intelligence disclosure on Charlie K
 
 ## Does the Law Meet the Human Requirements?
 
-### Requirement: All US intelligence services must release information pointing to real killer
+### Requirement: All US intelligence services must release information pointing to the real killer
 **MET.** Section 1(b) defines "covered information" with 8 broad categories. Section 2(a) mandates catch-all disclosure within 30 days.
 
 ### Requirement: Broadly require any and all information about the investigation

@@ -59,7 +59,7 @@ To require the Federal Bureau of Investigation, all relevant federal and state l
 
 **Foreign Intelligence Service Involvement:**
    1. The approximately 12 Israeli-registered cell phones at UVU -- identify holders, track locations, determine purpose
- 2. Egyptian aircraft SU-BTT and SU-BND arrivals, passengers, cargo, and activities in Utah
+   2. Egyptian aircraft SU-BTT and SU-BND arrivals, passengers, cargo, and activities in Utah
    3. Egyptian military contractors with Defense Attache badges at Provo Airport -- identity, activities, connections
    4. Surveillance aircraft N1098L (HADES spy plane) -- who contracted it, who received the feed, why it was circling before the assassination
    5. Counter-UAS testing at Provo Airport in the days before the assassination

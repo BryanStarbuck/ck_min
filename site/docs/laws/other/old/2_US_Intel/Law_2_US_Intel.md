@@ -54,7 +54,7 @@ To require all United States Intelligence Community agencies to release all info
    5. All SIGINT, HUMINT, IMINT, and MASINT products related to foreign intelligence operations in the Utah area
 
 **Aircraft and Surveillance Operations (Items #1, #15, #49, #81-#86, #155-#159):**
- 1. All intelligence regarding Egyptian aircraft SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and Egyptian military aircraft T7ELL and EJM36
+   1. All intelligence regarding Egyptian aircraft SU-BTT, SU-BND, SU-BTU, SU-BTV, SU-BGM, and Egyptian military aircraft T7ELL and EJM36
    2. All intelligence regarding surveillance aircraft N1098L (HADES spy plane), including who contracted, operated, and received its surveillance feed
    3. All intelligence regarding military or civilian drones operating at or near UVU on September 10, 2025
    4. All intelligence regarding U.S. Air Force VIP transport jet 99-0404 (SAM callsign) flights September 8-9, 2025

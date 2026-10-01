@@ -233,9 +233,9 @@ No denial of a security clearance for any single Designated Trusted Investigator
    8. **Electronic Warfare:** Cell/internet jamming at UVU, drone video feeds and recipients
    9. **Tyler Robinson Defense & Family:** Tyler Robinson's family statements, the Mormon preacher and retired sheriff who turned him in, Robinson's claim of knowledge of other perpetrators
    10. **Witness Intimidation:** Fake therapy sessions threatening witnesses, systematic witness suppression
- 11. **Contracted Security Detail:** Brian Harpole's firm, its contract, staffing, and protection plan for Kirk's detail
+   11. **Contracted Security Detail:** Brian Harpole's firm, its contract, staffing, and protection plan for Kirk's detail
    12. **Medical & Hospital Records:** Hospital routing decisions, FBI blocking a surgeon, glass/plastic fragments in transport
- 13. **TPUSA Financial Irregularities or Possible Fraud:** Payments to entities alleged to be shell companies (Resource One, Clocktower LLC), post-assassination board actions and Erika Kirk's CEO appointment, examined solely to determine whether any irregularities or possible fraud may exist
+   13. **TPUSA Financial Irregularities or Possible Fraud:** Payments to entities alleged to be shell companies (Resource One, Clocktower LLC), post-assassination board actions and Erika Kirk's CEO appointment, examined solely to determine whether any irregularities or possible fraud may exist
    14. **Mosaic Pro Events:** Scheduling anomalies, Rode Wireless PRO microphone audio, Mikey McCoy's mic-up video
    15. **Pocket Object Records & Heber City Flight:** The object seen in Butch Hibbs's front pocket at the UVU event (records only; no involvement is claimed); as a separate matter, the Heber City to Nashville flight of August 25, 2025
    16. **FBI Conduct at Scene:** FBI RAV4 near Robinson, FBI direction of the re-search that located the weapon
@@ -251,10 +251,6 @@ No denial of a security clearance for any single Designated Trusted Investigator
    26. **Bilt Inc. DOD Contracts:** The approximately $8 million in DOD contracts awarded to Bilt Inc. in June 2025 by the U.S. Air Force, the identity of all persons behind the company, all government officials who authorized the payments, all invoices and deliverables, and all financial flows into and out of Bilt Inc. from six months before September 2025 through the date of enactment
 
 (b) Each investigation team shall track and report on each Schedule A item individually, documenting what was investigated, what was found, what was obstructed, and what remains unresolved.
-
-
----
-
 
 ---
 
@@ -753,7 +749,7 @@ Each item in Schedule A is individually mandated for complete disclosure. Partia
 
 ### Tyler Robinson Defense & Family (#178–#180)
 
-* #178: Tyler Robinson Family Statements: The investigation teams shall investigate and produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." The investigation teams shall investigate and produce all records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently and subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. The investigation teams shall additionally investigate and produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
+* #178: Tyler Robinson Family Statements: The investigation teams shall investigate and produce all statements by Tyler Robinson's family members — made in person, in court, or to investigators — asserting that Tyler Robinson did not commit the assassination or that he stated he "didn't do it but knows who did but won't say because it would endanger the family." The investigation teams shall investigate and produce all records regarding the rapid family cooperation in turning Tyler in, whether his roommate was placed under protection, all confessions made by Tyler Robinson, and all records regarding early FBI/ATF bulletins on "trans ideology bullets" that were subsequently retracted — including who authored those bulletins, who authorized the retraction, and why. The investigation teams shall additionally investigate and produce all records of family members' claims at the January 16th hearing and any other proceedings, and all evidence regarding whether a Mormon preacher and a retired sheriff turned him in rather than his parents.
 
 * #179: Mormon Preacher and Retired Sheriff: The investigation teams shall investigate and produce full identification and all records, communications, and interviews related to the Mormon preacher and retired sheriff who reportedly turned Tyler Robinson in. The investigation teams shall additionally investigate and produce all records relating to how they obtained information about Robinson, who directed them to contact law enforcement, and whether any federal agency or intelligence service coordinated or incentivized their actions.
 
@@ -1075,9 +1071,6 @@ This right applies to any information related to the death of Charlie Kirk and t
 (f) **Statutory Secrecy Override.** No provision of any statute — including but not limited to the Espionage Act (18 U.S.C. Sections 793-798), the Intelligence Identities Protection Act (50 U.S.C. Section 3121), the Classified Information Procedures Act, or any agency-specific secrecy statute — shall be construed to prohibit, penalize, or deter any person from disclosing covered information to any recipient listed in subsection (a). Any person who discloses covered information to a listed recipient in good faith shall be immune from criminal prosecution, civil liability, and administrative penalty under any secrecy or classification statute with respect to that disclosure. This subsection does not authorize disclosure of information unrelated to the death of Charlie Kirk or the investigation thereof.
 
 (g) **Private Sector Whistleblower Protections.** The protections of subsections (b), (c), (d), (e), and (f) shall extend to any private sector employee, contractor, subcontractor, or agent who discloses information related to the death of Charlie Kirk or the investigation thereof pursuant to this Act. No employer may terminate, demote, harass, or otherwise retaliate against any person for making disclosures under this Act. This subsection is modeled on 18 U.S.C. 1514A (Sarbanes-Oxley whistleblower provisions) and shall be construed broadly to protect all persons who provide information.
-
----
-
 
 ---
 

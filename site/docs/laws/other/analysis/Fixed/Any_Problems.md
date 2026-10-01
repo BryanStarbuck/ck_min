@@ -5,14 +5,14 @@ description: "Attorney review of the four Charlie Kirk disclosure laws: weakness
 # Problems, Vulnerabilities, and Recommended Fixes — FIXED ITEMS
 
 **Original analysis by:** Attorney review of all four laws
+
 **Date:** March 11, 2026
+
 **Status:** Items below verified as FIXED in current law files.
 
 These four bills exist because Charlie Kirk was assassinated on September 10, 2025 and the federal record of that day has not been released; the public case for forcing that release is set out under the cover-up section.
 
 ---
-
-====================
 
 ## LAW 1: The Charlie Kirk Files Forced Disclosure Act -- Law Enforcement
 
@@ -21,8 +21,6 @@ These four bills exist because Charlie Kirk was assassinated on September 10, 20
 Section 12D provides detailed technical specifications: text-searchable PDF with OCR, machine-readable index in CSV/JSON/XML, bulk download capability. Review board has authority to reject non-compliant productions and order re-production within 7 days.
 
 ---
-
-====================
 
 ## LAW 2: The Charlie Kirk Files Forced Disclosure Act -- Intelligence Services
 
@@ -50,8 +48,6 @@ Section 1(f) explicitly extends whistleblower immunity to Top Secret, SCI, and S
 
 ---
 
-====================
-
 ## LAW 3: The Charlie Kirk Mandatory Investigation Act
 
 ### 7. No Provision Preventing Agencies from Classifying Investigation Findings — FIXED
@@ -66,8 +62,6 @@ Section 4(c): entire investigation transfers (not just agency-involvement aspect
 
 ---
 
-====================
-
 ## LAW 4: The Charlie Kirk Trusted Investigators Act
 
 ### 6. No Explicit Subpoena Power for Trusted Investigators Over Private Entities — FIXED
@@ -81,8 +75,6 @@ Section 3(c) grants independent subpoena authority. Section 4(a) explicitly list
 Section 13(d): budgets administered independently of host agency. No covered agency may control, delay, or restrict expenditure of appropriated funds.
 
 ---
-
-====================
 
 ## CROSS-CUTTING PROBLEMS — FIXED Items
 

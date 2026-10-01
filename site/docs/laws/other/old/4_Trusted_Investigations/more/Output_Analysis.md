@@ -65,18 +65,22 @@ description: "Earlier draft checking Law 4, trusted investigator teams for Charl
 
 ### Problem 1: Appointments Clause Challenge
 Naming private citizens with government authority may face constitutional challenge.
+
 **Recommendation:** Structure as congressional appointees under Article I. The 9/11 Commission provides precedent for private citizens with government investigative power.
 
 ### Problem 2: Personal Security Threats
 Given the nature of this investigation, Designated Trusted Investigators face real security risks.
+
 **Mitigation:** Section 9 now provides dedicated security details and criminalizes surveillance of investigators.
 
 ### Problem 3: All Three Investigators Compromised
 No mechanism if all three are incapacitated.
+
 **Mitigation:** Section 10 provides succession mechanism. If all three are simultaneously unable to serve, congressional committees should have backup appointment authority.
 
 ### Problem 4: Coordination Between Teams
 Six independent teams may duplicate effort.
+
 **Mitigation:** Section 12 provides voluntary coordination mechanism while preserving independence. Redundancy is a feature, not a bug -- it makes suppression nearly impossible.
 
 ## Recommendations

@@ -1,8 +1,8 @@
 # Charlie Kirk Files Forced Disclosure -- Threat Analysis & Recommended Fixes for All Four Laws
 
-**Project:** Legislative drafting modeled after the Epstein Files Transparency Act (Public Law 119-38)
-**Case:** *State of Utah v. Tyler Alexander Robinson*, Case No. 251403576, Fourth Judicial District Court, Utah County
-**Author:** Bryan Starbuck
+**Project:** Legislative drafting modeled after the Epstein Files Transparency Act (Public Law 119-38)\
+**Case:** *State of Utah v. Tyler Alexander Robinson*, Case No. 251403576, Fourth Judicial District Court, Utah County\
+**Author:** Bryan Starbuck\
 **Date:** March 25, 2026
 
 ---
@@ -201,7 +201,7 @@ The core assumption: **The U.S. government is actively covering for Israel in th
 
 ### Worry L3-5: Six-Month Reporting Cadence Is Too Slow
 
-**WORRY:** Six months between public reports gives agencies time to suppress findings, pressure witnesses, and coordinate coverup narratives. By the time the public sees the first report, critical evidence may have been further destroyed.
+**WORRY:** Six months between public reports gives agencies time to suppress findings, pressure witnesses, and coordinate cover-up narratives. By the time the public sees the first report, critical evidence may have been further destroyed.
 
 **FIX:** (1) Add 90-day interim reports in addition to the 6-month comprehensive reports. (2) Require real-time public dashboards showing investigation progress on each Schedule A item. (3) Allow the oversight board to require emergency reports on critical findings. (4) The Trusted Investigators (Law 4) report every 90 days -- ensure this cadence creates public pressure on the investigation teams.
 
