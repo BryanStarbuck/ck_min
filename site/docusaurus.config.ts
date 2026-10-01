@@ -305,7 +305,7 @@ const config: Config = {
         src: "img/Header_Charlie.jpeg",
       },
       items: [
-        { to: "/Fix/overview", label: "Fix Laws", position: "left" },
+        { to: "/Fix/overview", label: "Charlie Kirk Laws", position: "left" },
         { to: "/Cause_of_Death/overview", label: "Cause of Death", position: "left" },
         { to: "/Mic/overview", label: "The Microphone", position: "left" },
         { to: "/court/overview", label: "Court & Trial", position: "left" },
