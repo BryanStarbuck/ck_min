@@ -97,3 +97,7 @@ two TOC swizzles return null and copy nothing either. Things to re-check:
     src/theme/MDXComponents.tsx        wraps the stock MDX map; registers <UvuHouseReportCta />
                                        (internals/src/components/UvuHouseReportCta) so ~50 pages
                                        can use it with no import line.
+                                       Also registers <MedicalExaminerCta /> (2026-10-13,
+                                       internals/src/components/MedicalExaminerCta): the
+                                       "Medical Examiner" button at the top of the home page,
+                                       into the 3D Body Tour at /scorecard/exhibit/body_tour.html.

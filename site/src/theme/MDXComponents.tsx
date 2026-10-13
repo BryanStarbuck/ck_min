@@ -2,8 +2,10 @@
 // ../README_THEME.md. Adds components every .mdx page can use without an import.
 import MDXComponents from '@theme-original/MDXComponents';
 import UvuHouseReportCta from '@site/internals/src/components/UvuHouseReportCta';
+import MedicalExaminerCta from '@site/internals/src/components/MedicalExaminerCta';
 
 export default {
   ...MDXComponents,
   UvuHouseReportCta,
+  MedicalExaminerCta,
 };

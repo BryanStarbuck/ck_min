@@ -1259,3 +1259,116 @@ a.ck-media-shot:focus {
   }
 }
 /* CK_CITIZEN_NOTICE_END */
+
+/* CK_ME_CTA_START
+   "Medical Examiner" button at the top of the home page
+   (internals/src/components/MedicalExaminerCta). Opens the 3D Body Tour,
+   /scorecard/exhibit/body_tour.html. The button carries its own dark
+   background, so it reads the same in light and dark mode. */
+.ck-me-cta {
+  clear: both;
+  margin: 0.6rem 0 1.6rem;
+}
+
+.ck-me-cta a.ck-me-cta__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.9rem;
+  max-width: 100%;
+  padding: 0.7rem 1.3rem 0.7rem 0.8rem;
+  border: 2px solid #fb5607;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #15161b 0%, #2a1010 60%, #5a0d0d 100%);
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35), 0 0 0 0 rgba(251, 86, 7, 0.55);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.ck-me-cta a.ck-me-cta__btn:hover,
+.ck-me-cta a.ck-me-cta__btn:focus-visible {
+  color: #fff;
+  text-decoration: none;
+  border-color: #ffb703;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4), 0 0 18px 2px rgba(251, 86, 7, 0.55);
+}
+
+.ck-me-cta a.ck-me-cta__btn:focus-visible {
+  outline: 3px solid #ffb703;
+  outline-offset: 3px;
+}
+
+.ck-me-cta__icon {
+  flex: none;
+  width: 3.4rem;
+  height: 3.4rem;
+  filter: drop-shadow(0 0 6px rgba(251, 86, 7, 0.6));
+}
+
+.ck-me-cta__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.ck-me-cta__label {
+  font-size: 1.45rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: 0.01em;
+}
+
+.ck-me-cta__sub {
+  margin-top: 0.2rem;
+  font-size: 0.92rem;
+  line-height: 1.35;
+  color: #ffd9b8;
+}
+
+.ck-me-cta__arrow {
+  flex: none;
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #ffb703;
+  transition: transform 0.15s ease;
+}
+
+.ck-me-cta a.ck-me-cta__btn:hover .ck-me-cta__arrow,
+.ck-me-cta a.ck-me-cta__btn:focus-visible .ck-me-cta__arrow {
+  transform: translateX(3px);
+}
+
+@media (max-width: 480px) {
+  .ck-me-cta a.ck-me-cta__btn {
+    display: flex;
+    gap: 0.7rem;
+  }
+
+  .ck-me-cta__icon {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+
+  .ck-me-cta__label {
+    font-size: 1.25rem;
+  }
+}
+/* CK_ME_CTA_END */
+
+/* CK_NAVBAR_FIT_START
+   Between the hamburger breakpoint (996px) and ~1320px the six top-bar links
+   do not fit beside the site title, and each link's label wrapped onto two
+   lines. Keep every label on one line and tighten the item padding; the site
+   title gives up the room instead (it already truncates with an ellipsis). */
+@media (min-width: 997px) and (max-width: 1320px) {
+  .navbar__items .navbar__link {
+    white-space: nowrap;
+  }
+
+  .navbar__items .navbar__item {
+    padding-left: 0.55rem;
+    padding-right: 0.55rem;
+  }
+}
+/* CK_NAVBAR_FIT_END */

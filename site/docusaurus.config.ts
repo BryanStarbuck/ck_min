@@ -290,6 +290,17 @@ const config: Config = {
       items: [
         { to: "/Fix/overview", label: "Charlie Kirk Laws", position: "left" },
         { to: "/Cause_of_Death/overview", label: "Cause of Death", position: "left" },
+        // The 3D Body Tour is static HTML (internals/static/scorecard/exhibit/), not a
+        // Docusaurus route. "pathname://" makes the navbar render a plain <a> (a real
+        // page load) instead of a React Router push, which would show the 404 page.
+        // `html` instead of `label` avoids the external-link icon; `target: "_self"`
+        // keeps it in the same tab.
+        {
+          href: "pathname:///scorecard/exhibit/body_tour.html",
+          html: "Medical Examiner",
+          target: "_self",
+          position: "left",
+        },
         { to: "/Mic/overview", label: "The Microphone", position: "left" },
         { to: "/court/overview", label: "Court & Trial", position: "left" },
         { to: "/Your_Actions_Fix_It/overview", label: "Your Actions Fix It", position: "left" },
