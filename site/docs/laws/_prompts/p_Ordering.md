@@ -1,4 +1,3 @@
- 
 ROOT_DIR dir is ~/BGit/Bryan_git/Charlie_Kirk_175_Critical_To_Expose
 
 Under {ROOT_DIR} dir are 4 directories, which map to the 4 laws we want to pass:
@@ -7,12 +6,10 @@ Under {ROOT_DIR} dir are 4 directories, which map to the 4 laws we want to pass:
         3_Require_to_Investigate
         4_Trusted_Investigations
 
-
 ORIGINAL_175_FILE is file {ROOT_DIR}/original/README.md
 
 INPUT_INVESTIGATION_FILE is file ~/BGit/all/politics/charlie_kirk/Charlie_Kirk.txt
-  (Real file. Moved 2026-09-19. ~/BGit/Bryan_git/charlie-kirk/Charlie_Kirk.txt is now a symlink to it —
-   use that only to verify the location; always read and write the real path.)
+  (Real file; ~/BGit/Bryan_git/charlie-kirk/Charlie_Kirk.txt is a symlink to it. READ-ONLY.)
 
 INPUT_GOALS_FILE is file {ROOT_DIR}/other/List_Of_Laws.md
 
@@ -41,6 +38,5 @@ For each law, arrange the sections in this order:
 ## Why This Order
 
 Non-lawyers and non-politicians need to read the document and understand what is being accomplished from a political goal and a justice goal before hitting dense legal language. The list is the substance -- it shows what the law forces into the open. The legal reinforcement sections support that list but should not bury it.
-
 
 Make sure the claude agent saved out the outputs to the correct one (or more) output files.
