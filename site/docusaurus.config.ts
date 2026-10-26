@@ -94,6 +94,24 @@ const config: Config = {
         content: "max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
     },
+    // Home-screen / share tile for iOS: 180x180 square crop of the navbar logo
+    // (img/Header_Charlie.jpeg).
+    {
+      tagName: "link",
+      attributes: {
+        rel: "apple-touch-icon",
+        href: `${baseUrl}img/apple-touch-icon.png`,
+      },
+    },
+    // GitHub Pages cannot send a Referrer-Policy header; the meta tag is the
+    // in-page equivalent (other security headers need a CDN in front).
+    {
+      tagName: "meta",
+      attributes: {
+        name: "referrer",
+        content: "strict-origin-when-cross-origin",
+      },
+    },
     {
       tagName: "meta",
       attributes: {
