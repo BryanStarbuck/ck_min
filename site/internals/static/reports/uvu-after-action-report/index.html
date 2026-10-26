@@ -23,7 +23,7 @@ a{color:inherit}
 /* ---------- top toolbar ---------- */
 .bar{position:fixed;inset:0 0 auto 0;height:52px;z-index:20;display:flex;align-items:center;gap:10px;
   padding:0 12px;background:var(--bar);border-bottom:1px solid #000;box-shadow:0 2px 8px rgba(0,0,0,.35)}
-.bar .ttl{font-weight:600;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:1}
+.bar .ttl{margin:0;font-weight:600;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:1}
 .bar .ttl small{color:var(--muted);font-weight:400;margin-left:6px}
 .btn{appearance:none;border:1px solid #444b52;background:var(--bar-2);color:var(--ink);height:32px;min-width:32px;
   padding:0 10px;border-radius:6px;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:6px;
@@ -88,7 +88,7 @@ body.noside main{padding-left:16px}
 <header class="bar">
   <button class="btn" id="tgl" title="Show or hide the outline" aria-label="Toggle outline">☰</button>
   <a class="btn hide-xs" href="/UVU/After_Action_Report" title="Back to the site page">← Site</a>
-  <div class="ttl">After-Action Report for Utah Valley University<small>September 10, 2025 · 158 pages</small></div>
+  <h1 class="ttl">After-Action Report for Utah Valley University<small>September 10, 2025 · 158 pages</small></h1>
   <div class="pg"><input id="pgin" type="text" inputmode="numeric" value="1" aria-label="PDF page number"><span>/ 158</span></div>
   <div class="grp hide-sm">
     <button class="btn" id="zo" title="Zoom out" aria-label="Zoom out">−</button>
