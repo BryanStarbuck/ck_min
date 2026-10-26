@@ -195,7 +195,9 @@ const config: Config = {
           // and the generated edit URL is appended with the relative path of
           // each source file. Without /edit/main/site/ every page emitted a
           // github.com 404 link that GSC was reporting as a broken outbound.
-          editUrl: "https://github.com/ACT3ai/charlie-kirk/edit/main/site/",
+          // Points at the PUBLIC repo GitHub Pages builds from (BryanStarbuck/ck_min);
+          // the old ACT3ai/charlie-kirk repo is private and answered 404 to everyone.
+          editUrl: "https://github.com/BryanStarbuck/ck_min/edit/main/site/",
           showLastUpdateTime: true,
           exclude: [
             "**/_*.{js,jsx,ts,tsx,md,mdx}",
@@ -340,7 +342,7 @@ const config: Config = {
         {
           title: "About",
           items: [
-            { label: "Report a Correction", href: "https://github.com/ACT3ai/charlie-kirk/issues" },
+            { label: "Report a Correction", href: "https://github.com/BryanStarbuck/ck_min/issues" },
           ],
         },
       ],
