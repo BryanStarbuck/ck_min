@@ -18,6 +18,13 @@ import OriginalMetadata from "@theme-original/DocItem/Metadata";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import { useDoc } from "@docusaurus/plugin-content-docs/client";
 
+// Generated photo pages of a law that was set aside ("disabled"): leftovers,
+// 166-238 words each. Kept published so links into them still work, but
+// noindex so search engines drop them (SEO problem
+// fix_laws_disabled_photo_pages_public, 2026-10-26). Also excluded from the
+// sitemap in docusaurus.config.ts. Files and images are kept.
+const NOINDEX_PATHS = [/^\/Photos\/Fix_Laws\/disabled(\/|$)/];
+
 export default function DocItemMetadata(): React.ReactElement {
   const { metadata, frontMatter, assets } = useDoc();
   const { siteConfig } = useDocusaurusContext();
@@ -58,6 +65,9 @@ export default function DocItemMetadata(): React.ReactElement {
       <OriginalMetadata />
       <Head>
         <script type="application/ld+json">{JSON.stringify(node)}</script>
+        {NOINDEX_PATHS.some((re) => re.test(metadata.permalink)) ? (
+          <meta name="robots" content="noindex, follow" />
+        ) : null}
       </Head>
     </>
   );
