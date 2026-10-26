@@ -13,6 +13,7 @@ directory back under `internals/`.
     src/theme/DocItem/TOC/Desktop/     the "On this page" TOC, desktop — renders null
     src/theme/DocItem/TOC/Mobile/      the "On this page" TOC, mobile  — renders null
     src/theme/DocItem/Metadata/        wraps stock metadata; adds per-page Article/WebPage JSON-LD
+    src/theme/ThemeProvider/TitleFormatter/  drops the " | site name" suffix when the title would pass 60 chars
 
 `Root` is the Docusaurus wrapper that sits at the very top of the app, applied
 constantly and independent of the current route. Declaring the rail there is
