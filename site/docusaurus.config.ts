@@ -1,6 +1,8 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import fs from "node:fs";
+import path from "node:path";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -12,6 +14,23 @@ const siteTagline = "Investigating the September 10, 2025 assassination at Utah 
 const siteDescription =
   "Citizen-led investigation into the September 10, 2025 assassination of Charlie Kirk at Utah Valley University: evidence, timelines, suspects, intelligence-service connections, and proposed legal reforms.";
 const socialCard = "img/docusaurus-social-card.jpg";
+
+// Hand-written HTML pages under internals/static that the docs sitemap never
+// sees: every scorecard/exhibit/*.html page (the navbar's "Medical Examiner"
+// Body Tour and its body-part pages, read from disk so a new exhibit page is
+// listed automatically) and the UVU After-Action Report reader. Each URL is
+// the page's own rel=canonical.
+const staticSitemapPaths = (): string[] => {
+  const exhibitDir = path.join(__dirname, "internals/static/scorecard/exhibit");
+  const exhibits = fs.existsSync(exhibitDir)
+    ? fs
+        .readdirSync(exhibitDir)
+        .filter((f) => f.endsWith(".html"))
+        .sort()
+        .map((f) => `/scorecard/exhibit/${f}`)
+    : [];
+  return [...exhibits, "/reports/uvu-after-action-report/"];
+};
 
 const config: Config = {
   title: siteTitle,
@@ -273,12 +292,18 @@ const config: Config = {
             const { defaultCreateSitemapItems, ...rest } = params;
             const items = await defaultCreateSitemapItems(rest);
             const itemUrls = new Set(items.map((item) => item.url));
-            return items.filter((item) => {
+            const docItems = items.filter((item) => {
               // If path + "/overview" is itself a sitemap URL, this item is a
               // redirect stub (parent directory), not real content — exclude it.
               const candidateOverview = item.url.replace(/\/?$/, "/overview");
               return !itemUrls.has(candidateOverview);
             });
+            // Append the static exhibit and report pages (see staticSitemapPaths).
+            const staticItems = staticSitemapPaths()
+              .map((p) => `${siteUrl}${p}`)
+              .filter((url) => !itemUrls.has(url))
+              .map((url) => ({ url, lastmod: null, changefreq: null, priority: null }));
+            return [...docItems, ...staticItems];
           },
           filename: "sitemap.xml",
         },
