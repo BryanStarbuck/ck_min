@@ -1,3 +1,7 @@
+---
+description: "Threat analysis of how the four proposed Charlie Kirk Files Forced Disclosure laws could be evaded to avoid full disclosure, with recommended fixes."
+---
+
 # Charlie Kirk Files Forced Disclosure -- Threat Analysis & Recommended Fixes for All Four Laws
 
 **Project:** Legislative drafting modeled after the Epstein Files Transparency Act (Public Law 119-38)\

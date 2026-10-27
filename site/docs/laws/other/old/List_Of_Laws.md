@@ -1,4 +1,5 @@
 ---
+description: "Earlier draft: summary of four proposed federal laws, the Charlie Kirk Files Forced Disclosure Acts, modeled after the Epstein Files Transparency Act."
 title: "Charlie Kirk Files Forced Disclosure -- Summary of Four Proposed Federal Laws (Earlier Draft)"
 sidebar_label: "Charlie Kirk Files Forced Disclosure -- Summary of Four Proposed Federal Laws"
 ---
