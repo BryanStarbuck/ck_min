@@ -228,13 +228,9 @@ const config: Config = {
         docs: {
           routeBasePath: "/",
           sidebarPath: "./sidebars.ts",
-          // Path to the source file inside the repo. Docs live in site/docs,
-          // and the generated edit URL is appended with the relative path of
-          // each source file. Without /edit/main/site/ every page emitted a
-          // github.com 404 link that GSC was reporting as a broken outbound.
-          // Points at the PUBLIC repo GitHub Pages builds from (BryanStarbuck/ck_min);
-          // the old ACT3ai/charlie-kirk repo is private and answered 404 to everyone.
-          editUrl: "https://github.com/BryanStarbuck/ck_min/edit/main/site/",
+          // No editUrl, on purpose: the public site never links to or names a
+          // source repository (Bryan, 2026-10-26). Corrections go to the email
+          // the notice rail already publishes (footer "Report a Correction").
           showLastUpdateTime: true,
           exclude: [
             "**/_*.{js,jsx,ts,tsx,md,mdx}",
@@ -388,7 +384,7 @@ const config: Config = {
         {
           title: "About",
           items: [
-            { label: "Report a Correction", href: "https://github.com/BryanStarbuck/ck_min/issues" },
+            { label: "Report a Correction", href: "mailto:HolonCitizen@gmail.com?subject=Correction%20to%20whoassassinatedcharliekirk.com" },
           ],
         },
       ],
