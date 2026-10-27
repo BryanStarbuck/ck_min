@@ -113,6 +113,23 @@ const config: Config = {
         content: "max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       },
     },
+    // Trailing-slash rescue. With trailingSlash: false every page is x.html, and
+    // GitHub Pages answers /x/ with 404.html (it cannot redirect). Docusaurus
+    // pages only ever run this head script at a "/"-ending path when Pages served
+    // its 404 page (the client-redirect stubs at /Dir/ are bare HTML without
+    // headTags). So: on such a path, HEAD the slash-less URL and, if it answers
+    // 200 without a redirect, replace the location. Visitors on old /x/ links
+    // land on the page; crawlers still see the 404 status.
+    {
+      tagName: "script",
+      attributes: {},
+      innerHTML:
+        '(function(){try{var p=location.pathname;if(p.length<2||p.charAt(p.length-1)!=="/")return;' +
+        'var t=p.replace(/\\/+$/,"");if(!t)return;' +
+        'fetch(t,{method:"HEAD",redirect:"manual"}).then(function(r){' +
+        'if(r.ok&&r.type!=="opaqueredirect"){location.replace(t+location.search+location.hash);}' +
+        '}).catch(function(){});}catch(e){}})();',
+    },
     // Home-screen / share tile for iOS: 180x180 square crop of the navbar logo
     // (img/Header_Charlie.jpeg).
     {
