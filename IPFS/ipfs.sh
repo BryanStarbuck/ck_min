@@ -24,3 +24,7 @@ ipfs pin add QmP2eKb15evsp4wWAJZaLXxq8wtXrLNEvoRSTzvm3sWYBc
 # 2045200557531435037.mp4 — @RealCandaceO · 2026-04-17
 # Candace Owens explains Tyler Robinson hearing; demands FBI release discovery documents
 ipfs pin add QmeC1zcPBzgp9REfTbH7Hz1kyoL6P2kyQcYxoYTbMbLvGq
+
+# proj_constitu_intervie_Compression.mp4 — Charlie Kirk Laws / project constitution interview (~390 MB)
+# Embedded on site/docs/Fix/overview.mdx
+ipfs pin add QmYBG4kmkSCms9X523ZuXAEPNUq2Su7NSSzWtUQeGGZhKW
